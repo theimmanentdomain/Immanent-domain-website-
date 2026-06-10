@@ -5,40 +5,44 @@ export default function AboutPage() {
 
       <div className="prose-block">
         <p>
-          Immanent Domain is an independent magazine of culture, criticism, and
-          ideas. We publish writing that does not fit comfortably elsewhere —
-          work that is rigorous without being academic, accessible without being
-          easy, specific without being narrow.
+          Immanent Domain is an editorial and production entity based in New York.
         </p>
 
         <p>
-          The name comes from a question about what is already here: the forces,
-          structures, and atmospheres that act on us before we have chosen them.
-          We are interested in the immanent — in what is present and operative
-          in a given world — rather than the transcendent. We believe the close
-          examination of particular things reveals general truths more honestly
-          than general claims about particular things.
+          It collects scenes, makes records, stages events, publishes fragments,
+          and preserves the intelligence of rooms before the official account arrives.
+        </p>
+
+        <p>
+          Its work moves through magazine publishing, performance, interviews,
+          documentary fragments, cultural criticism, and practical coordination.
         </p>
 
         <hr />
 
         <p>
-          <span className="section-label">Editorial</span>
-          Immanent Domain is edited by a small group. We do not list mastheads
-          on the website. Contributors and editors are credited in each issue.
+          The house is not neutral.<br />
+          It is attentive.
+        </p>
+
+        <hr />
+
+        <p>
+          <span className="section-label">The Magazine</span>
+          <em>The Scene Made Me Do It</em> is the first publication of Immanent Domain.
+          It gathers essays, scene reports, interviews, fragments, performance documents,
+          and other records of cultural life as it actually occurs.
         </p>
 
         <p>
-          <span className="section-label">Publishing</span>
-          We publish online, with print editions of select issues. Our publishing
-          schedule is governed by the work, not a calendar. We release issues
-          when they are ready.
+          <span className="section-label">Events</span>
+          Immanent Domain produces performances, readings, and public programs.
+          Announcements are made through the magazine and direct contact.
         </p>
 
         <p>
-          <span className="section-label">Independence</span>
-          Immanent Domain accepts no advertising. We are funded by readers and
-          by the occasional grant. We have no institutional affiliation.
+          <span className="section-label">Contact</span>
+          theimmanentdomain@gmail.com
         </p>
       </div>
     </div>
