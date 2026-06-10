@@ -1,6 +1,7 @@
-@import "tailwindcss";
+@import "tailwindcss/preflight" layer(base);
 
 :root {
+  color-scheme: dark;
   --bg: #000000;
   --fg: #f0ede8;
   --fg-dim: #999999;
@@ -238,11 +239,11 @@ p:last-child {
 }
 
 .article-body p:first-child::first-letter {
-  font-size: 3.2rem;
-  line-height: 0.8;
+  font-size: 3.5rem;
+  line-height: 1;
   float: left;
-  margin-right: 0.08em;
-  margin-top: 0.12em;
+  margin-right: 0.06em;
+  margin-top: 0.05em;
 }
 
 .prose-block {
@@ -272,5 +273,9 @@ p:last-child {
 
   .article-list__item {
     grid-template-columns: 1fr;
+  }
+
+  .article-list__type {
+    display: none;
   }
 }
