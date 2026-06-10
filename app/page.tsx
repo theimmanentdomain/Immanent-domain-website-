@@ -6,20 +6,24 @@ export default function Home() {
       <div className="masthead">
         <h1 className="masthead__title">Immanent Domain</h1>
         <div className="masthead__rule" />
-        <p className="masthead__sub">An independent magazine of culture, criticism, and ideas</p>
+        <p className="masthead__sub">New York</p>
       </div>
 
       <hr />
 
       <div className="prose-block" style={{ margin: "0 auto", textAlign: "center", maxWidth: "560px" }}>
         <p>
-          Immanent Domain is a journal for writing that refuses easy categories.
-          We publish criticism, essays, fiction, and reported work on culture,
-          politics, and the texture of lived experience.
+          Immanent Domain is a cultural house for artists, neighbors,
+          operators, and witnesses.
         </p>
         <p>
-          Our first issue,{" "}
-          <em>The Scene Made Me Do It</em>, is available now.
+          The magazine is <em>The Scene Made Me Do It</em>. The first issue
+          gathers essays, interviews, fragments, reports, and alibis from the
+          rooms where culture still happens before it becomes content.
+        </p>
+        <p>
+          This is not a platform.<br />
+          This is headquarters.
         </p>
         <p>
           <Link href="/magazine">Read Issue One &rarr;</Link>

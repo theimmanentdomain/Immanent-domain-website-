@@ -20,39 +20,47 @@ export const issues: Issue[] = [
     slug: "issue-one",
     title: "The Scene Made Me Do It",
     description:
-      "On influence, atmosphere, and the forces that shape what we make and who we become. Twelve writers on the scenes that formed them — and the ones they could not escape.",
+      "A first record of scenes, alibis, transmissions, refusals, performances, parties, arguments, rooms, street-level myths, and moments that made people act.",
     articles: [
       {
-        slug: "the-room-where-it-happened",
-        title: "The Room Where It Happened",
-        contributor: "A. L. Voss",
+        slug: "the-scene-made-me-do-it",
+        title: "The Scene Made Me Do It",
+        contributor: "Immanent Domain",
+        type: "Editorial",
+        excerpt:
+          "A note on scenes, alibis, cultural weather, and the problem of pretending the room had nothing to do with it.",
+      },
+      {
+        slug: "no-jake-its-chinatown",
+        title: "No Jake, It’s Chinatown",
+        contributor: "Staff",
         type: "Essay",
         excerpt:
-          "Every scene has a founding myth. Ours was a basement in the wrong part of a city that no longer exists in its original form.",
+          "On fatalism, urban myth, bad explanations, and the pleasure of blaming the structure after the act.",
       },
       {
-        slug: "borrowed-atmospheres",
-        title: "Borrowed Atmospheres",
-        contributor: "Cleo Maret",
-        type: "Criticism",
+        slug: "i-blame-it-on-dowtoj",
+        title: "I Blame It on Dowtoj",
+        contributor: "Staff",
+        type: "Fragment",
         excerpt:
-          "What does it mean to be formed by something you arrived at too late? The retrospective scene-joiner is a figure criticism has not yet fully named.",
+          "A small record of influence, misdirection, friendship, atmosphere, and the names we give to causes after the fact.",
       },
       {
-        slug: "everything-was-underground",
-        title: "Everything Was Underground",
-        contributor: "D. Farrow",
-        type: "Reported",
+        slug: "the-moment-is-yours",
+        title: "The Moment Is Yours",
+        contributor: "Immanent Domain",
+        type: "Event",
         excerpt:
-          "Three years covering a music scene that refused to be written about, and what that refusal said about the culture it was protecting.",
+          "A performance format concerning attention, hypnosis, timing, and the strange authority of the present tense.",
       },
       {
-        slug: "the-aesthetics-of-belonging",
-        title: "The Aesthetics of Belonging",
-        contributor: "Simone Achebe",
-        type: "Essay",
+        slug: "your-ulterior-motives",
+        title: "Your Ulterior Motives",
+        contributor: "Immanent Domain",
+        type: "Dispatch",
         excerpt:
-          "Style is not vanity. For certain communities, the right coat, the right posture, the right silence, constitutes a form of argument.",
+          "Notes toward an honest public record of hidden reasons, visible behavior, and the social uses of confession.",
       },
     ],
   },

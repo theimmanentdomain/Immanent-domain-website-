@@ -5,23 +5,37 @@ export default function ContactPage() {
 
       <div className="prose-block">
         <p>
-          For general inquiries, correspondence, and press:{" "}
-          <a href="mailto:hello@immanentdomain.com">hello@immanentdomain.com</a>
+          <a href="mailto:theimmanentdomain@gmail.com">
+            theimmanentdomain@gmail.com
+          </a>
+        </p>
+
+        <hr />
+
+        <p>
+          <span className="section-label">Submissions</span>
+          Subject line:{" "}
+          <a href="mailto:theimmanentdomain@gmail.com?subject=SUBMISSION - The Scene Made Me Do It">
+            SUBMISSION — The Scene Made Me Do It
+          </a>
+          <br />
+          See the{" "}
+          <a href="/submissions">submissions page</a>{" "}
+          before writing.
         </p>
 
         <p>
-          For submissions:{" "}
-          <a href="mailto:submissions@immanentdomain.com">
-            submissions@immanentdomain.com
+          <span className="section-label">General</span>
+          Subject line:{" "}
+          <a href="mailto:theimmanentdomain@gmail.com?subject=IMMANENT DOMAIN">
+            IMMANENT DOMAIN
           </a>
-          . Please review the{" "}
-          <a href="/submissions">submissions guidelines</a> before writing.
         </p>
 
         <hr />
 
         <p style={{ color: "var(--fg-dim)", fontSize: "0.9rem" }}>
-          We read all correspondence. We cannot guarantee individual replies.
+          We read everything. We cannot guarantee a reply to every message.
         </p>
       </div>
     </div>
