@@ -30,9 +30,9 @@ export default function SubmissionsPage() {
 
         <p>
           <span className="section-label">What we accept</span>
-          Essays — Scene reports — Interviews — Reviews — Fragments —
-          Photo essays — Performance documents — Confessions — Alibis —
-          Arguments — Marginalia
+          Essays — Scene reports — Interviews — Reviews — Critique —
+          Fragments — Photo essays — Performance documents — Confessions —
+          Alibis — Arguments — Marginalia
         </p>
 
         <hr />

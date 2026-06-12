@@ -25,6 +25,22 @@ export default function ContactPage() {
         </p>
 
         <p>
+          <span className="section-label">Project Inquiry</span>
+          Subject line:{" "}
+          <a href="mailto:theimmanentdomain@gmail.com?subject=PROJECT INQUIRY">
+            PROJECT INQUIRY
+          </a>
+        </p>
+
+        <p>
+          <span className="section-label">Event Inquiry</span>
+          Subject line:{" "}
+          <a href="mailto:theimmanentdomain@gmail.com?subject=EVENT INQUIRY">
+            EVENT INQUIRY
+          </a>
+        </p>
+
+        <p>
           <span className="section-label">General</span>
           Subject line:{" "}
           <a href="mailto:theimmanentdomain@gmail.com?subject=IMMANENT DOMAIN">
