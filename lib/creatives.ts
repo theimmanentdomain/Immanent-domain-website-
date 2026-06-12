@@ -12,7 +12,7 @@ export const creatives: Creative[] = [
     slug: "immanent-domain",
     name: "Immanent Domain",
     role: "Editorial and Production",
-    bio: "Immanent Domain is an editorial and production entity based in New York. It publishes the magazine The Scene Made Me Do It and produces performances, films, and public programs.",
+    bio: "Immanent Domain is an intermedia institution based in New York. It publishes the magazine The Scene Made Me Do It and produces performances, films, and public programs. Writing, image, sound, performance, design, publication, and atmosphere enter into one living corpus.",
     relatedProjects: [
       "your-ulterior-motives",
       "the-moment-is-yours",

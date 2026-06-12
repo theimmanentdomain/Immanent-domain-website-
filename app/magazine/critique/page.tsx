@@ -5,15 +5,24 @@ export default function CritiquePage() {
 
       <div className="prose-block" style={{ marginBottom: "3rem" }}>
         <p>
-          Critique is a first-class category at Immanent Domain. It is not review in the
-          consumer sense — not a guide to what to see or skip. It is close reading of work
-          in the world: performance, film, text, image, event. The standard is precision,
-          consequence, and the capacity to say something true about what the work is doing.
+          Critique is a first-class category at Immanent Domain. It is close
+          reading of work in the world: performance, film, text, image, event.
+          The standard is precision, consequence, and the capacity to say
+          something true about what the work is doing.
         </p>
         <p>
-          Criticism that earns its place changes how the reader sees the work. It is an act
-          of transmission in its own right — a secondary artifact that, at its best, does to
-          the reader what the original work did, or reveals why it failed to.
+          Through rigorous critique, Immanent Domain tests whether a work
+          possesses spirit, craft, transmission, coherence, consequence, and
+          contribution. It reads works as dialectical counterpoint to one
+          another. It asks what each piece adds, clarifies, intensifies, or
+          corrects.
+        </p>
+        <p>
+          In this framework, intention holds limited authority. Intention
+          changes. The impact of a completed work stabilizes once it enters the
+          world. The task of criticism is to identify whether contact has
+          occurred and whether the work opens onto essence rather than merely
+          presenting surface.
         </p>
         <p>
           Critique pieces are published in the magazine and archived here.

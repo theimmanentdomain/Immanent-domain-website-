@@ -16,7 +16,7 @@ export const events: Event[] = [
     status: "upcoming",
     statusLabel: "Upcoming",
     description:
-      "An Immanent Domain performance project concerning attention, timing, hypnosis, presence, and the strange authority of the present tense.",
+      "An Immanent Domain performance project concerning attention, timing, hypnosis, and the strange authority of the present tense.",
     note: "Details forthcoming.",
   },
   {

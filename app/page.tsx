@@ -13,17 +13,19 @@ export default function Home() {
 
       <div className="prose-block" style={{ margin: "0 auto", textAlign: "center", maxWidth: "560px" }}>
         <p>
-          Immanent Domain is a cultural house for artists, neighbors,
-          operators, and witnesses.
+          Immanent Domain is an intermedia institution oriented toward a single
+          task: to provide a response to the grand depressive miasma of the
+          present.
         </p>
         <p>
-          The magazine is <em>The Scene Made Me Do It</em>. The first issue
-          gathers essays, interviews, fragments, reports, and alibis from the
-          rooms where culture still happens before it becomes content.
+          It produces the magazine <em>The Scene Made Me Do It</em>, along with
+          performances, films, and public programs. Writing, image, sound,
+          performance, design, publication, and atmosphere enter into one living
+          corpus.
         </p>
         <p>
-          This is not a platform.<br />
-          This is headquarters.
+          The Immanent Domain enforces itself through force majeure: through
+          atmosphere, symbol, event, attention, and felt inevitability.
         </p>
         <p>
           <Link href="/magazine">Read Issue One &rarr;</Link>
