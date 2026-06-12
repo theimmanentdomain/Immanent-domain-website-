@@ -45,6 +45,34 @@ export default function AboutPage() {
           theimmanentdomain@gmail.com
         </p>
       </div>
+
+      <hr />
+
+      <div className="prose-block">
+        <p>
+          <span className="section-label">Form</span>
+          Immanent Domain functions as a hybrid of three forms: a brokerage, an agency, and a church.
+        </p>
+        <p>
+          As a brokerage, it creates strategic connections — between artists and institutions,
+          between projects and resources, between people who need to find each other and do not
+          yet know it.
+        </p>
+        <p>
+          As an agency, it deploys creatives for specific tasks and productions. It identifies
+          what work needs doing, assembles the people capable of doing it, and moves projects
+          from concept to execution.
+        </p>
+        <p>
+          As a church, it treats art as sacrament and culture as serious work. It holds the
+          code, transmits the values, and maintains the standard. The sacramental dimension
+          of art — its capacity to connect the maker and the receiver to something larger than
+          either — is not treated here as metaphor. It is treated as the central fact.
+        </p>
+        <p>
+          These three forms operate simultaneously.
+        </p>
+      </div>
     </div>
   );
 }

@@ -6,6 +6,13 @@ export default function MagazinePage() {
     <div className="page-body">
       <h1 className="page-title">Magazine</h1>
 
+      <div style={{ marginBottom: "2.5rem" }}>
+        <span className="section-label">Categories</span>
+        <p style={{ marginTop: "0.25rem" }}>
+          <Link href="/magazine/critique">Critique &rarr;</Link>
+        </p>
+      </div>
+
       {issues.map((issue) => (
         <div key={issue.slug} className="issue-block">
           <p className="issue-number">{issue.number}</p>
