@@ -49,6 +49,7 @@ a:hover { color: var(--fg-dim); }
 .site-nav a:hover, .site-nav a.active { color: var(--fg); }
 
 .masthead { text-align: center; padding: var(--space-xxl) 0 var(--space-xl); }
+.masthead__logo { display: block; margin: 0 auto var(--space-lg); filter: invert(0); }
 .masthead__title { font-size: var(--text-hero); letter-spacing: 0.08em; text-transform: uppercase; font-weight: normal; line-height: 1; }
 .masthead__sub { margin-top: var(--space-md); font-size: var(--text-sm); letter-spacing: 0.18em; text-transform: uppercase; color: var(--fg-dim); }
 .masthead__rule { width: 40px; border-top: 1px solid var(--fg-muted); margin: var(--space-lg) auto; }

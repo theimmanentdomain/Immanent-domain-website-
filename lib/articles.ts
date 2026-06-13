@@ -109,6 +109,24 @@ export const articles: ArticleContent[] = [
     geometry: "void",
     tags: ["map", "kabbalah", "chinatown", "false neighborhoods"],
   },
+  {
+    issueSlug: "forget-it-jake-issue-one",
+    slug: "i-blame-it-on-downtown",
+    title: "I Blame It on Downtown",
+    subtitle: "A field report on scene as alibi.",
+    contributor: "Staff",
+    category: "Downtown Anthropology",
+    excerpt: "Downtown is a direction and a diagnosis. It names where things happened and explains why they happened, which is more than a neighborhood can usually do.",
+    body: [
+      "Downtown is a direction and a diagnosis. It names where things happened and explains why they happened, which is more than a neighborhood can usually do. The scene became the explanation for the scene. The explanation became the credential.",
+      "When something goes wrong in the work, there is always an environmental cause available. The rent was too high. The money ran out. The wrong people arrived. The right people left. Downtown happened to it.",
+      "This is accurate. It is also an alibi. The alibi has the convenient property of being irrefutable. You cannot cross-examine a neighborhood.",
+    ],
+    sephirah: "Hod",
+    chakra: "Throat",
+    geometry: "octagon",
+    tags: ["downtown", "scene", "alibi", "anthropology"],
+  },
 ];
 
 export function getArticle(issueSlug: string, slug: string): ArticleContent | undefined {

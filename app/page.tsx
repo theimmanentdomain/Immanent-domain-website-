@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import ClueText from "@/components/ClueText";
 
@@ -11,7 +12,15 @@ export default function Home() {
   return (
     <>
       <div className="masthead">
-        <h1 className="masthead__title">Immanent Domain</h1>
+        <Image
+          src="/imdo-logo.jpg"
+          alt="The Immanent Domain"
+          width={110}
+          height={110}
+          className="masthead__logo"
+          priority
+        />
+        <h1 className="masthead__title">The Immanent Domain</h1>
         <div className="masthead__rule" />
         <p className="masthead__sub">A bastion for pirate artists in the Art War.</p>
       </div>
