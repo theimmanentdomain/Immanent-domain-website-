@@ -32,6 +32,7 @@ export const issues: Issue[] = [
       { slug: "the-conversation-is-the-medium", title: "The Conversation Is the Medium", contributor: "Staff", category: "Conversation" },
       { slug: "forget-it-jake-its-a-feedback-loop", title: "Forget It, Jake, It's a Feedback Loop", contributor: "Staff", category: "Noir Documents" },
       { slug: "notes-toward-a-chinatown-of-the-mind", title: "Notes Toward a Chinatown of the Mind", contributor: "Staff", category: "False Neighborhoods" },
+      { slug: "i-blame-it-on-downtown", title: "I Blame It on Downtown", contributor: "Staff", category: "Downtown Anthropology" },
     ],
   },
 ];

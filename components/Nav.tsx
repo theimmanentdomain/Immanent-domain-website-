@@ -1,10 +1,10 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const links = [
-  { href: "/", label: "Home" },
   { href: "/magazine", label: "Magazine" },
   { href: "/map", label: "Map" },
   { href: "/projects", label: "Projects" },
@@ -18,6 +18,9 @@ export default function Nav() {
   const pathname = usePathname();
   return (
     <nav className="site-nav">
+      <Link href="/" className="site-nav__mark" aria-label="The Immanent Domain">
+        <Image src="/imdo-logo.png" alt="" width={28} height={28} />
+      </Link>
       {links.map(({ href, label }) => (
         <Link key={href} href={href} className={pathname === href ? "active" : ""}>
           {label}
