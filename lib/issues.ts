@@ -1,67 +1,42 @@
-export interface Article {
+export interface IssueArticle {
   slug: string;
   title: string;
   contributor: string;
-  type: string;
-  excerpt: string;
+  category: string;
 }
 
 export interface Issue {
   number: string;
   slug: string;
   title: string;
+  deck: string;
+  statement: string;
   description: string;
-  articles: Article[];
+  articles: IssueArticle[];
+  date: string;
+  clueToken?: string;
 }
 
 export const issues: Issue[] = [
   {
     number: "Issue One",
-    slug: "issue-one",
-    title: "The Scene Made Me Do It",
-    description:
-      "A first record of scenes, alibis, transmissions, refusals, performances, parties, arguments, rooms, street-level myths, and moments that made people act.",
+    slug: "forget-it-jake-issue-one",
+    title: "Forget It, Jake, It's Chinatown",
+    deck: "On persona, conversation, and the city as a haunted operating system.",
+    statement: "This issue examines persona as instrument. Conversation as living medium. Downtown as anthropology of performance, rumor, glamour, failure, and territorial fiction.",
+    description: "The debut issue. Five pieces on the city as text, theater, and initiatory terrain.",
+    date: "2026-06",
     articles: [
-      {
-        slug: "the-scene-made-me-do-it",
-        title: "The Scene Made Me Do It",
-        contributor: "Immanent Domain",
-        type: "Editorial",
-        excerpt:
-          "A note on scenes, alibis, cultural weather, and the problem of pretending the room had nothing to do with it.",
-      },
-      {
-        slug: "no-jake-its-chinatown",
-        title: "No Jake, It’s Chinatown",
-        contributor: "Staff",
-        type: "Essay",
-        excerpt:
-          "On fatalism, urban myth, bad explanations, and the pleasure of blaming the structure after the act.",
-      },
-      {
-        slug: "i-blame-it-on-dowtoj",
-        title: "I Blame It on Dowtoj",
-        contributor: "Staff",
-        type: "Fragment",
-        excerpt:
-          "A small record of influence, misdirection, friendship, atmosphere, and the names we give to causes after the fact.",
-      },
-      {
-        slug: "the-moment-is-yours",
-        title: "The Moment Is Yours",
-        contributor: "Immanent Domain",
-        type: "Event",
-        excerpt:
-          "A performance format concerning attention, hypnosis, timing, and the strange authority of the present tense.",
-      },
-      {
-        slug: "your-ulterior-motives",
-        title: "Your Ulterior Motives",
-        contributor: "Immanent Domain",
-        type: "Dispatch",
-        excerpt:
-          "Notes toward an honest public record of hidden reasons, visible behavior, and the social uses of confession.",
-      },
+      { slug: "the-persona-talks-back", title: "The Persona Talks Back", contributor: "The Editors", category: "Persona" },
+      { slug: "dimes-square-was-never-a-neighborhood", title: "Dimes Square Was Never a Neighborhood", contributor: "Staff", category: "Downtown Anthropology" },
+      { slug: "the-conversation-is-the-medium", title: "The Conversation Is the Medium", contributor: "Staff", category: "Conversation" },
+      { slug: "forget-it-jake-its-a-feedback-loop", title: "Forget It, Jake, It's a Feedback Loop", contributor: "Staff", category: "Noir Documents" },
+      { slug: "notes-toward-a-chinatown-of-the-mind", title: "Notes Toward a Chinatown of the Mind", contributor: "Staff", category: "False Neighborhoods" },
+      { slug: "i-blame-it-on-downtown", title: "I Blame It on Downtown", contributor: "Staff", category: "Downtown Anthropology" },
     ],
   },
 ];
+
+export function getIssue(slug: string): Issue | undefined {
+  return issues.find((i) => i.slug === slug);
+}
