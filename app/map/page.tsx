@@ -13,8 +13,8 @@ export default function MapPage() {
     <div className="site-wrapper">
       <div className="page-body">
         <div className="page-title-block">
-          <span className="section-label">Territory</span>
-          <h1 className="page-title">The Map</h1>
+          <span className="section-label">The Immanent Domain</span>
+          <h1 className="page-title">The Cryptographic Map Project</h1>
           <p className="page-title__sub">
             New York City as initiatory terrain. Ten sephiroth plus the hidden path.
             The outer boroughs are adjacent, not subordinate.
@@ -23,9 +23,10 @@ export default function MapPage() {
 
         <div className="prose-block" style={{ marginBottom: "var(--space-xl)" }}>
           <p>
-            The map is not decorative. It is jurisdiction.
-            Each district carries a sephirah, a chakra, a Vajrayana mode, a Zen instruction, and a geometry.
-            The map breathes through Chinatown. The crown is quiet. Ask the subway where the path bends.
+            A crypto-mystical cartography of New York City.
+            Each district carries a sephirah, a position on the Tree of Life, and a set of symbolic correspondences.
+            The map is a proposition about how power, memory, and territory organize themselves in a city that refuses to be fully legible.
+            The crown is quiet. Ask the subway where the path bends.
           </p>
         </div>
 

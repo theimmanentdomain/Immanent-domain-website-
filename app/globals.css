@@ -172,6 +172,39 @@ a:hover { color: var(--fg-dim); }
 
 .site-footer { border-top: 1px solid var(--rule); padding: var(--space-lg) 0 var(--space-xl); text-align: center; font-size: var(--text-xs); letter-spacing: 0.14em; color: var(--fg-muted); text-transform: uppercase; }
 
+/* ─── Home ─────────────────────────────────────────────────── */
+.doctrine-block { border-left: 1px solid var(--rule-mid); padding-left: var(--space-lg); margin: var(--space-xl) 0 var(--space-xxl); }
+.doctrine-line { font-size: var(--text-sm); color: var(--fg-dim); margin-bottom: var(--space-xs); font-style: italic; }
+.doctrine-line:last-child { margin-bottom: 0; }
+.home-links { display: flex; flex-direction: column; gap: var(--space-sm); margin: var(--space-xl) 0; border-left: 1px solid var(--rule-mid); padding-left: var(--space-lg); }
+.home-link { font-size: var(--text-sm); color: var(--fg-dim); text-decoration: none; letter-spacing: 0.06em; }
+.home-link:hover { color: var(--fg); }
+.home-footnote { font-size: var(--text-xs); color: var(--fg-muted); letter-spacing: 0.08em; padding-bottom: var(--space-xxl); }
+
+/* ─── Assignment Board ─────────────────────────────────────── */
+.assignment-section { margin-bottom: var(--space-xxl); }
+.assignment-section__heading { font-size: var(--text-sm); letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: var(--space-lg); color: var(--fg-dim); border-bottom: 1px solid var(--rule); padding-bottom: var(--space-sm); font-weight: normal; }
+.assignment-class { border-bottom: 1px solid var(--rule); padding: var(--space-lg) 0; }
+.assignment-class__heading { font-size: var(--text-base); font-weight: normal; margin-bottom: var(--space-sm); }
+.assignment-class__letter { font-size: var(--text-xs); letter-spacing: 0.18em; text-transform: uppercase; color: var(--fg-muted); display: block; margin-bottom: 0.25rem; }
+.assignment-class__purpose { font-size: var(--text-sm); color: var(--fg-dim); margin-bottom: var(--space-sm); font-style: italic; }
+.assignment-class__list { list-style: disc; padding-left: var(--space-lg); font-size: var(--text-sm); color: var(--fg-dim); }
+.assignment-class__list li { margin-bottom: 0.2rem; }
+.assignment-class__status { font-size: var(--text-xs); letter-spacing: 0.1em; color: var(--fg-muted); margin-top: var(--space-sm); }
+.assignment-levels { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); margin-top: var(--space-md); }
+.assignment-level { background: var(--bg); padding: var(--space-lg); }
+.assignment-level__title { font-size: var(--text-xs); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: var(--space-sm); }
+.assignment-level__desc { font-size: var(--text-sm); color: var(--fg-dim); margin-bottom: var(--space-sm); }
+
+/* ─── Footer ───────────────────────────────────────────────── */
+.site-footer-expanded { border-top: 1px solid var(--rule); padding: var(--space-xxl) 0 var(--space-xl); margin-top: var(--space-xxl); }
+.footer-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: var(--space-xl); margin-bottom: var(--space-xl); }
+.footer-col { display: flex; flex-direction: column; gap: var(--space-xs); }
+.footer-col__heading { font-size: var(--text-xs); letter-spacing: 0.2em; text-transform: uppercase; color: var(--fg-dim); margin-bottom: var(--space-sm); }
+.footer-col a { font-size: var(--text-sm); color: var(--fg-muted); text-decoration: none; }
+.footer-col a:hover { color: var(--fg); }
+.footer-bottom { font-size: var(--text-xs); letter-spacing: 0.14em; color: var(--fg-muted); text-transform: uppercase; border-top: 1px solid var(--rule); padding-top: var(--space-lg); }
+
 @media (max-width: 600px) {
   :root { --gutter: 1.25rem; }
   .entrance-grid { grid-template-columns: 1fr; }

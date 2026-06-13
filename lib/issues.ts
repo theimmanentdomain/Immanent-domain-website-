@@ -24,7 +24,7 @@ export const issues: Issue[] = [
     title: "Forget It, Jake, It's Chinatown",
     deck: "On persona, conversation, and the city as a haunted operating system.",
     statement: "This issue examines persona as instrument. Conversation as living medium. Downtown as anthropology of performance, rumor, glamour, failure, and territorial fiction.",
-    description: "The debut issue. Five pieces on the city as text, theater, and initiatory terrain.",
+    description: "Issue One of The Scene Made Me Do It. Five pieces on the city as text, theater, and initiatory terrain.",
     date: "2026-06",
     articles: [
       { slug: "the-persona-talks-back", title: "The Persona Talks Back", contributor: "The Editors", category: "Persona" },
