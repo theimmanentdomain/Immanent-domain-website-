@@ -3,18 +3,18 @@ import type { ArticleContent } from "@/lib/articles";
 
 interface ArticleCardProps {
   article: ArticleContent;
-  issueSlug: string;
 }
 
-export default function ArticleCard({ article, issueSlug }: ArticleCardProps) {
+export default function ArticleCard({ article }: ArticleCardProps) {
   return (
-    <li className="card">
+    <div className="card">
       <span className="card__label">{article.category}</span>
-      <Link href={`/magazine/${issueSlug}/${article.slug}`} style={{ textDecoration: "none" }}>
+      <Link href={`/magazine/${article.issueSlug}/${article.slug}`} style={{ textDecoration: "none" }}>
         <div className="card__title">{article.title}</div>
-        {article.subtitle && <div className="card__subtitle">{article.subtitle}</div>}
       </Link>
+      {article.subtitle && <div className="card__subtitle">{article.subtitle}</div>}
+      <div className="card__desc">{article.excerpt}</div>
       <div className="card__meta">{article.contributor}</div>
-    </li>
+    </div>
   );
 }

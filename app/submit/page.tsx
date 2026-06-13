@@ -1,46 +1,61 @@
-export default function SubmitPage() {
-  const categories = [
-    "Persona", "Conversation", "Downtown Anthropology", "Artificial Intelligence",
-    "Performance", "Intermedia", "Field Reports", "Noir Documents",
-    "False Neighborhoods", "Criticism", "Ritual Technologies",
-  ];
+import type { Metadata } from "next";
 
+export const metadata: Metadata = {
+  title: "Submit",
+  description: "The Immanent Domain magazine accepts work that contains evidence of life, pressure, voice, intelligence, and necessity.",
+};
+
+const categories = [
+  "Essays",
+  "Field Reports",
+  "Conversations",
+  "Images",
+  "Performance Documents",
+  "Noir Documents",
+  "Criticism",
+  "Fragments",
+  "Useful Trouble",
+];
+
+export default function SubmitPage() {
   return (
     <div className="site-wrapper">
       <div className="page-body">
-        <h1 className="page-title">Submit</h1>
+        <div className="page-title-block">
+          <h1 className="page-title">Submit</h1>
+        </div>
 
         <div className="prose-block">
           <p>
-            The magazine is selective. It publishes writing, image, and hybrid work that has something
-            at stake. Competence is not sufficient. The work must be doing something that only it can do.
+            The magazine is selective. Work must contain evidence of life, pressure, voice, intelligence, and necessity.
+            Competence without necessity is not sufficient.
           </p>
           <p>
-            Essays, fragments, field reports, interviews, noir documents, posters, and forms that
-            do not fit existing categories are all in scope. We are not interested in work that
-            is primarily demonstrating its references.
+            The magazine publishes writing, image, and hybrid work across eleven categories.
+            It is interested in what only a particular piece can do.
+            Demonstrating references is not the work.
           </p>
 
-          <hr />
+          <hr style={{ borderColor: "var(--rule)", margin: "var(--space-xl) 0" }} />
 
-          <span className="section-label">Categories</span>
+          <span className="section-label">Accepted Forms</span>
           <ul className="submit-categories">
             {categories.map((cat) => (
               <li key={cat}>{cat}</li>
             ))}
           </ul>
 
-          <hr />
+          <hr style={{ borderColor: "var(--rule)", margin: "var(--space-xl) 0" }} />
 
           <p>
-            Send inquiries and submissions to{" "}
+            Send to{" "}
             <a href="mailto:theimmanentdomain@gmail.com?subject=Submission">
               theimmanentdomain@gmail.com
-            </a>
-            {" "}with the subject line <em>Submission</em> and the category in the body.
+            </a>{" "}
+            with the subject line <em>Submission</em> and the category in the body.
           </p>
-          <p style={{ color: "var(--fg-dim)", fontSize: "0.88rem" }}>
-            Response time varies. Work is read. Silence is not indifference.
+          <p style={{ color: "var(--fg-dim)", fontSize: "var(--text-sm)" }}>
+            Response time varies. Work is read.
           </p>
         </div>
       </div>

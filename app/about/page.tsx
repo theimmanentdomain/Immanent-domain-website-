@@ -1,37 +1,48 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About",
+  description: "The Immanent Domain is a New York-rooted art collective, cultural production house, and publishing platform.",
+};
+
 export default function About() {
   return (
     <div className="site-wrapper">
       <div className="page-body">
-        <h1 className="page-title">About</h1>
+        <div className="page-title-block">
+          <h1 className="page-title">About</h1>
+        </div>
 
         <div className="prose-block">
           <p>
-            Immanent Domain is an intermedia institution based in New York. It publishes the magazine
-            <em> Forget It, Jake, It&apos;s Chinatown</em> and produces performances, films, and public programs.
+            Immanent Domain is a New York-rooted art collective, cultural production house, and publishing platform.
+            It operates across magazine publishing, performance, intermedia, social cartography, and documentary practice.
           </p>
           <p>
-            Writing, image, sound, performance, design, publication, and atmosphere enter into one living corpus.
-            The institution does not separate criticism from production, or theory from practice. Each project
-            is also a document. Each document is also a project.
+            The magazine is <em>Forget It, Jake, It&apos;s Chinatown</em>.
+            The map is the city. The archive is operational.
           </p>
           <p>
-            The name comes from the legal doctrine of eminent domain, the state&apos;s power to seize private
-            property for public use. Immanent Domain inverts this: a force that operates from within,
-            that cannot be seized because it was never external to begin with.
+            The institution treats New York as territory, text, theater, and puzzle. Its public work includes the magazine,
+            events, field reports, and projects. Its internal work is ongoing.
           </p>
           <p>
-            The institution takes the art war seriously. It does not romanticize marginality. It intends
-            to win on its own terms, which are different from the terms being offered.
+            The name comes from the legal doctrine of eminent domain: the state&apos;s power to seize private property
+            for public use. Immanent Domain inverts the premise. The force operates from within.
+            It cannot be seized because it was never external to begin with.
           </p>
           <p>
-            The full statement of intent is in the <a href="/manifesto">Declaration of Intent</a>.
-            The map of the territory is at <a href="/map">The Map</a>.
+            The full statement of intent is in the{" "}
+            <a href="/manifesto">Declaration of Intent</a>.
+            The map of the territory is at{" "}
+            <a href="/map">The Map</a>.
           </p>
 
-          <hr />
+          <hr style={{ borderColor: "var(--rule)", margin: "var(--space-xl) 0" }} />
 
-          <p style={{ fontSize: "0.88rem", color: "var(--fg-dim)" }}>
-            Contact: <a href="mailto:theimmanentdomain@gmail.com">theimmanentdomain@gmail.com</a>
+          <p style={{ fontSize: "var(--text-sm)", color: "var(--fg-dim)" }}>
+            Contact:{" "}
+            <a href="mailto:theimmanentdomain@gmail.com">theimmanentdomain@gmail.com</a>
           </p>
         </div>
       </div>

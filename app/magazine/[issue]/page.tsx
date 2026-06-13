@@ -1,32 +1,38 @@
+import type { Metadata } from "next";
 import Link from "next/link";
-import { issues } from "@/lib/issues";
+import { issues, getIssue } from "@/lib/issues";
 import { notFound } from "next/navigation";
 
 export function generateStaticParams() {
   return issues.map((i) => ({ issue: i.slug }));
 }
 
-export default async function IssuePage({
-  params,
-}: {
-  params: Promise<{ issue: string }>;
-}) {
-  const { issue: issueSlug } = await params;
-  const issue = issues.find((i) => i.slug === issueSlug);
+export async function generateMetadata({ params }: { params: Promise<{ issue: string }> }): Promise<Metadata> {
+  const { issue: slug } = await params;
+  const issue = getIssue(slug);
+  if (!issue) return {};
+  return { title: issue.title, description: issue.deck };
+}
+
+export default async function IssuePage({ params }: { params: Promise<{ issue: string }> }) {
+  const { issue: slug } = await params;
+  const issue = getIssue(slug);
   if (!issue) notFound();
 
   return (
     <div className="site-wrapper">
       <div className="page-body">
-        <p className="issue-number">{issue.number}</p>
-        <h1 className="page-title" style={{ borderBottom: "none", marginBottom: "0.5rem" }}>
-          {issue.title}
-        </h1>
-        <p className="issue-description" style={{ marginBottom: "3rem" }}>
-          {issue.deck}
-        </p>
+        <div className="page-title-block">
+          <span className="section-label">{issue.number}</span>
+          <h1 className="page-title" style={{ textTransform: "none", letterSpacing: "0.01em" }}>
+            {issue.title}
+          </h1>
+          <p className="page-title__sub">{issue.deck}</p>
+        </div>
 
-        <hr />
+        <div className="prose-block" style={{ marginBottom: "var(--space-xl)" }}>
+          <p>{issue.statement}</p>
+        </div>
 
         <ul className="article-list">
           {issue.articles.map((article) => (
@@ -39,14 +45,13 @@ export default async function IssuePage({
                 </p>
                 <p className="article-list__contributor">{article.contributor}</p>
               </div>
-              <span className="article-list__type">{article.category}</span>
+              <span className="article-list__category">{article.category}</span>
             </li>
           ))}
         </ul>
 
-        <hr />
-
-        <p style={{ fontSize: "0.8rem", color: "var(--fg-dim)" }}>
+        <hr style={{ borderColor: "var(--rule)", margin: "var(--space-xl) 0" }} />
+        <p style={{ fontSize: "var(--text-sm)", color: "var(--fg-dim)" }}>
           <Link href="/magazine">&larr; All Issues</Link>
         </p>
       </div>

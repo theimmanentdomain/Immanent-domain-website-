@@ -1,17 +1,22 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Nav from "@/components/Nav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
-  title: "Immanent Domain",
-  description: "Forget It, Jake, It's Chinatown. An intermedia institution based in New York.",
+  title: {
+    default: "The Immanent Domain",
+    template: "%s | The Immanent Domain",
+  },
+  description: "A New York-rooted art collective, magazine, archive, and initiatory game.",
+  openGraph: {
+    title: "The Immanent Domain",
+    description: "A New York-rooted art collective, magazine, archive, and initiatory game.",
+    type: "website",
+  },
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" style={{ background: "#000" }}>
       <body>
@@ -20,9 +25,7 @@ export default function RootLayout({
         </div>
         <main>{children}</main>
         <div className="site-wrapper">
-          <footer className="site-footer">
-            &copy; {new Date().getFullYear()} Immanent Domain
-          </footer>
+          <SiteFooter />
         </div>
       </body>
     </html>

@@ -16,15 +16,10 @@ const links = [
 
 export default function Nav() {
   const pathname = usePathname();
-
   return (
     <nav className="site-nav">
       {links.map(({ href, label }) => (
-        <Link
-          key={href}
-          href={href}
-          className={pathname === href ? "active" : ""}
-        >
+        <Link key={href} href={href} className={pathname === href ? "active" : ""}>
           {label}
         </Link>
       ))}

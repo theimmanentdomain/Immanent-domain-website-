@@ -1,7 +1,8 @@
 "use client";
 
-import Link from "next/link";
+import type { Metadata } from "next";
 import { useState } from "react";
+import Link from "next/link";
 import { districts, outerBoroughs } from "@/lib/districts";
 import SephirothMap from "@/components/SephirothMap";
 
@@ -11,17 +12,20 @@ export default function MapPage() {
   return (
     <div className="site-wrapper">
       <div className="page-body">
-        <h1 className="page-title">The Territory</h1>
-
-        <div className="prose-block" style={{ marginBottom: "2rem" }}>
-          <p>
-            New York City mapped onto the Kabbalistic Tree of Life. Ten sephiroth
-            plus one hidden. The hidden one is not missing. It is present as the
-            transit system: everywhere, named nowhere on the official routes.
+        <div className="page-title-block">
+          <span className="section-label">Territory</span>
+          <h1 className="page-title">The Map</h1>
+          <p className="page-title__sub">
+            New York City as initiatory terrain. Ten sephiroth plus the hidden path.
+            The outer boroughs are adjacent, not subordinate.
           </p>
-          <p style={{ color: "var(--fg-dim)", fontSize: "0.88rem" }}>
-            The map is not the territory. The territory is not the territory either.
-            It is a set of instructions for a city that exists only while being navigated.
+        </div>
+
+        <div className="prose-block" style={{ marginBottom: "var(--space-xl)" }}>
+          <p>
+            The map is not decorative. It is jurisdiction.
+            Each district carries a sephirah, a chakra, a Vajrayana mode, a Zen instruction, and a geometry.
+            The map breathes through Chinatown. The crown is quiet. Ask the subway where the path bends.
           </p>
         </div>
 
@@ -41,26 +45,29 @@ export default function MapPage() {
         </div>
 
         {view === "list" ? (
-          <ul style={{ listStyle: "none" }}>
+          <div>
             {districts.map((d) => (
-              <li key={d.slug} className="card">
-                <span className="card__label">{d.number} / {d.nycZone}</span>
+              <div key={d.slug} className="card">
+                <span className="card__label">{d.number} &mdash; {d.nycZone}</span>
                 <Link href={`/map/${d.slug}`} style={{ textDecoration: "none" }}>
-                  <div className="card__title">{d.hebrew} {d.name}</div>
+                  <div className="card__title">{d.hebrew} &nbsp; {d.name}</div>
                 </Link>
                 <div className="card__subtitle">{d.attribute}</div>
                 <div className="card__desc">{d.description}</div>
-              </li>
+                <div className="card__meta" style={{ marginTop: "var(--space-sm)" }}>
+                  {d.chakra} &bull; {d.geometry} &bull; {d.keyword}
+                </div>
+              </div>
             ))}
-          </ul>
+          </div>
         ) : (
           <SephirothMap />
         )}
 
         <div className="outer-boroughs">
           <span className="section-label">Outer Boroughs</span>
-          <p style={{ fontSize: "0.82rem", color: "var(--fg-dim)", marginBottom: "1rem" }}>
-            Not on the Tree. Adjacent to it.
+          <p style={{ fontSize: "var(--text-sm)", color: "var(--fg-dim)", margin: "var(--space-xs) 0 var(--space-md)" }}>
+            Adjacent to the Tree. Structurally distinct.
           </p>
           <ul className="outer-borough-list">
             {outerBoroughs.map((b) => (

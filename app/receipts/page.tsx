@@ -1,4 +1,11 @@
+import type { Metadata } from "next";
 import { receipts } from "@/lib/receipts";
+
+export const metadata: Metadata = {
+  title: "Receipts",
+  description: "Internal document. Partial index.",
+  robots: { index: false, follow: false },
+};
 
 export default function ReceiptsPage() {
   return (
@@ -7,36 +14,45 @@ export default function ReceiptsPage() {
         <div className="receipts-header">
           <p>IMDO / INTERNAL / CLUE INDEX / PARTIAL</p>
           <p>Distribution: restricted. Classification: pending.</p>
+          <p>Cross-reference with public site before drawing conclusions.</p>
         </div>
 
-        <h1 className="page-title" style={{ fontSize: "1.2rem" }}>Receipts</h1>
+        <div className="page-title-block" style={{ borderBottom: "none" }}>
+          <h1 className="page-title" style={{ fontSize: "var(--text-xl)" }}>Receipts</h1>
+          <p className="page-title__sub">Partial Index. Incomplete by design.</p>
+        </div>
 
-        <div className="prose-block" style={{ marginBottom: "3rem" }}>
+        <div className="prose-block" style={{ marginBottom: "var(--space-xxl)" }}>
           <p>
-            The following tokens have been distributed across the public-facing materials of
-            Immanent Domain. Each token corresponds to a visible phrase. The visible phrase
-            can be located by navigating to the page listed.
-          </p>
-          <p style={{ color: "var(--fg-dim)", fontSize: "0.88rem" }}>
             This page is not linked from the navigation. You found it.
+            The index below is incomplete. Each entry corresponds to a visible phrase on a public page.
+            The connection between them is the work.
+          </p>
+          <p style={{ color: "var(--fg-dim)" }}>
+            A receipt without source remains a rumor.
+            Every receipt leaves a trace.
           </p>
         </div>
 
-        <div>
+        <div style={{ borderTop: "1px solid var(--rule)" }}>
           {receipts.map((r) => (
             <div key={r.token} className="receipt-entry">
+              <span className="receipt-entry__seq">
+                {String(r.sequenceNumber).padStart(2, "0")} / {r.clueType} / {r.associatedSephirah}
+              </span>
               <div className="receipt-entry__token">{r.token}</div>
               <div className="receipt-entry__meta">
-                Page: {r.page} / Phrase: &ldquo;{r.visiblePhrase}&rdquo;
+                <span>Origin: {r.originPage}</span>
+                {" "}&bull;{" "}
+                <span className="receipt-entry__phrase">&ldquo;{r.visiblePhrase}&rdquo;</span>
               </div>
             </div>
           ))}
         </div>
 
-        <hr />
-
-        <p style={{ fontSize: "0.78rem", color: "var(--fg-dim)" }}>
-          Additional tokens are not listed here. The index is incomplete by design.
+        <hr style={{ borderColor: "var(--rule)", margin: "var(--space-xxl) 0 var(--space-lg)" }} />
+        <p style={{ fontSize: "var(--text-xs)", color: "var(--fg-muted)", letterSpacing: "0.1em" }}>
+          Additional tokens exist on pages not listed here. The system is operational.
         </p>
       </div>
     </div>

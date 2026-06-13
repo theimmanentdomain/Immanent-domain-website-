@@ -4,20 +4,23 @@ export interface Event {
   type: string;
   status: "upcoming" | "previous" | "in-development";
   statusLabel: string;
+  date?: string;
+  venue?: string;
+  district?: string;
   description: string;
   note?: string;
+  rsvpLink?: string;
 }
 
 export const events: Event[] = [
   {
     slug: "the-moment-is-yours",
     title: "The Moment Is Yours",
-    type: "Performance / Attention Experiment",
+    type: "Performance / Hypnosis / Time Magic",
     status: "upcoming",
-    statusLabel: "Upcoming",
-    description:
-      "An Immanent Domain performance project concerning attention, timing, hypnosis, and the strange authority of the present tense.",
-    note: "Details forthcoming.",
+    statusLabel: "Forthcoming",
+    description: "An Immanent Domain performance event. Attention, timing, and the strange authority of the present tense.",
+    note: "Date and venue to be announced.",
   },
   {
     slug: "your-ulterior-motives",
@@ -25,18 +28,16 @@ export const events: Event[] = [
     type: "Performance / Public Program",
     status: "previous",
     statusLabel: "Previous",
-    description:
-      "An Immanent Domain public program concerned with hidden reasons, visible behavior, confession, and the social uses of motive.",
+    description: "An Immanent Domain public program concerned with hidden reasons, visible behavior, confession, and the social uses of motive.",
     note: "Documentation forthcoming.",
   },
   {
-    slug: "psychic-spies-for-hire",
-    title: "Psychic Spies for Hire",
-    type: "Film / Production",
+    slug: "psychic-spies-screening",
+    title: "Psychic Spies for Hire: Work in Progress",
+    type: "Film Screening / Q&A",
     status: "in-development",
     statusLabel: "In Development",
-    description:
-      "An Immanent Domain film production. A tarot reader is drawn into the world of psychic espionage.",
-    note: "Production development.",
+    description: "A work-in-progress screening of Psychic Spies for Hire with discussion.",
+    note: "Details forthcoming.",
   },
 ];
