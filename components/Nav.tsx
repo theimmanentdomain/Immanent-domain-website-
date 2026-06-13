@@ -5,28 +5,21 @@ import { usePathname } from "next/navigation";
 
 const links = [
   { href: "/", label: "Home" },
-  { href: "/manifesto", label: "Manifesto" },
   { href: "/magazine", label: "Magazine" },
-  { href: "/magazine/critique", label: "Critique" },
+  { href: "/map", label: "Map" },
   { href: "/projects", label: "Projects" },
-  { href: "/videos", label: "Videos" },
-  { href: "/creatives", label: "Creatives" },
   { href: "/events", label: "Events" },
-  { href: "/submissions", label: "Submissions" },
-  { href: "/contact", label: "Contact" },
+  { href: "/archive", label: "Archive" },
+  { href: "/submit", label: "Submit" },
+  { href: "/about", label: "About" },
 ];
 
 export default function Nav() {
   const pathname = usePathname();
-
   return (
     <nav className="site-nav">
       {links.map(({ href, label }) => (
-        <Link
-          key={href}
-          href={href}
-          className={pathname === href ? "active" : ""}
-        >
+        <Link key={href} href={href} className={pathname === href ? "active" : ""}>
           {label}
         </Link>
       ))}

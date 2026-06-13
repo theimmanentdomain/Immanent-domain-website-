@@ -1,77 +1,50 @@
-export default function AboutPage() {
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About",
+  description: "The Immanent Domain is a New York-rooted art collective, cultural production house, and publishing platform.",
+};
+
+export default function About() {
   return (
-    <div className="page-body">
-      <h1 className="page-title">About</h1>
+    <div className="site-wrapper">
+      <div className="page-body">
+        <div className="page-title-block">
+          <h1 className="page-title">About</h1>
+        </div>
 
-      <div className="prose-block">
-        <p>
-          Immanent Domain is an editorial and production entity based in New York.
-        </p>
+        <div className="prose-block">
+          <p>
+            Immanent Domain is a New York-rooted art collective, cultural production house, and publishing platform.
+            It operates across magazine publishing, performance, intermedia, social cartography, and documentary practice.
+          </p>
+          <p>
+            The magazine is <em>Forget It, Jake, It&apos;s Chinatown</em>.
+            The map is the city. The archive is operational.
+          </p>
+          <p>
+            The institution treats New York as territory, text, theater, and puzzle. Its public work includes the magazine,
+            events, field reports, and projects. Its internal work is ongoing.
+          </p>
+          <p>
+            The name comes from the legal doctrine of eminent domain: the state&apos;s power to seize private property
+            for public use. Immanent Domain inverts the premise. The force operates from within.
+            It cannot be seized because it was never external to begin with.
+          </p>
+          <p>
+            The full statement of intent is in the{" "}
+            <a href="/manifesto">Declaration of Intent</a>.
+            The map of the territory is at{" "}
+            <a href="/map">The Map</a>.
+          </p>
 
-        <p>
-          It collects scenes, makes records, stages events, publishes fragments,
-          and preserves the intelligence of rooms before the official account arrives.
-        </p>
+          <hr style={{ borderColor: "var(--rule)", margin: "var(--space-xl) 0" }} />
 
-        <p>
-          Its work moves through magazine publishing, performance, interviews,
-          documentary fragments, cultural criticism, and practical coordination.
-        </p>
-
-        <hr />
-
-        <p>
-          The house is not neutral.<br />
-          It is attentive.
-        </p>
-
-        <hr />
-
-        <p>
-          <span className="section-label">The Magazine</span>
-          <em>The Scene Made Me Do It</em> is the first publication of Immanent Domain.
-          It gathers essays, scene reports, interviews, fragments, performance documents,
-          and other records of cultural life as it actually occurs.
-        </p>
-
-        <p>
-          <span className="section-label">Events</span>
-          Immanent Domain produces performances, readings, and public programs.
-          Announcements are made through the magazine and direct contact.
-        </p>
-
-        <p>
-          <span className="section-label">Contact</span>
-          theimmanentdomain@gmail.com
-        </p>
-      </div>
-
-      <hr />
-
-      <div className="prose-block">
-        <p>
-          <span className="section-label">Form</span>
-          Immanent Domain functions as a hybrid of three forms: a brokerage, an agency, and a church.
-        </p>
-        <p>
-          As a brokerage, it creates strategic connections — between artists and institutions,
-          between projects and resources, between people who need to find each other and do not
-          yet know it.
-        </p>
-        <p>
-          As an agency, it deploys creatives for specific tasks and productions. It identifies
-          what work needs doing, assembles the people capable of doing it, and moves projects
-          from concept to execution.
-        </p>
-        <p>
-          As a church, it treats art as sacrament and culture as serious work. It holds the
-          code, transmits the values, and maintains the standard. The sacramental dimension
-          of art — its capacity to connect the maker and the receiver to something larger than
-          either — is not treated here as metaphor. It is treated as the central fact.
-        </p>
-        <p>
-          These three forms operate simultaneously.
-        </p>
+          <p style={{ fontSize: "var(--text-sm)", color: "var(--fg-dim)" }}>
+            Contact:{" "}
+            <a href="mailto:theimmanentdomain@gmail.com">theimmanentdomain@gmail.com</a>
+          </p>
+        </div>
       </div>
     </div>
   );
