@@ -3,7 +3,7 @@ import { issues } from "@/lib/issues";
 import { notFound } from "next/navigation";
 
 export default function IssueOnePage() {
-  const issue = issues.find((i) => i.slug === "issue-one");
+  const issue = issues.find((i) => i.slug === "forget-it-jake-issue-one");
   if (!issue) notFound();
 
   return (
@@ -23,16 +23,13 @@ export default function IssueOnePage() {
           <li key={article.slug} className="article-list__item">
             <div>
               <p className="article-list__title">
-                <Link href={`/magazine/issue-one/${article.slug}`}>
+                <Link href={`/magazine/forget-it-jake-issue-one/${article.slug}`}>
                   {article.title}
                 </Link>
               </p>
               <p className="article-list__contributor">{article.contributor}</p>
-              <p style={{ fontSize: "0.88rem", color: "var(--fg-dim)", marginTop: "0.4rem" }}>
-                {article.excerpt}
-              </p>
             </div>
-            <span className="article-list__type">{article.type}</span>
+            <span className="article-list__type">{article.category}</span>
           </li>
         ))}
       </ul>

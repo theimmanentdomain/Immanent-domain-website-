@@ -9,6 +9,7 @@ const sections = [
 
 export default function ProjectsPage() {
   return (
+    <div className="site-wrapper">
     <div className="page-body">
       <h1 className="page-title">Projects</h1>
 
@@ -36,6 +37,7 @@ export default function ProjectsPage() {
           </div>
         );
       })}
+    </div>
     </div>
   );
 }

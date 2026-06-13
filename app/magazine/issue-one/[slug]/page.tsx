@@ -5,7 +5,7 @@ import { issues } from "@/lib/issues";
 
 export function generateStaticParams() {
   return articles
-    .filter((a) => a.issueSlug === "issue-one")
+    .filter((a) => a.issueSlug === "forget-it-jake-issue-one")
     .map((a) => ({ slug: a.slug }));
 }
 
@@ -15,10 +15,10 @@ export default async function ArticlePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const article = getArticle("issue-one", slug);
+  const article = getArticle("forget-it-jake-issue-one", slug);
   if (!article) notFound();
 
-  const issue = issues.find((i) => i.slug === "issue-one");
+  const issue = issues.find((i) => i.slug === "forget-it-jake-issue-one");
 
   return (
     <div className="page-body">
@@ -31,7 +31,7 @@ export default async function ArticlePage({
         <h1 className="article-header__title">{article.title}</h1>
         <div className="article-header__meta">
           <span>{article.contributor}</span>
-          <span>{article.type}</span>
+          <span>{article.category}</span>
         </div>
       </div>
 

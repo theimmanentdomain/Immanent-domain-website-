@@ -15,6 +15,7 @@ export default async function ProjectPage({
   if (!project) notFound();
 
   return (
+    <div className="site-wrapper">
     <div className="page-body">
       <div className="project-header">
         <div className="project-header__status">{project.statusLabel}</div>
@@ -32,6 +33,7 @@ export default async function ProjectPage({
           </p>
         )}
       </div>
+    </div>
     </div>
   );
 }

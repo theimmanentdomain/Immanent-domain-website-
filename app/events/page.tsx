@@ -8,6 +8,7 @@ const sections = [
 
 export default function EventsPage() {
   return (
+    <div className="site-wrapper">
     <div className="page-body">
       <h1 className="page-title">Events</h1>
 
@@ -34,6 +35,7 @@ export default function EventsPage() {
           </div>
         );
       })}
+    </div>
     </div>
   );
 }

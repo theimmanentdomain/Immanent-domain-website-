@@ -6,6 +6,8 @@
   --fg: #f0ede8;
   --fg-dim: #999999;
   --rule: #333333;
+  --accent: #c0392b;
+  --accent-dim: #7a2420;
   --font: "Times New Roman", Times, Georgia, serif;
   --max-width: 860px;
   --gutter: 2rem;
@@ -405,6 +407,363 @@ p:last-child {
 
 .creative-list__bio {
   font-size: 0.9rem;
+  color: var(--fg-dim);
+}
+
+/* Entrance blocks (home page) */
+.entrance-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+  margin: 3rem 0;
+}
+
+.entrance-block {
+  background: var(--bg);
+  padding: 2.5rem 2rem;
+  text-decoration: none;
+  display: block;
+  transition: background 0.15s;
+}
+
+.entrance-block:hover {
+  background: #0a0a0a;
+  color: var(--fg);
+}
+
+.entrance-block__label {
+  font-size: 0.7rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--fg-dim);
+  margin-bottom: 0.75rem;
+  display: block;
+}
+
+.entrance-block__title {
+  font-size: 1.15rem;
+  font-weight: normal;
+  margin-bottom: 0.5rem;
+}
+
+.entrance-block__desc {
+  font-size: 0.85rem;
+  color: var(--fg-dim);
+  line-height: 1.5;
+}
+
+/* Cards */
+.card {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.5rem 0;
+}
+
+.card__label {
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--fg-dim);
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.card__title {
+  font-size: 1.05rem;
+  font-weight: normal;
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+.card__subtitle {
+  font-size: 0.88rem;
+  color: var(--fg-dim);
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.card__desc {
+  font-size: 0.88rem;
+  color: var(--fg-dim);
+  line-height: 1.55;
+}
+
+.card__meta {
+  font-size: 0.75rem;
+  color: var(--fg-dim);
+  letter-spacing: 0.1em;
+  margin-top: 0.5rem;
+}
+
+/* Tags */
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.tag {
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--fg-dim);
+  border: 1px solid var(--rule);
+  padding: 0.2rem 0.55rem;
+}
+
+.tag--active {
+  color: var(--fg);
+  border-color: var(--fg-dim);
+}
+
+/* District nodes (sephiroth map) */
+.sephiroth-map {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(8, auto);
+  gap: 1rem;
+  max-width: 640px;
+  margin: 2rem 0;
+}
+
+.district-node {
+  border: 1px solid var(--rule);
+  padding: 1rem 0.75rem;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.15s;
+  text-align: center;
+}
+
+.district-node:hover {
+  border-color: var(--accent);
+  color: var(--fg);
+}
+
+.district-node--active {
+  border-color: var(--accent);
+}
+
+.district-node__number {
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  color: var(--fg-dim);
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.district-node__hebrew {
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.district-node__name {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.district-node__zone {
+  font-size: 0.7rem;
+  color: var(--fg-dim);
+  font-style: italic;
+  margin-top: 0.25rem;
+  display: block;
+}
+
+/* Outer boroughs */
+.outer-boroughs {
+  margin-top: 3rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 2rem;
+}
+
+.outer-borough-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  list-style: none;
+  margin-top: 1rem;
+}
+
+.outer-borough-item {
+  border: 1px solid var(--rule);
+  padding: 1rem;
+}
+
+.outer-borough-item__name {
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 0.25rem;
+}
+
+.outer-borough-item__attr {
+  font-size: 0.78rem;
+  color: var(--fg-dim);
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.outer-borough-item__desc {
+  font-size: 0.82rem;
+  color: var(--fg-dim);
+}
+
+/* Receipt mark (ARG) */
+.receipt-mark {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  background: var(--accent);
+  border-radius: 50%;
+  vertical-align: super;
+  margin-left: 1px;
+  cursor: default;
+}
+
+/* Clue text (ARG) */
+.clue-text {
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+/* Archive category filter */
+.category-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.category-filter__btn {
+  background: none;
+  border: 1px solid var(--rule);
+  color: var(--fg-dim);
+  font-family: var(--font);
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.75rem;
+  cursor: pointer;
+  transition: border-color 0.1s, color 0.1s;
+}
+
+.category-filter__btn:hover,
+.category-filter__btn--active {
+  border-color: var(--fg-dim);
+  color: var(--fg);
+}
+
+/* Map view toggle */
+.view-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.view-toggle__btn {
+  background: none;
+  border: 1px solid var(--rule);
+  color: var(--fg-dim);
+  font-family: var(--font);
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.75rem;
+  cursor: pointer;
+  transition: border-color 0.1s, color 0.1s;
+}
+
+.view-toggle__btn:hover,
+.view-toggle__btn--active {
+  border-color: var(--fg-dim);
+  color: var(--fg);
+}
+
+/* District page */
+.district-header {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 2.5rem;
+}
+
+.district-header__number {
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--fg-dim);
+  margin-bottom: 0.75rem;
+}
+
+.district-header__hebrew {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.district-header__name {
+  font-size: clamp(1.8rem, 4.5vw, 3rem);
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.5rem;
+}
+
+.district-header__zone {
+  font-size: 0.9rem;
+  color: var(--fg-dim);
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.district-header__attr {
+  font-size: 0.82rem;
+  color: var(--fg-dim);
+  letter-spacing: 0.08em;
+}
+
+/* Submit page */
+.submit-categories {
+  list-style: none;
+  margin: 1.5rem 0;
+}
+
+.submit-categories li {
+  font-size: 0.85rem;
+  color: var(--fg-dim);
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--rule);
+  letter-spacing: 0.06em;
+}
+
+/* Receipts page (ARG) */
+.receipts-header {
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--fg-dim);
+  margin-bottom: 3rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.receipt-entry {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.5rem 0;
+}
+
+.receipt-entry__token {
+  font-size: 1.05rem;
+  font-weight: normal;
+  margin-bottom: 0.25rem;
+}
+
+.receipt-entry__meta {
+  font-size: 0.78rem;
   color: var(--fg-dim);
 }
 

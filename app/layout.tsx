@@ -4,7 +4,7 @@ import Nav from "@/components/Nav";
 
 export const metadata: Metadata = {
   title: "Immanent Domain",
-  description: "An independent magazine of culture, criticism, and ideas.",
+  description: "Forget It, Jake, It's Chinatown. An intermedia institution based in New York.",
 };
 
 export default function RootLayout({
@@ -17,9 +17,11 @@ export default function RootLayout({
       <body>
         <div className="site-wrapper">
           <Nav />
-          <main>{children}</main>
+        </div>
+        <main>{children}</main>
+        <div className="site-wrapper">
           <footer className="site-footer">
-            &copy; {new Date().getFullYear()} Immanent Domain. All rights reserved.
+            &copy; {new Date().getFullYear()} Immanent Domain
           </footer>
         </div>
       </body>

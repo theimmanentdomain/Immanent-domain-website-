@@ -1,5 +1,6 @@
 export default function ManifestoPage() {
   return (
+    <div className="site-wrapper">
     <div className="page-body">
       <div style={{ marginBottom: "2.5rem" }}>
         <h1
@@ -263,6 +264,7 @@ export default function ManifestoPage() {
           <p>Sentience. Sapience. Salience.</p>
         </div>
       </div>
+    </div>
     </div>
   );
 }

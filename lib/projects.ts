@@ -55,6 +55,35 @@ export const projects: Project[] = [
     ],
     contactLine: "For production inquiries: theimmanentdomain@gmail.com",
   },
+  {
+    slug: "the-receipts",
+    title: "The Receipts",
+    type: "ARG / Institutional Archive",
+    status: "in-development",
+    statusLabel: "In Development",
+    shortDescription:
+      "A distributed alternate reality game embedded in Immanent Domain's public materials. Proof of something.",
+    body: [
+      "The Receipts is an ongoing operation embedded across the Immanent Domain website and its physical publications.",
+      "Tokens are distributed across pages. Clues appear in district descriptions, archive entries, and article text. The /receipts page is not listed in the navigation.",
+      "The item purchased is not listed. The total is correct.",
+    ],
+  },
+  {
+    slug: "nyc-sephiroth-map",
+    title: "NYC Sephiroth Map",
+    type: "Cartography / Occult Infrastructure",
+    status: "in-development",
+    statusLabel: "In Development",
+    shortDescription:
+      "A Kabbalistic mapping of Manhattan and the outer boroughs onto the Tree of Life.",
+    body: [
+      "The NYC Sephiroth Map assigns each sephirah of the Kabbalistic Tree of Life to a zone of New York City.",
+      "Central Park as Keter. The Financial District as Malkuth. Da'ath is the subway: present everywhere, named nowhere on the official routes.",
+      "The map is available as a diagram on the /map page. Each district has its own page with full attributes, NYC correspondence, and associated archive material.",
+      "The outer boroughs are listed separately. They are not on the Tree. They are adjacent to it.",
+    ],
+  },
 ];
 
 export function getProject(slug: string): Project | undefined {
