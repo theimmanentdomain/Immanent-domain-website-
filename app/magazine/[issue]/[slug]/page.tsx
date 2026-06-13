@@ -26,8 +26,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ issue:
       <div className="page-body">
         <div className="article-header">
           <p className="article-header__breadcrumb">
+            <Link href="/magazine" style={{ textDecoration: "none" }}>
+              The Scene Made Me Do It
+            </Link>
+            {" / "}
             <Link href={`/magazine/${issueSlug}`} style={{ textDecoration: "none" }}>
-              {issue?.number} / {issue?.title}
+              {issue?.title}
             </Link>
           </p>
           <h1 className="article-header__title">{article.title}</h1>

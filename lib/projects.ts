@@ -2,7 +2,7 @@ export interface Project {
   slug: string;
   title: string;
   type: string;
-  status: "previous" | "upcoming" | "in-development";
+  status: "previous" | "upcoming" | "in-development" | "active";
   statusLabel: string;
   shortDescription: string;
   body: string[];
@@ -12,6 +12,21 @@ export interface Project {
 }
 
 export const projects: Project[] = [
+  {
+    slug: "the-scene-made-me-do-it",
+    title: "The Scene Made Me Do It",
+    type: "Magazine / Publication",
+    status: "active",
+    statusLabel: "Active",
+    shortDescription: "The magazine of The Immanent Domain. On persona, conversation, and the city as a haunted operating system.",
+    body: [
+      "The Scene Made Me Do It is the magazine of The Immanent Domain.",
+      "It publishes essays, field reports, conversations, noir documents, posters, and forms that do not fit existing categories.",
+      "Issue One: Forget It, Jake, It's Chinatown.",
+    ],
+    sephirah: "Hod",
+    tags: ["magazine", "publication", "downtown", "culture"],
+  },
   {
     slug: "the-moment-is-yours",
     title: "The Moment Is Yours",
@@ -45,20 +60,6 @@ export const projects: Project[] = [
     contactLine: "Production inquiries: theimmanentdomain@gmail.com",
   },
   {
-    slug: "forget-it-jake-magazine",
-    title: "Forget It, Jake, It's Chinatown",
-    type: "Magazine / Publication",
-    status: "in-development",
-    statusLabel: "In Development",
-    shortDescription: "The magazine of The Immanent Domain. On persona, conversation, and the city as a haunted operating system.",
-    body: [
-      "The magazine publishes essays, field reports, conversations, noir documents, posters, and forms that do not fit existing categories.",
-      "Issue One is forthcoming.",
-    ],
-    sephirah: "Hod",
-    tags: ["magazine", "publication", "downtown", "culture"],
-  },
-  {
     slug: "the-receipts",
     title: "The Receipts",
     type: "ARG / Institutional Archive",
@@ -73,15 +74,16 @@ export const projects: Project[] = [
     tags: ["ARG", "archive", "puzzle", "institutional"],
   },
   {
-    slug: "nyc-sephiroth-map",
-    title: "NYC Sephiroth Map",
+    slug: "cryptographic-map",
+    title: "The Cryptographic Map Project",
     type: "Cartography / Occult Infrastructure",
     status: "in-development",
     statusLabel: "In Development",
     shortDescription: "A Kabbalistic mapping of Manhattan and the outer boroughs onto the Tree of Life.",
     body: [
-      "The NYC Sephiroth Map assigns each sephirah of the Tree of Life to a zone of New York City.",
+      "The Cryptographic Map Project assigns each sephirah of the Tree of Life to a zone of New York City.",
       "Da'ath is the subway. Present everywhere. Named nowhere on the official routes.",
+      "The map is a proposition about how power, memory, and territory organize themselves in a city that refuses to be fully legible.",
     ],
     sephirah: "Keter",
     tags: ["map", "kabbalah", "cartography", "NYC"],

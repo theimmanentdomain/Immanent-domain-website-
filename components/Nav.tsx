@@ -4,11 +4,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const links = [
+const primaryLinks = [
   { href: "/magazine", label: "Magazine" },
-  { href: "/map", label: "Map" },
   { href: "/projects", label: "Projects" },
-  { href: "/events", label: "Events" },
   { href: "/archive", label: "Archive" },
   { href: "/submit", label: "Submit" },
   { href: "/about", label: "About" },
@@ -21,8 +19,12 @@ export default function Nav() {
       <Link href="/" className="site-nav__mark" aria-label="The Immanent Domain">
         <Image src="/imdo-logo.png" alt="" width={28} height={28} />
       </Link>
-      {links.map(({ href, label }) => (
-        <Link key={href} href={href} className={pathname === href ? "active" : ""}>
+      {primaryLinks.map(({ href, label }) => (
+        <Link
+          key={href}
+          href={href}
+          className={pathname === href || pathname.startsWith(href + "/") ? "active" : ""}
+        >
           {label}
         </Link>
       ))}

@@ -1,43 +1,45 @@
 export interface Event {
-  slug: string;
+  id: string;
   title: string;
+  subtitle?: string;
   type: string;
-  status: "upcoming" | "previous" | "in-development";
-  statusLabel: string;
-  date?: string;
+  status: "upcoming" | "previous";
+  dateLabel?: string;
   venue?: string;
-  district?: string;
+  project?: string;
   description: string;
-  note?: string;
-  rsvpLink?: string;
+  inquiryEmail?: string;
 }
 
 export const events: Event[] = [
   {
-    slug: "the-moment-is-yours",
+    id: "the-moment-is-yours-001",
     title: "The Moment Is Yours",
-    type: "Performance / Hypnosis / Time Magic",
+    type: "Performance / Attention Experiment",
     status: "upcoming",
-    statusLabel: "Forthcoming",
-    description: "An Immanent Domain performance event. Attention, timing, and the strange authority of the present tense.",
-    note: "Date and venue to be announced.",
+    dateLabel: "Date forthcoming",
+    project: "The Moment Is Yours",
+    description: "A structured encounter with the present moment. No phones. No recording. No documentation of what occurs inside. Participants and performers inside the same room for the duration.",
+    inquiryEmail: "theimmanentdomain@gmail.com",
   },
   {
-    slug: "your-ulterior-motives",
+    id: "your-ulterior-motives-001",
     title: "Your Ulterior Motives",
-    type: "Performance / Public Program",
-    status: "previous",
-    statusLabel: "Previous",
-    description: "An Immanent Domain public program concerned with hidden reasons, visible behavior, confession, and the social uses of motive.",
-    note: "Documentation forthcoming.",
+    subtitle: "A program on hidden reasons and visible behavior.",
+    type: "Public Program",
+    status: "upcoming",
+    dateLabel: "Date forthcoming",
+    description: "A public program concerned with hidden reasons, visible behavior, confession, and the social uses of motive. Format and venue to be announced.",
+    inquiryEmail: "theimmanentdomain@gmail.com",
   },
   {
-    slug: "psychic-spies-screening",
+    id: "psychic-spies-wip-001",
     title: "Psychic Spies for Hire: Work in Progress",
-    type: "Film Screening / Q&A",
-    status: "in-development",
-    statusLabel: "In Development",
-    description: "A work-in-progress screening of Psychic Spies for Hire with discussion.",
-    note: "Details forthcoming.",
+    type: "Film / Work in Progress Screening",
+    status: "upcoming",
+    dateLabel: "Date forthcoming",
+    project: "Psychic Spies for Hire",
+    description: "A work-in-progress screening and conversation for Psychic Spies for Hire.",
+    inquiryEmail: "theimmanentdomain@gmail.com",
   },
 ];

@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { issues } from "@/lib/issues";
-import { articles } from "@/lib/articles";
 
 export const metadata: Metadata = {
-  title: "Forget It, Jake, It's Chinatown",
-  description: "A magazine operating in the frequency between downtown anthropology and occult infrastructure.",
+  title: "The Scene Made Me Do It",
+  description: "The magazine of The Immanent Domain. Persona, conversation, and the city as a haunted operating system.",
 };
 
 const categories = [
@@ -16,15 +15,14 @@ const categories = [
 
 export default function MagazinePage() {
   const issue = issues[0];
-  const recentArticles = articles.slice(0, 3);
 
   return (
     <div className="site-wrapper">
       <div className="page-body">
         <div className="page-title-block">
-          <span className="section-label">The Magazine</span>
+          <span className="section-label">The Immanent Domain</span>
           <h1 className="page-title" style={{ textTransform: "none", letterSpacing: "0.01em" }}>
-            Forget It, Jake, It&apos;s Chinatown
+            The Scene Made Me Do It
           </h1>
           <p className="page-title__sub">
             A magazine operating in the frequency between downtown anthropology and occult infrastructure.
@@ -34,7 +32,7 @@ export default function MagazinePage() {
         </div>
 
         <div style={{ marginBottom: "var(--space-xl)" }}>
-          <span className="section-label">Categories</span>
+          <span className="section-label">Departments</span>
           <div className="tag-list" style={{ marginTop: "var(--space-sm)" }}>
             {categories.map((cat) => (
               <span key={cat} className="tag">{cat}</span>
@@ -69,6 +67,15 @@ export default function MagazinePage() {
                 </li>
               ))}
             </ul>
+
+            <div style={{ marginTop: "var(--space-xl)" }}>
+              <Link
+                href={`/magazine/${issue.slug}/assignment-board`}
+                style={{ fontSize: "var(--text-sm)", color: "var(--fg-dim)" }}
+              >
+                Assignment Board &rarr;
+              </Link>
+            </div>
           </div>
         )}
 

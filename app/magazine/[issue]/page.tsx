@@ -23,7 +23,7 @@ export default async function IssuePage({ params }: { params: Promise<{ issue: s
     <div className="site-wrapper">
       <div className="page-body">
         <div className="page-title-block">
-          <span className="section-label">{issue.number}</span>
+          <span className="section-label">The Scene Made Me Do It / {issue.number}</span>
           <h1 className="page-title" style={{ textTransform: "none", letterSpacing: "0.01em" }}>
             {issue.title}
           </h1>
@@ -51,8 +51,11 @@ export default async function IssuePage({ params }: { params: Promise<{ issue: s
         </ul>
 
         <hr style={{ borderColor: "var(--rule)", margin: "var(--space-xl) 0" }} />
+        <p style={{ fontSize: "var(--text-sm)", color: "var(--fg-dim)", marginBottom: "var(--space-md)" }}>
+          <Link href={`/magazine/${issue.slug}/assignment-board`}>Assignment Board &rarr;</Link>
+        </p>
         <p style={{ fontSize: "var(--text-sm)", color: "var(--fg-dim)" }}>
-          <Link href="/magazine">&larr; All Issues</Link>
+          <Link href="/magazine">&larr; The Scene Made Me Do It</Link>
         </p>
       </div>
     </div>

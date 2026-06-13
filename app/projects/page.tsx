@@ -8,6 +8,7 @@ export const metadata: Metadata = {
 };
 
 const sections = [
+  { status: "active" as const, label: "Active" },
   { status: "upcoming" as const, label: "Upcoming" },
   { status: "in-development" as const, label: "In Development" },
   { status: "previous" as const, label: "Previous" },
