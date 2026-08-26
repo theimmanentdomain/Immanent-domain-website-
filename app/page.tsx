@@ -1,93 +1,217 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 
-type Project = {
+type Record = {
   id: string;
+  family: string;
   title: string;
-  type:
-    | "FILM"
-    | "PUBLICATION"
-    | "PERFORMANCE"
-    | "PROJECT"
-    | "SCREENING"
-    | "EXHIBITION"
-    | "TEXT"
-    | "DOCUMENT";
-  status: "CURRENT" | "PAST";
+  format: string;
+  status: string;
   date: string;
-  descriptor: string;
-  body?: string;
-  note: string;
+  description: string;
+  credits: string;
+  artifact: string;
+  plate: "interview" | "magazine" | "dossier";
 };
 
-const projects: Project[] = [
-  { id: "001", title: "PSYCHIC SPIES FOR HIRE", type: "FILM", status: "CURRENT", date: "2026", descriptor: "A film by The Immanent Domain.", note: "Additional material pending public release." },
-  { id: "002", title: "I BLAME DOWNTOWN", type: "PUBLICATION", status: "CURRENT", date: "2026", descriptor: "Essays, interviews, criticism, dispatches, literature, photography, documents.", note: "First issue material pending public release." },
-  { id: "003", title: "THE MOMENT IS YOURS", type: "PERFORMANCE", status: "CURRENT", date: "FORTHCOMING", descriptor: "Readings, performance, screening, movement, and live social form.", note: "Event material pending public release." },
-  { id: "004", title: "LIT DUNGEON", type: "PROJECT", status: "CURRENT", date: "ACTIVE DEVELOPMENT", descriptor: "An immersive literary event.", note: "Material pending public release." },
-  { id: "005", title: "NIGHTMARE CYCLE", type: "SCREENING", status: "CURRENT", date: "ACTIVE DEVELOPMENT", descriptor: "A hosted cycle of short films and live presentation.", note: "Program information pending public release." },
-  { id: "006", title: "YUM", type: "EXHIBITION", status: "PAST", date: "APRIL 12, 2026", descriptor: "YUM: YOUR ULTERIOR MOTUS. Previous IMDO show.", note: "Public event record. Additional media remains in the private archive." },
-  { id: "007", title: "THE BODY AFTER THE OMEN", type: "TEXT", status: "CURRENT", date: "2026", descriptor: "Brilliance is a product. Genius is communication.", body: "Brilliance can be marketed, displayed, praised, collected, ranked, and exhausted. Genius does something else. Genius continues moving. It reorganizes perception. It changes the condition of the viewer. It turns looking into reception.", note: "An IMDO text on art as communication." },
-  { id: "008", title: "A DECLARATION OF INTENT", type: "DOCUMENT", status: "CURRENT", date: "2026", descriptor: "A public declaration by The Immanent Domain.", body: "We affirm the work that alters the room by entering it. We affirm the image, the poem, the event, the gesture, and the symbol that reorder perception and leave their residue upon the mind.", note: "Public doctrine. Network and operating structure omitted." },
-  { id: "009", title: "SENTIENCE. SAPIENCE. SALIENCE.", type: "DOCUMENT", status: "PAST", date: "ARCHIVE", descriptor: "A manifesto fragment from the IMDO archive.", body: "The streets, the internet, anywhere and everywhere is the stage. We band together to create and distribute novelty and perspective, and to dismantle the cynicism of the postmodern.", note: "Archive document. Language standardized to the current IMDO name." },
+const records: Record[] = [
+  {
+    id: "001",
+    family: "FIELD INTERVIEW 001",
+    title: "Ulrika Anderson: On Process, Attention, and the Work of Seeing",
+    format: "VIDEO / INTERVIEW",
+    status: "IN PRODUCTION",
+    date: "MAY 13, 2026",
+    description:
+      "A field interview with Ulrika Anderson on artistic process, attention, perception, and practice.",
+    credits: "Ulrika Anderson / Edward Pankov, interviewer and editor",
+    artifact: "YOUTUBE RELEASE IN PREPARATION.",
+    plate: "interview",
+  },
+  {
+    id: "002",
+    family: "SITREP / VOLUME ONE",
+    title: "Blame It On Downtown",
+    format: "MAGAZINE / RELEASE ISSUE",
+    status: "IN PREPARATION",
+    date: "2026",
+    description:
+      "The release issue of SitRep, an ongoing magazine of local goings-on through articles, dispatches, unsigned reviews, and criticism.",
+    credits: "SitRep / The Immanent Domain",
+    artifact: "RELEASE ISSUE IN PREPARATION. SITREP PUBLISHES UNSIGNED HOUSE CRITICISM.",
+    plate: "magazine",
+  },
+  {
+    id: "003",
+    family: "FIELD NOTE 001",
+    title: "The 21st-Century Mystic",
+    format: "PUBLIC DOSSIER / DECK",
+    status: "ARCHIVED",
+    date: "MAY 24, 2026",
+    description:
+      "A public dossier on Edward Pankov’s practice across tarot, hypnosis, meditation, magickal development, performance, housing work, New York, lineage, and private work.",
+    credits: "Edward Pankov",
+    artifact: "PUBLIC DECK IN PREPARATION.",
+    plate: "dossier",
+  },
 ];
 
-const categories = ["ALL", "FILM", "PUBLICATION", "PERFORMANCE", "PROJECT", "SCREENING", "EXHIBITION", "TEXT", "DOCUMENT"] as const;
-
-function Mark() {
-  return <span className="mark" aria-hidden="true"><i>i</i>D</span>;
-}
-
-function Plate({ project }: { project: Project }) {
-  switch (project.id) {
-    case "001":
-      return <div className="plate plate-psychic"><span className="psychic-kicker">A FILM</span><span className="psychic-line">PSYCHIC</span><span className="psychic-line psychic-line-mid">SPIES</span><span className="psychic-line">FOR HIRE</span><span className="psychic-registration">IMDO / MOTION PICTURE</span></div>;
-    case "002":
-      return <div className="plate plate-downtown"><div className="downtown-head">I BLAME</div><div className="downtown-body"><span>DISPATCH</span><b>DOWNTOWN</b><span>PUBLICATION / IMDO</span></div><div className="downtown-columns" aria-hidden="true"><span>TEXT TEXT TEXT TEXT TEXT</span><span>IMAGE DOCUMENT REPORT</span><span>NEW MATERIAL IN ORDER</span></div></div>;
-    case "003":
-      return <div className="plate plate-moment"><span className="moment-small">THE MOMENT IS</span><span className="moment-now">YOURS</span><span className="moment-foot">PERFORMANCE / CURRENT</span></div>;
-    case "004":
-      return <div className="plate plate-dungeon"><span className="dungeon-counter">004 / CURRENT</span><div className="dungeon-box"><span>LIT</span><span>DUNGEON</span></div><span className="dungeon-foot">PROJECT FILE OPEN</span></div>;
-    case "005":
-      return <div className="plate plate-nightmare"><div className="nightmare-cross" aria-hidden="true"/><span className="nightmare-a">NIGHT</span><span className="nightmare-b">MARE</span><span className="nightmare-c">CYCLE</span><span className="nightmare-foot">SCREENING / CURRENT</span></div>;
-    case "006":
-      return <div className="plate plate-yum"><span className="yum-word">YUM</span><div className="yum-rule" aria-hidden="true"/><span className="yum-foot">ARCHIVE / PREVIOUS SHOW</span></div>;
-    case "007":
-      return <div className="plate plate-body"><span className="body-kicker">TEXT / IMDO / 2026</span><span className="body-line">BRILLIANCE</span><span className="body-is">IS A PRODUCT.</span><span className="body-line body-line-genius">GENIUS</span><span className="body-is">IS COMMUNICATION.</span></div>;
-    case "008":
-      return <div className="plate plate-declaration"><span className="declaration-kicker">DOCUMENT / 2026</span><span className="declaration-repeat">WE AFFIRM / WE AFFIRM / WE AFFIRM</span><span className="declaration-title">A DECLARATION<br/>OF INTENT</span><span className="declaration-foot">BY THE IMMANENT DOMAIN</span></div>;
-    default:
-      return <div className="plate plate-sentience"><span className="sentience-word">SENTIENCE.</span><span className="sentience-word">SAPIENCE.</span><span className="sentience-word">SALIENCE.</span><span className="sentience-foot">MANIFESTO FRAGMENT / ARCHIVE</span></div>;
+function Plate({ record }: { record: Record }) {
+  if (record.plate === "interview") {
+    return (
+      <div className="plate plate-interview" aria-hidden="true">
+        <span>FIELD INTERVIEW</span>
+        <strong>ULRIKA<br />ANDERSON</strong>
+        <i>ON PROCESS / ATTENTION / SEEING</i>
+        <b>001</b>
+      </div>
+    );
   }
+
+  if (record.plate === "magazine") {
+    return (
+      <div className="plate plate-magazine" aria-hidden="true">
+        <span>SITREP</span>
+        <strong>BLAME IT<br />ON DOWNTOWN</strong>
+        <i>VOLUME ONE / RELEASE ISSUE</i>
+        <b>002</b>
+      </div>
+    );
+  }
+
+  return (
+    <div className="plate plate-dossier" aria-hidden="true">
+      <span>FIELD NOTE 001</span>
+      <strong>THE<br />21ST-CENTURY<br />MYSTIC</strong>
+      <i>PUBLIC DOSSIER / DECK</i>
+      <b>003</b>
+    </div>
+  );
 }
 
-function ProjectCard({ project, onOpen }: { project: Project; onOpen: (project: Project) => void }) {
-  return <button className={`project-card project-card-${project.id}`} type="button" onClick={() => onOpen(project)} aria-label={`Open ${project.title}, ${project.type}`}><Plate project={project}/><span className="project-caption"><span className="project-number">{project.id}</span><span className="project-title">{project.title}</span><span className="project-type">{project.type}</span><span className="project-open">OPEN FILE ↗</span></span></button>;
-}
+function RecordPanel({ record, onClose }: { record: Record; onClose: () => void }) {
+  useEffect(() => {
+    const onKeyDown = (event: KeyboardEvent) => event.key === "Escape" && onClose();
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [onClose]);
 
-function Dossier({ project, onClose, onNext }: { project: Project; onClose: () => void; onNext: () => void }) {
-  return <div className="dossier-backdrop" role="dialog" aria-modal="true" aria-label={project.title} onMouseDown={(event) => { if (event.currentTarget === event.target) onClose(); }}><article className="dossier"><header className="dossier-topbar"><span>FILE {project.id} / PUBLIC</span><button type="button" onClick={onClose} aria-label="Close project file">CLOSE ×</button></header><div className="dossier-grid"><div className="dossier-visual"><Plate project={project}/></div><div className="dossier-copy"><p>{project.type}</p><h2>{project.title}</h2><p className="dossier-descriptor">{project.descriptor}</p>{project.body && <p className="dossier-body">{project.body}</p>}<dl><div><dt>STATUS</dt><dd>{project.status}</dd></div><div><dt>FORMAT</dt><dd>{project.type}</dd></div><div><dt>DATE</dt><dd>{project.date}</dd></div><div><dt>RECORD</dt><dd>IMDO—{project.id}</dd></div></dl><p className="clearance-note">{project.note}</p><button type="button" className="next-file" onClick={onNext}>NEXT FILE →</button></div></div></article></div>;
+  return (
+    <div className="record-panel" role="dialog" aria-modal="true" aria-label={record.title}>
+      <button className="panel-scrim" onClick={onClose} aria-label="Close record" />
+      <article className="panel-body">
+        <button className="close-button" onClick={onClose}>CLOSE ×</button>
+        <Plate record={record} />
+        <div className="panel-copy">
+          <p className="eyebrow">{record.family}</p>
+          <h2>{record.title}</h2>
+          <dl>
+            <div><dt>TYPE</dt><dd>{record.format}</dd></div>
+            <div><dt>DATE</dt><dd>{record.date}</dd></div>
+            <div><dt>STATUS</dt><dd>{record.status}</dd></div>
+          </dl>
+          <p>{record.description}</p>
+          <p className="credits">{record.credits}</p>
+          <p className="artifact">{record.artifact}</p>
+        </div>
+      </article>
+    </div>
+  );
 }
 
 export default function Home() {
-  const [activeProject, setActiveProject] = useState<Project | null>(null);
-  const [category, setCategory] = useState<(typeof categories)[number]>("ALL");
-  const [view, setView] = useState<"PLATES" | "REGISTER">("PLATES");
-  const filteredProjects = useMemo(() => category === "ALL" ? projects : projects.filter((project) => project.type === category), [category]);
+  const [activeRecord, setActiveRecord] = useState<Record | null>(null);
 
-  useEffect(() => {
-    const onKeyDown = (event: KeyboardEvent) => { if (event.key === "Escape") setActiveProject(null); };
-    window.addEventListener("keydown", onKeyDown);
-    return () => window.removeEventListener("keydown", onKeyDown);
-  }, []);
+  return (
+    <main>
+      <header className="site-header">
+        <a className="wordmark" href="#top">THE IMMANENT DOMAIN</a>
+        <nav aria-label="Primary navigation">
+          <a href="#work">WORK</a>
+          <a href="#archive">ARCHIVE</a>
+          <a href="#engage">ENGAGE</a>
+        </nav>
+      </header>
 
-  const nextProject = () => {
-    if (!activeProject) return;
-    const currentIndex = projects.findIndex((project) => project.id === activeProject.id);
-    setActiveProject(projects[(currentIndex + 1) % projects.length]);
-  };
+      <section className="hero" id="top">
+        <p className="eyebrow">NEW YORK / EST. 2026</p>
+        <h1>THE<br />IMMANENT<br />DOMAIN</h1>
+        <div className="hero-bottom">
+          <p>INDEPENDENT CULTURAL-INTELLIGENCE AGENCY AND BROKERAGE.</p>
+          <p>Creative solutions for small business. Cultural intelligence and private consultation by request.</p>
+        </div>
+      </section>
 
-  return <div className="site-shell"><header className="site-header"><a className="brand" href="#index" aria-label="The Immanent Domain — index"><Mark/><span className="brand-name">THE IMMANENT DOMAIN</span></a><nav aria-label="Primary navigation"><a href="#index">INDEX</a><a href="#work">WORK</a><a href="#archive">ARCHIVE</a><a href="#contact">CONTACT</a></nav></header><main><section className="index-section" id="index" aria-labelledby="index-title"><div className="index-heading"><p>PUBLIC INDEX / 001—009</p><h1 id="index-title">THE IMMANENT DOMAIN</h1><p className="index-status">NEW YORK / 2026</p></div><div className="project-grid" id="work">{projects.map((project) => <ProjectCard key={project.id} project={project} onOpen={setActiveProject}/>)}</div></section><div className="running-line" aria-hidden="true"><span>FILM</span><span>PUBLICATION</span><span>PERFORMANCE</span><span>PROJECT</span><span>SCREENING</span><span>ARCHIVE</span></div><section className="archive-section" id="archive" aria-labelledby="archive-title"><div className="section-head"><div><p className="eyebrow">PUBLIC REGISTER</p><h2 id="archive-title">ARCHIVE</h2></div><div className="view-toggle" aria-label="Archive display">{(["PLATES", "REGISTER"] as const).map((option) => <button key={option} type="button" className={view === option ? "is-active" : ""} aria-pressed={view === option} onClick={() => setView(option)}>{option}</button>)}</div></div><div className="filters" aria-label="Filter archive">{categories.map((option) => <button key={option} type="button" className={category === option ? "is-active" : ""} aria-pressed={category === option} onClick={() => setCategory(option)}>{option}</button>)}</div>{view === "PLATES" ? <div className="archive-plates" aria-live="polite">{filteredProjects.map((project) => <button key={project.id} type="button" onClick={() => setActiveProject(project)}><span>{project.id}</span><b>{project.title}</b><span>{project.type}</span><span>{project.status}</span></button>)}</div> : <div className="archive-register" aria-live="polite"><div className="register-row register-head"><span>FILE</span><span>TITLE</span><span>TYPE</span><span>STATUS</span></div>{filteredProjects.map((project) => <button key={project.id} type="button" className="register-row" onClick={() => setActiveProject(project)}><span>{project.id}</span><b>{project.title}</b><span>{project.type}</span><span>{project.status}</span></button>)}</div>}<p className="archive-note">PUBLIC MATERIAL ONLY. RECORDS EXPAND AS WORK IS CLEARED FOR RELEASE.</p></section><section className="contact-section" id="contact" aria-labelledby="contact-title"><p className="eyebrow">DIRECT LINE</p><h2 id="contact-title">CONTACT</h2><div className="contact-copy"><p>PUBLIC CONTACT CHANNEL FORTHCOMING.</p><p>THE IMMANENT DOMAIN / NEW YORK / 2026</p></div></section></main><footer><Mark/><span>THE IMMANENT DOMAIN</span><span>INDEX UPDATED 2026</span></footer>{activeProject && <Dossier project={activeProject} onClose={() => setActiveProject(null)} onNext={nextProject}/>}</div>;
+      <section className="intro">
+        <p>
+          The Immanent Domain connects people, information, art, resources, and opportunities, then turns those connections into concrete work.
+        </p>
+      </section>
+
+      <section className="work-section" id="work">
+        <div className="section-heading">
+          <p className="eyebrow">SELECTED WORK</p>
+          <p>001—003 / CURRENT PUBLIC RECORD</p>
+        </div>
+        <div className="work-grid">
+          {records.map((record) => (
+            <button className="work-card" key={record.id} onClick={() => setActiveRecord(record)}>
+              <Plate record={record} />
+              <span className="card-meta">{record.id} / {record.format}</span>
+              <h2>{record.title}</h2>
+              <span className="card-action">OPEN RECORD ↗</span>
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section className="doctrine" aria-label="Doctrine">
+        <p>BRILLIANCE IS A PRODUCT.</p>
+        <p>GENIUS IS COMMUNICATION.</p>
+      </section>
+
+      <section className="archive-section" id="archive">
+        <div className="section-heading">
+          <p className="eyebrow">ARCHIVE</p>
+          <p>FILES OPEN ON REQUEST</p>
+        </div>
+        <div className="archive-list">
+          {records.map((record) => (
+            <button key={record.id} className="archive-row" onClick={() => setActiveRecord(record)}>
+              <span>{record.id}</span>
+              <span>{record.title}</span>
+              <span>{record.format}</span>
+              <span>{record.status}</span>
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section className="engage" id="engage">
+        <p className="eyebrow">REQUEST / CONTACT</p>
+        <h2>ENGAGE THE DOMAIN.</h2>
+        <div className="engage-grid">
+          <div>
+            <h3>CREATIVE SOLUTIONS</h3>
+            <p>For small business: branding, advertising, events, websites, business development, intelligence, and strategy.</p>
+          </div>
+          <div>
+            <h3>PRIVATE CONSULTATION</h3>
+            <p>For matters personal, business, political, social, and spiritual.</p>
+          </div>
+        </div>
+        <p className="contact-direction">FOR PROJECTS, INTELLIGENCE, COLLABORATION, PRODUCTION, OR OTHER SERIOUS PROPOSITIONS.</p>
+        <a className="contact-link" href="mailto:theimmanentdomain@gmail.com">THEIMMANENTDOMAIN@GMAIL.COM</a>
+      </section>
+
+      <footer>
+        <span>© 2026 THE IMMANENT DOMAIN</span>
+        <span>NEW YORK</span>
+      </footer>
+
+      {activeRecord && <RecordPanel record={activeRecord} onClose={() => setActiveRecord(null)} />}
+    </main>
+  );
 }
 
