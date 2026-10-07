@@ -1,0 +1,64 @@
+{
+  "id": "2026-10-07-1130-research",
+  "series": "research",
+  "scheduledAt": "2026-10-07T11:30:00-04:00",
+  "publishedAt": "2026-10-07T15:33:25.792Z",
+  "title": "Machine Intuition Research Brief — October 7, 2026",
+  "sections": [
+    {
+      "title": "Machine Intuition Research",
+      "entries": [
+        {
+          "title": "SemEval-2026 Task 12: Abductive Event Reasoning",
+          "sourceUrl": "https://arxiv.org/abs/2603.21720",
+          "sourceDate": "Submitted March 23, 2026; newly identified.",
+          "development": "The authors introduce an evidence-grounded benchmark that asks systems to select the most plausible direct cause of a target event from distributed supporting material and non-causal distractors. The shared task drew 122 participants and 518 submissions.",
+          "significance": "This is a close formal analogue to Pattern Sense followed by Inference Engine review: candidate relationships must be distinguished from background correlation and semantic resemblance.",
+          "implications": "Build an internal evaluation set with direct causes, enabling conditions, common causes and merely related facts labeled separately. Score retrieval and causal selection independently.",
+          "uncertainty": "The benchmark is multiple choice and rewards one selected cause. Real investigations may contain several interacting causes or no adequate candidate."
+        },
+        {
+          "title": "Leveraging Large Language Models for Causal Discovery: a Constraint-based, Argumentation-driven Approach",
+          "sourceUrl": "https://arxiv.org/abs/2602.16481",
+          "sourceDate": "Submitted February 18, 2026; newly identified.",
+          "development": "Causal Assumption-based Argumentation combines conditional-independence evidence with structural priors elicited from an LLM. The authors report state-of-the-art benchmark performance and add a protocol intended to reduce memorization bias.",
+          "significance": "The method treats language-model knowledge as defeasible expert testimony rather than causal truth, while preserving a symbolic account of which constraints support each graph.",
+          "implications": "Let Pattern Sense propose directional priors with explicit source and confidence. The Inference Engine should accept, reject or leave edges unresolved according to statistical constraints, retaining the argument trail.",
+          "uncertainty": "Results use standard benchmarks and semantically grounded synthetic graphs. Performance on sparse, contested OSINT evidence is unproven."
+        },
+        {
+          "title": "Automated Hypothesis Validation with Agentic Sequential Falsifications",
+          "sourceUrl": "https://openreview.net/forum?id=iTevNo8PzG&noteId=GBDdyUcJvh",
+          "sourceDate": "Published May 1, 2025; modified June 18, 2025; newly identified.",
+          "development": "POPPER converts a free-form hypothesis into measurable implications, designs sequential falsification tests and applies Type-I error control across observations. The authors report six-domain evaluations, comparable biological-hypothesis validation to human scientists and roughly tenfold time reduction.",
+          "significance": "It supplies a rigorous answer to hypothesis proliferation: Machine Intuition can generate freely, but promotion should depend on surviving pre-specified attempts at disconfirmation.",
+          "implications": "For each Inference Engine hypothesis, create a falsification queue, define stopping rules before testing and prevent repeated searches from silently inflating confidence.",
+          "uncertainty": "Agents may choose weak or redundant tests, and the headline comparison to scientists is domain- and task-dependent. Statistical error control does not guarantee valid measurement."
+        },
+        {
+          "title": "Extending Complex Logical Queries on Uncertain Knowledge Graphs",
+          "sourceUrl": "https://openreview.net/forum?id=pUSTQEyXPJ",
+          "sourceDate": "Published January 1, 2025; modified September 18, 2025; newly identified.",
+          "development": "The paper introduces soft logical queries over incomplete, uncertain knowledge graphs and combines forward inference with backward calibration. The authors provide a theoretical argument against catastrophic cascading error while retaining the complexity of existing first-order query methods, plus benchmark experiments.",
+          "significance": "Pattern Sense often composes several individually weak links. This work directly addresses how uncertainty should travel through multi-hop relational queries instead of being replaced by a single opaque score.",
+          "implications": "Represent relations as graded assertions, propagate uncertainty during candidate discovery, then calibrate backward from the query before Second Sight displays a conclusion.",
+          "uncertainty": "The formal guarantees depend on the model assumptions and tested query language. They do not address deceptive sources, correlated reports or temporal change by themselves."
+        },
+        {
+          "title": "The Bayesian audit: evaluating the proportionality of scientific claims to evidence",
+          "sourceUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1799078/full",
+          "sourceDate": "Published June 2026; newly identified.",
+          "development": "The authors propose a six-step claim-centered audit: isolate the claim, state priors, translate evidence into a likelihood measure, update to a posterior, test sensitivity across plausible priors and write a conclusion proportional to the result. A social-priming case illustrates the procedure.",
+          "significance": "The framework connects evidentiary calculation to language discipline. It prevents a modest probability update from becoming an absolute public claim.",
+          "implications": "Add an audit object to the Inference Engine containing claim text, alternatives, prior range, Bayes factor or likelihood proxy, posterior range, sensitivity result and an allowed-language tier.",
+          "uncertainty": "The paper is methodological and illustrative, not a new empirical validation study. Priors and likelihood approximations remain contestable, and poor source data cannot be repaired by Bayesian arithmetic."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Build a small abductive benchmark from past IMDO cases with direct cause, enabling condition, common cause and non-causal association labels.",
+    "Prototype a hypothesis record that combines defeasible edge arguments, a pre-registered falsification queue and sequential error control.",
+    "Define public-language tiers tied to posterior ranges and sensitivity results rather than a single confidence number."
+  ]
+}
