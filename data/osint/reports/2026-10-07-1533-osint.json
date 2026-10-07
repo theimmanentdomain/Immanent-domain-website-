@@ -1,0 +1,261 @@
+{
+  "id": "2026-10-07-1533-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-07T15:33:00-04:00",
+  "publishedAt": "2026-10-07T15:33:26-04:00",
+  "title": "IMDO OSINT — October 7, 2026 — 3:33 PM New York",
+  "sections": [
+    {
+      "name": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Ukraine strike toll rises from 20 to at least 25",
+          "sourceUrl": "https://www.reuters.com/world/europe/russia-strikes-ukraines-kyiv-fresh-wave-attacks-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "development": "Reuters updated the death toll from the morning edition’s 20 to at least 25 after overnight Russian attacks on Kyiv and other regions. This is a material update to an earlier item, not a separate attack.",
+          "significance": "The rising count shows that early casualty figures were incomplete and that the strike’s civilian cost was greater than first reported.",
+          "implications": "Keep live-event records versioned, with timestamped casualty fields and explicit links between initial and revised reports.",
+          "uncertainty": "The toll may rise again as recovery and hospital reporting continue."
+        },
+        {
+          "title": "Hormuz tanker attacks reach the war’s highest weekly level",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/attacks-tankers-hormuz-hit-highest-any-week-since-start-iran-war-sources-say-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-09-28 through 2026-10-05",
+          "development": "Three maritime-security sources told Reuters that at least 12 tankers were attacked in the Strait of Hormuz during the week, the highest weekly total since the Iran war began.",
+          "significance": "The concentration of attacks raises shipping, insurance and energy-supply risks in a chokepoint where small disruptions can have outsized global effects.",
+          "uncertainty": "The count rests on security-source reporting; attribution and damage assessments vary by incident."
+        },
+        {
+          "title": "Saudi-Yemen front exposes fragmentation inside the anti-Houthi camp",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/wars-explosive-new-front-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "development": "A Reuters analysis describes government-aligned forces encircled in Taiz and widening fractures among Saudi-backed, Emirati-backed and local anti-Houthi factions.",
+          "significance": "The analysis suggests that military pressure is interacting with coalition fragmentation, complicating negotiations and Saudi reconstruction plans.",
+          "implications": "Track factional alignments separately from formal state blocs; coalition labels conceal competing command structures and territorial aims.",
+          "uncertainty": "This is analytical synthesis. Battlefield access is limited and some positions are based on partisan accounts."
+        },
+        {
+          "title": "West Bank olive harvest violence turns lethal",
+          "sourceUrl": "https://apnews.com/article/4c2cf27f819b6e36940f88a7af49ea78",
+          "sourceDate": "2026-10-07",
+          "development": "AP reported that Israeli settlers allegedly opened fire on Palestinian olive harvesters, killing a Palestinian officer and injuring 16 people.",
+          "significance": "Violence tied to the harvest season can accelerate displacement and economic loss while widening a conflict channel outside Gaza.",
+          "uncertainty": "The account includes allegations under investigation; responsibility and sequence should be updated as independent evidence emerges."
+        },
+        {
+          "title": "Iranian officials outline a broader retaliation ladder",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/iran-readies-harder-retaliation-if-attacked-diplomacy-faces-long-odds-2026-10-01/",
+          "sourceDate": "2026-10-01",
+          "development": "Newly discovered older analysis: senior Iranian officials told Reuters that a renewed attack could prompt strikes beyond US-linked targets, including states that materially support operations.",
+          "significance": "The stated doctrine widens the set of countries and infrastructure that may be exposed if escalation resumes.",
+          "implications": "Model escalation as a conditional target graph linking attackers, basing access, logistics and political support.",
+          "uncertainty": "These are attributed statements about intent, not confirmation of operational plans."
+        }
+      ]
+    },
+    {
+      "name": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "France suspends stun grenades during student protests",
+          "sourceUrl": "https://www.reuters.com/world/europe/france-suspends-use-stun-grenades-police-student-protests-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "development": "France suspended police use of stun grenades in student demonstrations after more than two weeks of protests; a government review of student demands is due by the end of October.",
+          "significance": "The suspension is a concrete tactical concession and an indicator that protest policing has become an election-period political liability.",
+          "uncertainty": "The measure is temporary and does not resolve the protesters’ substantive demands."
+        },
+        {
+          "title": "Spanish unions call a November 11 general strike over housing",
+          "sourceUrl": "https://www.reuters.com/business/world-at-work/spanish-unions-call-general-strike-november-11-weeks-before-snap-election-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-11-11",
+          "development": "Spanish unions called a nationwide strike over housing costs, eighteen days before the November 29 snap election.",
+          "significance": "Housing pressure is moving from a policy grievance into coordinated labor action with direct electoral timing.",
+          "implications": "Watch whether tenant groups, transport unions and public-sector workers converge around a common program rather than parallel protests."
+        },
+        {
+          "title": "Reuters/Ipsos finds broad US demand for tighter AI rules",
+          "sourceUrl": "https://www.reuters.com/world/most-us-voters-say-trump-congress-dont-take-ai-risks-seriously-reutersipsos-poll-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "development": "In a poll of 3,526 registered voters, 84% supported stricter AI regulation; 57% said the Trump administration and 54% said Congress were not taking AI risks seriously.",
+          "significance": "The result shows a large gap between public concern and confidence in current institutions, cutting across the narrower industry debate over voluntary safeguards.",
+          "uncertainty": "Poll responses measure stated attitudes, not issue salience or voting behavior."
+        },
+        {
+          "title": "Trump urges mail voting despite continuing fraud claims",
+          "sourceUrl": "https://www.reuters.com/world/us/trump-urges-supporters-vote-by-mail-despite-fraud-claims-2026-10-06/",
+          "sourceDate": "2026-10-06",
+          "development": "Trump urged supporters to vote by mail while continuing to repeat unsupported claims that the method is prone to fraud.",
+          "significance": "The shift reflects an organizational need to compete within existing voting rules even as the rhetoric continues to undermine trust in them.",
+          "uncertainty": "The practical effect depends on state-level campaign operations and whether supporters follow the new instruction."
+        },
+        {
+          "title": "Israeli Arab leader quits election race after court pressure",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-court-pressure-pushes-israeli-arab-leader-quit-election-race-2026-10-02/",
+          "sourceDate": "2026-10-02",
+          "development": "Newly discovered older report: an Israeli Arab political leader withdrew after the court indicated he was likely to be disqualified; he described the standard as discriminatory.",
+          "significance": "The withdrawal may alter Arab representation and coalition arithmetic while raising equal-treatment questions in candidate eligibility law.",
+          "uncertainty": "The court’s indication was not a final merits ruling, and the political effect remains contingent on turnout and party coordination."
+        }
+      ]
+    },
+    {
+      "name": "NYC Affairs",
+      "entries": [
+        {
+          "title": "No trash, compost or recycling collection on October 12",
+          "sourceUrl": "https://www.nyc.gov/site/dsny/news/26-042/no-trash-composting-recycling-collection-italian-heritage-day-indigenous-peoples-day-",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-12",
+          "development": "DSNY announced that curbside trash, compost and recycling collection will be suspended for Italian Heritage Day/Indigenous Peoples’ Day.",
+          "significance": "Residents and building staff need to hold material to avoid unnecessary sidewalk accumulation and summons risk.",
+          "uncertainty": "Confirm the next collection opportunity for the specific address in DSNY’s schedule tool."
+        },
+        {
+          "title": "Council weighs a relief fund for retailers hurt by road work",
+          "sourceUrl": "https://intro.nyc/0799-2026",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-07 11:00 EDT",
+          "development": "The Council’s Small Business Committee heard a proposal to create assistance for retail businesses harmed by prolonged street construction, alongside a state tax-credit resolution.",
+          "significance": "The proposal treats construction disruption as an economic-loss issue rather than only a traffic-management problem.",
+          "implications": "Affected merchants should preserve dated revenue, access and construction records if an eligibility process is later created.",
+          "uncertainty": "This was a hearing on proposed legislation, not an enacted benefit."
+        },
+        {
+          "title": "Council considers transferring pedicab oversight to TLC",
+          "sourceUrl": "https://intro.nyc/0993-2026",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-07 10:00 EDT",
+          "development": "A Council hearing considered moving pedicab licensing and regulation to the Taxi and Limousine Commission within a seven-bill package covering electric assist, curb space and theater-district operations.",
+          "significance": "A regulator change could reshape enforcement, vehicle standards and access to high-demand curb space.",
+          "uncertainty": "The bills remain proposals; final language and agency responsibilities may change."
+        },
+        {
+          "title": "NYC Emergency Management tests volunteer search-and-rescue capacity",
+          "sourceUrl": "https://www.nyc.gov/site/em/about/press-releases/20260610_pr_nycem_NYCEM-Conducts-CERT-Exercise-on-Coney-Island.page",
+          "sourceDate": "2026-10-06",
+          "eventDate": "2026-10-04",
+          "development": "NYC Emergency Management reported a Community Emergency Response Team search-and-rescue exercise on Coney Island involving trained civilian volunteers.",
+          "significance": "The exercise offers a public test of how neighborhood volunteers integrate with professional emergency structures before a coastal or infrastructure disaster.",
+          "uncertainty": "The release documents participation but does not provide an independent performance evaluation."
+        },
+        {
+          "title": "Shirley Chisholm Recreation Center reaches LEED v4 Platinum",
+          "sourceUrl": "https://www.nyc.gov/site/ddc/about/press-releases/2026/press-releases.page",
+          "sourceDate": "2026-10-06",
+          "development": "DDC announced that Brooklyn’s Shirley Chisholm Recreation Center is the first NYC public building to meet LEED v4 Platinum standards.",
+          "significance": "The project provides a city-owned reference case for applying stricter energy, water and materials standards to public facilities.",
+          "implications": "Community boards and capital-project advocates can use its specifications and operating data as a benchmark for future recreation and civic buildings.",
+          "uncertainty": "Certification measures design and documented performance categories; long-term operating results still require observation."
+        }
+      ]
+    },
+    {
+      "name": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Pleasure Dome: Continuum opens at SoMad",
+          "sourceUrl": "https://www.somad.nyc/happenings/pleasure-dome-continuum",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-07 and 2026-10-08",
+          "development": "SoMad presents the two-night continuation of Pleasure Dome, bringing visual and performance practices into a shared program with artists including Selena Surreal and Angel.",
+          "significance": "The format is useful for seeing how small venues build repeat audiences around mixed-media work rather than single-discipline bills.",
+          "uncertainty": "Admission, exact running times and remaining capacity were not confirmed in the accessible listing."
+        },
+        {
+          "title": "The City Reading Series convenes at P&T Knitwear",
+          "sourceUrl": "https://bookevents.nyc/events/the-city-reading-series-oct-9",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-09 18:30-20:00 EDT",
+          "development": "The City Reading Series holds an evening program at P&T Knitwear on the Lower East Side.",
+          "significance": "The series offers a compact point of entry into the independent literary network around bookstores, recurring readings and small publications.",
+          "uncertainty": "The accessible listing did not confirm admission cost; check the organizer page before attending."
+        },
+        {
+          "title": "Added Values opens at PS122 Gallery",
+          "sourceUrl": "https://newyorkhots.com/art/2026/09/added-vallues-a-generous-landscape-group-exhibition-at-ps122-october-8-31/",
+          "sourceDate": "2026-09-23",
+          "eventDate": "Opening 2026-10-08 18:00-20:00 EDT; exhibition through 2026-10-31",
+          "development": "The29.art, an intergenerational collective of self-identified women artists, opens a group exhibition spanning installation, film, performance, photography and sound at 150 First Avenue.",
+          "significance": "The accompanying program includes poetry, public conversation and performance, making the gallery a month-long collaboration site rather than a single opening.",
+          "uncertainty": "Some later-program participants were still listed as tentative."
+        },
+        {
+          "title": "PVMNT presents work across movement, art and ambient music",
+          "sourceUrl": "https://www.cprnyc.org/events",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-08",
+          "development": "Center for Performance Research lists PVMNT’s 'in interstitial spaces,' combining original visual work, ambient music and the collective’s evolving movement vocabulary.",
+          "significance": "The event is a direct example of independent choreography developing through interdisciplinary presentation and artist-run infrastructure.",
+          "uncertainty": "The accessible calendar did not expose a stable individual event URL, price or exact start time."
+        },
+        {
+          "title": "Horse Lords, Jules Reidy and Silk Fence at Pioneer Works",
+          "sourceUrl": "https://pioneer-works.org/",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-08",
+          "development": "Pioneer Works lists Horse Lords with Jules Reidy and Silk Fence in a bill connecting experimental rock, composition and local performance practice.",
+          "significance": "The lineup brings touring experimental music into contact with the Red Hook arts network and provides a useful map of adjacent artists and organizers.",
+          "uncertainty": "Confirm time, ticket price and availability on the organizer’s program page."
+        }
+      ]
+    },
+    {
+      "name": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Creative Practices and Bridging the Invisible conference",
+          "sourceUrl": "https://campusevents.charlotte.edu/event/conference-bridging-the-invisible",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-15 through 2026-10-17, online",
+          "development": "UNC Charlotte, Exeter’s Centre for Magic and Esotericism, Societas Magica and partners will hold an online conference on relationships among belief, magic and creative practice.",
+          "significance": "It offers a serious comparative setting for examining how artists convert symbolic or esoteric claims into repeatable practices and public works.",
+          "implications": "For The Interior, capture each presentation as claim, method, artifact and validation context rather than flattening symbolic testimony into empirical evidence.",
+          "uncertainty": "The conference studies practice and belief; participation does not establish supernatural efficacy."
+        },
+        {
+          "title": "DIADA mines multivariate dependence in data lakes",
+          "sourceUrl": "https://arxiv.org/abs/2610.01646",
+          "sourceDate": "2026-10-02",
+          "development": "The new paper proposes a data-composition system that maps attributes into a predicate lattice and searches for sets that violate an independence hypothesis.",
+          "significance": "This directly addresses Pattern Sense: weak relationships can emerge from combinations of attributes even when pairwise links look unremarkable.",
+          "implications": "Test a predicate-lattice discovery layer that scores dependence, records the null hypothesis and penalizes results for search breadth.",
+          "uncertainty": "The result is a preprint; benchmark behavior may not transfer to noisy, heterogeneous civic or cultural data."
+        },
+        {
+          "title": "PMI-weighted narrative networks seek structure beyond central actors",
+          "sourceUrl": "https://arxiv.org/abs/2610.06600",
+          "sourceDate": "2026-10-05",
+          "development": "A new paper uses pointwise mutual information to weight extracted narrative networks and recover communities built from disproportionately associated entities, including less central structures.",
+          "significance": "It offers Pattern Sense a route to detect small but distinctive clusters that conventional frequency or centrality rankings suppress.",
+          "implications": "Compare PMI-weighted communities with time-sliced baselines and require source-level evidence for each edge before surfacing a pattern.",
+          "uncertainty": "Automatic relation extraction can manufacture associations; low-frequency PMI is especially unstable without smoothing and minimum-support rules."
+        },
+        {
+          "title": "Large-scale benchmark finds sample consistency beats verbal confidence",
+          "sourceUrl": "https://arxiv.org/abs/2602.00279",
+          "sourceDate": "2026-01-30",
+          "development": "Newly discovered 2026 study: across 685,000 long-form responses, up to 20 models and seven scientific QA datasets, answer frequency across repeated samples produced the most reliable calibration; verbalized confidence was biased and poorly correlated with correctness.",
+          "significance": "The demonstrated result argues against treating an Inference Engine’s self-reported certainty as a score.",
+          "implications": "Estimate confidence from independent resampling, evidence agreement and error-ranking performance; report more than expected calibration error.",
+          "uncertainty": "The benchmark focuses on scientific QA, and repeated sampling increases latency and cost."
+        },
+        {
+          "title": "Ritual as folk technology includes contemporary AI divination",
+          "sourceUrl": "https://airess.fgses-um6p.ma/sites/default/files/2026-04/Abstract%20Book%20ces2026.pdf",
+          "sourceDate": "2026-04-11",
+          "development": "A CES 2026 conference abstract frames ritual as causally opaque but instrumentally tested 'folk technology,' drawing on ethnographic cases through contemporary AI divination.",
+          "significance": "The framing permits machine-magick interfaces to be studied through user adaptation, failure handling and efficacy tests without accepting or dismissing practitioners’ metaphysical explanations.",
+          "implications": "For a proposed oracle interface, log question framing, randomization, interpretation, later outcome coding and user revisions as separate stages.",
+          "uncertainty": "This is a conference abstract and theoretical proposal, not a demonstrated validation of divinatory claims."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Monitor whether the Hormuz attack cluster produces verified changes in insurer exclusions, naval escorts or shipping diversions.",
+    "Save the November 11 Spanish strike and October 15–17 Bridging the Invisible conference as watch dates.",
+    "Prototype a Pattern Sense comparison between pairwise correlation, PMI-weighted communities and DIADA-style multivariate dependence on one bounded dataset."
+  ]
+}
