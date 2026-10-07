@@ -1,10 +1,7 @@
-import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { site } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title: "Contact",
-  description: "Contact The Immanent Domain.",
-};
+export const metadata = pageMetadata("Contact | The Immanent Domain", "Contact The Immanent Domain about art projects, collaborations, events, and publication submissions.", "/contact");
 
 export default function ContactPage() {
   return (

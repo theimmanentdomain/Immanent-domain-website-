@@ -1,0 +1,3 @@
+import Link from "next/link";
+import { isPlayable, type MediaItem } from "@/lib/content";
+export default function MediaCard({ item }: { item: MediaItem }) { const playable = isPlayable(item); return <article className="media-record"><div className="media-record__plate" aria-hidden="true"><span>{item.type}</span><b>{item.title}</b><i>{item.status}</i></div><div className="media-record__meta"><span>{item.type}</span><span className={`status status--${item.status.toLowerCase().replaceAll(" ", "-")}`}>{item.status}</span></div><h2>{item.title}</h2><p>{item.summary}</p><Link className="record-link" href={`/work/${item.slug}`}>{playable ? "WATCH / OPEN RECORD" : "OPEN PROJECT RECORD"} →</Link></article>; }

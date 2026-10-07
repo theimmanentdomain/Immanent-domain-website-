@@ -4,6 +4,8 @@ import { notFound } from "next/navigation";
 import { projects, getProject } from "@/lib/projects";
 import TagList from "@/components/TagList";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return projects.map((p) => ({ slug: p.slug }));
 }

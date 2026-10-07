@@ -3,8 +3,8 @@ export const site = {
   shortName: "Immanent Domain",
   abbreviation: "IMDO",
   tagline: "A bastion for pirate artists in the Art War.",
-  institutionalLine: "Magazine. Archive. Agency. Brokerage. Church. Map. Gate.",
-  contact: "theimmanentdomain@gmail.com",
+  institutionalLine: "An independent arts agency in New York.",
+  contact: "immanentdomain@gmail.com",
   doctrine: [
     "All art is alchemy.",
     "All poetry is hypnosis.",

@@ -1,22 +1,19 @@
 import type { Metadata } from "next";
+import { identity, siteUrl } from "@/lib/seo";
 import "./globals.css";
+import "./agency.css";
+import "./panels.css";
+import Nav from "@/components/Nav";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
-  title: "The Immanent Domain",
-  description: "The Immanent Domain is an independent cultural-intelligence agency and brokerage providing creative solutions for small business, cultural intelligence, and private consultation by request.",
-  openGraph: {
-    title: "The Immanent Domain",
-    description: "Creative solutions for small business, cultural intelligence, and private consultation by request.",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "The Immanent Domain",
-    description: "Creative solutions for small business, cultural intelligence, and private consultation by request.",
-  },
+  metadataBase: new URL(siteUrl),
+  title: "The Immanent Domain | New York Arts Agency",
+  description: "The Immanent Domain (IMDO) is an independent arts agency in New York. Publications, events, and collaborative projects, founded by Edward Pankov.",
+  robots: { index: process.env.NODE_ENV === "production" && (!process.env.VERCEL_ENV || process.env.VERCEL_ENV === "production"), follow: true },
+  verification: { google: process.env.GOOGLE_SITE_VERIFICATION || undefined },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body>{children}</body></html>;
+  return <html lang="en"><body><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(identity).replace(/</g, "\\u003c") }} /><Nav />{children}<SiteFooter /></body></html>;
 }
-

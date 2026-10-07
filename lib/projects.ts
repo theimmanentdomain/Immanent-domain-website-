@@ -11,7 +11,7 @@ export interface Project {
   contactLine?: string;
 }
 
-export const projects: Project[] = [
+const projectRecords: Project[] = [
   {
     slug: "the-scene-made-me-do-it",
     title: "The Scene Made Me Do It",
@@ -89,6 +89,9 @@ export const projects: Project[] = [
     tags: ["map", "kabbalah", "cartography", "NYC"],
   },
 ];
+
+// Film projects stay out of listings and routes until a release is approved.
+export const projects = projectRecords.filter(project => !project.type.startsWith("Film"));
 
 export function getProject(slug: string): Project | undefined {
   return projects.find((p) => p.slug === slug);
