@@ -1,0 +1,261 @@
+{
+  "id": "2026-10-07-2121-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-07T21:21:00-04:00",
+  "publishedAt": "2026-10-07T21:21:06-04:00",
+  "title": "IMDO OSINT — October 7, 2026 — 9:21 PM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Houthi-claimed attacks kill three at Saudi airports",
+          "sourceUrl": "https://apnews.com/article/f22f20dd78b03b741dfa1279881cedbb",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 7, 2026",
+          "development": "Saudi officials said attacks on airports in Abha and Riyadh killed three people and injured dozens; the Houthis claimed responsibility. This adds confirmed casualties to the airport attacks discussed earlier only as part of the wider Yemen escalation.",
+          "significance": "Civilian deaths at two airports show the renewed war extending directly into Saudi transport infrastructure.",
+          "uncertainty": "The casualty figures come from Saudi officials and responsibility is based on the Houthi claim; individual weapons and interception outcomes were not independently reconstructed."
+        },
+        {
+          "title": "Eritrean troops seen inside northern Ethiopia",
+          "sourceUrl": "https://www.reuters.com/world/africa/eritrean-troops-drive-through-northern-ethiopian-town-witnesses-say-2026-10-07/",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 7, 2026",
+          "development": "Witnesses and regional experts told Reuters that Eritrean soldiers drove through Adigrat, the first reported confirmation of their presence on Ethiopian soil during the renewed northern conflict.",
+          "significance": "The deployment raises the risk that fighting around Tigray becomes a direct interstate confrontation days after Ethiopia and Eritrea severed diplomatic ties.",
+          "uncertainty": "The size, mission and command status of the force remain unclear; Eritrea previously denied involvement."
+        },
+        {
+          "title": "Drone strike kills four women in Sudan’s Blue Nile state",
+          "sourceUrl": "https://apnews.com/article/56473b19a098470344e54d75d0362092",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 7, 2026",
+          "development": "Emergency Lawyers reported that a drone strike in Damazin killed at least four women and injured dozens, attributing it to the Rapid Support Forces. The RSF did not comment.",
+          "significance": "The attack indicates the war’s geographic reach into Blue Nile while aid-convoy losses continue in neighboring South Kordofan.",
+          "uncertainty": "Attribution rests on the monitoring group’s account and has not been independently confirmed."
+        },
+        {
+          "title": "Germany adds military and energy support for Ukraine",
+          "sourceUrl": "https://apnews.com/article/89bb8d2a97cc09d01a316723d08d2fb3",
+          "sourceDate": "October 4, 2026",
+          "eventDate": "October 4, 2026",
+          "development": "Newly identified: Chancellor Friedrich Merz announced more than €1.3 billion in support, including long-range weapons, drones, satellite technology and €350 million for winter energy infrastructure.",
+          "significance": "The package links battlefield endurance to civilian-grid resilience and expands German support for Ukrainian drone production.",
+          "uncertainty": "This is an announced package; delivery schedules and the operational effect of individual systems remain to be demonstrated."
+        },
+        {
+          "title": "Gaza remains divided and violent one year into the ceasefire",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault-2026-10-07/",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 7, 2026",
+          "development": "Reuters’ anniversary accounting says Israel still controls roughly two-thirds of Gaza, Hamas controls a coastal portion, and strikes and severe humanitarian conditions persist despite the October 2025 ceasefire.",
+          "significance": "The territorial division shows that the ceasefire stopped neither coercive control nor recurring lethal violence and has not produced a political settlement.",
+          "uncertainty": "Gaza death totals cited by Reuters originate with local health authorities; access restrictions complicate independent accounting."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Two-thirds of Republicans in competitive races distance themselves from Trump",
+          "sourceUrl": "https://www.reuters.com/world/us/most-republicans-tight-midterm-distance-themselves-trump-reuters-review-finds-2026-10-07/",
+          "sourceDate": "October 7, 2026",
+          "development": "A Reuters review of voting records, statements and campaign materials found distancing in 41 of 62 competitive House and Senate contests.",
+          "significance": "The pattern is measurable evidence of a national party adapting to presidential unpopularity rather than a collection of isolated candidate disputes.",
+          "uncertainty": "Campaign positioning does not necessarily predict post-election voting behavior."
+        },
+        {
+          "title": "Belgian student protests spread the European education revolt",
+          "sourceUrl": "https://www.reuters.com/video/watch/idRW827707102026RP1/",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 7, 2026",
+          "development": "Students clashed with police in Liège over rising education costs; local reporting cited 107 arrests in recent days. Police used water cannon after fires were set.",
+          "significance": "The Belgian action shows grievances over education funding crossing borders while France is already in its third week of school protests.",
+          "uncertainty": "The Reuters video report does not provide a full arrest breakdown or independently assign responsibility for every clash."
+        },
+        {
+          "title": "Trump makes a third Texas trip as a Republican stronghold tightens",
+          "sourceUrl": "https://www.reuters.com/world/us/trump-makes-third-texas-trip-month-republicans-defend-longtime-stronghold-2026-10-07/",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 7, 2026",
+          "development": "Trump campaigned for Ken Paxton amid a likely-voter poll placing Democrat James Talarico ahead 51% to 45% and declining Hispanic approval for the president.",
+          "significance": "Repeated presidential intervention and heavy spending indicate that Republicans no longer treat Texas as electorally self-sustaining.",
+          "uncertainty": "One poll is a snapshot; turnout and late campaign effects can materially change the result."
+        },
+        {
+          "title": "October 7 becomes the organizing frame of Israel’s election",
+          "sourceUrl": "https://apnews.com/article/55d94c750b399e7d89f550ebc8610436",
+          "sourceDate": "October 7, 2026",
+          "development": "AP reports that Netanyahu and his opponents are centering the first post-attack election on responsibility, security failure and the war’s conduct.",
+          "significance": "The election is becoming an accountability contest over the state’s defining trauma, rather than a conventional policy comparison.",
+          "uncertainty": "The political framing is well documented, but its net electoral effect remains unresolved."
+        },
+        {
+          "title": "Germany’s AfD calls for ending support to Ukraine",
+          "sourceUrl": "https://www.reuters.com/world/germanys-afd-calls-end-support-ukraine-2026-10-07/",
+          "sourceDate": "October 7, 2026",
+          "development": "The AfD’s leading Saxony-Anhalt candidate called for Germany to stop supporting Ukraine after the party’s landmark state-level gains.",
+          "significance": "The demand moves a longstanding party position closer to an institutional test as the AfD tries to translate electoral success into governing power.",
+          "uncertainty": "The AfD still faces coalition isolation and cannot change federal policy by declaration alone."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Public hearing on the city’s use of federal community-development funds",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260908023",
+          "sourceDate": "September 8, 2026",
+          "eventDate": "October 8, 2026, 6:00–7:00 PM EDT",
+          "development": "OMB will take public comment on the city’s proposed use of federal funds; written comments may also be sent to CDBGComments@omb.nyc.gov.",
+          "significance": "The hearing is a direct opportunity to question allocations affecting housing, recovery and neighborhood infrastructure.",
+          "implications": "Review the published amendment before testifying and submit written comments so the position enters the administrative record."
+        },
+        {
+          "title": "Brooklyn Marine Terminal task force schedules its eighth meeting",
+          "sourceUrl": "https://edc.nyc/brooklyn-marine-terminal-advisory-task-force",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 21, 2026",
+          "development": "NYCEDC posted notice of the next advisory-task-force meeting for the Brooklyn Marine Terminal redevelopment.",
+          "significance": "The process will shape waterfront land use, freight, transit and development at one of Brooklyn’s largest public planning sites.",
+          "uncertainty": "The accessible notice did not yet expose a complete agenda or participation instructions."
+        },
+        {
+          "title": "DOT construction embargo covers major October event zones",
+          "sourceUrl": "https://home4.nyc.gov/html/dot/html/infrastructure/construction-embargoes.shtml",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 6 through November 1, 2026",
+          "development": "DOT suspended non-emergency street-work permits in listed locations during the event-period embargo.",
+          "significance": "Contractors, building managers and residents may face delayed work and altered curb or street access even when permits were previously issued.",
+          "implications": "Check whether each work site falls inside an embargo boundary before scheduling crews or deliveries."
+        },
+        {
+          "title": "Lower Manhattan board weighs West Street bus service",
+          "sourceUrl": "https://manhattancb1.cityofnewyork.us/event/transportation-street-activity-permits-committee-14/",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 7, 2026",
+          "development": "Community Board 1’s transportation committee placed NYC Transit bus service along the West Street/Route 9A corridor and Hudson River Park on its agenda.",
+          "significance": "A viable north-south service could address a persistent transit gap along the far West Side of Lower Manhattan.",
+          "uncertainty": "The agenda item and draft resolution do not establish that the MTA has committed to implement service."
+        },
+        {
+          "title": "Council schedules joint oversight of veterans homelessness",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=609E6242-DEB4-499D-981C-893B52C7B3E4&ID=1444702&Search=",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 21, 2026, 10:00 AM EDT, 250 Broadway",
+          "development": "The Veterans and General Welfare committees will examine veterans homelessness alongside proposals involving rental assistance and housing discrimination.",
+          "significance": "The hearing can reveal whether HUD-VASH and city placement systems are preventing shelter entry or merely responding after homelessness occurs.",
+          "implications": "Voucher practitioners should collect examples of source-of-income rejection, documentation delays and units lost during agency processing."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "A Very Brooklyn Fashion Show",
+          "sourceUrl": "https://brooklynmadestore.com/pages/brooklyn-fashion-show-2026",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 8, 2026, 6:00–9:00 PM EDT; bkONE Productions, Industry City, 51 35th Street, Building 5, Brooklyn; free tickets",
+          "development": "Brooklyn Made, the Brooklyn Chamber, Fashion Week Brooklyn and BK Style Foundation present local designers including sustainable streetwear collective Trip to Earth and multidisciplinary artist Voodo Fé.",
+          "significance": "The program joins independent clothing, nightlife, visual art and small-business infrastructure instead of treating fashion as an isolated runway product.",
+          "uncertainty": "Designer applications are closed; ticket availability should be checked before travel."
+        },
+        {
+          "title": "Entangled Garden activates Le Petit Versailles",
+          "sourceUrl": "https://www.elsehereglobal.com/open-calls/new-york-experimental-arts-festival-2026",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 8–11, 2026; Le Petit Versailles, Manhattan",
+          "development": "The experimental festival places moving image, performance, installation, sound and site-responsive work inside the East Village community garden.",
+          "significance": "It tests how independent work changes when encountered in a working public garden rather than a conventional gallery.",
+          "uncertainty": "The submission deadline has passed; exact daily schedules and admission details were not confirmed on the accessible page."
+        },
+        {
+          "title": "Cultural & Couture brings Bronx designers and salsa history together",
+          "sourceUrl": "https://www.bronxarts.org/events/cultural-couture-2026-10-08.html",
+          "sourceDate": "October 3, 2026",
+          "eventDate": "October 8, 2026; doors 4:00 PM, show 5:00 PM EDT",
+          "development": "Bronx Fashion Week and the borough president’s office combine runway presentations, local designers and an International Salsa Museum exhibition.",
+          "significance": "The event frames fashion as borough-specific cultural memory and production, rather than a derivative of Manhattan fashion institutions.",
+          "uncertainty": "The accessible listing did not confirm price or remaining capacity."
+        },
+        {
+          "title": "Chaos Fashion Affair occupies The Center",
+          "sourceUrl": "https://happening-nyc.com/event/chaos-fashion-affair-7a09416a1f51277e7b09406f1651207a7c01",
+          "sourceDate": "October 6, 2026",
+          "eventDate": "October 10, 2026, 6:00–8:30 PM EDT; The Center, 208 West 13th Street",
+          "development": "The independent event combines fashion, art and community programming in the West Village.",
+          "significance": "Its location and cross-disciplinary premise create a practical meeting point for designers, performers, photographers and organizers outside the commercial-week circuit.",
+          "uncertainty": "The listing did not identify every participating designer or confirm admission cost."
+        },
+        {
+          "title": "Riley Mac launches Ephemeralphilia",
+          "sourceUrl": "https://www.eckleburg.org/lit-up-nyc-october-3-11-2026/",
+          "sourceDate": "October 2, 2026",
+          "eventDate": "October 2026; 8:00 PM, Manhattan; exact date and venue require organizer confirmation",
+          "development": "A gallery reading and filmed launch will introduce Riley Mac’s poetry chapbook with guest readers.",
+          "significance": "The event joins small-press publication, live reading and recorded circulation, making it a useful collaboration point across poetry and visual presentation.",
+          "uncertainty": "The accessible roundup omitted the exact date and address; confirm with the organizer before attending."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Abductive world modeling infers hidden states from effects",
+          "sourceUrl": "https://arxiv.org/abs/2609.36985",
+          "sourceDate": "September 29, 2026",
+          "development": "The preprint introduces abductive state inference into latent-space world modeling to learn structured dynamics from incomplete observations.",
+          "significance": "For Pattern Sense, the method formalizes the move from observed consequences toward plausible hidden causes.",
+          "implications": "Keep multiple latent explanations alive, then let the Inference Engine score them against later observations rather than collapsing immediately to one narrative.",
+          "uncertainty": "The work is a preprint and its results concern benchmark environments, not open-ended social intelligence."
+        },
+        {
+          "title": "Hypergraph-of-thought reasoning targets visual abduction",
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42202204/",
+          "sourceDate": "October 2026",
+          "development": "The published model represents scenes as semantic graphs and hypergraphs to capture relationships that cross visual and linguistic elements.",
+          "significance": "Hyperedges can represent configurations involving several entities at once, closer to the compound relationships Machine Intuition needs than pairwise graphs alone.",
+          "implications": "Test hyperedges for person-place-object-time configurations, but retain the underlying observations so generated structure remains auditable.",
+          "uncertainty": "Reported performance is task-specific and does not establish general visual understanding."
+        },
+        {
+          "title": "Temporal knowledge graphs separate causal events from correlation",
+          "sourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/cafcbf5d00a961a05bd5875c17ef0fe7-Abstract-Conference.html",
+          "sourceDate": "2026",
+          "development": "The ICLR paper addresses event-causal puzzles that conventional temporal knowledge-graph models reduce to entity or relation correlations.",
+          "significance": "It offers the Inference Engine a way to distinguish sequence, co-occurrence and proposed causation rather than storing them as equivalent edges.",
+          "uncertainty": "Conference benchmarks may contain cleaner event boundaries and relations than live OSINT data."
+        },
+        {
+          "title": "Gathering of the Witches publishes its 2026 online program",
+          "sourceUrl": "https://hierophantpublishing.com/gathering-of-the-witches-2026/",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 23–25, 2026, online",
+          "development": "The program includes workshops on psychic practice, petitions, folk charms, protection, lunar cycles and the Mórrígan.",
+          "significance": "The schedule documents how contemporary practitioners package technique, identity and symbolic authority for a networked audience.",
+          "implications": "A machine-magick study could compare workshop instructions as procedural protocols while recording metaphysical claims separately from observable actions and outcomes.",
+          "uncertainty": "Program descriptions are practitioner claims and promotional summaries, not empirical efficacy evidence."
+        },
+        {
+          "title": "Morbid Anatomy schedules a Death Deck and silent reading night",
+          "sourceUrl": "https://www.morbidanatomy.org/events",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "October 14, 2026; Morbid Anatomy, Brooklyn",
+          "development": "The venue lists a Silent Book Club of Death session paired with The Death Deck, within its wider program on mortality, the uncanny, tarot and devotional material culture.",
+          "significance": "The format is a live example of an interpretive object functioning between game, oracle, conversation prompt and communal ritual.",
+          "uncertainty": "The accessible listing did not confirm time, admission price or remaining capacity."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Track whether Eritrea’s reported troop presence develops into acknowledged command activity or interstate combat.",
+    "Prepare testimony or written comments for the October 8 federal-funds hearing and document voucher-placement failures for the October 21 veterans-homelessness hearing.",
+    "For October 8, prioritize either A Very Brooklyn Fashion Show for designer contacts or Entangled Garden for experimental-performance contacts."
+  ]
+}
