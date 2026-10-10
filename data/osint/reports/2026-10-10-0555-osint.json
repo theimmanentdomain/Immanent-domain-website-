@@ -1,0 +1,284 @@
+{
+  "id": "2026-10-10-0555-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-10T05:55:00-04:00",
+  "publishedAt": "2026-10-10T05:58:28-04:00",
+  "title": "IMDO OSINT — October 10, 2026 — 5:55 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Zaporizhzhia strike leaves seven dead, according to regional authorities",
+          "sourceUrl": "https://www.reuters.com/business/aerospace-defense/russian-attack-ukraines-zaporizhzhia-kills-seven-governor-says-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Ukraine’s Zaporizhzhia regional governor said a Russian attack killed seven people and injured ten; emergency work was continuing when Reuters published.",
+          "significance": "The strike is a fresh civilian-impact indicator in a region where front-line combat and attacks on populated areas remain intertwined.",
+          "implications": "Track the final casualty count and any independently documented weapon or target assessment.",
+          "uncertainty": "The casualty figures and attribution come from the regional governor; they were not independently verified in the accessed report."
+        },
+        {
+          "title": "Ethiopia invokes self-defense against Eritrea in a UN letter",
+          "sourceUrl": "https://apnews.com/article/9386a16a06e537a29ffe2de273267c8b",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-09",
+          "development": "Ethiopia told the UN Security Council it was acting under Article 51 of the UN Charter and alleged repeated Eritrean troop crossings. Eritrea had not publicly confirmed the alleged incursions in the accessed report.",
+          "significance": "Formal invocation of self-defense raises the diplomatic and legal stakes beyond the recent fighting around Mekelle and signals risk of interstate escalation.",
+          "implications": "Watch for Eritrea’s formal response, Security Council circulation of the letter, and independently verified cross-border movements.",
+          "uncertainty": "The border-incursion claim is Ethiopia’s allegation, not an independently established battlefield fact."
+        },
+        {
+          "title": "Blue Nile drone strike reportedly kills at least forty, including children",
+          "sourceUrl": "https://apnews.com/article/a5f40b5e0ab08ae8128db5ed749114d8",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-09",
+          "development": "Sudan’s Emergency Lawyers group said a drone strike in Blue Nile state killed at least forty people, including children, and attributed the attack to the Rapid Support Forces. The UN humanitarian office condemned the reported attack.",
+          "significance": "The reported toll points to the widening geographic reach of Sudan’s war and the persistent civilian danger from remotely delivered weapons.",
+          "implications": "Prioritize hospital, burial and satellite corroboration before treating the toll or perpetrator as settled.",
+          "uncertainty": "The death toll and RSF attribution remain sourced to a local monitoring group; AP did not present independent strike verification."
+        },
+        {
+          "title": "Gaza ceasefire reaches one year with political implementation still stalled",
+          "sourceUrl": "https://apnews.com/article/f6c105e8f72d8b478d78312142d888ed",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "AP’s one-year review finds that major combat and hostage captivity ended and aid increased, but Hamas still administers parts of Gaza, Israel’s area of control has expanded, and the stabilization force and reconstruction framework remain unrealized.",
+          "significance": "The ceasefire has reduced the scale of war without resolving governance, security, territorial control or reconstruction—the issues most likely to destabilize it.",
+          "implications": "Separate maintenance of the truce from implementation of the political settlement; monitor force deployment, crossing access and reconstruction finance.",
+          "uncertainty": "AP cites Gaza health authorities for more than 1,400 Palestinian deaths since the ceasefire; wartime casualty accounting remains contested."
+        },
+        {
+          "title": "UN envoy says Yemen has returned to full-scale war",
+          "sourceUrl": "https://dppa.un.org/en/news/yemen-has-returned-to-full-scale-war-special-envoy-warns",
+          "sourceDate": "2026-10-09",
+          "eventDate": "2026-10-09",
+          "development": "The UN special envoy told the Security Council that Yemen had returned to full-scale war, citing active hostilities across several fronts, worsening conditions in Taiz and renewed child-recruitment concerns.",
+          "significance": "This is a substantive official reclassification from episodic escalation to system-wide war, changing the baseline for humanitarian access and mediation.",
+          "implications": "Map front activity and port or road restrictions against the envoy’s next briefing rather than relying on single-battle reporting.",
+          "uncertainty": "The statement is the envoy’s assessment; local control and casualty figures require separate verification."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Germany’s parliamentary firewall against the AfD shows a concrete breach",
+          "sourceUrl": "https://www.reuters.com/world/europe/germanys-firewall-against-far-right-afd-feels-heat-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-09",
+          "development": "Reuters reports that at least four Saxony-Anhalt lawmakers defied party instructions and helped elect the AfD’s candidate as state-parliament speaker.",
+          "significance": "The vote does not create a governing coalition, but it demonstrates that the long-standing norm against cooperation with the AfD can erode through procedural votes before formal alliances appear.",
+          "implications": "Track committee chairs, budget votes and confidence motions for further cross-party support rather than inferring a coalition from this vote alone.",
+          "uncertainty": "Secret-ballot attribution is inferred from the vote arithmetic and party accounts, not individual public admissions."
+        },
+        {
+          "title": "French protest policing faces twenty-four internal investigations",
+          "sourceUrl": "https://www.reuters.com/world/french-policing-under-scrutiny-student-protest-injuries-mount-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-09",
+          "development": "France’s police inspectorate is examining twenty-four of twenty-eight reported brutality cases after student protests; Reuters reports roughly 200 student and 700 police injuries and about 6,900 arrests.",
+          "significance": "The scale of injuries and arrests moves the dispute from street-order management into institutional accountability and renewed scrutiny of so-called less-lethal weapons.",
+          "implications": "Follow case dispositions, medical documentation and rules-of-engagement changes; investigations are not findings of misconduct.",
+          "uncertainty": "Aggregate injury and arrest figures come from official and movement sources cited by Reuters and may be revised."
+        },
+        {
+          "title": "White House opens a new inquiry aimed at Fed Governor Lisa Cook",
+          "sourceUrl": "https://www.reuters.com/world/us/trump-launches-committee-probe-feds-lisa-cook-white-house-statement-2026-10-09/",
+          "sourceDate": "2026-10-09",
+          "eventDate": "2026-10-09",
+          "development": "The White House announced a committee inquiry and a November 5 closed hearing concerning Federal Reserve Governor Lisa Cook. Her legal team disputes the underlying allegations.",
+          "significance": "The renewed removal effort is a direct test of central-bank independence and of the legal threshold for dismissing a sitting governor.",
+          "implications": "Distinguish the administration’s allegations, the committee process and any eventual court-reviewed removal action.",
+          "uncertainty": "No adjudication has established the allegations; the hearing is scheduled, not a completed action."
+        },
+        {
+          "title": "Delhi protest crackdown moves from lockdown to mass detention",
+          "sourceUrl": "https://apnews.com/article/india-sir-cockroach-election-commission-gyanesh-protests-030b35e23279c75394b7654233c99d6b",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "A material update to the previous edition: AP reports thousands detained as the youth-led Cockroach movement attempted to reach a barricaded protest site in Delhi over disputed voter-roll revisions.",
+          "significance": "The new development is not the security deployment itself but its conversion into mass detention, sharpening questions about protest rights and election administration.",
+          "implications": "Watch detention duration, charges, court access and release conditions, alongside any independently audited voter-roll data.",
+          "uncertainty": "Claims about improper voter deletions remain disputed by election authorities."
+        },
+        {
+          "title": "Kosovo parliament stalls a bill to curb the Hague-based war-crimes court",
+          "sourceUrl": "https://apnews.com/article/86d8bf5a155c784b2aace66cc2d77371",
+          "sourceDate": "2026-10-06",
+          "eventDate": "2026-10-06",
+          "development": "Newly discovered older material: a bill to cap sentences, redirect appeals and allow terms to be served in Kosovo failed to advance as demonstrations over the Specialist Chambers escalated into clashes that injured twelve people.",
+          "significance": "The episode joins institutional crisis, war-memory politics and street pressure; failure to advance the bill does not end the campaign against the court.",
+          "implications": "Track whether sponsors refile the measure and whether EU or court officials treat it as interference with Kosovo’s international obligations.",
+          "uncertainty": "This item is dated October 6 and is included for its undercovered institutional significance, not as breaking news."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Bellevue expands hands-on special-pathogen readiness across three public hospitals",
+          "sourceUrl": "https://www.nychealthandhospitals.org/pressrelease/nyc-health-hospitals-bellevue-strengthens-new-york-citys-special-pathogen-preparedness-through-specialized-hands-on-training/",
+          "sourceDate": "2026-10-09",
+          "eventDate": "2026-10-09",
+          "development": "About fifty workers from Elmhurst, Harlem and Jacobi trained at Bellevue in PPE use, infection prevention, operations and hazardous-medical-waste handling as the hospitals work toward Level 2 Special Pathogen Treatment Center capability.",
+          "significance": "The program distributes high-consequence-infection capacity beyond Bellevue, reducing reliance on one Level 1 regional center.",
+          "implications": "A useful accountability question is when each hospital becomes fully operational at Level 2 and what staffing, isolation and transfer benchmarks remain.",
+          "uncertainty": "The city describes training and capability-building, not a declaration that the three hospitals have completed Level 2 readiness."
+        },
+        {
+          "title": "Bronx residents get an October 19 forum on the proposed Ascend shelter",
+          "sourceUrl": "https://www.nyc.gov/site/dhs/about/working-with-communities.page",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-19T18:00:00-04:00",
+          "development": "The Department of Homeless Services lists a public presentation on the Ascend Shelter for 6:00 PM at Lincoln Hospital Auditorium, 234 East 149th Street, Bronx.",
+          "significance": "The session is the formal point for residents to question siting, services, security, provider performance and neighborhood integration before opening.",
+          "implications": "Attendees should request the operator, population served, bed count, opening date, contract, security plan and Community Advisory Board schedule.",
+          "uncertainty": "The source gives time and place but not admission, registration instructions or a detailed agenda; those remain unconfirmed."
+        },
+        {
+          "title": "Board of Standards and Appeals opens four hearing sessions on October 19–20",
+          "sourceUrl": "https://mspwvw-dcscpfvp.nyc.gov/RequestDetail/20260921008",
+          "sourceDate": "2026-09-21",
+          "eventDate": "2026-10-19",
+          "development": "The City Record schedules BSA hearings at 10:00 AM and 2:00 PM on both October 19 and 20, with livestreaming, remote participation and an in-person component.",
+          "significance": "BSA variance and special-permit decisions can alter what is built or operated at individual sites even when no citywide rezoning is underway.",
+          "implications": "Residents should inspect the docket for addresses affecting them and submit project-specific testimony; participation cost was not listed.",
+          "uncertainty": "The notice establishes the sessions, but this report does not infer outcomes for any listed application."
+        },
+        {
+          "title": "CCRB’s October public meeting offers a direct police-accountability forum",
+          "sourceUrl": "https://www.nyc.gov/site/ccrb/about/news/board-meeting-schedule.page",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-20T16:00:00-04:00",
+          "development": "The Civilian Complaint Review Board will meet October 20 at 4:00 PM at Tweed Courthouse, 52 Chambers Street, with Webex access; public speaking is open and free interpretation is available on request.",
+          "significance": "The meeting provides a direct channel for questions about complaint handling and police-community relations while the agency’s monthly agenda is still developing.",
+          "implications": "Prospective speakers should contact outreach@ccrb.nyc.gov for speaking, accessibility or interpretation arrangements and check the page for the posted agenda.",
+          "uncertainty": "The page lists the meeting but had not posted a distinct October agenda in the accessed version."
+        },
+        {
+          "title": "NYCHA board moves its October meeting to a Tuesday",
+          "sourceUrl": "https://www.nyc.gov/site/nycha/about/board-meetings.page",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-20T10:00:00-04:00",
+          "development": "NYCHA schedules its October board meeting for Tuesday, October 20 at 10:00 AM in the fifth-floor Ceremonial Room at 90 Church Street, with livestreaming.",
+          "significance": "The meeting is a practical checkpoint for contracts, modernization and property-management decisions affecting public-housing residents.",
+          "implications": "In-person speakers must preregister at least 45 minutes before the meeting; comments are limited to calendar items and three minutes. Accommodation requests are due seven calendar days in advance.",
+          "uncertainty": "The October calendar was not yet linked on the page, so specific board actions remain unconfirmed."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Black Women’s Film Conference convenes at BAM for a one-day working forum",
+          "sourceUrl": "https://www.bam.org/film/2026/new-negress-film-society",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10T12:00:00-04:00",
+          "development": "New Negress Film Society’s conference begins at noon at BAM Rose Cinemas, with screenings and conversations through an 8:30 PM town hall featuring Aicha Cherif, Joie Lee, Shirikiana Aina Gerima, Tchaiko Omawale, Akosua Adoma Owusu, Yace Sula and Johanné Gómez Terrero.",
+          "significance": "It is structured as both exhibition and exchange of filmmaking strategies, connecting independent production to history, theory and political action.",
+          "implications": "Tickets do not guarantee entry; admission is first-come, first-served. Arrive early and treat the town hall as the highest-participation segment.",
+          "uncertainty": "The accessed organizer page did not display a ticket price."
+        },
+        {
+          "title": "Brooklyn United turns youth development into a La MaMa stage work",
+          "sourceUrl": "https://lamama.org/bu-live-back-to-school-edition/",
+          "sourceDate": "2026-07-03",
+          "eventDate": "2026-10-09/2026-10-11",
+          "development": "BU Live: Back-to-School Edition runs October 9–11 at La MaMa, bringing fifty performers ages five to eighteen into a 75-minute work combining live music, drumline, dance, spoken word, storytelling and video.",
+          "significance": "The show places a community youth organization inside the experimental-theater circuit rather than treating arts education only as outreach.",
+          "implications": "Use the organizer’s ticket link for the performance schedule and current price; those details were not exposed on the accessed page.",
+          "uncertainty": "Venue room, individual showtimes and price require confirmation through the ticketing flow."
+        },
+        {
+          "title": "The Tank’s SERIALS makes audience voting part of new-play development",
+          "sourceUrl": "https://thetanknyc.org/calendar-1/2026/9/10/serials",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10T21:30:00-04:00",
+          "development": "The final performance of this SERIALS weekend starts at 9:30 PM at The Tank, 312 West 36th Street. Five never-before-seen ten-minute works are staged and the audience votes on which return with a new episode.",
+          "significance": "The format exposes the normally private feedback loop of play development and gives spectators a material role in what continues.",
+          "implications": "The event is 18+ and carries warnings for flashing light, loud noise, violence, bodily fluids, sexual themes and adult language.",
+          "uncertainty": "The accessed page links tickets but does not expose the current price."
+        },
+        {
+          "title": "ISSUE pairs two generations of resident guitar experimentation",
+          "sourceUrl": "https://issueprojectroom.org/event/noveller-axine-m",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-29T20:00:00-04:00",
+          "development": "ISSUE Project Room presents Noveller and Axine M at 8:00 PM on October 29 at 22 Boerum Place. Noveller will draw from I Am The Weather and earlier work; Axine M performs with fretless guitar, voice and computer.",
+          "significance": "The $12–$17 bill links a 2009 artist-in-residence to a 2024 resident, making the venue’s twenty-year residency archive audible as a living lineage.",
+          "implications": "Advance tickets are available from the organizer; the theater is ADA accessible by lift and ramp.",
+          "uncertainty": "Program order and set lengths were not specified."
+        },
+        {
+          "title": "European Literature Night assembles writers from fourteen countries",
+          "sourceUrl": "https://new-york.czechcentres.gov.cz/en/program/evropska-noc-literatury-2026",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-28T18:00:00-04:00",
+          "development": "Czech Center New York and EUNIC bring fourteen European writers and translators to the Ukrainian Institute of America, 2 East 79th Street, on October 28. Doors open at 5:30 PM; readings and four PEN America–moderated panels begin at 6:00 PM, followed by a 9:00 PM signing and reception.",
+          "significance": "The movable, multi-room program creates an unusually dense meeting point among translated literature, publishers, translators and readers.",
+          "implications": "RSVP through the organizer; map preferred readings in advance because concurrent sessions run across four floors.",
+          "uncertainty": "The organizer page does not state an admission price; treat cost as unconfirmed until the RSVP page is checked."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Verification framework uses uncertainty to decide when an LLM should abstain",
+          "sourceUrl": "https://arxiv.org/abs/2608.10725",
+          "sourceDate": "2026-08-11",
+          "development": "Demonstrated in a medical multiple-choice setting: the authors combine evidence-structure checks, uncertainty-triggered abstention and ontology-guided refinement. They report question-level accuracy rising from 82.9% to 92.5% and hypothesis-level accuracy from 92.0% to 96.2% across MedReason and MedQA with two frontier models.",
+          "significance": "For Pattern Sense and the Inference Engine, the useful idea is not the medical score but selective refinement: spend retrieval and reasoning effort where evidence structure is weak instead of treating every hypothesis equally.",
+          "implications": "Design inference objects with separate fields for evidence support, contradiction, ontology fit, model uncertainty and abstention state.",
+          "uncertainty": "Preprint results are narrow, model-dependent and limited to medical multiple-choice tasks; they do not validate open-world intuition or occult claims."
+        },
+        {
+          "title": "Medical hypothesis study finds high recall but weak evidence verification",
+          "sourceUrl": "https://arxiv.org/abs/2609.00063",
+          "sourceDate": "2026-08-30",
+          "development": "The authors tested eight language models on seventeen medical causal hypotheses using 1,067 annotation points. Models often surfaced relevant material but performed poorly at supplying valid articles and evidence and at rejecting unsupported hypotheses.",
+          "significance": "The failure mode is directly relevant to Machine Intuition: fluent candidate generation can masquerade as verified discovery unless provenance and falsification are first-class operations.",
+          "implications": "Require source-level validation, explicit counterevidence search and a reject option before promoting any weak relationship into the knowledge graph.",
+          "uncertainty": "The study is small and domain-specific; its causal-hypothesis set may not represent the breadth of real investigative work."
+        },
+        {
+          "title": "Causal-discovery position paper draws a hard line around agent assistance",
+          "sourceUrl": "https://arxiv.org/abs/2606.23608",
+          "sourceDate": "2026-06-22",
+          "development": "Authors propose that language-model agents may organize data, run tools and document workflows, but should not inject causal edges, priors or conclusions into discovery itself; a causal-learn+ case study illustrates the separation.",
+          "significance": "This offers a governance pattern for the Inference Engine: agents can manage the experimental loop while causal commitments remain attributable to data, explicit assumptions and validated algorithms.",
+          "implications": "Separate orchestration logs from the causal graph, record every human or model prior, and make edge promotion reversible.",
+          "uncertainty": "This is a methodological position with a case study, not proof that the proposed boundary is optimal in every domain."
+        },
+        {
+          "title": "CausalDS scores abstention alongside causal reasoning and tool use",
+          "sourceUrl": "https://arxiv.org/abs/2607.08093",
+          "sourceDate": "2026-07-09",
+          "development": "CausalDS generates structural causal models, observational data and realistic synthetic stories, then derives tasks across Pearl’s three rungs. Coding, imperfect observations, uncertainty quantification and recognizing when no warranted answer exists are jointly scored.",
+          "significance": "The benchmark is unusually close to Pattern Sense’s core problem: finding structure without rewarding confident answers when the observation model cannot support them.",
+          "implications": "Adapt its scene-plus-observation-model pattern into internal tests that include hidden confounders, missing data and deliberately unanswerable prompts.",
+          "uncertainty": "The paper is a preprint and synthetic scenes may not capture the ambiguity, adversarial sourcing or cultural symbolism of open-source investigation."
+        },
+        {
+          "title": "Uncertainty-aware knowledge-graph reasoning uses conformal prediction",
+          "sourceUrl": "https://arxiv.org/abs/2410.08985",
+          "sourceDate": "2024-10-11",
+          "development": "Newly discovered older paper: the UAG framework applies conformal prediction to knowledge-graph reasoning, providing formal coverage guarantees while the authors report average prediction-set or interval size reductions of about 40%.",
+          "significance": "It suggests a way for the Inference Engine to return bounded candidate sets with calibrated coverage instead of a single opaque relationship score.",
+          "implications": "Prototype conformal wrappers around link-prediction outputs and expose prediction-set size as a measure of unresolved ambiguity.",
+          "uncertainty": "The efficiency result depends on the tested graph tasks and exchangeability assumptions; formal coverage is not the same as causal or semantic truth."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify the Ethiopia–Eritrea Article 51 dispute through the circulated UN letter, Eritrea’s response and independent border evidence.",
+    "Pull the October BSA and NYCHA calendars when posted and identify the specific projects or contracts with neighborhood-level consequences.",
+    "Prototype an abstention-first Inference Engine test set combining incomplete observations, counterevidence and provenance checks."
+  ]
+}
