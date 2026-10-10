@@ -1,0 +1,285 @@
+{
+  "id": "2026-10-10-1111-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-10T11:11:00-04:00",
+  "publishedAt": "2026-10-10T11:19:20-04:00",
+  "title": "IMDO OSINT — October 10, 2026 — 11:11 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Eritrea asks the UN to intervene as Ethiopian forces return to Adigrat",
+          "sourceUrl": "https://www.reuters.com/world/africa/ethiopian-forces-regain-control-border-city-after-reported-eritrean-incursion-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Update since the 5:55 edition: Eritrea formally asked the Security Council to act under Chapter VII and called Ethiopia’s allegation of an Eritrean incursion a declaration of war. Reuters reported Ethiopian troops and allied militia entering Adigrat after drone strikes pushed back forces described by Ethiopian sources as Eritrean.",
+          "significance": "The dispute has moved from reciprocal accusations to a UN-facing legal and diplomatic confrontation while control of a border city is again changing hands.",
+          "implications": "Track any Security Council meeting request, verified force movements north of Adigrat, and humanitarian access on the Tigray–Eritrea corridor.",
+          "uncertainty": "Eritrea denies sending troops; Reuters could not independently verify the incursion, and explosions around Adigrat do not yet establish stable control."
+        },
+        {
+          "title": "Riyadh airport is attacked again, deepening disruption to Saudi air links",
+          "sourceUrl": "https://apnews.com/article/f0e0e6105f33400e37bb20bb9a8130af",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Saudi officials said King Khalid International Airport was attacked again and evacuated. More than 225 flights were cancelled over 24 hours, while several international carriers suspended service.",
+          "significance": "Repeated attacks are now producing sustained civilian-aviation effects, not just episodic military signaling, with consequences for travel, logistics and Saudi economic confidence.",
+          "implications": "Readers with Gulf travel or freight exposure should verify routes directly with carriers rather than relying on published schedules.",
+          "uncertainty": "The Houthis did not immediately claim this strike, and Saudi restrictions on sharing operational details limit independent damage assessment."
+        },
+        {
+          "title": "Correction/update: Zaporizhzhia strike toll rises from seven to twelve",
+          "sourceUrl": "https://www.reuters.com/business/aerospace-defense/russian-attack-ukraines-zaporizhzhia-kills-seven-governor-says-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Reuters updated the same report used in the 5:55 edition: Ukrainian officials now say twelve people, including three children, were killed in Zaporizhzhia city and fourteen were injured after five glide bombs struck residential areas.",
+          "significance": "The higher toll materially changes the civilian-impact record and underscores the lethality of glide-bomb attacks on urban areas.",
+          "implications": "Use the revised figure in any downstream chronology and retain the earlier count as superseded, not as a separate incident.",
+          "uncertainty": "The toll comes from Ukrainian authorities; access constraints prevent immediate independent verification of every casualty and munition detail."
+        },
+        {
+          "title": "Israeli drone strike wounds six near Lebanon’s Syrian border",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Lebanese authorities said an Israeli drone strike near the Syrian border wounded five Syrians and one Lebanese person. Israel said it targeted a Syrian operative acting under Iranian direction.",
+          "significance": "The strike extends coercive activity into a border zone that had been comparatively quieter since the June ceasefire, testing how geographically contained that arrangement remains.",
+          "implications": "Watch for Lebanese government complaints, follow-on strikes and evidence that the June ceasefire’s practical perimeter is narrowing.",
+          "uncertainty": "The target’s identity and alleged Iranian direction are Israeli claims not independently verified in the available reporting."
+        },
+        {
+          "title": "One year on, Gaza ceasefire implementation remains largely stalled",
+          "sourceUrl": "https://apnews.com/article/israel-palestinians-hamas-war-gaza-ceasefire-explainer-f6c105e8f72d8b478d78312142d888ed",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "AP’s one-year assessment finds that the truce ended major operations, returned the remaining hostages and increased aid, but did not produce the promised Palestinian administration, international force, Hamas disarmament, Israeli withdrawal from more than half of Gaza, or meaningful reconstruction.",
+          "significance": "The ceasefire has frozen rather than resolved core political and territorial questions, leaving two million Palestinians in prolonged displacement and damaged housing.",
+          "implications": "Evaluate future diplomatic announcements against these unimplemented benchmarks rather than the continued existence of the truce alone.",
+          "uncertainty": "The parties dispute sequencing: Israel ties progress to Hamas disarmament, while Hamas and the US administration have argued that steps should proceed together."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Abbas formally postpones Palestinian elections to September 2027",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/abbas-postpones-palestinian-elections-sets-presidential-poll-september-2027-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Update since the 5:55 edition: Mahmoud Abbas issued the decree, moving the November 2026 legislative vote to September 11, 2027 and pairing it with a presidential election.",
+          "significance": "The shift turns an anticipated delay into a formal one-year extension of a long electoral hiatus, concentrating both contests on a single date.",
+          "implications": "Track whether candidate registration, election-law changes and voting arrangements for Gaza and East Jerusalem are actually established well before the new date.",
+          "uncertainty": "A decree supplies a date but not the political, security or logistical conditions required for a competitive territory-wide election."
+        },
+        {
+          "title": "UK government blocks a Northern Ireland march after court-ordered reconsideration",
+          "sourceUrl": "https://apnews.com/article/0182e1431f9a8765e9448df0565eb5ab",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Northern Ireland Secretary Chris Bryant prohibited an Orange Order march along Garvaghy Road after a court ruling forced the government to revisit the decision amid a tense standoff.",
+          "significance": "Direct intervention by London in a symbolically charged parade dispute shows how quickly unresolved sectarian geography can become an institutional-stability issue.",
+          "implications": "Watch enforcement, protest mobilization and whether the decision alters the authority or future practice of the Parades Commission.",
+          "uncertainty": "The immediate security effect will depend on compliance by organizers and counter-protesters; the legal and political dispute is not settled by the ban."
+        },
+        {
+          "title": "New centrist party enters Spain’s snap election in Madrid and Barcelona",
+          "sourceUrl": "https://www.reuters.com/world/spanish-lawyer-gonzalez-durantez-launches-centrist-party-november-election-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Trade lawyer Miriam González Durántez launched Democracy21 to contest Madrid and Barcelona in Spain’s November 29 snap election, arguing that the Socialist–People’s Party rivalry has hollowed out institutional consensus.",
+          "significance": "The party’s narrow geographic launch is a test of whether elite disaffection with polarized blocs can translate into viable urban constituencies during an accelerated campaign.",
+          "implications": "Look for certified lists, financing disclosures and polling thresholds before treating the launch as an electoral realignment.",
+          "uncertainty": "This is an announcement, not evidence of voter support; current polls cited by Reuters still point toward a right-wing opposition majority."
+        },
+        {
+          "title": "US AI safety pact relies on voluntary internal controls",
+          "sourceUrl": "https://apnews.com/article/ai-safety-openai-tech-week-32064fde8ad68c68f71d82336f7db525",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-09-29",
+          "development": "AP examined the 308-word White House pact signed by OpenAI, Anthropic, Meta, Google, SpaceXAI and Nvidia. It calls for safety protocols and internal monitoring but specifies no enforcement mechanism or detailed testing and transparency requirements.",
+          "significance": "Federal policy is shifting further from mandatory oversight toward industry self-policing even as AI systems enter defense, healthcare and public administration.",
+          "implications": "For IMDO’s Machine Intuition system, treat vendor safety assurances as claims and preserve independent evaluation, provenance and incident logging.",
+          "uncertainty": "Companies describe external-assessor and governance efforts, but comparable public evidence and compliance metrics remain incomplete."
+        },
+        {
+          "title": "Alaska independent consolidates an anti-incumbent House challenge",
+          "sourceUrl": "https://apnews.com/article/alaska-house-hill-begich-trump-midterms-854ce4b80a07d5c05ddfd01756fa19bd",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-07",
+          "development": "Independent commercial fisherman and former educator Bill Hill has become the main challenger to Republican Rep. Nick Begich after several Democrats exited or endorsed him. National Republican and Democratic groups are spending in the race.",
+          "significance": "The contest shows a locally rooted independent campaign absorbing partisan support without formally becoming a party vehicle, in a seat relevant to control of the House.",
+          "implications": "Track ranked-choice transfers, outside spending and whether Hill clarifies which caucus he would join; each is more probative than crowd size or endorsements.",
+          "uncertainty": "Republican concern and increased spending do not establish that the seat has changed hands; polling evidence in the available report is limited."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Brooklyn hearing puts six consequential land-use actions on one docket",
+          "sourceUrl": "https://www.brooklynbp.nyc.gov/event/ulurp-public-hearing-meeting-9/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-14T18:00:00-04:00",
+          "development": "The Brooklyn borough president’s October 14 hearing covers six actions, including 364 Coney Island Avenue (71 homes, 18 income-restricted), 1584 Flatbush Avenue (112 homes, 28 income-restricted), 240 Nassau Street (1,502 homes, 302 permanently affordable, a public school and open space), and a proposed Downtown Brooklyn BID consolidation.",
+          "significance": "Housing, school capacity, commercial governance and public-realm financing are bundled into a single two-hour public record with borough-wide consequences.",
+          "implications": "Residents can attend 6–8 PM at Brooklyn Borough Hall, 209 Joralemon Street; testimony should identify the specific application and requested modification. Admission is free; no ticket requirement is listed.",
+          "uncertainty": "These are applications under review, not approved projects; final unit counts and public benefits can change during ULURP."
+        },
+        {
+          "title": "Fall 2027 middle-school application opens October 14",
+          "sourceUrl": "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/middle-school",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-14",
+          "development": "NYC Public Schools will open the middle-school application October 14 and close it December 11. Virtual family sessions run October 20 at 5 PM, October 21 at 5 PM and October 22 at 1 PM, with interpretation across twelve languages.",
+          "significance": "The calendar affects every current fifth grader and eligible sixth grader, and the ordering of program choices affects the offer produced by the matching process.",
+          "implications": "Families should compare seats, demand and priority groups in MySchools before ranking programs; the November 2 deadline for Mark Twain and District 21 talent-test registration arrives earlier than the general deadline.",
+          "uncertainty": "The page lists eligibility and process, but individual school priorities and accessibility details must be checked program by program."
+        },
+        {
+          "title": "Climate and manufacturing hiring hall offers on-site employer access",
+          "sourceUrl": "https://www.nyc.gov/employment/events/jobs-nyc-climate-and-manufacture-panel-and-hiring-event-10-15-2026",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-15T10:00:00-04:00",
+          "development": "Jobs NYC will hold a climate and manufacturing panel and hiring hall October 15, 10 AM–2 PM, at 2 Lafayette Street. The program covers clean energy, advanced manufacturing, green construction, credentials, apprenticeships and career transitions.",
+          "significance": "It is a practical point of entry into sectors receiving public investment, with some employers interviewing on site rather than only collecting résumés.",
+          "implications": "Register for a time slot, bring photo ID and multiple résumé copies, and arrive before doors close at 1:30 PM. Attendance is free; interviews are not guaranteed. Accommodation requests were due four business days in advance.",
+          "uncertainty": "The organizer does not publish a complete employer roster on the page, so attendees should not assume a specific opening will be represented."
+        },
+        {
+          "title": "Brooklyn Borough Hall schedules free tenant legal clinic",
+          "sourceUrl": "https://www.brooklynbp.nyc.gov/event/free-legal-clinic-for-tenants/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-20T13:00:00-04:00",
+          "development": "The borough president’s office lists a free clinic on October 20 from 1–4:30 PM for tenants to ask an attorney about landlord problems.",
+          "significance": "Direct counsel can help renters distinguish repair, harassment, rent and eviction issues that require different records, agencies or court responses.",
+          "implications": "Bring leases, notices, rent histories, photographs and prior 311 or agency records. The listing identifies Brooklyn Borough Hall, 209 Joralemon Street, but gives no appointment or eligibility rules; confirm before traveling.",
+          "uncertainty": "The event page does not state attorney capacity, language access, walk-in limits or whether full representation will be available."
+        },
+        {
+          "title": "Lower East Side and Chinatown residents get a timed route into CB3’s public record",
+          "sourceUrl": "https://www.nyc.gov/site/manhattancb3/index.page",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-27T18:30:00-04:00",
+          "development": "Manhattan Community Board 3’s full board meets October 27 at 6:30 PM at PS 20, 166 Essex Street. Public-session speakers must sign up by 6:30; the board allows four speakers per side per issue for two minutes each.",
+          "significance": "The explicit speaking rules create a narrow but concrete channel to put land-use, nightlife, service-delivery and budget concerns into the advisory record.",
+          "implications": "Submit November agenda items by October 16 and prepare a two-minute, evidence-backed statement with a specific requested action. The meeting is open and free.",
+          "uncertainty": "The landing page does not reproduce the full October agenda; verify the meeting packet before framing testimony."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Movement Research opens a randomized works-in-process floor",
+          "sourceUrl": "https://movementresearch.org/events/1453/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-20T19:00:00-04:00",
+          "development": "Open Performance on October 20 presents Dmitri Peskov, NAZ and Nia Sadler in a non-curated program selected by lottery, followed by moderated audience feedback. It begins at 7 PM at The Bob, 150 First Avenue.",
+          "significance": "The randomized format reduces gatekeeping and makes process, failure and feedback visible—an increasingly scarce function in presentation-driven cultural circuits.",
+          "implications": "No reservation is required; suggested donation is $5 at the door. Artists seeking future participation should monitor the Open Performance series and contact its organizer.",
+          "uncertainty": "The organizer warns that works may include high-intensity or flashing light, projection and auditive guidance; program content can evolve because these are works in progress."
+        },
+        {
+          "title": "Judson hosts a free low-tech forum for three experimental makers",
+          "sourceUrl": "https://movementresearch.org/events/1470/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-19T19:00:00-04:00",
+          "development": "Brendan Drake, Kar’mel Antonyo Wade Small and Emilio Wettlaufer perform at Movement Research at Judson Church on October 19 at 7 PM, entering at 243 Thompson Street.",
+          "significance": "The series preserves a high-visibility, low-production-cost testing ground where emerging ideas can meet an audience before institutional polish fixes their form.",
+          "implications": "Admission is donation-based and no RSVP is required. The Thompson Street entrance and elevator serve the performance and restroom levels.",
+          "uncertainty": "The organizer provides artist context but not fixed durations or final work descriptions, consistent with an experimental forum."
+        },
+        {
+          "title": "Art of Solo assembles eight improvisers, then collapses the bill into a collective set",
+          "sourceUrl": "https://roulette.org/event/james-brandon-lewis-art-of-solo/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-15T20:00:00-04:00",
+          "development": "James Brandon Lewis’s Roulette residency brings Nicole Mitchell, Janel Leppin, Jenna Camille, Kalia Vandever, Val Jeanty, Shara Lunon and Alexis Marcelo into successive solo sets, ending with a collective improvisation. Doors open 7 PM; music begins 8 PM at 509 Atlantic Avenue.",
+          "significance": "The structure makes individual vocabularies legible before testing what survives contact with an unscored ensemble.",
+          "implications": "Tickets are $25 advance, $30 door and $20 student/senior; the 8 PM livestream is free and will be archived.",
+          "uncertainty": "The organizer announces the personnel and format, but live improvisation makes the musical outcome intentionally indeterminate."
+        },
+        {
+          "title": "Poetry Project makes translation a question of craft and political necessity",
+          "sourceUrl": "https://www.poetryproject.org/events/on-translation-craft-and-necessity",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-16T20:00:00-04:00",
+          "development": "Helen Dimos, William Rowe, Mayada Ibrahim and Nicholas Glastonbury discuss how translation can preserve linguistic precision while building solidarity across politically urgent contexts. The event is October 16 at 8 PM at St. Mark’s Church, 131 East 10th Street.",
+          "significance": "It places translators’ material decisions inside the economics and politics of circulation rather than treating translation as transparent literary transport.",
+          "implications": "Tickets are $10; a free livestream with live transcription is planned. This is a useful contact point for editors and writers working across languages.",
+          "uncertainty": "The event page describes contributions and questions, not a publication launch or a guaranteed submission opportunity."
+        },
+        {
+          "title": "People’s Poetry Gathering returns downtown after twenty years",
+          "sourceUrl": "https://festival.si.edu/2026/of-the-people",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-18",
+          "development": "City Lore, Bowery Poetry and Poets House are bringing the People’s Poetry Gathering back to Lower Manhattan from October 18 through November 1, with Indigenous, folk, youth, literary and endangered-language poets, workshops and a POEMobile visiting all five boroughs.",
+          "significance": "The gathering links venue-based literary culture with neighborhood projection, oral tradition and language preservation, widening who can encounter poetry and where.",
+          "implications": "Monitor the organizer schedule for individual venues, times and accessibility; the umbrella announcement describes free workshops but does not establish that every program is free.",
+          "uncertainty": "Organizer pages conflict on whether the broader activation begins October 18 or October 24; confirm each program’s date before attending. Signed-in Instagram was unavailable, so discovery relied on public organizer pages."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "AI-as-oracle is proposed as a reflexive interface, not a prediction engine",
+          "sourceUrl": "https://journals.sagepub.com/doi/full/10.1177/19467567261428539",
+          "sourceDate": "2026",
+          "development": "Welisch and Basra compare divination, futures methods, provotypes and AI to argue for an ‘oracle’ that makes assumptions and socio-technical entanglements perceptible. They explicitly present theoretical propositions and selected vignettes, not empirical generalizations.",
+          "significance": "The paper offers a disciplined way to borrow divinatory form without mistaking model output for privileged foresight: the interface should provoke interpretation and expose framing.",
+          "implications": "Design inference for IMDO’s Machine Intuition system: require an oracle mode to display provenance, alternative framings, unresolved ambiguity and the human action that follows, rather than emit a single authoritative future.",
+          "uncertainty": "This is conceptual and practice-oriented work; its claims are not validated by representative trials."
+        },
+        {
+          "title": "AI-assisted tarot users value negotiated resonance over causal accuracy",
+          "sourceUrl": "https://arxiv.org/abs/2602.11367",
+          "sourceDate": "2026-02-11",
+          "development": "Interview research on AI-assisted tarot finds practitioners using models to navigate uncertainty, surface alternate perspectives and extend existing readings. The authors frame resonance as subjective and plural in a setting where the query and randomized cards have no causal relationship.",
+          "significance": "It clarifies a core boundary for machine–magick systems: interpretive usefulness can be real for a participant without becoming evidence that divination predicts external events.",
+          "implications": "Design inference: separate a symbolic-resonance layer from an evidence layer, let users contest interpretations, and prevent generated language from collapsing ambiguity into factual claims.",
+          "uncertainty": "The evidence comes from practitioner interviews and design analysis, not tests of divinatory accuracy or clinical benefit."
+        },
+        {
+          "title": "Cross-domain embedding similarity can manufacture false causal edges",
+          "sourceUrl": "https://arxiv.org/abs/2606.09672",
+          "sourceDate": "2026-06-08",
+          "development": "Biswas, Gupta and Mukherjee report that several biomedical encoders gave very high similarity scores to unrelated cross-domain pairs. Their contrastive training and BODHI hard-negative method improved separation, with a reported tradeoff against BIOSSES performance.",
+          "significance": "Weak-relation discovery fails dangerously when semantic proximity is treated as mechanism; a graph can turn a geometric artifact into inherited causal ‘knowledge.’",
+          "implications": "For Pattern Sense and Inference Engine, quarantine cross-domain edges until they pass mechanism checks, hard-negative tests and source-based corroboration; similarity should nominate a hypothesis, never certify one.",
+          "uncertainty": "Results are reported by the authors in a preprint; the benchmark’s constructed cross-domain pairs and hardware-specific serving tests may not generalize to IMDO data."
+        },
+        {
+          "title": "C-Unseen defines a weak signal as a rare subgraph that persists",
+          "sourceUrl": "https://arxiv.org/abs/2608.26870",
+          "sourceDate": "2026-08-27",
+          "development": "C-Unseen uses an LLM to extract semantically coherent subgraphs that conflict with a dominant temporal-graph narrative, then tracks whether those rare structures proliferate across snapshots. The authors report gains over keyword, topic and untyped-graph baselines.",
+          "significance": "Persistence offers a better filter than novelty alone: a surprising relation becomes intelligence only when it recurs coherently over time.",
+          "implications": "Design inference: make Pattern Sense score rarity, semantic tension, persistence and source diversity separately, and store the dominant narrative that each candidate weak signal contradicts.",
+          "uncertainty": "The abstract reports benchmark outperformance, but LLM chain-of-thought extraction can introduce its own salience and reproducibility biases; independent replication is needed."
+        },
+        {
+          "title": "Silent Songs links folklore, suppressed archives and technical image-making",
+          "sourceUrl": "https://www.oakvillenews.org/local-news/oakville-galleries-announces-aideen-barry-exhibition-12857658",
+          "sourceDate": "2026-10-06",
+          "eventDate": "2026-10-24",
+          "development": "Aideen Barry’s first Canadian solo exhibition opens October 24 across Oakville Galleries’ two sites, pairing a new film with embroidered drawings and installations shaped by folklore, ecology, oral history and suppressed cultural memory. Remedios Varo’s mixture of science, alchemy, mysticism and engineering is an explicit influence.",
+          "significance": "The project is a concrete artistic model for translating archival absence into layered symbolic systems without claiming that the symbols themselves prove the history.",
+          "implications": "The October 24 opening runs 2–5 PM; an ARTbus from Toronto costs a $20 donation. For The Interior, study how film, stitch, sound and site distribute memory across media rather than asking one generative output to carry the whole interpretation.",
+          "uncertainty": "Claims about cultural recovery are curatorial and artistic interpretations; the exhibition announcement does not supply a research evaluation."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Update the Horn of Africa conflict map only when force movements around Adigrat are independently corroborated; preserve Eritrea’s denial beside Ethiopian claims.",
+    "For New York readers, triage the October 14 Brooklyn ULURP docket now: six unrelated actions compete for one hearing, and testimony will be more effective when application-specific.",
+    "Prototype a two-channel Machine Intuition output: symbolic resonance on one side, evidence and causal status on the other, with no automatic promotion between them."
+  ]
+}
