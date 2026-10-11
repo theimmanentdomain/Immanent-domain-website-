@@ -1,0 +1,282 @@
+{
+  "id": "2026-10-11-1533-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-11T15:33:00-04:00",
+  "publishedAt": "2026-10-11T15:42:43-04:00",
+  "title": "IMDO OSINT — October 11, 2026 — 3:33 PM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Iran rejects parts of Washington’s Hormuz reply",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/iran-says-us-response-its-proposal-reopen-hormuz-was-insufficient-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "development": "Iranian official Mohsen Rezaei said a U.S. response, delivered through Qatar, accepted some but not all of Tehran’s seven conditions for reopening the Strait of Hormuz; he said Iran was no longer replying. The White House had not commented.",
+          "significance": "The passage carried roughly one-fifth of global oil and LNG trade before the war, so even partial movement in indirect talks matters to shipping, energy prices and escalation risk.",
+          "implications": "Watch for a written U.S. formulation, independently observed changes in vessel traffic and insurer guidance rather than treating either side’s negotiating claims as implementation.",
+          "uncertainty": "This is an attributed Iranian account of private diplomacy, not an agreement or verified reopening."
+        },
+        {
+          "title": "Mekelle changes hands again as Ethiopian Airlines resumes flights",
+          "sourceUrl": "https://apnews.com/article/ethiopia-tigray-mekelle-conflict-2c6ebeb250cbf98852ab32bf2f36a04a",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Government-allied units re-entered Mekelle after the TPLF, which seized the airport on September 23, withdrew on October 3. Ethiopian Airlines resumed service, and interim administrator Getachew Reda promised visible changes without specifying them.",
+          "significance": "Control of Tigray’s capital and airport is a concrete test of the fraying 2022 peace pact; renewed civilian air links may improve access while also consolidating federal authority.",
+          "implications": "Track humanitarian access, arrests, public-service continuity and whether the return is accompanied by a durable security arrangement.",
+          "uncertainty": "The wider military balance and the meaning of the administrator’s promised changes remain unclear."
+        },
+        {
+          "title": "Rights monitor raises Sudan gold-mine strike toll to at least 72",
+          "sourceUrl": "https://www.reuters.com/world/africa/least-72-sudanese-artisanal-miners-killed-strike-saturday-rights-monitor-says-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-10",
+          "development": "A Sudanese rights monitor said at least 72 artisanal miners were killed in a strike near the Egyptian border, sharply above the initial toll of 13 reported by a doctors’ network. The aircraft responsible was not identified.",
+          "significance": "The revised toll makes the remote mining-site attack one of the day’s most consequential civilian-harm incidents and highlights the near absence of medical and verification capacity in the border region.",
+          "implications": "Seek geolocated imagery, hospital lists and independent attribution before assigning responsibility.",
+          "uncertainty": "The toll changed rapidly and access is limited; neither the casualty count nor perpetrator has been independently established."
+        },
+        {
+          "title": "Russian strikes reported to kill six in Kharkiv and western Ukraine",
+          "sourceUrl": "https://www.reuters.com/world/russian-attacks-kill-six-people-two-ukrainian-cities-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Regional officials reported three people killed and 20 injured, including two children, when a strike hit a Kharkiv grocery store; three more people were reported killed in a western Ukrainian city. Reuters reviewed online imagery but relied on officials for casualties.",
+          "significance": "The attacks show civilian exposure continuing outside the immediate front and complicate claims of imminent de-escalation.",
+          "implications": "Track verified damage assessments, weapon remnants and updates to casualty lists.",
+          "uncertainty": "Casualty figures are preliminary and battlefield attribution was not independently verified in the report."
+        },
+        {
+          "title": "Report: Washington threatens Ukraine procurement and intelligence over refinery attacks",
+          "sourceUrl": "https://www.reuters.com/world/europe/us-threatens-block-arms-ukraine-over-refinery-attacks-ft-reports-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "development": "The Financial Times, citing European officials, reported that Washington threatened to restrict Ukraine’s access to U.S.-facilitated arms procurement and intelligence unless Kyiv curbs attacks on Russian refineries. Reuters could not independently verify the report, and the White House did not comment.",
+          "significance": "If confirmed, the leverage would connect Ukraine’s strike strategy directly to support channels, including allied purchases through the PURL mechanism.",
+          "implications": "Watch for formal U.S. guidance, changes in intelligence flows and observable shifts in Ukrainian targeting.",
+          "uncertainty": "This remains a secondary report based on unnamed officials, not a publicly confirmed policy."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Brazil’s runoff campaign pivots to municipal alliances, security and turnout",
+          "sourceUrl": "https://www.reuters.com/world/americas/rallying-sao-paulo-presidential-candidates-seek-votes-political-support-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Ahead of the October 25 runoff, Flávio Bolsonaro courted mayors and councilors in São Paulo with crime-policy and municipal-funding pledges, while President Lula rallied supporters on Avenida Paulista around federal public-safety action and turnout.",
+          "significance": "What changed is the campaign’s move from first-round positioning to local-coalition building and competing public-safety commitments, potentially decisive in mobilizing low-turnout voters.",
+          "implications": "Compare concrete fiscal and policing proposals and monitor endorsements by local officials rather than reading rally size as a vote forecast.",
+          "uncertainty": "Campaign events show strategy, not outcome; polling and turnout can still shift."
+        },
+        {
+          "title": "UK prime minister says Russia interfered in the 2016 Brexit vote",
+          "sourceUrl": "https://www.reuters.com/world/uk/uk-pm-burnham-says-russia-interfered-2016-brexit-vote-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "development": "Prime Minister Andy Burnham said publicly that there was evidence of Russian interference in the Brexit referendum, but did not disclose the evidence or method. A 2020 parliamentary report had faulted the government for failing to determine the extent of interference; Russia denies meddling.",
+          "significance": "The statement raises the political status of a long-running institutional failure from an unresolved intelligence question to an explicit prime-ministerial accusation.",
+          "implications": "The evidentiary test is whether the government releases an assessment, attribution standard or remedial election-security measures.",
+          "uncertainty": "No new supporting evidence was published with the statement."
+        },
+        {
+          "title": "Bipartisan senators challenge plan to allow Russian diesel imports",
+          "sourceUrl": "https://apnews.com/article/trump-diesel-russia-ukraine-senators-protest-93fa63c8a88e538f1456e7d448fc550d",
+          "sourceDate": "2026-10-11",
+          "development": "Six senators—four Republicans and two Democrats—objected to an administration plan that would permit imports of Russian diesel, arguing it may conflict with the 2022 statutory ban and that Congress was not consulted.",
+          "significance": "The dispute converts an energy-policy proposal into a separation-of-powers and sanctions-enforcement test with bipartisan resistance.",
+          "implications": "Read the implementing authority, any waiver text and customs guidance; a proposal is not yet a change in import practice.",
+          "uncertainty": "Legality is contested and the plan may be revised or blocked."
+        },
+        {
+          "title": "AI anxiety and political conflict reopen the union question in tech",
+          "sourceUrl": "https://www.kqed.org/news/12095749/tech-workers-have-long-resisted-unions-will-ai-and-politics-change-the-equation",
+          "sourceDate": "2026-10-11",
+          "development": "KQED documented organizing activity around automation risk, immigration enforcement, Gaza and defense technology, including the Tech Workers Coalition’s role in connecting workplace grievances across firms.",
+          "significance": "White-collar technology labor has historically resisted formal unionization; shared concerns about AI-driven displacement and employer political choices may be creating broader organizing terrain.",
+          "implications": "Track actual petitions, bargaining units, contracts and retaliation cases rather than social-media visibility alone.",
+          "uncertainty": "This is trend reporting, not evidence yet of mass union growth across the sector."
+        },
+        {
+          "title": "Two unions strike at Chile’s Centinela copper mine",
+          "sourceUrl": "https://www.reuters.com/business/world-at-work/workers-chiles-centinela-copper-mine-strike-after-talks-fail-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-07",
+          "development": "Newly discovered older material: workers in two unions began a strike after rejecting mediated talks, seeking equal benefits. Operator Antofagasta said projected production was unchanged.",
+          "significance": "The conflict joins labor equity to a globally important copper supply chain, even if immediate output is unaffected.",
+          "implications": "Monitor stockpiles, duration, replacement work and any shift from benefit parity to production disruption.",
+          "uncertainty": "The company’s no-impact forecast is forward-looking and could change if the strike persists."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Health Department seeks a long-term master contractor for citywide survey work",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928019",
+          "sourceDate": "2026-10-02",
+          "eventDate": "2026-11-06T14:00:00-05:00",
+          "development": "DOHMH opened an RFP for a master contractor covering survey design, data collection and analysis from July 2027 through February 2034. A preproposal conference is October 15 at 1 PM ET; RSVP is due October 14 at 2 PM, questions October 20, and proposals November 6 at 2 PM.",
+          "significance": "A seven-year survey vehicle can shape how the city measures health disparities and evaluates programs; sampling, language access and public-data terms deserve scrutiny.",
+          "implications": "Eligible research firms should review the solicitation now; residents and advocates should later examine methodology, privacy and publication requirements.",
+          "uncertainty": "This is a solicitation, not an award; budget and winning methodology remain unknown."
+        },
+        {
+          "title": "City seeks design team for full Coney Island boardwalk reconstruction",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923026",
+          "sourceDate": "2026-09-30",
+          "eventDate": "2026-11-04T16:00:00-05:00",
+          "development": "A two-stage RFQ covers the full 2.4-mile Riegelmann Boardwalk structure, portions raised to elevation +16 NAVD88, nine restrooms, six lifeguard stations, four shade pavilions and related utilities. Questions are due October 15 at 5 PM; responses November 4 at 4 PM.",
+          "significance": "The scope combines coastal resilience with one of Brooklyn’s largest public-realm assets, affecting access, construction phasing and local businesses for years.",
+          "implications": "Track the shortlist and demand clear public-access, material, heat, accessibility and storm-performance criteria.",
+          "uncertainty": "The notice starts consultant selection; no construction schedule or final design is approved."
+        },
+        {
+          "title": "Parks invites operating and development ideas for Ocean Breeze Park",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260908026",
+          "sourceDate": "2026-09-18",
+          "eventDate": "2026-11-13T15:00:00-05:00",
+          "development": "NYC Parks issued an RFEI for permanent, temporary or seasonal programming, amenities, events and potential development at Ocean Breeze Park on Staten Island. Responses are due November 13 at 3 PM ET.",
+          "significance": "Early concept solicitation can set the direction of a public site before a formal concession or capital plan, making public-benefit and access conditions important now.",
+          "implications": "Local groups can submit or scrutinize concepts for affordability, ecological impact, transit access and year-round community use.",
+          "uncertainty": "An RFEI gathers ideas and does not guarantee procurement, funding or construction."
+        },
+        {
+          "title": "Mass Timber Studio offers grants and code support for active housing projects",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260911021",
+          "sourceDate": "2026-09-17",
+          "eventDate": "2026-10-30T16:00:00-04:00",
+          "development": "The city’s nine-month accelerator seeks active multifamily housing projects using mass timber, offering approximately $25,000 per team plus regulatory and technical support. Applications close October 30 at 4 PM ET; the cohort begins January 2027.",
+          "significance": "The program is a small but concrete test of whether lower-carbon structural systems can navigate New York’s cost, fire-code and approval constraints.",
+          "implications": "Teams should document code questions and embodied-carbon assumptions; observers should compare promised savings with final costs and approvals.",
+          "uncertainty": "Selection does not constitute a building approval, and performance claims must be tested project by project."
+        },
+        {
+          "title": "Brooklyn land-use hearing bundles five consequential rezonings",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924023",
+          "sourceDate": "2026-10-01",
+          "eventDate": "2026-10-14T18:00:00-04:00",
+          "development": "The Brooklyn borough president will hear five applications October 14 at 6 PM at Borough Hall and online: a Bay Ridge community facility; 112 homes at 1584 Flatbush Avenue; 81 homes at 150 Noll Street; a 1.4-million-square-foot, 1,502-home Downtown Brooklyn project with 302 permanently affordable units, school space and open space; and 71 homes at 364 Coney Island Avenue. Written testimony is due October 16.",
+          "significance": "The agenda concentrates several neighborhood-scale density and affordability decisions in one hearing, including an unusually large Downtown Brooklyn proposal.",
+          "implications": "Testimony should separate each project and ask about affordability bands, school capacity, displacement, open-space governance and construction impacts.",
+          "uncertainty": "These are applications under review, not approved projects; stated unit and floor-area figures may change."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Last call: NYFA’s free 2027 immigrant-artist mentorship",
+          "sourceUrl": "https://www.nyfa.org/professional-development/immigrant-artist-mentoring-program/",
+          "sourceDate": "Publication date not shown; accessed 2026-10-11",
+          "eventDate": "2026-10-12T23:59:00-04:00",
+          "development": "Applications close October 12 at 11:59 PM ET for foreign-born visual and multidisciplinary artists living in or within commuting distance of New York City. The free program offers one-to-one mentorship, workshops, networking and a possible spring 2027 exhibition; applicants generally need one to ten years of U.S. practice and cannot be current degree students.",
+          "significance": "This is a concrete access point into New York’s arts infrastructure for artists navigating immigration and career-network barriers.",
+          "implications": "Eligible artists should confirm mandatory January–June dates and submit through NYFA’s linked Submittable page before the deadline.",
+          "uncertainty": "Selection is competitive; immigration-status disclosure is not required. The accommodation-request date has passed."
+        },
+        {
+          "title": "Alexander Chee marks 25 years of Edinburgh with three novelists",
+          "sourceUrl": "https://centerforfiction.org/event/edinburgh-at-25-with-alexander-chee-mira-jacob-r-o-kwon-and-brandon-taylor/",
+          "sourceDate": "Publication date not shown; accessed 2026-10-11",
+          "eventDate": "2026-10-13T19:00:00-04:00",
+          "development": "Alexander Chee discusses the 25th-anniversary edition of Edinburgh with Mira Jacob, R. O. Kwon and Brandon Taylor on October 13 at 7 PM EDT at the Center for Fiction, 15 Lafayette Avenue, Brooklyn, with livestream access. All tickets include a signed copy; the displayed page did not expose a price in accessible text.",
+          "significance": "The gathering puts four influential contemporary novelists around a book’s long afterlife, abuse, identity and the role of creativity in surviving tragedy.",
+          "implications": "Use the organizer’s registration page for current ticket price and availability.",
+          "uncertainty": "Admission cost was not confirmed in the accessible listing."
+        },
+        {
+          "title": "PRELUDE turns 300 Ashland Plaza into a free outdoor stage",
+          "sourceUrl": "https://www.bam.org/theater/2026/prelude",
+          "sourceDate": "Publication date not shown; accessed 2026-10-11",
+          "eventDate": "2026-10-13/2026-10-15, 7:30 PM ET",
+          "development": "En Garde Arts reunites director Anne Bogart and playwright Charles L. Mee for a large-scale outdoor work with original music by the Lazours and costumes by Machine Dazzle. Performances run October 13–15 at 7:30 PM at 300 Ashland Plaza.",
+          "significance": "The project moves experimental theater into a civic plaza and links several downtown performance lineages without a ticket barrier.",
+          "implications": "Admission is free and first-come; RSVP helps organizers but does not guarantee entry.",
+          "uncertainty": "Outdoor conditions and capacity may affect access."
+        },
+        {
+          "title": "Eleanor Johnson presents Monstrous Bitch at Book Culture",
+          "sourceUrl": "https://bookculture.com/event/2026-10-12/112th-eleanor-johnson-monstrous-bitch",
+          "sourceDate": "Publication date not shown; accessed 2026-10-11",
+          "eventDate": "2026-10-12T19:00:00-04:00",
+          "development": "Eleanor Johnson presents Monstrous Bitch: A History of Terrifying Women on October 12 at 7 PM at Book Culture, 536 West 112th Street. The organizer requests advance RSVP and says the second floor will partially close from 6:45 PM.",
+          "significance": "The event connects medieval and modern literary histories of the socially threatening woman to a live independent-bookstore audience.",
+          "implications": "RSVP through the organizer; no admission charge is stated, so cost is unconfirmed rather than assumed free.",
+          "uncertainty": "The listing does not state ticket price or capacity."
+        },
+        {
+          "title": "A.I.R. plans a West Village homecoming while its final DUMBO season continues",
+          "sourceUrl": "https://www.airgallery.org/",
+          "sourceDate": "Publication date not shown; accessed 2026-10-11",
+          "eventDate": "Current exhibitions 2026-10-10/2026-11-08; relocation planned early 2027",
+          "development": "A.I.R. Gallery says it will leave Brooklyn after nearly two decades for a 2,400-square-foot long-term home in the Federal Archive Building in the West Village, doubling space for feminist programming and targeting an early 2027 reopening. Its DUMBO galleries currently show Lauren Simkin Berke, Kirsten Batten-Leach and Natalie de Segonzac through November 8, Wednesday–Sunday noon–6 PM.",
+          "significance": "The move brings the longest-running U.S. alternative space for women artists back to Manhattan while materially expanding its program footprint.",
+          "implications": "Track the capital campaign, reopening date and whether the larger space changes fellowship, membership and exhibition capacity.",
+          "uncertainty": "The reopening month and construction completion date are not yet stated. Signed-in Instagram was unavailable for this edition; this item was verified through A.I.R.’s public site."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "LLMs show strong priors but weak extrapolation in number-game hypothesis tests",
+          "sourceUrl": "https://arxiv.org/abs/2605.05851",
+          "sourceDate": "2026-05-07",
+          "development": "A preprint compares children and language models on a Bayesian number-game task. Models showed sampling and simplicity biases; additional reasoning shifted their prior, but a gap remained between generating hypotheses and evaluating them, especially outside the observed domain.",
+          "significance": "For IMDO’s Machine Intuition system, the useful distinction is between proposing a symbolic rule and assigning calibrated support to it; fluent induction can conceal brittle extrapolation.",
+          "implications": "A practical test is to log generated hypotheses separately from posterior ranking, then score both on deliberately out-of-range observations.",
+          "uncertainty": "Research result from a preprint and constrained task; it does not establish general human-like intuition."
+        },
+        {
+          "title": "Neuro-symbolic planner makes perceptual uncertainty explicit",
+          "sourceUrl": "https://arxiv.org/abs/2511.14533",
+          "sourceDate": "2025-11-18",
+          "development": "Newly discovered older preprint: the system converts continuous perception into probabilistic symbolic states and feeds uncertainty into planning. In synthetic PyBullet scenes it reported F1 of 0.68 and 90.7% task success, 10–14 points above a POMDP baseline.",
+          "significance": "The architecture offers a concrete design analogue for a Pattern Sense or Inference Engine that preserves ambiguity instead of collapsing every observation into a single symbol.",
+          "implications": "Prototype with multiple candidate symbols and calibrated confidences, then test whether downstream plans degrade gracefully under misperception.",
+          "uncertainty": "The results are preprint findings in synthetic environments, not evidence of occult perception or field robustness."
+        },
+        {
+          "title": "ME-SCRIPTA will use AI to reconnect dispersed Egyptian manuscripts",
+          "sourceUrl": "https://www.museoegizio.it/en/discover/funded-projects/me-scripta/",
+          "sourceDate": "Project page for 2026–2034; publication date not shown",
+          "eventDate": "2026–2034",
+          "development": "Museo Egizio’s nine-year project will link manuscripts, ostraca, parchment and bookbindings spanning more than three millennia. It plans AI tools for script recognition, fragment matching and virtual reunion across more than 1,000 manuscripts and about 30,000 fragments in seven scripts and eight languages.",
+          "significance": "This is a serious symbolic-database project where machine pattern recognition can restore relationships between incomplete ritual, literary and administrative objects.",
+          "implications": "Track public datasets, provenance metadata, false-match review and whether scholars can inspect alternative fragment hypotheses.",
+          "uncertainty": "These are announced project capabilities and goals, not yet a validated full-scale system."
+        },
+        {
+          "title": "House of IFs turns news correlations into daily omens",
+          "sourceUrl": "https://research-information.bris.ac.uk/en/publications/house-of-ifs-daily-omens-generated-from-news/",
+          "sourceDate": "2026-06",
+          "eventDate": "Public web release 2026-08",
+          "development": "Gaston Welisch’s agentic artwork gathers unusual and major news plus earlier reports of comparable relationships, then generates IF/THEN omens modeled on Mesopotamian divination and accumulates them in an interactive archive.",
+          "significance": "It is a direct contemporary experiment in computational divination: retrieval, correlation and symbolic formatting produce an oracular interface without claiming empirical prophecy.",
+          "implications": "A useful audit would preserve every retrieved source, distinguish correlation from causal inference and test how often generated outcomes become unfalsifiable.",
+          "uncertainty": "This is an artistic system and symbolic interpretation, not a validated forecasting method."
+        },
+        {
+          "title": "mudac pairs illusion history with magic as relational technology",
+          "sourceUrl": "https://mudac.ch/expositions/magie-et-design/",
+          "sourceDate": "Publication date not shown; accessed 2026-10-11",
+          "eventDate": "2026-11-06/2027-04-11",
+          "development": "The Lausanne design museum’s season combines Hocus Pocus, tracing shared histories of design, stagecraft, technology and spiritualist imagination, with Rencontrologie, an exhibition of immersive installations, ritual objects and speculative works treating contemporary magic as relational technology.",
+          "significance": "The paired shows create a rare curatorial frame for separating engineered illusion from practices that mediate relationships with ecology, nonhuman life and unseen worlds.",
+          "implications": "Document which works make empirical claims, which operate symbolically and which propose participatory experiments relevant to The Interior or Noetic Perception Device.",
+          "uncertainty": "The museum’s framing is curatorial and interpretive; it does not validate supernatural mechanisms. Admission price was not confirmed."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Track whether the Hormuz talks produce observable shipping changes or remain an exchange of attributed positions.",
+    "Submit or prepare testimony for the October 14 Brooklyn land-use hearing, separating the five projects and their affordability terms.",
+    "Eligible immigrant artists should treat NYFA’s October 12, 11:59 PM ET deadline as the most immediate action item."
+  ]
+}
