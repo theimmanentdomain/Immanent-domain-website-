@@ -1,0 +1,280 @@
+{
+  "id": "2026-10-10-2121-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-10T21:21:00-04:00",
+  "publishedAt": "2026-10-10T21:30:00-04:00",
+  "title": "IMDO OSINT — October 10, 2026 — 9:21 PM New York",
+  "sections": [
+    {
+      "name": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Riyadh airport attack toll reaches 12 dead and 309 wounded",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Saudi civil-aviation authorities said a missile attack on King Khalid International Airport killed 12 people and wounded 309. It was the third attack on the airport that week; operations were halted and flights diverted. The Saudi-led coalition attributed the strike to Yemen's Houthis, who had not immediately claimed this specific attack.",
+          "significance": "The casualty scale and repeat penetration of a major civilian aviation hub mark a sharp escalation in the revived Saudi-Houthi war and expose a critical air-defense gap.",
+          "implications": "Track airport reopening, airline suspensions, Saudi requests for interceptors and any independently documented retaliation.",
+          "uncertainty": "Casualties and disruption are official Saudi figures; responsibility remains an attributed coalition claim pending a Houthi statement or independent evidence."
+        },
+        {
+          "title": "Pentagon raises the U.S. Iran-war toll to 21 dead and 865 wounded",
+          "sourceUrl": "https://www.stripes.com/theaters/middle_east/2026-10-10/pentagon-death-toll-iran-war-23114546.html",
+          "sourceDate": "2026-10-10",
+          "development": "Stars and Stripes reported that the Pentagon's consolidated count now lists 21 U.S. service members dead and 865 wounded in the Iran war. The revision added two previously unreported noncombat deaths.",
+          "significance": "The accounting change materially enlarges the official human cost and shows that delayed noncombat reporting can obscure the operational burden.",
+          "implications": "Use the Pentagon total as the current official baseline, while separating combat deaths, noncombat deaths and wounded in future comparisons.",
+          "uncertainty": "This is an official U.S. tally; later medical reclassification or newly documented incidents could revise it again."
+        },
+        {
+          "title": "Update: Zaporizhzhia glide-bomb death toll rises again, to 20",
+          "sourceUrl": "https://www.reuters.com/business/aerospace-defense/russian-attack-ukraines-zaporizhzhia-kills-seven-governor-says-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Reuters updated the strike covered earlier today: Ukrainian authorities now report 20 people killed, including three children, after Russian glide bombs hit residential areas in Zaporizhzhia. The same event had first been reported at seven dead and then twelve.",
+          "significance": "The second major toll correction changes the civilian-impact record; downstream chronologies should replace, not add together, the earlier counts.",
+          "implications": "Preserve the revision trail and monitor hospital and emergency-service updates for a final count.",
+          "uncertainty": "The toll is from Ukrainian officials; wartime access limits immediate independent verification of every casualty and munition detail."
+        },
+        {
+          "title": "Germany rejects following the U.S. diesel deal with sanctions relief for Russia",
+          "sourceUrl": "https://www.reuters.com/world/germany-sticks-russia-sanctions-after-trump-announcement-diesel-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Germany said it would maintain sanctions on Russian energy after President Trump announced a U.S.-Russia arrangement intended to return Russian diesel to global markets.",
+          "significance": "The split matters because sanctions leverage depends on coalition alignment; unilateral U.S. easing does not automatically reopen European markets.",
+          "implications": "Watch EU-level guidance, shipping insurance and payment channels rather than treating the U.S. announcement as a completed normalization.",
+          "uncertainty": "This is a policy position, not evidence that diesel volumes have already moved or that other European governments will adopt identical terms."
+        },
+        {
+          "title": "Russia expands its air campaign to Dnipro bridge infrastructure",
+          "sourceUrl": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e",
+          "sourceDate": "2026-10-10",
+          "development": "The Financial Times documented Russian jet-powered drones striking three Dnipro River bridges over the past week—two in Kyiv and one in Zaporizhzhia—injuring dozens and disrupting road and metro links.",
+          "significance": "A sustained bridge campaign would widen Russia's winter pressure strategy from energy systems to the transport arteries that connect cities, emergency services and supply networks.",
+          "implications": "Monitor closure duration, repeat-hit patterns, temporary crossings and whether strikes shift from disruption to structural denial.",
+          "uncertainty": "The pattern is documented from recent strikes, but intent and the durability of damage cannot be inferred from the targets alone."
+        }
+      ]
+    },
+    {
+      "name": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Germany's anti-AfD firewall shows a new regional fracture",
+          "sourceUrl": "https://www.reuters.com/world/europe/germanys-firewall-against-far-right-afd-feels-heat-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "development": "Reuters reported that an AfD candidate won a regional assembly speakership with support beyond the party's own votes, intensifying debate over whether Germany's mainstream-party firewall is eroding in local institutions.",
+          "significance": "Assembly procedure can become a practical entry point for normalization even while national party leadership formally rejects cooperation.",
+          "implications": "Track repeat cross-party votes, committee control and whether disciplinary action follows; one secret-ballot result does not establish a durable coalition.",
+          "uncertainty": "Because the ballot was secret, the identities and motives of outside supporters cannot be verified."
+        },
+        {
+          "title": "UK government blocks Orange Order march after Portadown standoff",
+          "sourceUrl": "https://apnews.com/article/0182e1431f9a8765e9448df0565eb5ab",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "Northern Ireland Secretary Chris Bryant blocked an Orange Order march through the largely Catholic Garvaghy Road after a two-week standoff and failed mediation. The order is challenging the ban; Belfast High Court adjourned the matter until Monday.",
+          "significance": "The intervention tests whether post-Good Friday institutions can contain a familiar sectarian flashpoint without turning a localized route dispute into broader unrest.",
+          "implications": "Watch the court ruling, compliance by organizers and counter-rally plans rather than assuming the administrative ban ends the dispute.",
+          "uncertainty": "The legal challenge is unresolved and conditions can change before the scheduled hearing."
+        },
+        {
+          "title": "Update: Delhi's planned youth rally becomes a mass-detention and communications crackdown",
+          "sourceUrl": "https://apnews.com/article/030b35e23279c75394b7654233c99d6b",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-10",
+          "development": "A previously tracked October 10 mobilization by India's youth-led 'Cockroach' movement was met with thousands of detentions, transport restrictions and mobile-internet disruption in Delhi. Protesters demand the election chief's resignation over a voter-roll revision; the Election Commission and BJP deny partisan manipulation.",
+          "significance": "The development moves the story from anticipated mobilization to documented coercive disruption of assembly and communications ahead of state elections.",
+          "implications": "Track release records, habeas or contempt litigation, restoration of connectivity and transparent procedures for reinstating eligible voters.",
+          "uncertainty": "Opposition claims that roughly 130 million deletions were partisan remain disputed; deletions alone do not prove targeted disenfranchisement."
+        },
+        {
+          "title": "Democrats expand their U.S. House target map to 66 Republican districts",
+          "sourceUrl": "https://www.reuters.com/world/us/midterm-strategy-driving-democrats-deep-into-trump-country-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "development": "The Democratic Congressional Campaign Committee expanded its target list to 66 Republican-held districts, including deeply conservative seats such as Tennessee's 9th, where Justin Pearson is running.",
+          "significance": "The strategy is less a forecast of 66 competitive races than an attempt to force Republican spending into nominally safe territory while Democrats need a net four-seat gain.",
+          "implications": "Evaluate whether outside spending and candidate fundraising actually follow the expanded map; designation alone is not evidence of competitiveness.",
+          "uncertainty": "Several targets remain long shots, and national committees' public lists can also serve fundraising and signaling purposes."
+        },
+        {
+          "title": "Justice Department opens antitrust probe of television networks over White House pool boycott",
+          "sourceUrl": "https://www.reuters.com/business/media-telecom/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-2026-10-10/",
+          "sourceDate": "2026-10-10",
+          "development": "The U.S. Justice Department said it is investigating whether ABC, CBS, CNN, NBC and Fox News violated antitrust law by jointly suspending White House pool coverage after credentials were revoked from CNN, Politico and MS NOW. A judge had already ordered the credentials restored.",
+          "significance": "Using competition law against a coordinated press-access protest could reshape how news organizations share pool duties and collectively resist access restrictions.",
+          "implications": "Watch for subpoenas, a formal complaint and the parallel First Amendment litigation; an investigation is not a finding of collusion.",
+          "uncertainty": "The legal theory has not been tested in court, and the networks' defenses and internal coordination evidence are not yet public."
+        }
+      ]
+    },
+    {
+      "name": "NYC Affairs",
+      "entries": [
+        {
+          "title": "MTA starts environmental review for a 125th Street subway tunnel extension",
+          "sourceUrl": "https://www.mta.info/press-release/mta-begins-environmental-review-of-125-street-subway-tunnel-extension",
+          "sourceDate": "2026-10-08",
+          "development": "The MTA formally began environmental review for a proposed new subway tunnel beneath 125th Street.",
+          "significance": "Environmental review is the first concrete public process for examining alignment, construction impacts and potential network benefits; it is not yet a construction commitment.",
+          "implications": "Residents and businesses should watch for scoping materials and comment periods, especially around property, utilities, staging and transfers.",
+          "uncertainty": "The announcement does not establish a final route, budget, funding source or opening date."
+        },
+        {
+          "title": "Commercial Waste Zone enforcement town hall opens a direct compliance channel",
+          "sourceUrl": "https://www.nyc.gov/assets/bic/downloads/pdf/notices/reminder-bic-dsny-cwz-enforcement-pt2-town-hall-october-12-2pm-10-07-26.pdf",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-13T14:00:00-04:00",
+          "development": "BIC and DSNY will hold Commercial Waste Zone Enforcement Part II on October 13 at 2 PM ET, covering safety enforcement, trade versus commercial waste, implementation status, enforcement trends and FAQs. Microsoft Teams meeting ID: 243 353 758 169 217; passcode: 5Lk6kQ39.",
+          "significance": "For carters and commercial customers, the forum can clarify how enforcement is changing as zones move from policy to operations.",
+          "implications": "Virtual attendance remains available. The October 8 deadline for in-person RSVP at 100 Church Street has passed; questions can be sent to PolicyInfo@bic.nyc.gov.",
+          "uncertainty": "The notice states the event is open to all carters but does not state an admission fee; assume none only if confirmed by organizers."
+        },
+        {
+          "title": "Ridgewood hearing weighs two buildings with 55 homes and 14 income-restricted units",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20261005013",
+          "sourceDate": "2026-10-08",
+          "eventDate": "2026-10-14T19:30:00-04:00",
+          "development": "Queens Community Board 5 will hear a rezoning proposal for 10-86 Cypress Avenue on October 14 at 7:30 PM at Christ the King High School cafeteria, 68-02 Metropolitan Avenue. The application would facilitate two mixed-use buildings with 55 homes, 14 income-restricted units and 11,316 square feet of ground-floor commercial space.",
+          "significance": "The proposal offers a concrete neighborhood-level test of added density, Mandatory Inclusionary Housing and commercial frontage in Ridgewood.",
+          "implications": "Testimony should ask for affordability bands, bedroom mix, displacement analysis, construction impacts and commercial tenancy assumptions.",
+          "uncertainty": "Rezoning approval, financing and construction are not guaranteed."
+        },
+        {
+          "title": "Fresh Meadows hearing bundles a nine-story proposal and a 17-story Queens Boulevard project",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20261001008",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-14T19:30:00-04:00",
+          "development": "Queens Community Board 8 will hold an October 14, 7:30 PM hearing at Hillcrest Jewish Center, 183-02 Union Turnpike, on two ULURP matters: a nine-story mixed-use project at 165-25 Union Turnpike and a proposed 17-story, 342,204-square-foot mixed-use building at 138-23 Queens Boulevard. Speaker registration closes at 4 PM that day by calling 718-264-7895.",
+          "significance": "The paired applications could materially change scale and street activity along two corridors, while the hearing provides a specific participation deadline.",
+          "implications": "Compare requested zoning, MIH terms, traffic and school-capacity effects across the two sites rather than treating them as one project.",
+          "uncertainty": "The notice does not supply full unit counts or affordability terms for the Queens Boulevard proposal; those details remain unconfirmed here."
+        },
+        {
+          "title": "El Barrio land-trust hearing updates four affordable-housing properties",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827020",
+          "sourceDate": "2026-09-15",
+          "eventDate": "2026-10-15T11:00:00-04:00",
+          "development": "HPD will hold an October 15, 11 AM hearing at 9 West 124th Street on deed and land-disposition amendments for four properties conveyed to the East Harlem/El Barrio Community Land Trust. The revised project changes an approximately 36-unit plan with two commercial and one community-facility space into approximately 38 rental homes and three community-facility spaces.",
+          "significance": "The amendment reveals how a community-land-trust project is shifting its program while retaining a permanently mission-oriented ownership structure.",
+          "implications": "Participants can ask how the extra units affect affordability, which uses will occupy the three community spaces and how deed restrictions will be enforced.",
+          "uncertainty": "The notice describes amendments already approved by the Council in July; the hearing concerns the deed and disposition terms, not a fresh vote on the entire project."
+        }
+      ]
+    },
+    {
+      "name": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Cake Zine launches ‘Spoiled Rotten’ with readings at McNally Jackson’s Downtown Brooklyn space",
+          "sourceUrl": "https://cakezine.com/products/spoiled-rotten-launch-party",
+          "sourceDate": "2026-09-30",
+          "eventDate": "2026-10-13T18:30:00-04:00",
+          "development": "Cake Zine will launch Volume 8, ‘Spoiled Rotten,’ on October 13 at the McNally Jackson event space at BKLYN STUDIOS, 1 DeKalb Avenue. Doors open 6:30 PM; readings begin 7:30 PM; 21+; $21.",
+          "significance": "The event links an independent food-and-culture magazine to a bookstore-hosted reading format, showing the continued overlap of zines, criticism and nightlife-adjacent gatherings.",
+          "implications": "The organizer page marks tickets sold out; monitor only the original page for returns rather than resale claims.",
+          "uncertainty": "Signed-in Instagram was unavailable, so this cultural desk was built from independently public organizer pages. No door-ticket policy is confirmed."
+        },
+        {
+          "title": "Litmus Press marks 25 years with a Poetry Project benefit",
+          "sourceUrl": "https://www.poetryproject.org/events/litmus-press-celebration",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-14T19:30:00-04:00",
+          "development": "Litmus Press's 25th-anniversary benefit begins with a 7:30 PM reception and 8 PM reading on October 14 at The Poetry Project, St. Mark's Church, 131 East 10th Street. Tickets are $25; the program honors Rosmarie Waldrop and includes Erica Hunt, Mei-mei Berssenbrugge, Judith Goldman, Eileen Myles, Star and Stan.",
+          "significance": "A quarter-century benefit concentrates poets, translators and small-press readers around an institution that sustains formally adventurous publishing.",
+          "implications": "Buy through the organizer page; accessibility or livestream details should be confirmed directly if needed.",
+          "uncertainty": "The organizer page was accessed October 10 but does not display a separate publication date."
+        },
+        {
+          "title": "Gowanus Open Studios turns 30 with 400-plus artists across 90-plus sites",
+          "sourceUrl": "https://www.artsgowanus.org/gowanus-open-studios-26",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-17/2026-10-18",
+          "development": "Gowanus Open Studios runs October 17–18, noon–6 PM, free, with more than 400 artists across more than 90 sites plus associated events and an afterparty.",
+          "significance": "The 30th edition is both a broad discovery map and a real-time view of whether rezoning-era affordable-studio commitments are preserving production space.",
+          "implications": "Use the organizer's map to cluster visits; artists evaluating space should compare rents with the cited community-benefit benchmark of $1.66 per square foot per month with 2% annual increases.",
+          "uncertainty": "The organizer page was accessed October 10; individual studios may have their own accessibility and capacity limits."
+        },
+        {
+          "title": "La MaMa hosts Yungchen Lhamo’s two-day ‘Coming Home’ program",
+          "sourceUrl": "https://lamama.org/yungchen-lhamo-in-concert/",
+          "sourceDate": "2026-07-08",
+          "eventDate": "2026-10-16/2026-10-17",
+          "development": "La MaMa presents Tibetan singer Yungchen Lhamo on October 16–17. Friday begins at 3 PM with sacred art, meditation, medicine, an oracle documentary, food and dance; Saturday centers on the concert. Ticket links are on the organizer page.",
+          "significance": "The program places contemplative and Tibetan cultural practices inside an experimental-theater institution rather than isolating them as either concert or spiritual workshop.",
+          "implications": "Confirm the ticket price, exact La MaMa building and accessibility before travel; those details were not visible in the accessed page text.",
+          "uncertainty": "The page lists the dates and program but does not expose a reliable admission price in the accessible text."
+        },
+        {
+          "title": "Open call: Collective Z seeks four-work sets for ‘Small Hours’",
+          "sourceUrl": "https://www.collectivez.com/open-call",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-12-11/2027-01-09",
+          "development": "Collective Z invites artists at any career stage worldwide to submit four related small-format works in painting, drawing, mixed media or photography. Deadline: October 20, 11:59 PM ET. Fee: $30, with limited $15 hardship places; no hanging or participation fee. Exhibition: December 11–January 9 at 325 Broome Street, 1W; opening December 11, 6–8:30 PM.",
+          "significance": "The fixed four-work grid rewards coherent small-scale bodies rather than one-off submissions, and selected artists receive installation photography, Artsy presentation and sales support.",
+          "implications": "Choose one permitted size for all four works and account for a 50/50 sales split; international artists are eligible, but delivery is due December 9.",
+          "uncertainty": "Selection is rolling and the gallery does not state a fixed number of available places."
+        }
+      ]
+    },
+    {
+      "name": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "‘Living Labyrinths’ turns fungal signaling into art without claiming fungal consciousness",
+          "sourceUrl": "https://rammuseum.org.uk/whats-on/living-labyrinths-art-fungi/",
+          "sourceDate": "2026-09-17",
+          "eventDate": "2026-10-03/2027-02-21",
+          "development": "RAMM in Exeter opened ‘Living Labyrinths: Art and Fungi,’ combining collection specimens, natural-history images and new commissions across ceramics, glass, photography, painting, textile and bio-sonic work. Galleries 21–22; standard admission £6 online or £8 at the desk; students, under-25s, Art Fund and MA members £4; carers and under-19s free.",
+          "significance": "For alternative-intelligence inquiry, the exhibition offers a disciplined bridge between material fungal networks and symbolic interpretation while keeping scientific mycology and artistic translation distinct.",
+          "implications": "IMDO's Machine Intuition system could borrow the exhibition's separation of raw signal, transformation rule and interpretive layer when designing observation-to-symbol experiments.",
+          "uncertainty": "The curatorial language about communication and symbiosis is not empirical proof that fungi possess human-like intention or consciousness."
+        },
+        {
+          "title": "Models of Consciousness 2026 convenes measurement, phenomenology and AI",
+          "sourceUrl": "https://cpai.ku.dk/events/models-of-consciousness-2026/",
+          "sourceDate": "2026-10-10",
+          "eventDate": "2026-10-12/2026-10-16",
+          "development": "The University of Copenhagen hosts the seventh Models of Consciousness conference October 12–16 at the H.C. Ørsted Institute, with themes spanning philosophical foundations, measurement, phenomenology, and AI/LLMs in consciousness science. Participation is registration-only.",
+          "significance": "The program creates a useful boundary-setting venue: computational behavior, phenomenological report and theories of consciousness can be compared without treating them as interchangeable evidence.",
+          "implications": "For Noetic Perception Device, Second Sight and Pattern Sense experiments, extract operational definitions and measurement assumptions before importing any consciousness claim.",
+          "uncertainty": "The event page does not confirm that registration remains open or specify a public price; attendance availability is unconfirmed."
+        },
+        {
+          "title": "VeriHarness reports gains from an adversarial evidence workflow",
+          "sourceUrl": "https://arxiv.org/abs/2610.00972",
+          "sourceDate": "2026-10-01",
+          "development": "Research result: VeriHarness combines workspace and evidence tools with a disagreement resolver and a consensus challenger. Across five benchmarks and two frontier models, the authors report gains of 6.2 and 6.4 percentage points over a single-rollout baseline, using more than 26,000 rollouts costing over $100,000.",
+          "significance": "The result supports a concrete design principle for the Inference Engine: preserve conflicting hypotheses and force evidence-linked challenge before synthesis.",
+          "implications": "A smaller IMDO replication could compare single-pass judgment with structured disagreement on a preregistered set of ambiguous cases and score calibration as well as accuracy.",
+          "uncertainty": "This is a preprint, and the expensive evaluation does not establish that identical gains will transfer to symbolic, cultural or noetic tasks."
+        },
+        {
+          "title": "Debate helps only when proposal supply and verification both work",
+          "sourceUrl": "https://arxiv.org/abs/2610.04686",
+          "sourceDate": "2026-10-03",
+          "development": "Research result: ‘When Debate Helps’ separates debate performance into proposal supply and a verification-aware readout. Experiments on two model backbones under matched budgets find gains are conditional rather than universal.",
+          "significance": "The paper offers a sharper account of why multi-agent or multi-hypothesis reasoning can fail: more arguments do not help if the decisive candidate is never proposed or cannot be checked.",
+          "implications": "Pattern Sense and Inference Engine evaluations should log candidate coverage and verification quality separately instead of treating final-answer accuracy as the only signal.",
+          "uncertainty": "The evidence is limited to the tested backbones and benchmarks; debate should not be assumed to improve every domain."
+        },
+        {
+          "title": "Early uncertainty anchoring aims to preserve calibration during fine-tuning",
+          "sourceUrl": "https://arxiv.org/abs/2610.12048",
+          "sourceDate": "2026-10-08",
+          "development": "Research result: ‘Do Not Train Away Uncertainty’ introduces EUA-Cal, which anchors a model's early uncertainty during training. Across eight models, the authors report better calibration than comparison methods.",
+          "significance": "For Machine Intuition, the useful lesson is procedural rather than mystical: a system should retain and expose uncertainty instead of smoothing ambiguous observations into confident narratives.",
+          "implications": "Add calibration plots and an explicit abstention channel to experiments involving Second Sight or symbolic inference; compare confidence before and after interpretive prompting.",
+          "uncertainty": "This is a preprint; reported benchmark calibration does not validate intuition, divination or paranormal perception claims."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Replace superseded Zaporizhzhia casualty figures in any working chronology with the current toll of 20 while retaining the correction trail.",
+    "Prepare questions or testimony before the October 13 Commercial Waste Zone town hall and the October 14 Queens land-use hearings.",
+    "For the next Machine Intuition experiment, preregister competing interpretations, evidence thresholds, abstention rules and a verification step before revealing outputs."
+  ]
+}
