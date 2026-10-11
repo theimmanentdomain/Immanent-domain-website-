@@ -103,13 +103,14 @@
           "uncertainty": "Campaign competitiveness is an electoral assessment, not a result."
         },
         {
-          "title": "The World Bank’s aid window exposes a new debt hierarchy",
-          "sourceUrl": "https://www.reuters.com/business/finance/world-bank-talks-with-dozens-countries-about-crisis-aid-banga-says-2026-10-11/",
-          "sourceDate": "October 11, 2026",
-          "development": "Banga said developing countries owe external creditors about $400 billion in 2026, with interest roughly one-third of the total, while most new private capital still flows to middle-income economies and only about $3 billion reaches low-income countries.",
-          "significance": "Even a large emergency window may reproduce unequal access: countries most exposed to food and fuel shocks are also least able to attract capital or absorb new debt.",
-          "implications": "Compare grant, concessional and market-rate components when packages emerge; track whether low-income states receive debt service relief rather than only new loans.",
-          "uncertainty": "The figures describe aggregate exposure and discussions, not country-level terms."
+          "title": "Israel’s election turns October 7 accountability into a ballot question",
+          "sourceUrl": "https://apnews.com/article/55d94c750b399e7d89f550ebc8610436",
+          "sourceDate": "October 7, 2026",
+          "eventDate": "Israeli election in October 2026",
+          "development": "Newly discovered older material: AP reports that the first Israeli election since the October 7, 2023 attacks is centering responsibility, hostage policy, military draft exemptions and democratic institutions. Benjamin Netanyahu remains the only senior figure from the attack still in office after security resignations.",
+          "significance": "The vote converts unresolved wartime accountability into an institutional choice and could alter coalition arithmetic around military service, ceasefire implementation and judicial power.",
+          "implications": "Track party commitments on an independent inquiry, ultra-Orthodox conscription and the Gaza ceasefire rather than memorial symbolism alone.",
+          "uncertainty": "Campaign framing and polling are not election results; the final coalition may not follow any single mandate."
         }
       ]
     },
@@ -279,5 +280,7 @@
     "Verify Ethiopia–Eritrea troop locations and any Security Council response; treat both governments’ claims as unconfirmed until geolocated or independently observed.",
     "Before tonight, track India’s protest conditions and whether Delhi’s restored communications persist while assemblies remain blocked.",
     "Act today on LABA’s 11:59 PM deadline and monitor Sunday flood conditions before traveling to cultural events."
-  ]
+  ],
+  "correction": "Corrected the first stored version to remove a duplicate World Bank source URL and replace it with a distinct, archive-negative sociopolitical entry.",
+  "updatedAt": "2026-10-11T06:05:20-04:00"
 }
