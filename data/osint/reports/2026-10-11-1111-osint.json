@@ -1,0 +1,287 @@
+{
+  "id": "2026-10-11-1111-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-11T11:11:00-04:00",
+  "publishedAt": "2026-10-11T11:18:42-04:00",
+  "title": "IMDO OSINT — October 11, 2026 — 11:11 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Trump announces an unconfirmed Russia–Ukraine “energy ceasefire”",
+          "sourceUrl": "https://apnews.com/article/f621fa788196f204448e7f75fcc78c68",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "New development: President Donald Trump said Russia and Ukraine had agreed to an “energy ceasefire,” but supplied no terms. Neither Moscow nor Kyiv immediately confirmed an agreement. The same AP report says Ukrainian drones struck a Yandex data center in Vladimir, disrupting services, while the verified death toll from Russia’s Zaporizhzhia attack rose to 23.",
+          "significance": "If confirmed, a reciprocal halt on energy infrastructure would create a testable, narrower de-escalation channel even while long-range digital and military targets remain contested.",
+          "implications": "Watch for matching written statements from Kyiv and Moscow, defined target categories, a start time and evidence that refinery, grid and data-center strikes actually stop.",
+          "uncertainty": "This is a presidential announcement, not yet a verified ceasefire or observed change on the ground."
+        },
+        {
+          "title": "A new projectile hits Riyadh airport after Saturday’s mass-casualty strike",
+          "sourceUrl": "https://apnews.com/article/d2e0868ffb18d883c16465d7d6a87ccb",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "Material update: the Saudi-led coalition said another projectile struck a passenger terminal at King Khalid International Airport on Sunday, one day after an attack killed 12 people and wounded more than 300. Houthi authorities renewed warnings against Saudi airports, while commercial aviation restrictions widened.",
+          "significance": "A repeat hit moves the risk from a single catastrophic incident toward a continuing campaign against civil aviation and raises pressure for Saudi or U.S. escalation.",
+          "implications": "Travelers and carriers should follow airport and embassy notices rather than assume resumed schedules establish safety.",
+          "uncertainty": "The coalition attributed the broader campaign to the Houthis, but the Houthis had not claimed Sunday’s projectile at publication time."
+        },
+        {
+          "title": "Houthi media reports a Saudi strike on Sanaa airport",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/strike-reported-yemeni-sanaa-airport-houthi-run-tv-says-2026-10-11/",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "Attributed claim: Houthi-run Al Masirah television reported that Saudi Arabia struck Sanaa International Airport. The initial report gave no damage or casualty figure, and Saudi authorities did not immediately comment.",
+          "significance": "If corroborated, the strike would show an airport-for-airport retaliation cycle developing between Saudi Arabia and Houthi-held Yemen, with direct implications for civilian infrastructure and aid access.",
+          "implications": "Preserve imagery, NOTAM changes and geolocation separately from belligerent attribution; monitor whether humanitarian flights are affected.",
+          "uncertainty": "Reuters could not independently confirm the strike or responsibility in the initial dispatch."
+        },
+        {
+          "title": "Colombia creates a joint task force against ELN and pipeline theft",
+          "sourceUrl": "https://apnews.com/article/7580f1a5c3fdb23ef5c6d7717d32310b",
+          "sourceDate": "October 6, 2026",
+          "eventDate": "October 6, 2026",
+          "development": "Newly discovered older material: President Abelardo de la Espriella launched Task Force Urano, combining army, navy, air force and police operations in northeastern Colombia against the ELN, dissident groups and fuel theft from the Caño Limón–Coveñas pipeline.",
+          "significance": "The centralized command marks a substantive turn from negotiated “total peace” toward coordinated offensive operations in a region where armed groups finance themselves through fuel diversion, cocaine and illegal mining.",
+          "implications": "Track civilian displacement, pipeline incidents, rules of engagement and whether security gains outlast the initial deployment.",
+          "uncertainty": "The government’s claims about rebel financing and anticipated effectiveness are operational assertions, not independently demonstrated outcomes."
+        },
+        {
+          "title": "U.N.-backed report maps political support networks behind Haitian gangs",
+          "sourceUrl": "https://apnews.com/article/69ad56fb7326b6e398cfe688f15718a4",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Report covers October 2025–July 2026",
+          "development": "Newly discovered report: a 94-page U.N.-backed assessment describes fragmentation inside the Viv Ansanm alliance while documenting alleged ties among politicians, economic actors and armed groups, expanding violence in Artibonite, weapons smuggling, child recruitment and sexual violence.",
+          "significance": "The report shifts attention from gang personalities to the political and commercial networks that can sustain coercion through Haiti’s planned December election.",
+          "implications": "Investigators should follow sanctions implementation, asset freezes, arms routes and district-level intimidation rather than treating election security as only a policing problem.",
+          "uncertainty": "Named political links are report findings and allegations; individual culpability requires legal adjudication."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Pakistan suspends Imran Khan’s provincial government under emergency rule",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/pakistan-president-imposes-emergency-province-ruled-by-ex-pm-imran-khans-party-2026-10-11/",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "President Asif Ali Zardari declared a six-month emergency in Khyber Pakhtunkhwa, suspending the PTI-led provincial government and transferring administration to a governor and advisory council. Federal authorities cited militant violence; PTI called the step a disguised coup as roads to Islamabad were blocked and party movement restricted.",
+          "significance": "The measure removes an opposition government through emergency powers in Pakistan’s most conflict-exposed province and can intensify both constitutional and street confrontation.",
+          "implications": "Watch court challenges, the scope of military deployment, detention records and whether the emergency is renewed or narrowed.",
+          "uncertainty": "Federal allegations that PTI failed to confront militants and harbored sympathies are disputed by PTI and the Afghan Taliban."
+        },
+        {
+          "title": "Czech opposition outpaces ANO in the first Senate round",
+          "sourceUrl": "https://apnews.com/article/23ec077da1a39d8a4973fc10b3cfa1b5",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 9–10, 2026 voting; runoffs next weekend",
+          "development": "Opposition parties collectively advanced 26 candidates to Czech Senate runoffs, versus 13 for Prime Minister Andrej Babiš’s ANO. Five candidates won outright, none from ANO; independents also remained strong in local contests.",
+          "significance": "The upper chamber can still constrain constitutional amendments and judicial appointments even though ANO returned to national power in 2025.",
+          "implications": "Track runoff coordination among opposition parties and the final balance of the 27 seats contested.",
+          "uncertainty": "First-round advancement does not by itself determine the new Senate majority."
+        },
+        {
+          "title": "Tariff-linked layoffs become a midterm vulnerability in industrial states",
+          "sourceUrl": "https://apnews.com/article/1584722c00516772822a879e9eeef10f",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "Ahead of the November 3, 2026 U.S. midterms",
+          "development": "AP documented factory closures and layoffs in Michigan, Iowa, Kansas and Ohio at firms dependent on imported inputs, alongside formerly Republican workers reconsidering their votes. The administration says manufacturing is reviving; affected employers and workers describe higher input costs and weak replacement hiring.",
+          "significance": "The tariff debate is moving from abstract trade policy to identifiable job losses in competitive states, potentially breaking the assumed alignment between industrial voters and protectionism.",
+          "implications": "Separate plant-level causes from national messaging by tracking closure notices, import exposure, capital investment and rehiring.",
+          "uncertainty": "Individual layoffs can have multiple causes, and anecdotal defections do not establish a statewide electoral shift."
+        },
+        {
+          "title": "Zelensky offers elections in exchange for a 60-day ceasefire",
+          "sourceUrl": "https://www.reuters.com/world/europe/ukraines-zelenskiy-tells-abc-he-will-organize-elections-if-russia-agrees-60-day-2026-10-11/",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "President Volodymyr Zelensky said Ukraine would organize elections if Russia agreed to a 60-day ceasefire, responding to U.S. pressure over wartime leadership. Ukrainian law bars national elections under martial law, and Zelensky stressed that leadership choice belongs to Ukrainians.",
+          "significance": "The offer converts a political legitimacy dispute into a concrete ceasefire condition and clarifies the minimum security window Kyiv says it needs to hold a vote.",
+          "implications": "Watch whether Russia answers the 60-day proposal and whether Ukrainian parties, election officials and civil society agree on feasible wartime safeguards.",
+          "uncertainty": "This is a conditional political offer, not an election announcement or accepted truce."
+        },
+        {
+          "title": "Montana’s formally nonpartisan judicial elections face an openly partisan test",
+          "sourceUrl": "https://apnews.com/article/26141dfc59602adb190c1b029a23c66b",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "November 3, 2026 election",
+          "development": "Montana voters will decide whether to constitutionally require nonpartisan judicial elections while choosing between state Supreme Court candidates openly backed by Republican and labor/Democratic-aligned organizations. The court’s recent abortion and redistricting rulings have made control materially consequential.",
+          "significance": "The contest shows how party financing and endorsement networks can transform officially nonpartisan courts into high-stakes policy battlegrounds.",
+          "implications": "Track outside spending, ballot-language comprehension and whether the constitutional measure changes disclosure or only labels.",
+          "uncertainty": "The race’s partisan alignment is supported by endorsements and spending, but candidates remain officially nonpartisan."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council approves a construction-disruption fund for small retailers",
+          "sourceUrl": "https://legistar.council.nyc.gov/LegislationDetail.aspx?GUID=5F8BC250-B819-4F3E-8A64-AB476F1DF02B&ID=7961454",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Council action October 8, 2026",
+          "development": "Introduction 799-A requires Small Business Services to create aid for retailers facing costs or losses from city road work expected to disrupt traffic for at least 30 days. Loans are capped at $50,000 per storefront per year, grants or reimbursements at $15,000, with a 30-day application decision target.",
+          "significance": "The law makes construction externalities an explicit city obligation instead of leaving corridor businesses to absorb months of lost access and visibility.",
+          "implications": "Affected merchants should document baseline revenue, project duration, access losses and mitigation costs before program applications open.",
+          "uncertainty": "Council approval does not yet establish launch date, funding level or administrative rules."
+        },
+        {
+          "title": "A single searchable database will replace fragmented tow lookups",
+          "sourceUrl": "https://legistar.council.nyc.gov/LegislationDetail.aspx?GUID=11246998-67FF-42AC-83FF-B7D1D1AFBCFF&ID=7863053",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Council action October 8, 2026",
+          "development": "Amended Introduction 489 requires a centralized public database covering vehicles towed by NYPD, city entities and licensed private operators, plus optional notifications when a vehicle record is entered.",
+          "significance": "The measure addresses a routine but costly service failure: owners currently search multiple databases or contact precincts while storage charges accumulate.",
+          "implications": "Implementation should be judged by submission latency, private-operator compliance, mobile usability and successful owner notifications.",
+          "uncertainty": "The database is authorized but not yet operational."
+        },
+        {
+          "title": "Park Avenue Brooklyn rezoning advances 391 homes and four schools",
+          "sourceUrl": "https://legistar.council.nyc.gov/LegislationDetail.aspx?GUID=9F8A69B0-A616-4C27-B693-2525135C511B&ID=8279424",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Council action October 8, 2026",
+          "development": "The Council approved the Park Avenue Brooklyn rezoning with modifications, enabling ten developments: four educational facilities for about 2,500 students and six mixed-use residential buildings totaling 391 homes, approximately 91–117 permanently income-restricted under Mandatory Inclusionary Housing.",
+          "significance": "The package couples institutional expansion with housing on a manufacturing-edge corridor, making phasing, affordability and school-related traffic central neighborhood questions.",
+          "implications": "Track which affordability option governs each parcel, construction sequencing and public-realm commitments around the school sites.",
+          "uncertainty": "Rezoning authorization is not a construction schedule or financing commitment."
+        },
+        {
+          "title": "289 Kent Avenue rezoning authorizes an 18-story mixed-use building",
+          "sourceUrl": "https://legistar.council.nyc.gov/LegislationDetail.aspx?GUID=99C095AB-EB89-422B-A362-05A2F9B2C257&ID=8279449",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Council action October 8, 2026",
+          "development": "The Council approved zoning changes for an 18-story mixed-use building with 278 homes at 289 Kent Avenue; roughly 56–83 units would be permanently income-restricted under Mandatory Inclusionary Housing after the Council removed Option 2 and added Option 3.",
+          "significance": "The affordability-option change materially alters the income mix and should be tracked separately from the headline unit count.",
+          "implications": "Watch the final restrictive declaration, affordability bands, waterfront-infrastructure obligations and permit filings.",
+          "uncertainty": "Unit counts are project estimates attached to land-use approval, not completed housing."
+        },
+        {
+          "title": "City must study language and geography barriers to gifted programs",
+          "sourceUrl": "https://legistar.council.nyc.gov/LegislationDetail.aspx?GUID=226EAC25-0620-4AEE-B6A2-DF526EBEE4E7&ID=7879010",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Council action October 8, 2026",
+          "development": "The Council approved amended Introduction 684, directing the Mayor’s Office of Child Care and Early Childhood Education, DOE and community organizations to study how language access and geographic location affect preschool-age children’s entry into early elementary gifted-and-talented programs.",
+          "significance": "The required analysis can expose whether selective-program access is shaped before formal school enrollment by translation gaps and uneven program geography.",
+          "implications": "The study should publish neighborhood, language, application, screening and admission data rather than citywide averages alone.",
+          "uncertainty": "A mandated study does not guarantee program expansion or admissions reform."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "SheNYC opens 2027 festival submissions for full-length work",
+          "sourceUrl": "https://shenycarts.org/submissions/",
+          "sourceDate": "Accessed October 11, 2026",
+          "eventDate": "Deadline November 5, 2026, 11:59 PM Pacific; NYC festival July/August 2027, dates TBD",
+          "development": "SheNYC is accepting full-length plays and musicals from gender-marginalized playwrights or composers, or teams at least 50% composed of such artists. Selected NYC productions receive two performances plus technical and dress-rehearsal slots.",
+          "significance": "This is a concrete route from script to an Off-Broadway production framework for work that is often underproduced in commercial pipelines.",
+          "implications": "Applicants should read the city-specific production obligations before submitting; the public page does not state a submission fee.",
+          "uncertainty": "Signed-in Edge/Instagram was unavailable in this run; this and all cultural entries were verified through public organizer pages."
+        },
+        {
+          "title": "Queens Theatre seeks short plays rooted in borough change",
+          "sourceUrl": "https://www.queenstheatre.org/unbound-voices-new-play-development-series-c7h1",
+          "sourceDate": "Accessed October 11, 2026",
+          "eventDate": "Deadline October 31, 2026",
+          "development": "Unbound Voices seeks one new, unproduced play per writer, under ten minutes, with two to five characters and a Queens neighborhood, institution, landmark, history or event shaping a moment of change. Bilingual work is encouraged; selected work is compensated.",
+          "significance": "The call asks writers to treat place as a dramatic force rather than generic background, while keeping the production scale accessible.",
+          "implications": "Submit a PDF named LastName_FirstName_PlayTitle.pdf to submissions@queenstheatre.org with “Unbound Voices” in the subject line.",
+          "uncertainty": "The organizer does not state the compensation amount or reading dates."
+        },
+        {
+          "title": "InGardens closes with free improvised music, poetry and movement",
+          "sourceUrl": "https://www.artsforart.org/ingardens-2026/",
+          "sourceDate": "Accessed October 11, 2026",
+          "eventDate": "October 11, 2:00–5:00 PM; October 12, 2:00–6:00 PM; First Street Green Cultural Park, Lower East Side",
+          "development": "Arts for Art’s free finale presents Luisa Muhr and Jessica Pavone, No Land with Luke Stewart and Oliver Ray, and William Parker’s PocketWatch on Sunday; Monday adds William Parker with gabby fluke-mogul, tap with electronics, Luke Stewart Big Band and a jam session.",
+          "significance": "The program brings improvisers, poets and movement artists into an outdoor public setting, making a normally fragmented experimental network legible in one place.",
+          "implications": "Admission is free; RSVP is offered on the organizer page. Outdoor conditions and exact access should be checked before travel.",
+          "uncertainty": "Weather contingency was not stated on the accessible page."
+        },
+        {
+          "title": "Culture Lab LIC hosts a free queer zine meetup",
+          "sourceUrl": "https://www.culturelablic.org/",
+          "sourceDate": "Accessed October 11, 2026",
+          "eventDate": "October 11, 2026, 3:30–5:00 PM; Culture Lab LIC, Queens",
+          "development": "Culture Lab LIC lists a Queer Zine Meetup for Sunday afternoon within its community arts program. The venue describes its recurring public programming as free; no separate ticket price or registration requirement was exposed for this meetup.",
+          "significance": "A low-barrier zine gathering can connect makers, readers and potential collaborators outside the better-publicized Manhattan small-press circuit.",
+          "implications": "Bring work to trade or discuss and verify the exact room on arrival; no eligibility restriction was listed.",
+          "uncertainty": "The accessible listing provides only the title, date and time, not a detailed format or participant list."
+        },
+        {
+          "title": "Tribeca opens its 2027 cross-format submission cycle",
+          "sourceUrl": "https://tribecafilm.com/press-center/press-releases/tribeca-festival-announces-2027-dates-and-calls-for-submissions",
+          "sourceDate": "September 30, 2026",
+          "eventDate": "Early deadlines begin October 21, 2026; festival June 3–12, 2027",
+          "development": "Tribeca opened submissions for features, shorts, music videos, television, digital creators, games, podcasts and Tribeca X. Early fees start at $70 for features, $50 for shorts, $50 for TV, $30 for digital creators, $40 for games and $20 for podcasts; category deadlines extend into 2027.",
+          "significance": "The expanded digital-creator category formalizes an entry point for work made beyond film and television while keeping distinct tracks for games, audio and branded work.",
+          "implications": "Creators should choose category by premiere and distribution rules, not fee alone; the first early deadlines are October 21 for features and TV and October 28 for shorts, digital work and games.",
+          "uncertainty": "Eligibility and premiere rules vary by category and must be checked in the linked regulations before payment."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "MOLAA’s “Sigils” maps sacred traditions through a permanent collection",
+          "sourceUrl": "https://molaa-working-yx5j.squarespace.com/2026-sigils",
+          "sourceDate": "Accessed October 11, 2026",
+          "eventDate": "Opened October 4, 2026; Museum of Latin American Art, Long Beach",
+          "development": "Practitioner/cultural framing: “Sigils” places Christianity, Judaism, Santería, ancestral traditions and occult mysticism in a shared account of Latin American and Caribbean syncretism, colonial pressure and spiritual continuity.",
+          "significance": "The exhibition resists treating “the occult” as one isolated Western lineage and instead foregrounds translation, coercion and survival across overlapping sacred systems.",
+          "implications": "For IMDO, use it as a comparative model for tagging symbols by cultural provenance, devotional function and later reinterpretation rather than collapsing them into a universal key.",
+          "uncertainty": "The exhibition presents curatorial interpretation, not empirical validation of spiritual claims; admission details were not exposed on the cited page."
+        },
+        {
+          "title": "“A Queer Arcana” approaches magic as world-building and community practice",
+          "sourceUrl": "https://www.psmuseum.org/art/exhibitions/queer-arcana",
+          "sourceDate": "Accessed October 11, 2026",
+          "eventDate": "Through October 18, 2026; Palm Springs Art Museum",
+          "development": "Curatorial interpretation: the exhibition surveys intergenerational queer uses of Western occultism, witchcraft, goddess worship, Christian mysticism, New Age practice and Indigenous-rooted shamanic traditions as tools of transformation, sacred sexuality and collective imagination.",
+          "significance": "It provides a serious cultural record of how esoteric practice can function as counterpublic infrastructure, not merely private belief or visual style.",
+          "implications": "Readers nearby have one week remaining; compare wall labels for where traditions are historically grounded versus aesthetically borrowed.",
+          "uncertainty": "The grouping is thematic and curatorial; individual artists’ practices should not be assumed interchangeable."
+        },
+        {
+          "title": "“Black Veil Society” reframes mourning ritual as contemporary feminine power",
+          "sourceUrl": "https://www.sfada.com/events/black-veil-society-group-exhibition/",
+          "sourceDate": "Accessed October 11, 2026",
+          "eventDate": "October 1–24, 2026; Modern Eden Gallery, San Francisco",
+          "development": "Symbolic interpretation: the group exhibition uses Victorian mourning, spiritualism, folklore, mythology and the macabre to examine witches, widows, saints, sinners, ghosts and goddesses as figures of rebellion and self-reclamation.",
+          "significance": "The show offers a compact visual corpus for studying how ritual symbols shift when grief, gender and agency are recombined in contemporary art.",
+          "implications": "A useful cataloging exercise would separate inherited ritual objects, invented personal symbols and purely Gothic stylistic cues.",
+          "uncertainty": "The exhibition statement is a curatorial proposition, not evidence about supernatural phenomena."
+        },
+        {
+          "title": "A vision parser plus symbolic solver makes geometric inference auditable",
+          "sourceUrl": "https://arxiv.org/abs/2609.10335",
+          "sourceDate": "September 9, 2026",
+          "development": "Research result: the authors translate geometry diagrams into symbolic representations, then pass them to a formal solver. On a benchmark drawn from 2025 Chinese Zhongkao problems, the modular language-model system reportedly reached performance comparable to Gemini 2.5 Pro while producing explicit deductions.",
+          "significance": "For IMDO’s Machine Intuition system, the architecture cleanly separates perceptual extraction from rule-bound inference, making errors easier to localize than in a single opaque multimodal response.",
+          "implications": "Prototype the same split for Noetic Perception Device or Second Sight workflows: store observed marks, parsed symbols and deductions as separate records with independent confidence.",
+          "uncertainty": "This is a preprint on a specialized geometry benchmark; comparable benchmark performance does not establish general visual reasoning."
+        },
+        {
+          "title": "Randomized audits expose a paradox of stronger oversight",
+          "sourceUrl": "https://arxiv.org/abs/2609.38262",
+          "sourceDate": "September 30, 2026",
+          "development": "Research result: a formal model asks when randomized audits and scoring can align agents able to conceal misconduct or alter records. It finds stronger oversight can induce better hiding among undeterred agents, while rare audits can still deter broadly if evidence survives concealment and audit timing remains unpredictable.",
+          "significance": "The result is directly relevant to any Inference Engine that learns from evaluator behavior: a verifier can reshape the evidence distribution it later relies on.",
+          "implications": "Keep raw observations tamper-evident, randomize some review, conceal audit selection and measure concealment indicators rather than only pass rates.",
+          "uncertainty": "The paper is a theoretical preprint; the deterrence conditions require empirical testing in real agent systems."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Demand written, reciprocal terms before treating the announced Russia–Ukraine energy ceasefire as operational; log strikes against grids, refineries and data infrastructure separately.",
+    "NYC readers should save the new Council bill numbers now and watch for agency rules, implementation dates and affordability documents rather than assuming passage equals delivery.",
+    "Today’s time-sensitive cultural choices are InGardens and the Culture Lab LIC zine meetup; creators should calendar October 21 and 28 for Tribeca’s first early deadlines."
+  ]
+}
