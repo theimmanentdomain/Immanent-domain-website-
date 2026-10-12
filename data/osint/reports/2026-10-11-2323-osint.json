@@ -141,7 +141,7 @@
       "entries": [
         {
           "title": "Christopher K. Ho discusses Waterloo! with Amanda Gluibizzi",
-          "sourceUrl": "https://brooklynrail.org/events/",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/13/christopher-k-ho-waterloo/",
           "sourceDate": "Page accessed October 11, 2026",
           "eventDate": "October 13, 2026, 1:00 PM EDT; online",
           "development": "The Brooklyn Rail’s New Social Environment series hosts Christopher K. Ho and Amanda Gluibizzi for a conversation on Waterloo!. The listing gives an online start time; admission is presented as free, with registration through the organizer.",
@@ -167,7 +167,7 @@
         },
         {
           "title": "Sunset Park Open Studios opens at Industry City",
-          "sourceUrl": "https://brooklynrail.org/events/",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/15/sunset-park-open-studios-opening-party-at-industry-city/",
           "sourceDate": "Page accessed October 11, 2026",
           "eventDate": "October 15, 2026, 6:00–8:00 PM EDT; The Landing, Industry City, 237 36th Street, Brooklyn",
           "development": "The Brooklyn Rail lists an opening party for Sunset Park Open Studios at Industry City. Admission cost was not stated on the accessed listing.",
@@ -239,5 +239,7 @@
     "Verify whether Riyadh airport operations normalize and whether Saudi retaliatory strikes expand beyond previously declared targets.",
     "Retrieve DCP’s twelve-district affordable-housing list and methodology; compare it with displacement and infrastructure indicators.",
     "Build a small oracle-interface audit that logs query, output, user interpretation, confidence change and any authorized action."
-  ]
+  ],
+  "updatedAt": "2026-10-11T23:27:00-04:00",
+  "correction": "Corrected two Downtown source URLs to their direct event pages so every report entry has a unique canonical source URL; report substance is unchanged."
 }
