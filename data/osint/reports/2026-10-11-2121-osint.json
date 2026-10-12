@@ -1,0 +1,266 @@
+{
+  "id": "2026-10-11-2121-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-11T21:21:00-04:00",
+  "publishedAt": "2026-10-11T21:20:00-04:00",
+  "title": "IMDO OSINT — October 11, 2026 — 9:21 PM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Riyadh airport struck again; Dammam also hit",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Saudi authorities reported one death and 11 injuries after a projectile hit Riyadh airport’s Terminal 4, one day after a Houthi-claimed strike killed 13 and wounded more than 300. Saudi officials also confirmed a strike on Dammam airport; air defenses reported other interceptions.",
+          "significance": "The meaningful change since the earlier edition is a second lethal airport attack plus confirmed damage at a second major airport, shifting the episode from a single strike to a campaign affecting civilian aviation.",
+          "implications": "Travelers should follow airline and government advisories; Riyadh schools moved online and British and U.S. authorities issued aviation cautions.",
+          "uncertainty": "Houthi claims about striking Aramco sites were not independently confirmed, and the Sunday projectile type remained unidentified."
+        },
+        {
+          "title": "Djibouti–Yemen migrant shipwreck leaves at least 139 dead",
+          "sourceUrl": "https://www.reuters.com/world/africa/109-migrants-including-15-children-dead-after-boat-djibouti-yemen-capsizes-un-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-08/2026-10-09",
+          "development": "IOM said a boat carrying 305 people capsized near Obock, Djibouti; at least 139 people, including 15 children, died, about 84 remained missing and 82 survived.",
+          "significance": "The disaster links two conflict systems: some migrants reported fleeing fighting or forced recruitment in Ethiopia while attempting to cross into Yemen despite renewed war there.",
+          "implications": "Track IOM rescue updates and Eastern Route displacement data rather than treating the event as an isolated maritime accident.",
+          "uncertainty": "Passenger nationalities and the final casualty count were still being established."
+        },
+        {
+          "title": "North Korea launches an initially unidentified projectile",
+          "sourceUrl": "https://apnews.com/article/north-korea-kim-missiles-south-5b2d3a2d9a31118648b9f82022b9c4e3",
+          "sourceDate": "2026-10-12",
+          "eventDate": "2026-10-12 Asia / 2026-10-11 New York",
+          "development": "South Korea’s military detected at least one projectile toward eastern waters; Japan described it as a suspected ballistic missile. The launch followed South Korea’s hypersonic test and North Korea’s October 3 claimed hypersonic intermediate-range missile test.",
+          "significance": "The launch extends reciprocal weapons signaling on the peninsula and could affect regional missile-defense posture.",
+          "uncertainty": "This was an initial report: weapon type, range, flight path and impact point were not yet confirmed."
+        },
+        {
+          "title": "Lebanese army says retired officer was killed by Israeli tank fire",
+          "sourceUrl": "https://apnews.com/article/saudi-arabia-houthis-netanyahu-october-11-2026-baa06588f3ebe6dad93695581f68d3c1",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Lebanon’s army said it recovered retired officer Ali Abdul Hassan Sweidan’s body after he was directly targeted while checking property in Yater, southern Lebanon.",
+          "significance": "A civilian-side fatality reported by the Lebanese military tests the durability of existing understandings while Israel continues to occupy territory seized during the March war with Hezbollah.",
+          "uncertainty": "This is an attributed Lebanese army account; an Israeli military spokesperson said they were unaware of the incident."
+        },
+        {
+          "title": "Gaza families return to homes destroyed despite nominal ceasefire",
+          "sourceUrl": "https://apnews.com/article/saudi-arabia-houthis-netanyahu-october-11-2026-baa06588f3ebe6dad93695581f68d3c1",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Residents said Israeli strikes destroyed at least 10 residences housing roughly 300 families in central Gaza after evacuation warnings. Israel said it targeted militant infrastructure including a rocket site and command center.",
+          "significance": "The episode supplies a concrete measure of civilian displacement continuing under the year-old ceasefire, beyond the broader stalled-implementation story.",
+          "uncertainty": "The scale of destruction comes from resident testimony; AP did not report an independent damage count, and Israel’s target description was not independently verified."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "India protest leaders freed, but detentions continue",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/indian-capital-braces-second-day-protests-against-poll-chief-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "A court ordered the release of Cockroach Janta Party founder Abhijeet Dipke and two senior leaders, while police detained hundreds more protesters in Delhi and demonstrations spread to other cities.",
+          "significance": "What changed is judicial release of the movement’s leadership alongside continued mass policing, turning an electoral-roll dispute into a wider test of assembly, press access and court constraints on executive power.",
+          "uncertainty": "The Election Commission denies partisan manipulation; claims about discriminatory voter deletions remain contested."
+        },
+        {
+          "title": "French school protests enter presidential campaigning",
+          "sourceUrl": "https://apnews.com/article/543d7a439443b96c9775f7f0e3252435",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Jean-Luc Mélenchon endorsed the nationwide high-school movement and proposed lowering the voting age to 16, while the Socialists selected Raphaël Glucksmann after a disputed primary.",
+          "significance": "A movement centered on school conditions and inequality is now materially reshaping the 2027 campaign agenda rather than remaining a sectoral protest.",
+          "uncertainty": "Candidate positioning does not establish that protesters support any party; polling cited by AP is a snapshot, not a forecast."
+        },
+        {
+          "title": "DOJ opens antitrust inquiry into White House television pool",
+          "sourceUrl": "https://apnews.com/article/687c09a2377e7033c0b452c893c46e12",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "The Justice Department said it is exploring whether broadcasters’ temporary halt in pooled White House coverage after CNN, MS NOW and Politico were excluded constituted an unlawful group boycott.",
+          "significance": "Using antitrust law against a coordinated press-access response creates a new pressure point between the administration and news organizations, with direct implications for collective newsgathering.",
+          "uncertainty": "The inquiry is exploratory and no violation has been established."
+        },
+        {
+          "title": "Federal judge halts taxpayer-funded Trump advertisements",
+          "sourceUrl": "https://www.reuters.com/world/us/us-judge-orders-halt-taxpayer-funded-ads-featuring-trump-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Judge Jennifer Rochon temporarily blocked government-funded television ads featuring President Trump after Common Cause, a public-sector union and a candidate alleged they were election propaganda. The administration said the spots were already due to stop.",
+          "significance": "The order draws an enforceable line around incumbent use of public communications funds immediately before the November 3 midterms.",
+          "uncertainty": "The ruling is temporary and does not resolve the underlying merits or reimbursement question."
+        },
+        {
+          "title": "Extremist-party state wins raise German investment concern",
+          "sourceUrl": "https://www.reuters.com/business/deutsche-bank-chief-warns-german-election-results-worrying-foreign-investors-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-11",
+          "development": "Deutsche Bank’s chief warned that victories by parties at Germany’s political extremes in recent state elections were unsettling foreign investors.",
+          "significance": "The comment is evidence that regional electoral realignment is beginning to alter business assessments of Germany’s political risk, not merely parliamentary arithmetic.",
+          "uncertainty": "This is one executive’s assessment; it is not direct proof of capital flight."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "NYC launches behavioral-health service matcher",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-launches-nyc-mental-health-connect--helping-new-yo",
+          "sourceDate": "2026-10-09",
+          "eventDate": "2026-10-09",
+          "development": "NYC Mental Health Connect now lets residents filter services from more than 600 providers by availability, age, language, insurance and care type. State OMH supplied $5 million in one-time launch funding; the city will maintain the site.",
+          "significance": "The practical bottleneck addressed is navigation rather than creation of new clinical capacity, but the tool exposes appointment availability and referral routes in one place.",
+          "implications": "Residents can use mentalhealthconnect.nyc.gov; emergencies still go to 988.",
+          "uncertainty": "Listings and availability require ongoing provider updates, so users should confirm directly."
+        },
+        {
+          "title": "Lost Battalion Hall reopens after $25.9 million reconstruction",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-reopens-queens--lost-battalion-hall-following--25-",
+          "sourceDate": "2026-10-09",
+          "eventDate": "2026-10-09",
+          "development": "The Rego Park recreation center reopened with accessible routes and restrooms, refurbished fitness areas, new safety systems, HVAC and a rooftop generator.",
+          "significance": "The project restores a scarce year-round public recreation facility in a park-poor Queens neighborhood while preserving a Works Progress Administration mural.",
+          "implications": "Queens residents can again use the center; program schedules and membership requirements should be checked with NYC Parks."
+        },
+        {
+          "title": "No curbside waste collection on October 12 holiday",
+          "sourceUrl": "https://www.nyc.gov/site/dsny/news/26-042/no-trash-composting-recycling-collection-italian-heritage-day-indigenous-peoples-day-",
+          "sourceDate": "2026-10-06",
+          "eventDate": "2026-10-12",
+          "development": "DSNY says there will be no trash, composting or recycling collection Monday for Italian Heritage Day/Indigenous Peoples’ Day.",
+          "significance": "The service pause has immediate block-level effects and can compound rat and sidewalk conditions if residents put material out on the normal schedule.",
+          "implications": "Residents should follow DSNY’s make-up collection instructions and use the agency schedule tool; collection timing may be delayed."
+        },
+        {
+          "title": "Council hearing will examine older-adult centers at NYCHA",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=9C0CC9C7-1662-490A-911B-2E02AF9A2F5D&ID=1439674&Options=&Search=",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-27T10:00:00-04:00",
+          "development": "The Council Committee on Public Housing scheduled oversight of older-adult centers at NYCHA facilities at 250 Broadway, Hearing Room 1.",
+          "significance": "The hearing offers residents a public-record venue to document accessibility, operating hours, funding gaps and maintenance conditions in services embedded in public housing.",
+          "implications": "Prospective witnesses should confirm testimony registration and remote-access details on Legistar."
+        },
+        {
+          "title": "Council schedules oversight of NYC Care and uninsured access",
+          "sourceUrl": "https://legistar.council.nyc.gov/Calendar.aspx?Mode=This+Month",
+          "sourceDate": "2026-10-11",
+          "eventDate": "October 2026; exact time on calendar",
+          "development": "The Council calendar lists oversight of NYC Health + Hospitals’ NYC Care program and access to health care for uninsured New Yorkers.",
+          "significance": "NYC Care is a central access route for residents excluded from conventional insurance; oversight can surface enrollment, appointment and continuity-of-care gaps.",
+          "implications": "Residents and service organizations should monitor the final agenda and testimony instructions.",
+          "uncertainty": "The accessible calendar text did not expose a reliable meeting date and time; those details remain unconfirmed."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Layli Long Soldier launches “We” with Natalie Diaz",
+          "sourceUrl": "https://bookevents.nyc/poetry-events",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-13T18:00:00-04:00",
+          "development": "Poets House lists a conversation between Layli Long Soldier and Natalie Diaz for the launch of Long Soldier’s new collection “We.”",
+          "significance": "The event joins two major Indigenous poets around a book that extends Long Soldier’s experiments with visual form, legal language and relational obligation.",
+          "implications": "Check Poets House for ticket price, accessibility and registration; the listing confirms 6 PM but admission details were not exposed."
+        },
+        {
+          "title": "Rachel Eliza Griffiths stages a living poem at Dia Chelsea",
+          "sourceUrl": "https://diaart.org/program/calendar/poetry-born-among-mirrors-a-rememory-with-rachel-eliza-griffiths-poetry-reading-10162026/main/410/type/poetry-reading/period/2026-09-22/venue/dia-chelsea-new-york-united-states",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-16T18:30:00-04:00",
+          "development": "Griffiths and flutist-composer Jane Rigler combine poetry, movement, video and experimental sound in “born among mirrors, a rememory” at Dia Chelsea, 537 West 22nd Street.",
+          "significance": "The free performance treats Black embodiment and ritual as a live interdisciplinary form rather than a conventional reading.",
+          "implications": "Admission is free but capacity is limited and registration is required."
+        },
+        {
+          "title": "New Museum Community Day links Bowery institutions",
+          "sourceUrl": "https://www.newmuseum.org/event/10-17-2026/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-17T11:00:00-04:00/2026-10-17T18:00:00-04:00",
+          "development": "The New Museum will host workshops, performances and exhibition activations, coordinated with FABnyc’s Lower East Side Arts and Culture Open House.",
+          "significance": "The program tests how a reopened major institution can operate as neighborhood cultural infrastructure rather than an isolated destination.",
+          "implications": "Residents of ZIP codes 10002, 10003, 10009, 10012, 10013 and 10038 may reserve free timed tickets; visitors 18 and under and SNAP/EBT cardholders are also free."
+        },
+        {
+          "title": "InspiredWordNYC keeps an all-forms open mic in Clinton Hill",
+          "sourceUrl": "https://brooklynmusickitchen.com/events/category/band/2026-10/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-12T19:00:00-04:00/2026-10-12T23:00:00-04:00",
+          "development": "Brooklyn Music Kitchen lists InspiredWordNYC’s second- and fourth-Monday open mic for music, poetry and comedy.",
+          "significance": "The recurring format remains a low-barrier cross-disciplinary stage outside institutional literary and music circuits.",
+          "implications": "Venue: Brooklyn Music Kitchen, Clinton Hill. Performer sign-up, age policy and admission price were not confirmed in the accessible listing."
+        },
+        {
+          "title": "5 Boro Foto Fest convenes citywide photographers in Long Island City",
+          "sourceUrl": "https://www.5borofotofest.com/attend",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-25T11:00:00-04:00/2026-10-25T18:00:00-04:00",
+          "development": "The festival will run at Culture Lab LIC as a free gathering centered on NYC photography.",
+          "significance": "A borough-spanning, free photography event creates a meeting point for working image-makers and audiences beyond commercial fairs.",
+          "implications": "Free tickets are available through the organizer; detailed program and participation opportunities should be checked as announced."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Webinar puts occultism, psychology and AI in one frame",
+          "sourceUrl": "https://www.upra.org/en/comunicazione/eventi/october-14-webinar-occultism-psychology-and-artificial-intelligence/",
+          "sourceDate": "2026-10-06",
+          "eventDate": "2026-10-14",
+          "development": "The Sacerdos Institute announced an online preview for its exorcism and deliverance-prayer course addressing how AI, emotional perception, spirituality and esotericism intersect.",
+          "significance": "Practitioner/institutional claim: the event shows a Catholic training institution treating AI-mediated spiritual interpretation as an operational pastoral issue.",
+          "implications": "IMDO should document the categories used to separate psychological distress, religious belief and algorithmic mediation; time, cost and access details were not confirmed in the accessible page.",
+          "uncertainty": "This is not empirical validation of occult or supernatural claims."
+        },
+        {
+          "title": "State-control framework improves LLM performance on abductive tasks",
+          "sourceUrl": "https://arxiv.org/abs/2603.21250",
+          "sourceDate": "2026-03-24",
+          "development": "Researchers argue that static deductive frameworks fail on abduction because they lack structured state representation and explicit state control, then report gains from a framework designed for hypothesis search.",
+          "significance": "Research result: explicit candidate-state management is directly relevant to Pattern Sense and Inference Engine designs that must retain, revise and reject explanations rather than emit one fluent answer.",
+          "uncertainty": "The preprint’s benchmark gains do not establish reliable real-world OSINT inference without independent evidence tests."
+        },
+        {
+          "title": "Survey separates abductive generation from selection",
+          "sourceUrl": "https://arxiv.org/abs/2604.08016",
+          "sourceDate": "2026-04-09",
+          "development": "A survey proposes a two-stage taxonomy: generate hypotheses to bridge an epistemic gap, then select among them. It maps tasks, datasets, methods and evaluation weaknesses.",
+          "significance": "Design inference: IMDO’s Machine Intuition system can log generation and selection as distinct operations, making hidden assumptions and premature pruning auditable.",
+          "uncertainty": "The taxonomy organizes existing literature; it is not evidence that current models genuinely understand causes."
+        },
+        {
+          "title": "Human and model thinking effort align on some abductive problems",
+          "sourceUrl": "https://arxiv.org/abs/2609.01867",
+          "sourceDate": "2026-09-01",
+          "development": "A preprint compares human reaction times with reasoning-model traces and reports aligned effort and similar error patterns; sampling multiple reasoning paths increased alignment across three tested models.",
+          "significance": "Research result: search breadth may be a measurable design variable for Second Sight or Pattern Sense, but behavioral alignment should not be mistaken for shared cognition.",
+          "uncertainty": "Reasoning-trace length is an imperfect proxy for internal computation, and the result remains a preprint."
+        },
+        {
+          "title": "SemEval benchmark tests evidence-grounded causal abduction",
+          "sourceUrl": "https://arxiv.org/abs/2603.21720",
+          "sourceDate": "2026-03-23",
+          "development": "SemEval-2026 Task 12 asks systems to choose the most plausible direct cause of an event from distributed evidence and distractors; organizers report 122 participants and 518 submissions.",
+          "significance": "The dataset offers a concrete evaluation pattern for an Inference Engine: separate direct causes from correlated background and semantically attractive non-causes.",
+          "implications": "A useful proposed experiment is to run the benchmark while storing cited evidence, rejected alternatives and confidence calibration.",
+          "uncertainty": "Multiple-choice performance does not demonstrate open-world causal discovery."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Monitor whether Saudi airport closures and Dammam damage expand into a sustained regional aviation disruption, and distinguish confirmed impacts from Houthi claims.",
+    "Use the October 16–17 Dia/New Museum programs as a compact field scan of ritual, embodiment and neighborhood-scale cultural infrastructure.",
+    "Prototype a Machine Intuition abduction log with separate hypothesis-generation, evidence-testing and selection stages, using the SemEval task only as a bounded benchmark."
+  ]
+}
