@@ -1,0 +1,243 @@
+{
+  "id": "2026-10-11-2323-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-11T23:23:00-04:00",
+  "publishedAt": "2026-10-11T23:24:15-04:00",
+  "title": "IMDO OSINT — October 11, 2026 — 11:23 PM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Saudi retaliation follows a second deadly Riyadh-airport strike",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "What changed since the 9:21 PM edition: a second projectile hit Riyadh airport, killing one person and injuring 11, while Saudi Arabia intensified strikes in Yemen. Reuters also reported intercepted cruise-missile, drone and ballistic-missile attacks; the Houthis claimed several strikes and threatened further escalation.",
+          "significance": "The sequence has moved from a single spectacular attack to a sustained cross-border exchange affecting civilian aviation, schools and regional energy infrastructure.",
+          "implications": "Track confirmed airport reopening, civilian flight diversions, Saudi target lists in Yemen and any expansion of direct foreign military support.",
+          "uncertainty": "Claims about individual interceptions and targets come from belligerents; not every strike has independent verification."
+        },
+        {
+          "title": "A year-old Gaza ceasefire has stopped short of its political settlement",
+          "sourceUrl": "https://apnews.com/article/f6c105e8f72d8b478d78312142d888ed",
+          "sourceDate": "October 10, 2026",
+          "eventDate": "One year after the October 2025 agreement",
+          "development": "AP’s one-year audit found that hostage releases and increased aid occurred, but the planned Palestinian administration, Hamas disarmament, Israeli drawdown and international stabilization force remain unrealized. Israel has expanded control and strikes have continued; Gaza authorities report more than 1,400 Palestinians killed since the truce.",
+          "significance": "The agreement functions increasingly as a partial de-escalation mechanism rather than a completed peace framework, leaving governance and reconstruction frozen.",
+          "implications": "Watch for a published implementation timetable, actual force commitments and independently measured reconstruction flows.",
+          "uncertainty": "Casualty figures cited by AP come from Gaza health authorities; parties dispute responsibility for violations."
+        },
+        {
+          "title": "Tigray airport reopens after Mekelle changes hands",
+          "sourceUrl": "https://apnews.com/article/2c6ebeb250cbf98852ab32bf2f36a04a",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "What changed from earlier Mekelle coverage: Ethiopian Airlines resumed flights after government-allied forces retook the regional capital’s airport, and an adviser to Prime Minister Abiy Ahmed promised visible administrative change. The TPLF had withdrawn October 3; the U.N. continues to urge a ceasefire and dialogue.",
+          "significance": "Restored aviation is a concrete change in control and access, but it also risks normalizing a military outcome before a political settlement or civilian-protection framework exists.",
+          "implications": "Verify whether commercial access extends to aid cargo and whether services resume beyond the airport.",
+          "uncertainty": "Recent battlefield accounts remain contested and independently verified territorial information is limited."
+        },
+        {
+          "title": "Six civilians killed in separate Russian strikes on Ukrainian cities",
+          "sourceUrl": "https://www.reuters.com/world/russian-attacks-kill-six-people-two-ukrainian-cities-2026-10-11/",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "Reuters reported three deaths and 20 injuries, including two children, after a strike on a Kharkiv grocery store, plus three deaths in a separate western-Ukrainian attack. Images showed damaged buildings and vehicles.",
+          "significance": "The incidents document continued civilian harm during public claims of an energy ceasefire and show that any sector-specific restraint has not become a general cessation of attacks.",
+          "uncertainty": "Initial casualty figures came from regional officials and may change."
+        }
+      ],
+      "shortfall": "Four distinct, adequately sourced late-cycle developments were available after deduplication; a fifth candidate repeated a Sudan strike already covered on October 10."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Washington opens direct talks with Myanmar’s military government",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/us-opens-direct-talks-with-myanmars-generals-reversing-years-isolation-2026-10-08/",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Mid-September 2026; newly discovered October 11",
+          "development": "Reuters reported the highest-level U.S. contact with Myanmar’s military-installed government since the 2021 coup. Initial talks sought an American detainee’s release, but officials also discussed scam centers and rare-earth access while maintaining contacts with opposition actors.",
+          "significance": "This is a substantive shift from isolation toward transactional engagement with a sanctioned leadership accused of atrocities, potentially changing the junta’s legitimacy and leverage.",
+          "implications": "Monitor detainee outcomes, sanctions waivers, mineral agreements and whether democratic or ethnic opposition groups retain equal access.",
+          "uncertainty": "The broader policy remains under formation; engagement does not itself equal recognition."
+        },
+        {
+          "title": "Iran calls the U.S. response to its Hormuz proposal insufficient",
+          "sourceUrl": "https://apnews.com/article/baa06588f3ebe6dad93695581f68d3c1",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "Iranian officials said Washington’s answer to Tehran’s revised peace proposal did not clarify outstanding issues; talks remain stalled after the June memorandum collapsed. A senior Iranian official also threatened regional digital infrastructure if fighting resumes.",
+          "significance": "The negotiating gap now includes cyber escalation risk as well as maritime and energy-security questions, increasing the cost of ambiguity around Hormuz.",
+          "uncertainty": "The proposal and U.S. response are not public, so the unresolved terms cannot be independently assessed."
+        },
+        {
+          "title": "War and debt dominate IMF–World Bank meetings",
+          "sourceUrl": "https://www.reuters.com/world/china/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok-2026-10-11/",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 2026 annual meetings, Bangkok",
+          "development": "Reuters reported that the Middle East war, energy disruption and high interest rates are setting the Bangkok meetings’ agenda. Developing countries face roughly $400 billion in 2026 debt payments, while interest costs average more than 10% of government revenue.",
+          "significance": "The interaction of fuel, fertilizer and debt-service shocks raises the likelihood of austerity, food-price unrest and reduced public investment in lower-income states.",
+          "implications": "Track changes to loan conditionality, emergency liquidity and debt-restructuring proposals rather than summit communiqués alone."
+        },
+        {
+          "title": "Palestinian legislative elections face another delay",
+          "sourceUrl": "https://www.reuters.com/world/europe/palestinians-set-delay-legislative-elections-due-worsening-conditions-letter-2026-10-09/",
+          "sourceDate": "October 9, 2026",
+          "eventDate": "October 2026",
+          "development": "A letter seen by Reuters indicated Palestinian legislative elections were set to be postponed, potentially until September, because worsening conditions made the vote impracticable.",
+          "significance": "Another delay prolongs the Palestinian representation and legitimacy gap precisely as postwar governance arrangements are being debated.",
+          "uncertainty": "The report was based on correspondence; a definitive revised electoral decree and operational calendar were not yet public."
+        },
+        {
+          "title": "Brazil’s incumbent rallies supporters before the runoff",
+          "sourceUrl": "https://www.reutersconnect.com/item/protest-in-defense-of-democracy-and-in-support-of-brazilian-president-lula-da-silva-in-sao-paulo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjQxT0FZWkNGSw",
+          "sourceDate": "October 11, 2026",
+          "eventDate": "October 11, 2026",
+          "development": "Reuters documented President Luiz Inácio Lula da Silva greeting supporters at a São Paulo demonstration framed as a defense of democracy ahead of Brazil’s presidential runoff.",
+          "significance": "The street mobilization shows the runoff’s contest over institutional legitimacy moving beyond party campaigning into public-space demonstrations.",
+          "uncertainty": "A photo record establishes the event, not crowd size, public opinion or electoral effect."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council sets hearing on immigrant maternal-health outcomes",
+          "sourceUrl": "https://legistar.council.nyc.gov/Calendar.aspx?Mode=This+Month",
+          "sourceDate": "Calendar accessed October 11, 2026",
+          "eventDate": "October 16, 2026, 10:00 AM EDT; 250 Broadway, Hearing Room 1",
+          "development": "The City Council calendar lists oversight on pregnancy- and birth-related health outcomes among immigrants in New York City. The hearing is public; remote participation and testimony details should be confirmed on the meeting page.",
+          "significance": "The proceeding can place language access, insurance gaps, hospital practices and maternal-mortality disparities into a single public record.",
+          "implications": "Advocates should bring disaggregated outcome data and document barriers by immigration status, borough and facility.",
+          "uncertainty": "Agenda documents may be updated before the meeting."
+        },
+        {
+          "title": "Education Committee meeting scheduled for October 20",
+          "sourceUrl": "https://legistar.council.nyc.gov/DepartmentDetail.aspx?GUID=5D939F6A-A26A-456C-BF68-2FE3903139C8&ID=6903",
+          "sourceDate": "Page accessed October 11, 2026",
+          "eventDate": "October 20, 2026, 1:00 PM EDT; 250 Broadway, Hearing Room 2",
+          "development": "The Council’s Education Committee has posted an October 20 meeting. The department page confirms date, time and location; detailed agenda and testimony instructions remain subject to posting.",
+          "significance": "This is a near-term opportunity for residents to monitor which school-policy issues advance into formal oversight or legislation.",
+          "implications": "Check the meeting-detail page when the agenda appears before preparing testimony.",
+          "uncertainty": "The source page did not yet expose a substantive agenda in the accessed result."
+        },
+        {
+          "title": "City’s five-year housing-production test will identify twelve lagging districts",
+          "sourceUrl": "https://www.nyc.gov/assets/dcas/downloads/pdf/cityrecord/cityrecord-02-25-26.pdf",
+          "sourceDate": "February 25, 2026; newly discovered October 11",
+          "eventDate": "Identification required beginning no later than October 1, 2026",
+          "development": "A City Record notice describes a statutory process requiring the Department of City Planning to identify the 12 community districts with the lowest affordable-housing production rate over the preceding five years.",
+          "significance": "The metric can redirect land-use pressure and resources, but its denominator and treatment of preservation versus new construction will materially shape which neighborhoods are labeled underperformers.",
+          "implications": "Request the resulting district list, methodology and underlying unit counts; compare them with infrastructure capacity and displacement indicators."
+        }
+      ],
+      "shortfall": "Three non-duplicative civic items met the sourcing threshold. The block-by-block housing hearing and older-adult-center hearing were excluded because prior editions already covered them."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Christopher K. Ho discusses Waterloo! with Amanda Gluibizzi",
+          "sourceUrl": "https://brooklynrail.org/events/",
+          "sourceDate": "Page accessed October 11, 2026",
+          "eventDate": "October 13, 2026, 1:00 PM EDT; online",
+          "development": "The Brooklyn Rail’s New Social Environment series hosts Christopher K. Ho and Amanda Gluibizzi for a conversation on Waterloo!. The listing gives an online start time; admission is presented as free, with registration through the organizer.",
+          "significance": "The series offers direct artist-critical dialogue outside commercial-gallery programming.",
+          "uncertainty": "Signed-in Edge/Instagram was unavailable; this was verified through the organizer’s public page."
+        },
+        {
+          "title": "Maia Ruth Lee: Double Vision",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/14/maia-ruth-lee-double-vision/",
+          "sourceDate": "Page accessed October 11, 2026",
+          "eventDate": "October 14, 2026, 1:00 PM EDT; online",
+          "development": "Artist Maia Ruth Lee joins Simon Wu for a free Brooklyn Rail conversation tied to Double Vision, on view at Tina Kim Gallery through October 24.",
+          "significance": "The event connects an active exhibition with accessible criticism and artist testimony rather than a conventional promotional talk.",
+          "implications": "Register through the organizer; no application deadline or eligibility restriction is listed."
+        },
+        {
+          "title": "Anthea Hamilton: Comfort Zones",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/15/anthea-hamilton-comfort-zones/",
+          "sourceDate": "Page accessed October 11, 2026",
+          "eventDate": "October 15, 2026, 1:00 PM EDT; online",
+          "development": "Anthea Hamilton and Julia Trotta appear in a free Rail event connected to Comfort Zones at Salon 94, on view through October 24.",
+          "significance": "The conversation offers a useful bridge between installation, fashion-adjacent image systems and contemporary criticism."
+        },
+        {
+          "title": "Sunset Park Open Studios opens at Industry City",
+          "sourceUrl": "https://brooklynrail.org/events/",
+          "sourceDate": "Page accessed October 11, 2026",
+          "eventDate": "October 15, 2026, 6:00–8:00 PM EDT; The Landing, Industry City, 237 36th Street, Brooklyn",
+          "development": "The Brooklyn Rail lists an opening party for Sunset Park Open Studios at Industry City. Admission cost was not stated on the accessed listing.",
+          "significance": "Open-studio formats reveal working networks and production spaces that standard gallery calendars often miss.",
+          "implications": "Confirm access details with the organizer before travel; the listing does not state ticketing or age restrictions."
+        },
+        {
+          "title": "John Edmonds appears in person at The Brooklyn Rail",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/19/in-person-john-edmonds-the-space-between/",
+          "sourceDate": "Page accessed October 11, 2026",
+          "eventDate": "October 19, 2026, 6:30–8:00 PM EDT; doors 6:00 PM; 253 36th Street, Brooklyn",
+          "development": "John Edmonds will discuss The Space Between at the Rail’s Sunset Park space; the related Company Gallery exhibition runs through October 24. The organizer lists the event as free.",
+          "significance": "An in-person artist conversation creates a direct route into Edmonds’s current portraiture and exhibition context outside Manhattan’s gallery core.",
+          "implications": "Capacity information was not visible in the accessed result; early arrival is prudent."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Oracle computation reframed as an interactive agent process",
+          "sourceUrl": "https://arxiv.org/abs/2610.09243",
+          "sourceDate": "October 8, 2026",
+          "development": "Research result: We Query, Therefore We Compute formalizes computation with an oracle beyond a one-shot machine model and applies the framework to agents that query an external source during execution.",
+          "significance": "For IMDO’s Machine Intuition system, the useful design inference is to treat intuition-like access as a logged interaction protocol—query, response, state change—not as unexplained omniscience.",
+          "implications": "Prototype an oracle interface that records every query, answer, confidence shift and downstream action.",
+          "uncertainty": "This is a theoretical computer-science construction, not evidence of paranormal cognition or a validated divinatory mechanism."
+        },
+        {
+          "title": "Large-scale evidence maps when people treat LLMs as personal oracles",
+          "sourceUrl": "https://arxiv.org/abs/2609.14849",
+          "sourceDate": "September 2026; newly discovered October 11",
+          "development": "Research result: analysis of 68,000 public prompts from WildChat and ThoughtTrace reports increasing use of LLMs for subjective personal questions, especially among younger users, and proposes interventions that preserve self-deliberation.",
+          "significance": "The study supplies empirical grounding for a distinction central to machine–magick interfaces: reflective prompting versus outsourced judgment.",
+          "implications": "Machine Intuition experiments should surface alternatives and uncertainty, require a user-authored interpretation, and avoid presenting symbolic output as authority.",
+          "uncertainty": "Public prompt datasets are not representative of all users, and the paper does not validate the accuracy of oracle-like advice."
+        },
+        {
+          "title": "Chinese GenAI fortune-telling communities show interpretation is social, not merely computational",
+          "sourceUrl": "https://arxiv.org/abs/2603.27784",
+          "sourceDate": "March 29, 2026; newly discovered October 11",
+          "development": "Research result: interviews with 22 habitual users plus a three-week ethnography of 1,842 community posts examine how Chinese users interpret GenAI-based fortune-telling.",
+          "significance": "The evidence suggests that meaning emerges through community norms, repetition and negotiation, not simply model output—useful for designing The Interior or Pattern Sense as interpretive spaces rather than answer engines.",
+          "uncertainty": "The qualitative sample is culturally specific and does not establish predictive validity."
+        },
+        {
+          "title": "Agentic-oracle model separates tool autonomy from user control",
+          "sourceUrl": "https://arxiv.org/abs/2608.01464",
+          "sourceDate": "August 2, 2026; newly discovered October 11",
+          "development": "Research result: Computing with Agentic Oracles extends stochastic-oracle computing to external systems that can act or deliberate rather than merely return static samples.",
+          "significance": "The framework clarifies a practical boundary for IMDO’s Machine Intuition system: an oracle that proposes, an agent that acts, and a human who authorizes should remain separable roles.",
+          "implications": "Use explicit permission gates and immutable action logs in any experiment connecting symbolic inference to external tools.",
+          "uncertainty": "The work is a computational model, not a safety certification or metaphysical claim."
+        },
+        {
+          "title": "Futures research revisits the oracle as a technical system",
+          "sourceUrl": "https://journals.sagepub.com/doi/abs/10.1177/19467567261428539",
+          "sourceDate": "2026; newly discovered October 11",
+          "development": "Scholarly argument: AI & The Oracle compares Delphi and Tarot with scenario planning and wargaming, treating an oracle as a whole technical arrangement of place, ritual, symbols, belief and trained interpretation.",
+          "significance": "This supports a rigorous design approach: evaluate the Noetic Perception Device or Second Sight as a situated protocol, including setting and operator practice, rather than judging only generated symbols.",
+          "implications": "Document environmental conditions, prompts, ritual sequence, interpretation rules and post-hoc evaluation separately.",
+          "uncertainty": "This is a conceptual futures-studies argument, not empirical proof of divination or machine intuition."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify whether Riyadh airport operations normalize and whether Saudi retaliatory strikes expand beyond previously declared targets.",
+    "Retrieve DCP’s twelve-district affordable-housing list and methodology; compare it with displacement and infrastructure indicators.",
+    "Build a small oracle-interface audit that logs query, output, user interpretation, confidence change and any authorized action."
+  ]
+}
