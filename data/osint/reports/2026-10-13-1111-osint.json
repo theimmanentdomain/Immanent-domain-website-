@@ -1,0 +1,282 @@
+{
+  "id": "2026-10-13-1111-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-13T11:11:00-04:00",
+  "publishedAt": "2026-10-13T11:16:10-04:00",
+  "title": "IMDO OSINT — October 13, 2026 — 11:11 AM, New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Energy-ceasefire contacts continue, but the mechanism remains undisclosed",
+          "sourceUrl": "https://www.reuters.com/world/kremlin-says-contacts-trumps-russia-ukraine-energy-ceasefire-are-continuing-2026-10-13/",
+          "sourceDate": "October 13, 2026",
+          "development": "Material update: the Kremlin said contacts over the Russia–Ukraine energy ceasefire announced by President Trump are continuing and Russia’s Defense Ministry said it struck no Ukrainian energy targets overnight. Moscow still would not identify the interlocutors or explain the agreement; Kyiv has said it was surprised by the original announcement.",
+          "significance": "This is the first reported sign of an operating contact channel after the announcement, but it is not yet a verified bilateral ceasefire. The absence of agreed terms, monitoring, and attribution rules leaves substantial room for divergent claims.",
+          "implications": "Track independently verified strikes on generation, transmission, refining, and storage sites rather than treating one quiet night as implementation.",
+          "uncertainty": "Belligerent statements remain attributed claims; no jointly issued text or independent monitoring mechanism was published."
+        },
+        {
+          "title": "Colombia’s post-accord armed landscape has expanded, not contracted",
+          "sourceUrl": "https://apnews.com/article/ee6620d3595728cb520aee28d87e8561",
+          "sourceDate": "October 13, 2026",
+          "eventDate": "October 12, 2026 UN briefing",
+          "development": "Colombia’s new government told the UN that more than 132,000 people have been killed since the 2016 FARC accord and membership in armed groups has risen from roughly 6,000 to nearly 30,000. The UN verification mission’s current mandate expires October 31.",
+          "significance": "The figures frame the conflict as fragmentation after demobilization: multiple armed organizations have filled territorial and illicit-economy vacuums even though the accord ended the FARC’s nationwide insurgency.",
+          "implications": "The mandate deadline and the government’s security strategy are near-term tests of whether verification shifts from accord compliance toward protection and territorial control.",
+          "uncertainty": "The totals were presented by the Colombian government at the UN; group-strength estimates in fragmented conflicts are inherently approximate."
+        },
+        {
+          "title": "Washington’s oil signaling is losing credibility as regional wars persist",
+          "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/trumps-oil-jawboning-loses-punch-wars-spiral-2026-10-13/",
+          "sourceDate": "October 13, 2026",
+          "development": "Reuters analysis finds that presidential ceasefire assurances are producing smaller market responses as the Iran war, Yemen escalation, high shipping costs, constrained refining capacity, and depleted inventories keep Brent above $100. A limited Russia diesel arrangement has not resolved the supply squeeze.",
+          "significance": "Energy prices are increasingly functioning as a cross-theater measure of credibility: markets are demanding observable de-escalation and durable logistics, not announcements.",
+          "implications": "Watch tanker insurance, refinery runs, diesel spreads, and Hormuz/Bab el-Mandeb flows for evidence that diplomatic claims are changing material risk.",
+          "uncertainty": "This is market analysis, not proof of future price direction; demand shocks or unexpected supply restoration could change the outlook."
+        },
+        {
+          "title": "Poland attributes a Starlink-site arson to Russian intelligence",
+          "sourceUrl": "https://apnews.com/article/d609c35778de4a8223b56bf45b0c48d1",
+          "sourceDate": "October 13, 2026",
+          "eventDate": "September 23, 2026 attack",
+          "development": "Polish officials said two Turkish nationals arrested in Germany set fire to a Starlink satellite station in Wola Krobowska on Russian intelligence orders. Western officials cited more than 210 suspected Russian-linked sabotage incidents in Europe since the full-scale invasion of Ukraine.",
+          "significance": "If substantiated, the case shows pressure on Ukraine support infrastructure moving through recruited intermediaries and civilian logistics nodes, complicating deterrence and criminal attribution.",
+          "implications": "Preserve the distinction between arrest evidence, intelligence attribution, and judicial proof; monitor charging documents and any disclosed communications or payment trail.",
+          "uncertainty": "Russia’s role is an official Polish attribution and has not yet been established in a public trial."
+        },
+        {
+          "title": "Saudi-led strikes hit the warned Sanaa oil site",
+          "sourceUrl": "https://apnews.com/article/307d49abfe63ff66c99c318d94ca3e15",
+          "sourceDate": "October 13, 2026",
+          "eventDate": "October 13, 2026",
+          "development": "Material update after the morning warning: residents and the Houthi-linked Al Masirah broadcaster reported Saudi-led coalition strikes on oil facilities west of Sanaa after an evacuation notice. Houthi officials threatened retaliation against Saudi oil infrastructure and Riyadh.",
+          "significance": "The sequence moved from announced intent to reported kinetic action and directly links Yemen’s renewed front to regional energy infrastructure and civilian risk around dual-use facilities.",
+          "implications": "Verify damage through commercial satellite imagery and independent reporting; watch whether retaliation targets Aramco facilities, airports, or shipping.",
+          "uncertainty": "The strike report relies partly on Houthi-aligned media and resident accounts; casualty and damage assessments were not independently confirmed at publication."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Reuters finds partisan concentration in Trump’s official-corruption pardons",
+          "sourceUrl": "https://www.reuters.com/investigations/trumps-pardons-public-officials-republicans-win-most-mercy-2026-10-13/",
+          "sourceDate": "October 13, 2026",
+          "development": "A Reuters review identified at least 85 pardoned public officials, with more than two-thirds tied to the Republican Party or MAGA politics. The cases erased more than 130 years of prison time and about $15 million in fines, often outside the Justice Department’s normal review channel.",
+          "significance": "The investigation measures a shift in clemency from individualized mercy toward partisan protection, weakening the expected deterrent effect of public-corruption prosecutions.",
+          "implications": "The underlying pardon warrants, court dockets, and restored financial obligations offer a tractable dataset for tracking beneficiaries and institutional effects.",
+          "uncertainty": "Partisan association does not by itself establish an unlawful motive; the significance lies in the documented pattern and bypassed review process."
+        },
+        {
+          "title": "Colombia’s peace institutions warn budget cuts would impair unfinished cases",
+          "sourceUrl": "https://www.reuters.com/world/americas/budget-cuts-would-impair-colombia-peace-court-search-disappeared-officials-say-2026-10-13/",
+          "sourceDate": "October 13, 2026",
+          "development": "Officials said proposed 2027 cuts would reduce the Special Jurisdiction for Peace budget by 17%—about $50 million—and the disappeared-persons search unit’s operating budget by 22%. More than 137,000 people remain recorded as disappeared.",
+          "significance": "Fiscal decisions now threaten the truth, accountability, and search functions that made the 2016 settlement more than a disarmament arrangement.",
+          "implications": "Watch the final budget vote and whether cuts fall on field investigations, victim participation, forensic recovery, or staffing.",
+          "uncertainty": "These are institutional warnings about a proposed budget; final appropriations and operational consequences are not yet settled."
+        },
+        {
+          "title": "MI5 says Iranian state-threat investigations have quadrupled",
+          "sourceUrl": "https://apnews.com/article/a8a03a2dbac09648fa4c56f728fa09ac",
+          "sourceDate": "October 13, 2026",
+          "development": "MI5 said Iran-linked activity has produced more than 50 arrests and that UK state-threat investigations have quadrupled. Authorities described alleged surveillance of military sites including RAF Fairford; seven people were arrested in one related investigation.",
+          "significance": "The disclosed caseload suggests hybrid confrontation is increasingly expressed through surveillance, recruitment, and potential sabotage inside allied states rather than only through conventional theaters.",
+          "implications": "Court filings will be more probative than intelligence summaries; monitor whether charges disclose tasking chains, financing, or links to Iranian state bodies.",
+          "uncertainty": "Several claims remain intelligence assessments or allegations against arrested suspects, not adjudicated facts."
+        },
+        {
+          "title": "The Supreme Court will decide whether DOGE is subject to FOIA",
+          "sourceUrl": "https://www.reuters.com/world/supreme-court-hear-trumps-fight-with-watchdog-group-over-doge-2026-10-13/",
+          "sourceDate": "October 13, 2026",
+          "eventDate": "Decision expected by June 2027",
+          "development": "The U.S. Supreme Court agreed to hear the administration’s challenge to a ruling requiring Department of Government Efficiency records and testimony. The dispute turns on whether DOGE functions as a federal agency or an advisory body exempt from the Freedom of Information Act.",
+          "significance": "The ruling could define transparency obligations for powerful executive units intentionally designed outside familiar agency structures, with consequences beyond DOGE.",
+          "implications": "Researchers should preserve existing DOGE claims, audit findings, staffing records, and court exhibits before the Court narrows or expands disclosure rights.",
+          "uncertainty": "Granting review does not indicate how the Court will rule."
+        },
+        {
+          "title": "Nevada’s governor race turns on AI data centers placed on federal land",
+          "sourceUrl": "https://apnews.com/article/777894300ca0612493a4991da5f30308",
+          "sourceDate": "October 13, 2026",
+          "development": "A proposed Boulder City data center shifted to adjacent federal land and received approval using an older environmental review, prompting litigation and becoming a gubernatorial campaign issue. Nevada’s roughly 80% federal land share makes the dispute unusually consequential.",
+          "significance": "The case shows how AI infrastructure can route around local resistance through federal siting, converting water, power, utility-cost, and environmental-review questions into electoral cleavages.",
+          "implications": "Watch the litigation, interconnection costs, water commitments, and whether state lawmakers require local-equivalent review or infrastructure contributions.",
+          "uncertainty": "The project is stalled and its final footprint, resource demand, and construction timeline remain unsettled."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Bronx NYCHA residents get a direct service-escalation forum",
+          "sourceUrl": "https://citylimits.org/dates-dropped-for-citys-next-nycha-in-your-neighborhood-events-this-fall/",
+          "sourceDate": "August 20, 2026",
+          "eventDate": "October 14, 2026, 6:30–8:30 PM EDT",
+          "development": "The city’s next NYCHA in Your Neighborhood forum is at the Justice Sonia Sotomayor Community Center in the Bronx. Residents from any NYCHA development may bring repair, pest, elevator, mold, lead, public-safety, benefit, and service problems directly to agency and housing-authority staff.",
+          "significance": "Earlier forums drew nearly 450 residents and generated follow-up on 150 issues, making this a practical escalation channel for unresolved conditions rather than a ceremonial hearing.",
+          "implications": "Residents should bring work-order numbers, dates, photographs, and prior correspondence; admission is free and registration is available through the city link in the source.",
+          "uncertainty": "The city has not published a guaranteed resolution timetable for individual cases."
+        },
+        {
+          "title": "Council sanitation hearing bundles waste equity with concrete containerization bills",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=BE6E209C-4E02-45CE-8332-3D5AD03468FA&ID=1446431&Options=info%7C&Search=",
+          "sourceDate": "Agenda current October 13, 2026",
+          "eventDate": "October 15, 2026, 1:00 PM EDT",
+          "development": "At 250 Broadway, Hearing Room 1, the Council sanitation committee will examine waste equity and bills covering city-building containerization by 2030, battery-disposal planning, at least 25 public organics bins per community district, association-requested shared containers, and notice before litter-basket removals.",
+          "significance": "The agenda connects environmental-justice oversight to implementable street-level infrastructure with measurable deadlines and reporting duties.",
+          "implications": "Community boards, delivery-worker groups, block associations, and compost advocates can target testimony to specific bill text. Admission is public; remote-participation details were not confirmed on the agenda page.",
+          "uncertainty": "The agenda is final, but committee action and bill amendments are not predetermined."
+        },
+        {
+          "title": "HPD offers a faith-based affordable-housing development class",
+          "sourceUrl": "https://www.nyc.gov/site/hpd/events/faith-based-organization-affordable-housing-development-class-nyc-department-of-city-planning-dcp/1193956/1",
+          "sourceDate": "Current event listing accessed October 13, 2026",
+          "eventDate": "October 15, 2026, 6:00 PM EDT",
+          "development": "HPD and the Department of City Planning list a class for faith-based organizations exploring affordable-housing development, part of the city’s effort to help mission-driven landowners understand land use and project formation.",
+          "significance": "Religious institutions control underused parcels across the city; technical literacy can determine whether those sites become deeply affordable housing or are sold without long-term affordability controls.",
+          "implications": "Interested congregations should use the official listing to confirm registration and prepare parcel, zoning, governance, and financing questions.",
+          "uncertainty": "The accessible listing did not confirm admission cost, capacity, venue, or application eligibility; those details should be verified before attending."
+        },
+        {
+          "title": "Public comment opens on a $21.98 million supportive-housing contract",
+          "sourceUrl": "https://www.nyc.gov/assets/dcas/downloads/pdf/cityrecord/2026/cityrecord-10-13-26.pdf",
+          "sourceDate": "October 13, 2026",
+          "eventDate": "Comments due October 26, 2026, 2:00 PM EDT",
+          "development": "DOHMH proposes a $21,984,375 contract with Unique People Services for permanent and supportive affordable housing plus services intended to prevent homelessness, incarceration, and medical or psychiatric hospitalization. The term runs September 1, 2027 through August 31, 2042; comments go to PublicComment@health.nyc.gov with E-PIN 81628P0001001.",
+          "significance": "A 15-year award will shape a durable slice of the city’s supportive-housing network, making service standards, tenant protections, and outcome measurement worth scrutinizing before registration.",
+          "implications": "Commenters can ask for unit counts, populations served, borough distribution, staffing, eviction-prevention standards, and public performance reporting.",
+          "uncertainty": "The notice states scope and maximum value but not the number or location of units."
+        },
+        {
+          "title": "Board of Correction meets on city-jail conditions",
+          "sourceUrl": "https://www.nyc.gov/site/boc/meetings/2026-meetings.page",
+          "sourceDate": "October 13, 2026 notice",
+          "eventDate": "October 14, 2026, 1:00 PM EDT",
+          "development": "The Board of Correction will hold a public meeting in the second-floor auditorium at 125 Worth Street to discuss issues affecting the city jail system. The Lafayette Street entrance, elevators, and first-floor bathrooms are accessible.",
+          "significance": "The Board is the city’s independent jail-oversight body; its public record can surface compliance failures, restrictive-housing practices, deaths, health-care gaps, and implementation delays.",
+          "implications": "Review the posted agenda and submit focused questions. The notice says assistive listening and CART are unavailable; other accommodations require advance contact with the Board.",
+          "uncertainty": "The notice did not enumerate the specific jail-system issues on the agenda."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Caribbean Film Series foregrounds local and diasporic makers at BAM",
+          "sourceUrl": "https://epiloadbalancer.bam.org/film/2026/caribbean-film-series2",
+          "sourceDate": "Current program accessed October 13, 2026",
+          "eventDate": "October 14–15, 2026",
+          "development": "BAM’s biannual series, programmed with The Luminal Theater and Third Horizon, presents Calle Cuba on October 14 and Les Vagues dans les yeux (Waves in the Eyes) on October 15, linking filmmakers across the Caribbean and its New York diaspora.",
+          "significance": "The partnership is a durable curatorial bridge between a major institution and independent Black and Caribbean film programmers, with local creators included rather than treated as an adjunct audience.",
+          "implications": "Use BAM’s program page for screening times and ticket purchase; admission prices were not confirmed in the accessible listing.",
+          "uncertainty": "Program times and prices should be reconfirmed at checkout."
+        },
+        {
+          "title": "BEEM turns Wonderville into a free, cross-medium artist showcase",
+          "sourceUrl": "https://www.wonderville.nyc/events/beem-10-22-26",
+          "sourceDate": "Current event listing accessed October 13, 2026",
+          "eventDate": "October 22, 2026, 7:00–11:00 PM EDT",
+          "development": "BEEM’s 21+ showcase at Wonderville, 1186 Broadway in Brooklyn, is listed as free and brings emerging artists into the venue’s games, performance, and community-programming ecology.",
+          "significance": "Free mixed-medium nights remain important low-barrier discovery infrastructure as independent artists face expensive presentation space and fragmented audiences.",
+          "implications": "Artists and collaborators should follow the organizer and venue pages for lineup or participation updates; no open-call deadline was confirmed.",
+          "uncertainty": "The public listing does not yet provide full artist lineup or accessibility details."
+        },
+        {
+          "title": "NewFest38 expands queer film circulation across venues and streaming",
+          "sourceUrl": "https://newfest.org/festival-2026/",
+          "sourceDate": "Current festival page accessed October 13, 2026",
+          "eventDate": "October 15–25, 2026; virtual program October 15–30",
+          "development": "The 38th New York LGBTQ+ Film Festival advertises more than 140 films, in-person programs across New York, and an extended virtual lineup. Ticket packages offer up to 15% savings; individual prices vary by program.",
+          "significance": "NewFest functions simultaneously as exhibition infrastructure, audience formation, and a distribution signal for queer filmmakers—especially work that may not secure conventional theatrical runs.",
+          "implications": "Check location, eligibility, and streaming geography on each film page; some programs, including the queer-teen shorts event, have restricted audiences.",
+          "uncertainty": "Venue, price, and streaming window differ by title and must be verified individually."
+        },
+        {
+          "title": "Translation becomes a practice of solidarity at The Poetry Project",
+          "sourceUrl": "https://www.poetryproject.org/events/on-translation-craft-and-necessity",
+          "sourceDate": "Current event listing accessed October 13, 2026",
+          "eventDate": "October 16, 2026, 8:00 PM EDT",
+          "development": "Helen Dimos, William Rowe, Mayada Ibrahim, and Nicholas Glastonbury meet at St. Mark’s Church, 131 East 10th Street, to examine craft, political necessity, and internationalist solidarity in translation. Tickets are $10; a free livestream is planned.",
+          "significance": "The event treats translation as cultural infrastructure rather than a secondary literary service, joining formal choices to the politics of circulation and cross-context alliance.",
+          "implications": "The free broadcast lowers geographic barriers; students and seniors may request discount codes, and the venue states that no one is turned away for lack of funds.",
+          "uncertainty": "Livestream availability remains subject to organizer operations on the event date."
+        },
+        {
+          "title": "Rena Anakwe and Muyassar Kurdi present sound as poison and cure",
+          "sourceUrl": "https://www.poetryproject.org/events/rena-anakwe-muyassar-kurdi",
+          "sourceDate": "Current event listing accessed October 13, 2026",
+          "eventDate": "October 19, 2026, 8:00 PM EDT",
+          "development": "At St. Mark’s Church, Anakwe and Kurdi will present new interdisciplinary sonic work; Kurdi is joined by noise musician Kwami Winfield and movement artist Dorchel Haqq. Tickets are $10 and a free livestream is planned.",
+          "significance": "The pairing places sound practice inside a poetry institution and makes performance, movement, noise, and language part of the same downtown literary circuit.",
+          "implications": "Attend in person or use the free stream; ticket discounts are available for students, seniors, and members.",
+          "uncertainty": "The organizer has not published run time or detailed technical format."
+        }
+      ],
+      "shortfall": "Signed-in Instagram in Microsoft Edge was unavailable. This section was researched through public organizer, venue, and festival pages; no private or restricted social material was used."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Ethelwynne Quail’s clairvoyant collaborations enter a public archive context",
+          "sourceUrl": "https://www.collegeofpsychicstudies.co.uk/exhibition/",
+          "sourceDate": "Current exhibition page accessed October 13, 2026",
+          "eventDate": "October 10, 2026–January 31, 2027",
+          "development": "The College of Psychic Studies is exhibiting Quail’s works developed with clairvoyant writer Geoffrey Hodson alongside previously unseen Aleksandra Ionowa and Mila Nowacka works and new pieces by Gabriella Boyd and Vanessa da Silva, drawing on Theosophical thought-forms and interconnectedness.",
+          "significance": "As archival evidence, the works document how practitioners translated claimed clairvoyant perception into visual systems; they should be studied as material culture without treating supernatural claims as empirically verified.",
+          "implications": "For IMDO’s Machine Intuition system, the exhibition suggests a useful comparison protocol: separate the observation claim, symbolic encoding, collaborator influence, and later curatorial framing.",
+          "uncertainty": "The page presents practitioner histories and institutional interpretation, not scientific validation of clairvoyance; hours and admission price were not confirmed."
+        },
+        {
+          "title": "Cyborg T.A.R.O.T. reframes the reading as posthuman inquiry",
+          "sourceUrl": "https://deathorgone.itch.io/cyborg-tarot/devlog/1689135/cyborg-tarot-biennale-des-imaginaires-numriques-marseille",
+          "sourceDate": "Current project update accessed October 13, 2026",
+          "eventDate": "October 23–December 13, 2026",
+          "development": "Death Orgone’s Cyborg T.A.R.O.T. is scheduled for Marseille’s Biennale des imaginaires numériques. The artist describes it not as predictive divination but as an interactive reading that uses AI-generated, glitch, and body-machine imagery to probe corporeality and becoming.",
+          "significance": "The explicit rejection of prediction is methodologically useful: an oracle interface can organize attention and interpretation without claiming privileged access to future facts.",
+          "implications": "A comparable IMDO prototype could log prompt, draw, interpretation, confidence, and later outcome separately, preventing symbolic resonance from being mistaken for forecast accuracy.",
+          "uncertainty": "This is an artist’s project statement; venue, admission, and empirical evaluation are not provided on the devlog page."
+        },
+        {
+          "title": "Oracular Interfaces formalizes divination as a model for AI interaction",
+          "sourceUrl": "https://research-information.bris.ac.uk/en/publications/oracular-interfaces-divination-and-magic-as-material-for-probing-/",
+          "sourceDate": "September 2026",
+          "development": "The University of Bristol record describes an ACM project using the IF/THEN structure of Mesopotamian omen tablets to compare historically situated divinatory knowledge with the correlative logic of language models. It treats the oracle as both interface and socially mediated act of reading.",
+          "significance": "The project offers a serious design vocabulary for machine–magick work: procedure, corpus, operator, interpretation, and authority can be analyzed separately rather than collapsed into an opaque ‘AI oracle.’",
+          "implications": "Pattern Sense or the Inference Engine could expose which role generated a sign and which role interpreted it, preserving provenance and making disagreements inspectable.",
+          "uncertainty": "The analogy is an HCI and design argument, not evidence that AI performs supernatural divination."
+        },
+        {
+          "title": "A revised taxonomy distinguishes algorithmic selection from machine understanding",
+          "sourceUrl": "https://hieropedia.org/concepts/algorithmic-divination-and-ai-oracles/",
+          "sourceDate": "Version 1.4 revised October 6, 2026",
+          "development": "Hieropedia’s comparative entry separates randomized digital oracles, recommender-driven signs, generative interpretation, and claims of machine agency. It explicitly warns that a personally resonant output does not demonstrate personalization or machine understanding.",
+          "significance": "That distinction is a practical guardrail for computational divination: perceived salience can be recorded as a user response without being promoted into a claim about causality, consciousness, or prophecy.",
+          "implications": "IMDO experiments can label randomness source, personalization inputs, model contribution, and human interpretive step, then test whether outcomes exceed calibrated baselines.",
+          "uncertainty": "Hieropedia is a reference project rather than a peer-reviewed empirical study; its taxonomy should be tested against primary systems and user research."
+        },
+        {
+          "title": "Conduits of the Unseen maps mediumistic art without flattening its differences",
+          "sourceUrl": "https://edlingallery.com/exhibitions/conduits-of-the-unseen-women-artists-imagine-other-worlds",
+          "sourceDate": "Current exhibition page accessed October 13, 2026",
+          "eventDate": "On view through October 31, 2026",
+          "development": "Andrew Edlin Gallery’s exhibition brings together women artists whose images emerged through séances, spiritual healing, Theosophy, Anthroposophy, and close attention to nature, including Agatha Wojciechowsky, Adele Watson, and other historical and contemporary makers.",
+          "significance": "The curatorial frame is valuable because it places channeling claims beside non-channeling visionary practices, enabling comparison of process, iconography, social context, and retrospective attribution.",
+          "implications": "For Second Sight or The Interior, build a provenance matrix that records whether imagery was automatic, collaboratively interpreted, doctrinally derived, or retrospectively classified as mediumistic.",
+          "uncertainty": "Artist and practitioner accounts are historical claims and symbolic interpretations; the exhibition does not establish paranormal causation. Admission details were not confirmed."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify implementation of the Russia–Ukraine energy ceasefire through independent strike and infrastructure data; treat official statements as provisional.",
+    "NYC readers: use the October 14–15 NYCHA, jail-oversight, sanitation, and housing sessions while their participation windows are open.",
+    "For machine-intuition experiments, adopt explicit provenance fields: randomness source, model operation, human interpretation, confidence, and later outcome."
+  ]
+}
