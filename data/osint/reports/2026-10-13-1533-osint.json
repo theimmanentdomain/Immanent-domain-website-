@@ -1,0 +1,200 @@
+{
+  "id": "2026-10-13-1533-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-13T15:33:00-04:00",
+  "publishedAt": "2026-10-13T15:36:49-04:00",
+  "title": "IMDO OSINT — October 13, 2026 — 3:33 PM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "shortfall": "Three distinct, adequately sourced developments were found after archive deduplication; two slots are left open rather than recycling earlier coverage.",
+      "entries": [
+        {
+          "title": "Sudan’s war and El Niño drought push Darfur and Kordofan toward famine",
+          "sourceUrl": "https://www.rescue.org/press-release/war-and-el-nino-driven-drought-deplete-food-stocks-pushing-sudan-further-towards",
+          "sourceDate": "2026-10-13",
+          "development": "The IRC, citing a new IPC alert, says conflict, drought, funding gaps and access restrictions are worsening acute malnutrition in Greater Darfur and Greater Kordofan; surveyed camps in South Darfur have crossed the famine threshold for child acute malnutrition.",
+          "significance": "This is a compound crisis in which battlefield access constraints and climate shock are reinforcing each other, making humanitarian corridors and financing as consequential as territorial changes.",
+          "uncertainty": "The alert describes hotspot evidence, not a nationwide famine classification."
+        },
+        {
+          "title": "Israeli strikes kill civilians in Gaza amid a stalled ceasefire",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-fire-kills-two-people-gaza-medics-say-2026-10-12/",
+          "sourceDate": "2026-10-12",
+          "eventDate": "2026-10-11/12",
+          "development": "Local medics reported five Palestinians killed in two strikes around Khan Younis; Israel said it targeted militants and accused Hamas of rearming, which Hamas denied.",
+          "significance": "Repeated lethal incidents are eroding a ceasefire whose disarmament, withdrawal and reconstruction provisions remain largely unimplemented.",
+          "uncertainty": "The identities of those struck and the parties’ competing violation claims were not independently resolved in the accessed report."
+        },
+        {
+          "title": "EU expands sanctions across Russia’s drone and missile supply chain",
+          "sourceUrl": "https://www.fdd.org/overnight-brief/october-13-2026/",
+          "sourceDate": "2026-10-13",
+          "development": "A daily security roundup reports that the EU sanctioned nearly 1,600 Russian people and companies, emphasizing entities suspected of supplying drone and missile components.",
+          "significance": "The scale suggests a shift from targeting headline weapons firms toward a broader industrial network; implementation and evasion behavior now matter more than the announcement alone.",
+          "uncertainty": "This entry is based on a secondary roundup citing AP; enforcement effects are not yet observable."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "shortfall": "Four distinct entries met the threshold; one slot remains open.",
+      "entries": [
+        {
+          "title": "Indian police detain youth-movement leaders as election-roll protests escalate",
+          "sourceUrl": "https://www.reuters.com/world/india/indian-police-detain-cockroach-movement-leaders-demanding-election-chiefs-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "Police detained Cockroach Janta Party leaders after protesters breached barricades while demanding the election chief’s resignation over the removal of more than 130 million names from voter lists.",
+          "significance": "A student-rooted movement is converting a technical voter-roll dispute into a nationwide challenge over institutional legitimacy and protest rights.",
+          "uncertainty": "The Election Commission and BJP deny partisan manipulation; the disparate impact of deletions remains contested."
+        },
+        {
+          "title": "French education protests enter a third week",
+          "sourceUrl": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "At least 160,000 students, schoolchildren and union members reportedly marched over staffing, overcrowding and decaying facilities; police used tear gas in some cities and authorities reported thousands of detentions across the protest wave.",
+          "significance": "The movement is linking school conditions to broader cost-of-living and policing grievances ahead of national strikes and a presidential transition cycle.",
+          "uncertainty": "Crowd and detention totals vary by source and authority."
+        },
+        {
+          "title": "India’s opposition prepares rapid nationwide mobilization",
+          "sourceUrl": "https://indianexpress.com/article/political-pulse/rahul-gandhi-india-bloc-jantar-mantar-cec-gyanesh-kumar-opposition-10920176/",
+          "sourceDate": "2026-10-13",
+          "development": "Opposition leaders agreed to be ready for nationwide action within 24 hours while awaiting a Supreme Court response to their challenge to voter-list revisions.",
+          "significance": "The dispute is moving from episodic street protest toward coordinated multi-party mobilization and judicial pressure.",
+          "uncertainty": "Planned actions remain contingent and should not be treated as completed events."
+        },
+        {
+          "title": "UN succession debate opens amid institutional strain",
+          "sourceUrl": "https://thesoufancenter.org/intelbrief-2026-october-13/",
+          "sourceDate": "2026-10-13",
+          "development": "The Soufan Center assesses the selection of the next UN secretary-general against concurrent wars, humanitarian crises and Security Council paralysis.",
+          "significance": "Leadership selection will shape the organization’s diplomatic credibility, but structural veto constraints will remain regardless of the individual chosen.",
+          "uncertainty": "This is analytical assessment, not a completed transfer of power."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "shortfall": "Three adequately sourced, non-duplicative city developments were identified.",
+      "entries": [
+        {
+          "title": "NYC launches a centralized mental-health service finder",
+          "sourceUrl": "https://www.nyc.gov/mayors-office",
+          "sourceDate": "2026-10-13",
+          "development": "The Mayor’s Office announced NYC Mental Health Connect, intended to help residents locate and access local mental-health services.",
+          "significance": "The practical test is whether a discovery layer reduces navigation friction across fragmented providers, languages and eligibility rules.",
+          "implications": "Residents and advocates should test referral completion, wait times, language access and borough coverage rather than counting searches alone.",
+          "uncertainty": "The accessible announcement did not expose detailed performance metrics."
+        },
+        {
+          "title": "SpaceX agrees to testify at City Council AI-safety hearing after subpoena",
+          "sourceUrl": "https://nypost.com/2026/10/13/business/elon-musks-spacex-set-to-testify-at-nyc-council-hearing-on-ai-safety-after-getting-subpoena/",
+          "sourceDate": "2026-10-13",
+          "development": "SpaceX, encompassing xAI, agreed to appear after missing an earlier hearing and receiving a Council subpoena.",
+          "significance": "The episode tests the Council’s ability to compel major AI firms into local oversight on privacy, whistleblowers and safety despite limited municipal regulatory reach.",
+          "uncertainty": "The hearing date and concrete testimony commitments were not confirmed in the accessed report."
+        },
+        {
+          "title": "Twelve community districts put on an affordable-housing fast track",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mamdani-administration-puts-12-neighborhoods-on-fast-track-for-a",
+          "sourceDate": "2026-10-01",
+          "development": "Newly discovered older material: the administration designated 12 community districts for accelerated affordable-housing planning alongside transit-oriented development and city-land projects.",
+          "significance": "The policy explicitly targets geographic inequity in housing production; project-level affordability, displacement safeguards and approval timelines will determine substance.",
+          "uncertainty": "A fast-track designation is an administrative commitment, not completed housing."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "shortfall": "Four public, organizer-backed discoveries met the standard. Signed-in Instagram was unavailable, so no private-feed leads were used.",
+      "entries": [
+        {
+          "title": "Ragas Live stages a 24-hour South Asian classical music marathon",
+          "sourceUrl": "https://prd.thoughtgallery.org/",
+          "sourceDate": "2026-10-12",
+          "eventDate": "2026-10-13",
+          "development": "Thought Gallery lists the 2026 Ragas Live Festival as a 24-hour marathon in New York on October 13.",
+          "significance": "The long-duration format creates a rare shared listening environment outside conventional club and concert pacing.",
+          "uncertainty": "Venue, admission and exact start time were not confirmed in the accessed listing."
+        },
+        {
+          "title": "PS122’s intergenerational collective activates its exhibition with food and discussion",
+          "sourceUrl": "https://artinnewyorkcity.com/2026/09/19/added-vallues-a-generous-landscape-group-exhibition-at-ps122-october-8-31/",
+          "sourceDate": "2026-09-19",
+          "eventDate": "2026-10-13T18:00:00-04:00",
+          "development": "The29.art presents “The Big Omelet of the Rain Times,” a cooking presentation and discussion by Yohanna M., 6–7:30 PM at PS122 Gallery, 150 First Avenue; the wider show runs through October 31.",
+          "significance": "It is a concrete example of exhibition programming functioning as social practice rather than a static opening.",
+          "uncertainty": "Admission cost was not stated in the accessed announcement."
+        },
+        {
+          "title": "Dia Chelsea pairs poetry, movement and projected rememory",
+          "sourceUrl": "https://diaart.org/program/calendar/main/410/period/2026-10-14/venue/dia-chelsea-new-york-united-states",
+          "sourceDate": "2026-10-06",
+          "eventDate": "2026-10-16T18:30:00-04:00",
+          "development": "Rachel Eliza Griffiths presents “born among mirrors, a rememory” at Dia Chelsea, 537 West 22nd Street, Friday October 16 at 6:30 PM; admission is free.",
+          "significance": "The event crosses poetry, movement and video to recover an ancestral village across layered temporalities.",
+          "implications": "No ticket price is required; capacity or reservation requirements should be checked on Dia’s event page."
+        },
+        {
+          "title": "Litmus Press marks 25 years with a Poetry Project benefit",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-16T20:00:00-04:00",
+          "development": "The Poetry Calendar lists a Litmus Press 25th Anniversary Celebration and Benefit at the Poetry Project on Friday, October 16 at 8 PM.",
+          "significance": "The anniversary spotlights the durable infrastructure of experimental small-press publishing and its dependence on benefit culture.",
+          "uncertainty": "Admission price and full participant list were not visible in the accessed calendar result."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "shortfall": "Four distinct entries were found; one slot remains open rather than repeating earlier AI-divination coverage.",
+      "entries": [
+        {
+          "title": "MOLAA opens a collection show on spiritual and occult sigils",
+          "sourceUrl": "https://molaa.org/2026-sigils",
+          "sourceDate": "2026-10-04",
+          "eventDate": "2026-10-04",
+          "development": "MOLAA’s 30th-anniversary exhibition draws from its permanent collection to examine Christianity, Judaism, Santería and occult mysticism across Latin American and Caribbean art.",
+          "significance": "The curatorial frame places sigil-like and spiritual forms in specific cultural histories instead of flattening them into generic occult aesthetics.",
+          "uncertainty": "This is an institutional curatorial interpretation, not evidence for supernatural efficacy."
+        },
+        {
+          "title": "Queer Arcana closes October 18",
+          "sourceUrl": "https://ppowgallery.com/index.php/exhibitions/a-queer-arcana-art-magic-and-spirit",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-03-28/2026-10-18",
+          "development": "Palm Springs Art Museum’s intergenerational exhibition traces how queer artists have used magic, esoteric knowledge, mythology and sigil systems for connection, resistance and world-building.",
+          "significance": "The show offers a historically grounded counterweight to decontextualized machine-generated occult imagery.",
+          "uncertainty": "Claims of magical power belong to artistic and practitioner frameworks."
+        },
+        {
+          "title": "Interpretive Cultures models AI-assisted tarot as negotiated meaning",
+          "sourceUrl": "https://arxiv.org/abs/2602.11367",
+          "sourceDate": "2026-02-11",
+          "development": "Newly discovered older research examines AI-assisted tarot as a subjective, plural and non-causal interpretive practice through resonance and negotiated meaning.",
+          "significance": "For IMDO’s Machine Intuition system, the useful design lesson is to preserve provenance, ambiguity and participant interpretation rather than present outputs as hidden truth.",
+          "uncertainty": "Research describes interpretive practice; it does not validate divination or factual prediction."
+        },
+        {
+          "title": "Technomantic Coding connects Spare-style sigilization with Processing",
+          "sourceUrl": "https://rr.newmediacaucus.org/technomantic-coding-sigilization-and-processing",
+          "sourceDate": "2026-03-08",
+          "eventDate": "2026-03-08",
+          "development": "Newly discovered older workshop documentation translates intentions into symbolic forms and then subjects them to algorithmic transformation and machine vision in Processing.",
+          "significance": "It supplies a reproducible precedent for separating human intention, encoding rules and machinic transformation in computational ritual design.",
+          "implications": "A useful experiment would log the pre-code intention, transformation parameters and post-hoc interpretation separately.",
+          "uncertainty": "This is an artistic methodology, not empirical evidence of occult causation."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Track whether Sudan’s IPC hotspot evidence triggers new access agreements or emergency financing.",
+    "Watch the Indian Supreme Court response and distinguish announced mobilization from verified turnout.",
+    "Test NYC Mental Health Connect for referral completion, language access and borough coverage."
+  ]
+}
