@@ -1,0 +1,289 @@
+{
+  "id": "2026-10-13-0555-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-13T05:55:00-04:00",
+  "publishedAt": "2026-10-13T06:10:00-04:00",
+  "title": "IMDO OSINT — October 13, 2026 — 5:55 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "New Saudi strikes widen the reported Yemen target map",
+          "sourceUrl": "https://apnews.com/article/saudi-arabia-yemen-houthis-october-13-2026-3e6e5f152048c035081eac369f62ed4f",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "The Houthis said Saudi airstrikes hit Kamaran Island, Qanawis district and al-Jawf. They separately claimed to have downed a Saudi drone and launched a missile toward Riyadh airport; Saudi Arabia had not commented when the report was published.",
+          "significance": "The claimed target geography indicates a broader Saudi air campaign than earlier border-area reporting, while the counterclaims point to a widening tit-for-tat cycle.",
+          "implications": "Track independent imagery, flight disruptions and Saudi statements before treating target damage or weapons performance as established.",
+          "uncertainty": "Target, drone and missile details are Houthi claims reported by AP and were not independently verified in the accessed source."
+        },
+        {
+          "title": "Houthi seizure of Turbah leaves Taiz effectively encircled",
+          "sourceUrl": "https://apnews.com/article/89a793d5c55c34fd4f7e08c9df5835a6",
+          "sourceDate": "2026-10-13",
+          "eventDate": "Turbah was captured on 2026-10-04; humanitarian effects were reported 2026-10-13",
+          "development": "AP reports that Houthi forces captured Turbah, severing a principal government supply route and effectively surrounding Taiz. Residents described fuel and food shortages, price increases and dwindling hospital stocks as government forces tried to reopen access.",
+          "significance": "Control of a logistics node, rather than a headline city assault, can still transform civilian conditions for more than one million people and alter the southern Yemen front.",
+          "implications": "Watch road access, hospital inventories and verified territorial mapping rather than relying on belligerent communiqués alone.",
+          "uncertainty": "AP corroborates the humanitarian picture through residents and officials; fast-moving battlefield control remains subject to revision."
+        },
+        {
+          "title": "Drone attacks off Bulgaria sink one ship; eleven crew reported missing",
+          "sourceUrl": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "The Guardian's live reporting said two vessels were struck by drones near Bulgaria's Black Sea coast, with one ship sunk and eleven crew members missing.",
+          "significance": "A confirmed maritime strike near a NATO member's coast would raise navigation, insurance and escalation risks beyond the immediate Russia–Ukraine battlefield.",
+          "implications": "Follow Bulgarian maritime authorities, vessel-identification data and search-and-rescue updates before drawing attribution conclusions.",
+          "uncertainty": "This was developing reporting; responsibility, vessel identities and the full casualty count were not established in the accessed item."
+        },
+        {
+          "title": "Kremlin rejects Ukraine's proposed sixty-day election ceasefire",
+          "sourceUrl": "https://www.reuters.com/world/europe/kremlin-rejects-ukrainian-leaders-idea-60-day-ceasefire-says-it-wants-an-overall-2026-10-12/",
+          "sourceDate": "2026-10-12",
+          "eventDate": "2026-10-12",
+          "development": "What changed: after Volodymyr Zelensky proposed a sixty-day ceasefire to permit a presidential election, the Kremlin rejected that limited pause and said it wanted an overall peace settlement instead.",
+          "significance": "The answer narrows the diplomatic space around an election-specific truce and makes the parties' sequencing dispute explicit: temporary cessation first versus comprehensive settlement first.",
+          "implications": "Distinguish rejection of this mechanism from rejection of all negotiations; the operative question is whether either side offers a verifiable alternative.",
+          "uncertainty": "The positions are official statements, not evidence of an agreed negotiating framework or a change on the ground."
+        },
+        {
+          "title": "Newly discovered older report: Erik Prince-linked forces suffer deadly Congo ambush",
+          "sourceUrl": "https://www.reuters.com/world/africa/erik-princes-forces-suffer-battlefield-loss-congo-former-ufc-fighter-among-2026-10-09/",
+          "sourceDate": "2026-10-09",
+          "eventDate": "2026-09-17",
+          "development": "Reuters, citing ten sources, reported that an ambush in South Kivu killed or wounded about twenty personnel linked to Vectus Global, the security company associated with Erik Prince. A former New Zealand special-forces soldier was killed and former UFC fighter Tim Kennedy was wounded.",
+          "significance": "The incident exposes a consequential but undercovered layer of the Congo war: foreign private personnel operating close enough to combat to sustain major losses.",
+          "implications": "Map contracting chains, mission authorities and casualty disclosures; private-force involvement can obscure accountability and the true international footprint of a conflict.",
+          "uncertainty": "Some details, including alleged Rwandan involvement and possible civilian casualties, rest on source accounts and contested attribution."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Sweden's election winner still cannot assemble a government",
+          "sourceUrl": "https://www.reuters.com/world/swedens-andersson-says-she-is-still-unable-form-government-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "Social Democratic leader Magdalena Andersson said she remained unable to form a government one month after the September 13 election. Her center-left bloc won 176 seats to the right bloc's 173, but its four parties still disagree over cabinet participation.",
+          "significance": "The result shows how a numerical parliamentary victory can fail to translate into executive power when coalition terms remain unresolved.",
+          "implications": "Watch formal speaker deadlines and party agreements, not assumptions that the largest bloc automatically governs.",
+          "uncertainty": "Negotiations remain active; no new coalition agreement was announced in the accessed report."
+        },
+        {
+          "title": "Taiwan's finance minister will attend APEC meetings in Hong Kong",
+          "sourceUrl": "https://www.reuters.com/world/china/taiwan-finance-minister-attend-apec-meeting-hong-kong-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "Week of 2026-10-19",
+          "development": "Taiwan said Finance Minister Chuang Tsui-yun would travel to Hong Kong for the APEC finance ministers' meeting despite sustained pressure from Beijing.",
+          "significance": "The trip tests the remaining operational space for Taiwan's participation in multilateral institutions when meetings take place under Chinese jurisdiction.",
+          "implications": "Watch entry arrangements, nomenclature, access to bilateral meetings and any last-minute restrictions; procedural treatment may be more revealing than communiqués.",
+          "uncertainty": "Attendance was announced, not yet completed."
+        },
+        {
+          "title": "New Zealand's November election exposes diverging rules for political membership",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/main-parties-vying-form-new-zealands-next-government-2026-10-12/",
+          "sourceDate": "2026-10-12",
+          "eventDate": "Election scheduled 2026-11-07",
+          "development": "Reuters' party survey shows a campaign split over public services, cost of living and political membership. New Zealand First, potentially pivotal to a center-right coalition, proposes restricting national voting to citizens rather than all qualifying permanent residents.",
+          "significance": "Coalition arithmetic could give a smaller party leverage over a fundamental rule of democratic inclusion, even if that proposal is not the dominant campaign issue.",
+          "implications": "Track coalition red lines and enacted policy separately from campaign platforms.",
+          "uncertainty": "The voting restriction is a proposal, not current law; polling and coalition prospects can change before November 7."
+        },
+        {
+          "title": "India's youth movement breaches a newly restricted protest site",
+          "sourceUrl": "https://www.reuters.com/world/india/indian-police-detain-cockroach-movement-leaders-demanding-election-chiefs-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "What changed: after earlier marches and detentions, roughly twenty activists entered Jantar Mantar after Delhi Police removed its protest-site designation; police detained leading Cockroach Janta Party figures demanding the election chief's resignation over mass voter-roll deletions.",
+          "significance": "The dispute has shifted from a voter-list challenge into a direct contest over where organized dissent may occur in the capital.",
+          "implications": "Track court review of the voter-list changes, detention records and whether authorities sustain the site's de-designation.",
+          "uncertainty": "Opponents allege politically biased deletions; the Election Commission and governing BJP deny wrongdoing and say eligible voters can re-enroll."
+        },
+        {
+          "title": "Greenland's parliament signals majority support for expanded U.S. basing",
+          "sourceUrl": "https://www.reuters.com/world/europe/greenland-lawmakers-signal-support-trump-security-deal-2026-10-12/",
+          "sourceDate": "2026-10-12",
+          "eventDate": "Parliamentary debate 2026-10-12; second reading pending",
+          "development": "A majority of Greenlandic lawmakers indicated support for a U.S.–Denmark–Greenland security agreement permitting two additional U.S. bases and Golden Dome missile-defense deployments while affirming Danish sovereignty and Greenlandic self-determination.",
+          "significance": "The debate converts an Arctic sovereignty confrontation into a concrete parliamentary decision over military infrastructure, compensation and implementation authority.",
+          "implications": "Watch the second reading, implementing terms and financial arrangements rather than treating favorable speeches as final ratification.",
+          "uncertainty": "The agreement had not completed its parliamentary process; opposition lawmakers said compensation and implementation details remained inadequate."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Free community college expands to New Yorkers who already hold degrees",
+          "sourceUrl": "https://www.timesunion.com/capitol/article/ny-expands-free-community-college-22461760.php",
+          "sourceDate": "2026-10-05",
+          "eventDate": "Expanded eligibility begins spring 2027",
+          "development": "Newly discovered older material: New York is expanding its Reconnect program so adults ages 25–55 with prior college degrees can pursue eligible SUNY or CUNY associate degrees tuition-free, with books, supplies and fees also covered.",
+          "significance": "For city residents seeking a career change, the revision removes a major eligibility barrier that excluded degree holders from the original program.",
+          "implications": "Prospective CUNY students should verify eligible programs and apply for the January term; institutional admissions and program requirements still apply.",
+          "uncertainty": "The accessed report describes statewide eligibility; applicants should confirm campus-level program availability and aid calculations."
+        },
+        {
+          "title": "Most challenged pied-à-terre surcharge bills were reversed",
+          "sourceUrl": "https://nypost.com/2026/10/11/us-news/nyc-loses-more-than-half-of-pied-a-terre-tax-appeals/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "Appeal deadline extended to 2026-10-13",
+          "development": "The New York Post reported that roughly 5,700 of about 10,000 applications challenging the city's new pied-à-terre surcharge received exemptions. A court-ordered restart extended the appeal deadline to October 13 while the city pursued an appeal.",
+          "significance": "The reversal rate suggests that ownership and residency records used in the initial billing sweep generated substantial classification disputes.",
+          "implications": "Affected owners should use the Tax Commission's current surcharge-appeal process before the deadline and retain proof of primary residence or exemption status.",
+          "uncertainty": "The counts come from the newspaper's reporting; litigation and the city's automatic stay can still alter enforcement."
+        },
+        {
+          "title": "Immigrant-services contract amendment remains open for public comment",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929018",
+          "sourceDate": "2026-10-06",
+          "eventDate": "Comments due 2026-10-13 at 10:00 AM EDT",
+          "development": "HRA proposes adding $65,714 to a Sunnyside Community Services contract under the Protect NYC Families and Immigrant Opportunities Initiative, bringing its value to $178,214 through June 30, 2027. Written comments are accepted at PublicComments@dss.nyc.gov before 10:00 AM.",
+          "significance": "The notice identifies a specific funding change inside the city's immigrant legal and support infrastructure while there is still a narrow formal comment window.",
+          "implications": "Queens service organizations and residents can submit focused comments on geographic reach, languages, referral capacity and measurable deliverables.",
+          "uncertainty": "This is a proposed contract amendment, not proof of expanded service volume or final approval."
+        },
+        {
+          "title": "Commercial-waste rollout reaches Brooklyn North and Upper Manhattan",
+          "sourceUrl": "https://www.nyc.gov/site/bic/news/notices.page",
+          "sourceDate": "Organizer notice accessed 2026-10-13",
+          "eventDate": "Town hall 2026-10-13 at 2:00 PM EDT; business sign-up through 2026-11-30; Midtown South and Staten Island rules effective 2026-10-16",
+          "development": "The Business Integrity Commission scheduled an October 13 town hall as the Commercial Waste Zones program advances. Business sign-up is open in Brooklyn North and Upper Manhattan, while the next operating rules take effect October 16 in Midtown South and Staten Island.",
+          "significance": "The phased system changes which carters businesses may use and when, with practical compliance consequences arriving on different calendars by zone.",
+          "implications": "Businesses should identify their zone, confirm an authorized carter and retain contract records; access details or admission requirements for the town hall were not exposed in the notice excerpt.",
+          "uncertainty": "Operational dates are official, but individual businesses should confirm address-level zone assignments with DSNY/BIC."
+        },
+        {
+          "title": "Downtown Brooklyn's 1,502-unit Navy Street proposal reaches borough hearing",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924023",
+          "sourceDate": "2026-10-01",
+          "eventDate": "Public hearing 2026-10-14 at 6:00 PM EDT, Brooklyn Borough Hall and Webex",
+          "development": "The Brooklyn Borough President will hear a ULURP application for 50 Navy Street and 240 Nassau Street: a proposed 1.4-million-square-foot mixed-use development with 1,502 homes, 302 permanently affordable units, roughly 132,000 square feet of community facilities including a public school, commercial space and public open space.",
+          "significance": "The scale makes this an important test of density, affordability, school capacity and public-space commitments at the edge of Downtown Brooklyn.",
+          "implications": "Residents may testify in person at 209 Joralemon Street or via the notice's Webex route and should focus on enforceable affordability, construction impacts and infrastructure capacity.",
+          "uncertainty": "These are applicant proposals entering review, not approved buildings; the project can be modified through ULURP."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Adam Green launches Autotopia at Desert Island",
+          "sourceUrl": "https://pioneerworks.org/programs/adam-green-autotopia",
+          "sourceDate": "Organizer page accessed 2026-10-13",
+          "eventDate": "2026-10-15; doors 6:30 PM, program 7:00 PM EDT; Desert Island Books, Brooklyn",
+          "development": "Pioneer Works and Desert Island present Adam Green's new book Autotopia, a satirical illustrated world built around technology, metaphysics and invented social systems, followed by a signing.",
+          "significance": "The launch is a useful junction between independent comics, artist publishing and the downtown appetite for self-contained speculative mythologies.",
+          "implications": "Books will be available for purchase; admission price and RSVP requirement were not confirmed on the accessed page.",
+          "uncertainty": "Signed-in Instagram was unavailable in this run, so this section was researched from publicly accessible organizer pages."
+        },
+        {
+          "title": "Paper Cuts walkthrough foregrounds collective zine practice",
+          "sourceUrl": "https://shop.centerforbookarts.org/products/curatorial-walkthrough-of-paper-cuts-1",
+          "sourceDate": "Organizer page accessed 2026-10-13",
+          "eventDate": "2026-10-16 at 6:00 PM EDT; Center for Book Arts, 28 West 27th Street, Manhattan",
+          "development": "A curatorial walkthrough of Paper Cuts will examine zine and publishing practices represented by BLKGRLSWURLD, Pegacorn Press and Raw Meat Collective.",
+          "significance": "The program offers direct access to collective publishing models that sit outside conventional magazine and gallery distribution.",
+          "implications": "The organizer lists free-place access alongside $5 student, $10 suggested and $50 supporter options; register through the source page.",
+          "uncertainty": "Capacity was not stated on the accessed listing."
+        },
+        {
+          "title": "Make the Thing offers a four-week small-press publishing bootcamp",
+          "sourceUrl": "https://shop.centerforbookarts.org/products/26fpd101i",
+          "sourceDate": "Organizer page accessed 2026-10-13",
+          "eventDate": "Applications due 2026-10-15 at 11:59 PM EDT; class Thursdays 2026-10-22 through 2026-11-12, 6:00–8:30 PM EDT",
+          "development": "Center for Book Arts' four-session workshop covers concept, editing, production, budgeting and distribution; participants finish with a zine or publication prototype and a practical publishing plan.",
+          "significance": "It is a concrete entry point for writers and artists trying to move from an idea to a reproducible small-press object.",
+          "implications": "Fee is $525. No prior experience is required; most materials are included, while participants supply a notebook and ordinary tools.",
+          "uncertainty": "The listing does not promise publication or distribution beyond the participant's prototype and plan."
+        },
+        {
+          "title": "Red Nun Collective brings publishing-in-transit to a free reading",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/21/publishing-in-transit-the-red-nun/",
+          "sourceDate": "Organizer page accessed 2026-10-13",
+          "eventDate": "2026-10-21 at 1:00 PM EDT; online",
+          "development": "Kate Colby, Mary-Kim Arnold and Darcie Dennigan of Red Nun Collective join poet and translator Cole Swensen for conversation and readings in The Brooklyn Rail's Publishing-in-Transit series.",
+          "significance": "The event makes a small collective's editorial and collaborative methods legible to writers interested in publishing as a mobile social practice.",
+          "implications": "The event is free and requires registration through the organizer page; donations are optional.",
+          "uncertainty": "The listing confirms the speakers and format but not a recording policy."
+        },
+        {
+          "title": "Magenta Plains marks ten years through an Aesthetic Confessions roundtable",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/29/aesthetic-confessions-10-years-of-magenta-plains/",
+          "sourceDate": "Organizer page accessed 2026-10-13",
+          "eventDate": "2026-10-29 at 1:00 PM EDT; online",
+          "development": "Magenta Plains co-founders Olivia Smith, Chris Dorland and David Deutsch will discuss the gallery's first decade with artist, critic and Rail editor Andrew Woolbright.",
+          "significance": "A founder-level account can illuminate how a small Lower East Side gallery has navigated artist development, criticism and the economics of an increasingly consolidated art market.",
+          "implications": "The Zoom event is free; register through the organizer page.",
+          "uncertainty": "The event description does not specify whether audience questions or replay access will be available."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Supernatural Machines documents the material technologies of séance culture",
+          "sourceUrl": "https://www.simonandschuster.com/books/Supernatural-Machines/David-Brandon-Hodge/9798337404097",
+          "sourceDate": "Publisher page accessed 2026-10-13",
+          "eventDate": "Publication scheduled 2026-10-27",
+          "development": "David Brandon Hodge's 432-page Supernatural Machines assembles archival history and object photography around planchettes, talking boards, spirit trumpets and other devices designed to mediate alleged contact with spirits.",
+          "significance": "Treating occult devices as designed interfaces creates a rigorous comparative archive for studying how expectation, gesture and apparatus jointly shape interpreted signals.",
+          "implications": "For IMDO's Machine Intuition system, the useful move is to catalogue affordances and observer protocols without adopting supernatural efficacy as established fact.",
+          "uncertainty": "The book documents historical objects and practitioner claims; its existence does not validate those claims. List price is $75 on the accessed page."
+        },
+        {
+          "title": "Station proposes a self-supervising system for open-ended scientific discovery",
+          "sourceUrl": "https://arxiv.org/abs/2610.08927",
+          "sourceDate": "2026-10-06",
+          "eventDate": "Preprint submitted 2026-10-06",
+          "development": "Station combines a supervisory agent, iterative research environment and meta-reflection loop. Its authors report rediscovering 62.7% of target criteria across tasks derived from three ICLR papers, versus 15.4% for Codex Multiagent-v2 and 14.4–20.6% for AI Scientist-v2.",
+          "significance": "The design shifts emphasis from one-shot answers to managing evidence, experiments and revision across a long research trajectory—a relevant architecture for machine intuition as disciplined hypothesis generation.",
+          "implications": "A useful IMDO test would compare Station-style supervision against a flat agent loop on hidden-pattern tasks with preregistered scoring.",
+          "uncertainty": "This is an author-reported preprint benchmark; some tasks are defined against known papers, so generalization to genuinely unknown discoveries remains unproven."
+        },
+        {
+          "title": "CausalBridge infers shared latent causes across mismatched observation spaces",
+          "sourceUrl": "https://arxiv.org/abs/2610.02594",
+          "sourceDate": "2026-10-01",
+          "eventDate": "Preprint submitted 2026-10-01",
+          "development": "CausalBridge learns causal graphs that may include latent variables, then aligns embeddings and variable names across datasets using known anchors. The authors evaluate it on five questionnaire datasets and three robotics scenarios with 20–90% of labels masked.",
+          "significance": "This is a concrete approach to finding structural correspondences when two systems describe the same hidden process with different visible variables—a core weak-relation problem.",
+          "implications": "Pattern Sense or Inference Engine experiments could use the alignment procedure as a baseline, while keeping causal discovery separate from symbolic interpretation.",
+          "uncertainty": "Preprint results and claims of reduced bias require independent replication; inferred graphs are model-dependent, not direct observations of hidden causes."
+        },
+        {
+          "title": "A causal analogy reframes evidence for artificial consciousness",
+          "sourceUrl": "https://arxiv.org/abs/2610.01002",
+          "sourceDate": "2026-10-01",
+          "eventDate": "Preprint submitted 2026-10-01",
+          "development": "The paper distinguishes similarities produced by consciousness-relevant mechanisms from similarities that arise only in downstream behavior, arguing that behavioral resemblance alone provides limited evidence without causal correspondence.",
+          "significance": "The framework offers a disciplined way to resist anthropomorphic over-reading while still allowing graded, mechanism-sensitive hypotheses about alternative intelligence.",
+          "implications": "For Noetic Perception Device or Second Sight evaluations, record which observations bear on internal causal organization and which merely resemble human outputs.",
+          "uncertainty": "This is a conceptual preprint, not an empirical demonstration that any current AI system is conscious or non-conscious."
+        },
+        {
+          "title": "An LLM-designed detector turns weak multivariate anomalies into executable rules",
+          "sourceUrl": "https://arxiv.org/abs/2610.01223",
+          "sourceDate": "2026-10-01",
+          "eventDate": "Preprint submitted 2026-10-01",
+          "development": "Researchers prompted an LLM to synthesize a compact NumPy anomaly detector using local spectral features and covariance-aware distance; they report leading benchmark performance without GPU training.",
+          "significance": "The work is a practical example of converting qualitative pattern hypotheses into an auditable algorithm rather than leaving intuition at the level of narrative.",
+          "implications": "IMDO could use the same protocol—generate, execute, ablate and falsify—to test candidate transformations in Machine Intuition while preserving human-readable code.",
+          "uncertainty": "The result is a preprint and needs reproduction, leakage checks and evaluation on out-of-distribution data before broader claims are justified."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify the Black Sea vessel identities, casualty count and attribution through Bulgarian maritime authorities and AIS records.",
+    "Use the remaining New York public-comment windows: immigrant-services contract by 10:00 AM October 13 and the Navy Street hearing at 6:00 PM October 14.",
+    "Reproduce one of the three machine-intuition-adjacent preprints on a held-out dataset before importing its claims into IMDO design work."
+  ]
+}
