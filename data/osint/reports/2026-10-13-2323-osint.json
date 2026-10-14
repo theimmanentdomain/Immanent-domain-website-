@@ -1,0 +1,174 @@
+{
+  "id": "2026-10-13-2323-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-13T23:23:00-04:00",
+  "publishedAt": "2026-10-13T23:26:42-04:00",
+  "title": "IMDO OSINT — October 13, 2026 — 11:23 PM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "shortfall": "Three distinct developments met the late-edition threshold; two slots remain open.",
+      "entries": [
+        {
+          "title": "Iran shifts tactics as attacks on Hormuz shipping accelerate",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/",
+          "sourceDate": "2026-10-14 UTC",
+          "eventDate": "2026-10-12/13",
+          "development": "Two senior Iranian officials told Reuters that Iran is changing the type and pace of attacks on Strait of Hormuz shipping to keep oil prices high before the U.S. midterms; independent incident data recorded at least five events in 48 hours.",
+          "significance": "The reported strategy turns commercial shipping into an instrument of electoral and economic coercion, raising risks for crews, insurance and energy flows.",
+          "uncertainty": "Strategic intent is attributed to officials; individual incident attribution remains case-specific."
+        },
+        {
+          "title": "Kyiv missile strike death toll rises to two, with 21 injured",
+          "sourceUrl": "https://www.reuters.com/world/russian-missile-attack-kyiv-kills-one-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "Material update: officials said five ballistic missiles hit Kyiv, killing two and injuring 21; a residential tower and thermal power plant were struck in the second attack within 24 hours.",
+          "significance": "The casualty and target confirmation sharpens the evidence that the announced energy truce lacks effective implementation and early-warning continuity.",
+          "uncertainty": "Russia’s target rationale and the cause of the warning failure were not independently established."
+        },
+        {
+          "title": "Oil prices rise as markets price Saudi and Hormuz risks",
+          "sourceUrl": "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/",
+          "sourceDate": "2026-10-14 UTC",
+          "development": "Oil prices rose as traders assessed Houthi threats to Saudi supply, accelerated Hormuz attacks and possible Russian diesel flows.",
+          "significance": "Price movement is an imperfect but immediate measure of whether announced diplomatic and supply measures offset physical shipping danger.",
+          "uncertainty": "This is market response, not proof of future supply loss or a price forecast."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "shortfall": "Three distinct developments met the threshold; two slots remain open.",
+      "entries": [
+        {
+          "title": "French student protest turnout declines but remains nationwide",
+          "sourceUrl": "https://www.reuters.com/world/europe/greta-thunberg-joins-french-teens-new-day-school-protests-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "Reuters counted more than 161,000 demonstrators and 214 closed schools, down from 266,000 participants and 800 closures the prior week, while clashes continued in several cities.",
+          "significance": "The movement is contracting from its peak without disappearing, giving a clearer measure of durability than isolated crowd images.",
+          "uncertainty": "Police, union and organizer estimates may differ."
+        },
+        {
+          "title": "NYC business influence becomes an explicit gubernatorial campaign issue",
+          "sourceUrl": "https://nypost.com/2026/10/13/us-news/knicks-owner-james-dolan-challenges-nyc-business-group-to-grow-backbone-and-step-into-governor-race-before-it-is-too-late/",
+          "sourceDate": "2026-10-13",
+          "development": "James Dolan publicly pressed the Partnership for New York City to support Republican Bruce Blakeman against Governor Kathy Hochul; the Partnership said it does not endorse candidates.",
+          "significance": "The dispute exposes pressure on formally nonpartisan business institutions to convert policy advocacy into direct electoral intervention.",
+          "uncertainty": "The report describes advocacy and campaign spending, not evidence that the Partnership changed policy."
+        },
+        {
+          "title": "Bank of America receives $1.2 billion sanctions penalty",
+          "sourceUrl": "https://apnews.com/article/aa4ec095692c57a851a942c0f21624f7",
+          "sourceDate": "2026-10-13",
+          "development": "AP’s late political briefing reports a $1.2 billion penalty against Bank of America for sanctions violations.",
+          "significance": "A penalty of this scale may influence compliance spending and how banks police politically exposed or restricted transactions.",
+          "uncertainty": "The accessed briefing did not provide the underlying order, covered transactions or admission language."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "shortfall": "Three new public-record developments were identified; two slots remain open.",
+      "entries": [
+        {
+          "title": "Council hearing examines voucher homeownership participation",
+          "sourceUrl": "https://www.docket.nyc/hearings",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-14T10:00:00-04:00",
+          "development": "The Public Housing Committee calendar lists Intro 1082-2026, requiring annual reporting on city-household participation in the Housing Choice Voucher homeownership program, at 250 Broadway.",
+          "significance": "Regular reporting could reveal whether a rarely used federal pathway is reaching voucher households and where counseling, lender or supply barriers occur.",
+          "uncertainty": "The listing confirms the hearing item, not passage or implementation."
+        },
+        {
+          "title": "Council schedules oversight of block-by-block housing planning",
+          "sourceUrl": "https://council.nyc.gov/land-use/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-21T13:00:00-04:00",
+          "development": "The Land Use Committee scheduled an October 21 oversight hearing on planning and development under the mayor’s block-by-block housing plan; written testimony is accepted for 72 hours afterward.",
+          "significance": "The hearing creates a concrete venue to press for project maps, affordability levels, displacement safeguards and delivery milestones.",
+          "implications": "Testimony may be sent to landusetestimony@council.nyc.gov."
+        },
+        {
+          "title": "HPD hearing will revisit terms of a Harlem land disposition",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260918021",
+          "sourceDate": "2026-09-18",
+          "eventDate": "2026-10-22T11:00:00-04:00",
+          "development": "Newly discovered older notice: HPD will hear proposed amendments to a deed and land-disposition agreement at the 224 West 124th Street Library.",
+          "significance": "Changes to disposition terms can alter affordability, development deadlines or enforcement obligations long after public land is conveyed.",
+          "uncertainty": "The accessible excerpt did not expose the parcels or exact amendments; those documents should be reviewed before testimony."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "shortfall": "Three public organizer listings met the standard. Signed-in Instagram was unavailable; two slots remain open.",
+      "entries": [
+        {
+          "title": "Sonic Spectrum gathers Harlem artists around music",
+          "sourceUrl": "https://childrensartcarnival.org/event/opening-reception-sonic-spectrum-exhibition/",
+          "sourceDate": "2026-10-07",
+          "eventDate": "2026-10-23",
+          "development": "The Children’s Art Carnival will open Sonic Spectrum, a group exhibition of Harlem artists responding to music; regular gallery hours are Saturday and Sunday, noon–6 PM.",
+          "significance": "The exhibition connects neighborhood visual practice with musical culture through a community-rooted institution.",
+          "uncertainty": "Opening time and admission price were not visible in the accessed listing."
+        },
+        {
+          "title": "Culture Lab LIC continues its gallery-based Sunset Jazz series",
+          "sourceUrl": "https://www.culturelablic.org/sunset-jazz",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-23T20:00:00-04:00",
+          "development": "Millie Gibson performs October 23 at 8 PM in Culture Lab LIC’s recurring intimate gallery jazz series.",
+          "significance": "The series uses a visual-art venue as regular live-music infrastructure outside Manhattan’s club circuit.",
+          "uncertainty": "Admission and reservation requirements were not confirmed in the accessed listing."
+        },
+        {
+          "title": "STRATUM seeks artists and editors for its advisory network",
+          "sourceUrl": "https://www.elsehereglobal.com/open-call",
+          "sourceDate": "2026-10-06",
+          "eventDate": "Deadline 2026-10-31",
+          "development": "Newly discovered opportunity: STRATUM Journal invites expressions of interest from scholars, artists, curators, editors and cultural practitioners for its advisory and peer-review network.",
+          "significance": "The call offers participation in publication infrastructure rather than a one-off exhibition, potentially useful for practitioners working across art and research.",
+          "uncertainty": "Compensation, term length and selection criteria were not visible in the accessed listing."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "shortfall": "Three distinct research or practice entries met the threshold; two slots remain open.",
+      "entries": [
+        {
+          "title": "The Smart Machine and the ‘Almost Said’ links divination studies to AI intuition",
+          "sourceUrl": "https://www.torch.ox.ac.uk/node/4959731",
+          "sourceDate": "2026-09-13",
+          "eventDate": "2026-10-27T15:00:00Z",
+          "development": "An Oxford TORCH event will examine how divination studies might inform machine ‘intuition,’ distinguishing technical AI research from the broader cultural imaginary of AI.",
+          "significance": "For IMDO’s Machine Intuition system, the historical link between Turing’s oracle concept and non-mechanical insight offers a precise vocabulary for discussing inference without claiming supernatural access.",
+          "uncertainty": "This is a humanities argument and event description, not a demonstrated machine capability."
+        },
+        {
+          "title": "Study tests perceived sacredness in AI-assisted tarot",
+          "sourceUrl": "https://www.tandfonline.com/doi/full/10.1080/10447318.2025.2607552",
+          "sourceDate": "2026",
+          "development": "Newly discovered research reports three experiments examining how agent identity, interaction modality and question type shape perceived sacredness in AI-assisted tarot.",
+          "significance": "The design separates who speaks, how the interaction occurs and what is asked, variables that can be preregistered in Noetic Perception Device or Second Sight studies.",
+          "uncertainty": "Perceived sacredness is a participant response; it does not validate divination or mystical causation."
+        },
+        {
+          "title": "Cross-border paper maps liability around LLM divination",
+          "sourceUrl": "https://papers.ssrn.com/sol3/Delivery.cfm/7542542.pdf?abstractid=7542542&mirid=1",
+          "sourceDate": "2026-09-29",
+          "development": "A discussion paper connects LLM divination, spiritual-platform economies, sycophancy, therapeutic proximity and foreseeable design effects.",
+          "significance": "It provides a governance lens for distinguishing symbolic entertainment, spiritual practice and systems that may encourage harmful certainty or dependency.",
+          "uncertainty": "The paper is a narrative review and proposal, not peer-reviewed causal evidence."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Track verified Hormuz incident counts and distinguish Iranian official intent claims from independently attributed attacks.",
+    "Review the Harlem disposition documents before the October 22 HPD hearing.",
+    "Adapt the sacredness study’s three-factor design for preregistered Machine Intuition interface tests."
+  ]
+}
