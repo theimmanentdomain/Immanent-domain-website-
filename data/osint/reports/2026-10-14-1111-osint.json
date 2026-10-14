@@ -1,0 +1,162 @@
+{
+  "id": "2026-10-14-1111-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-14T11:11:00-04:00",
+  "publishedAt": "2026-10-14T11:11:06-04:00",
+  "title": "IMDO OSINT — October 14, 2026 — 11:11 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "shortfall": "Three distinct post-5:55 AM developments met the freshness and deduplication threshold; two slots remain open rather than recycling the morning’s Ukraine, Gaza or Riyadh coverage.",
+      "entries": [
+        {
+          "title": "Yemen fighting cuts aid to 800,000 as hospitals approach failure",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/yemen-hospitals-overwhelmed-by-surge-war-casualties-red-cross-warns-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "October 12–14, 2026",
+          "development": "Humanitarian agencies said renewed Houthi-government fighting has put 800,000 people beyond WFP reach. Taiz flour stocks are nearly exhausted, one dialysis unit reported only 14 days of supplies, and some frontline hospitals admitted more than 700 weapon-wounded patients in a week.",
+          "significance": "This is verified evidence that the campaign’s decisive effect is moving from battlefield pressure to systemic civilian deprivation.",
+          "implications": "Track access corridors into Taiz, dialysis resupply, flour inventories and displacement beyond the 200,000 already reported.",
+          "uncertainty": "The humanitarian counts come from WFP, ICRC and IOM reporting compiled by Reuters; front-line access remains restricted."
+        },
+        {
+          "title": "UN says an unused Hormuz fertilizer mechanism is nearing a planting-season deadline",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/failure-activate-hormuz-fertilizer-plan-could-trigger-food-crisis-un-official-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "October 14, 2026",
+          "development": "A UN official said Gulf fertilizer shipments are largely halted and a task-force mechanism could begin within 7–10 days of a U.S.-Iran agreement. Before the war, Hormuz carried about one-third of traded urea and nearly half of seaborne sulphur.",
+          "significance": "The chokepoint is becoming an agricultural-security problem: missing the next planting window could transmit the war into food prices in Asia and Africa.",
+          "implications": "Watch for a formal U.S.-Iran shipping accord, the first protected fertilizer sailings and any emergency procurement by import-dependent states.",
+          "uncertainty": "The mechanism has not been activated; an 81% cereal-price increase is a modeled risk, not an observed outcome."
+        },
+        {
+          "title": "Nord Stream sabotage trial opens in Hamburg",
+          "sourceUrl": "https://apnews.com/article/germany-nord-stream-pipelines-explosions-trial-ukraine-gas-fdbddfa8c362df5a9f81e617e546b287",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "October 14, 2026",
+          "development": "Former Ukrainian army officer Serhii Kuznietsov went on trial over the 2022 undersea explosions that damaged the Nord Stream pipelines. His lawyers sought dismissal on the opening day; prosecutors allege explosives, property damage and complicity in war crimes.",
+          "significance": "The proceeding may produce the first adversarial public record on one of Europe’s largest wartime infrastructure sabotage cases and test how German courts treat covert acts linked to an allied war effort.",
+          "implications": "Follow evidentiary rulings, chain-of-command claims and whether testimony separates individual action from state direction.",
+          "uncertainty": "Charges are allegations; attribution to the Ukrainian state has not been judicially established."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "shortfall": "Four developments met the threshold; one slot remains open after excluding already-covered Indian protest-leader detentions and White House press-access litigation.",
+      "entries": [
+        {
+          "title": "September inflation jumps 3.7% as gasoline drives household pressure",
+          "sourceUrl": "https://www.reuters.com/world/us/us-consumer-prices-accelerate-september-costlier-gasoline-core-cpi-firmer-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "September 2026 data released October 14",
+          "development": "The U.S. CPI rose 0.6% in September and 3.7% year over year; gasoline increased 9.1% and accounted for more than half the monthly rise. Core CPI rose 0.3%, while markets lifted the implied chance of an October rate increase to about 52% from 22%.",
+          "significance": "The data turns war-linked fuel costs into a concrete midterm and household-affordability shock while tightening the Federal Reserve’s policy bind.",
+          "implications": "Expect immediate pressure on rents, travel and goods moved by diesel, and watch the October 27–28 Fed meeting.",
+          "uncertainty": "Market-implied probabilities change continuously; the CPI is national and masks local variation."
+        },
+        {
+          "title": "Indian journalists document detentions and assaults during voter-roll protests",
+          "sourceUrl": "https://apnews.com/article/india-cockroach-protests-voters-elections-294396c41a2df7d8a3912d09e4693c2a",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "October 10–11, 2026",
+          "development": "Press-freedom groups said more than 30 journalists were temporarily detained during New Delhi’s crackdown on youth protests; AP observed credentialed reporters being dragged away. Delhi Police said some protesters posed as journalists and impeded officers.",
+          "significance": "This is new evidence about how electoral dissent is being controlled: the restriction extended beyond protesters to independent documentation of police conduct.",
+          "implications": "Preserve video, arrest records and medical documentation; follow whether authorities open officer-level investigations.",
+          "uncertainty": "The number and treatment of journalists are disputed by police, and formal accountability findings are not yet available."
+        },
+        {
+          "title": "Republican outside groups retreat from four House races",
+          "sourceUrl": "https://apnews.com/article/0b0d871b2ac233895f0fa3e66e9418a2",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "Final three weeks before November 3, 2026",
+          "development": "The leading House Republican super PAC canceled spending in four battleground races and redirected money to 16 others, while Democrats sought late funding for additional Republican-held districts.",
+          "significance": "Spending reallocations are observable evidence of a defensive Republican map and a wider Democratic target set, though they are not election results.",
+          "implications": "Watch reservation cancellations, district-level polling and whether Democratic late money arrives in time to buy broadcast inventory.",
+          "uncertainty": "Strategic spending can reflect triage or confidence; it does not prove which party will win control."
+        },
+        {
+          "title": "Amazonas fires rise 253% and force school closures",
+          "sourceUrl": "https://www.reuters.com/business/environment/fires-surge-brazils-amazon-fueled-by-el-nio-climate-change-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "First two weeks of October 2026",
+          "development": "Brazil recorded 1,679 fires in Amazonas state, 253% more than the same period last year. At least 36 municipalities declared emergencies, smoke closed public schools in Manaus, and officials said fires inside protected forest may have been deliberately set.",
+          "significance": "Climate stress, public health and suspected land-clearing are converging into a governance test for enforcement in protected forest.",
+          "implications": "Track air-quality readings, the promised arson investigation and whether federal aircraft contain fire lines before delayed rains arrive.",
+          "uncertainty": "Officials and scientists cite El Niño, climate change and human ignition together; the share attributable to each driver is not yet quantified."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "shortfall": "Two current, publicly actionable land-use items survived deduplication; three slots remain open after a review of city notices and local reporting.",
+      "entries": [
+        {
+          "title": "Brooklyn Borough Hall hears five rezonings totaling 1,766 proposed homes",
+          "sourceUrl": "https://www.nyc.gov/assets/dcas/downloads/pdf/cityrecord/2026/cityrecord-10-06-26.pdf",
+          "sourceDate": "October 6, 2026",
+          "eventDate": "October 14, 2026, 6:00 PM EDT",
+          "development": "The Brooklyn Borough President’s ULURP hearing covers Bay Ridge, Flatbush, Bushwick, Downtown Brooklyn and Windsor Terrace proposals. The largest, 240 Nassau Street/50 Navy Street, seeks 1,502 homes including 302 permanently affordable units; the other housing proposals total 264 homes, 46 income-restricted. In-person venue: Borough Hall Courtroom, 209 Joralemon Street; Webex participation is available.",
+          "significance": "One hearing packages consequential density, affordability and public-facility decisions across five neighborhoods, including a public school and 20,000 square feet of open space at the Navy Street site.",
+          "implications": "Two-minute testimony is accepted in person or online; written testimony is due to testimony@brooklynbp.nyc.gov by October 16.",
+          "uncertainty": "These are applications under review, not approvals; the 9818 Fort Hamilton Parkway item is a community-facility project rather than housing."
+        },
+        {
+          "title": "East New York land disposition would create up to 200 rental homes",
+          "sourceUrl": "https://www.nyc.gov/assets/dcas/downloads/pdf/cityrecord/2026/cityrecord-09-18-26.pdf",
+          "sourceDate": "September 18, 2026",
+          "eventDate": "October 14, 2026, 10:00 AM EDT",
+          "development": "HPD’s hearing concerns a proposed $1-per-tax-lot sale of sites at 435 Locke Street, 1050 Ashford Street and 1 Gateway Drive to Nehemiah Spring Creek 5B HDFC for three buildings with up to 200 rentals. At least 60% would serve households up to 80% AMI and at least 15% would be set aside for formerly homeless households.",
+          "significance": "The nominal-price disposition converts public land into a long-term affordability commitment, but the balance between 80% and 120% AMI bands and enforcement terms deserves scrutiny.",
+          "implications": "Request the appraisal, land-disposition agreement and project summary from HPD before the record closes.",
+          "uncertainty": "The notice describes program ceilings and minimums; the final bedroom mix, rent schedule and construction timing are not stated."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "shortfall": "One new opportunity met the archive and verification threshold. Signed-in Instagram and Microsoft Edge were unavailable in this cloud run, so four slots remain open rather than repeating public listings already covered.",
+      "entries": [
+        {
+          "title": "TCG Gallery opens Nocturne photography call to worldwide submissions",
+          "sourceUrl": "https://chateaugallery.com/call-for-entries",
+          "sourceDate": "Accessed October 14, 2026",
+          "eventDate": "Deadline October 20, 2026, 11:59 PM EDT; exhibition November 1–30, 2026",
+          "development": "The New York City-based online gallery seeks night, low-light, documentary, staged and experimental lens-based work. Eligibility is worldwide, age 18+; entry is $15 for up to three images, with fee waivers available. Notifications are due October 27.",
+          "significance": "The call offers a concrete participation route for photographers working in nightlife and after-dark urban aesthetics, with a curated exhibition and persistent archive.",
+          "implications": "Submit through the organizer’s Nocturne form; review the prospectus and request a waiver before the deadline if needed.",
+          "uncertainty": "The exhibition is online rather than a physical NYC presentation, and acceptance numbers are not stated on the overview page."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "shortfall": "Two worthwhile, previously uncovered sources were found; three slots remain open after excluding research and exhibitions already used in earlier editions.",
+      "entries": [
+        {
+          "title": "Olga Tokarczuk’s 'Scientomancy' treats prediction as interpretive technology",
+          "sourceUrl": "https://salmagundi.skidmore.edu/articles/438-scientomancy-or-divination-by-science",
+          "sourceDate": "Undated archive essay; accessed October 14, 2026",
+          "development": "Tokarczuk surveys historical divination and argues that oracular language gains force through ambiguity and human interpretation, then turns the same question toward long-range scientific prediction.",
+          "significance": "For IMDO’s Machine Intuition system, the useful distinction is not science versus magic but calibrated forecast versus meaning-making interface: ambiguity can generate insight while also inviting confirmation bias.",
+          "implications": "A practical experiment would present identical weak signals in precise and poetic forms, then compare hypothesis diversity, confidence calibration and retrospective overfitting.",
+          "uncertainty": "This is a literary-philosophical essay, not an empirical validation of divination or predictive accuracy."
+        },
+        {
+          "title": "Bird divinations formalize constrained chance into reflective prompts",
+          "sourceUrl": "https://www.themarginalian.org/almanac-of-birds/",
+          "sourceDate": "Older material, published before 2026; accessed October 14, 2026",
+          "development": "Maria Popova describes building 100 bird-based divination cards from public-domain ornithological texts, daily selection constraints and dream-mediated collage. She explicitly frames the practice as meaning conferred on chance rather than supernatural signaling.",
+          "significance": "The project is a clear human-authored precedent for observation-to-symbolic-interpretation interfaces: bounded source material, random or intuitive selection, and a reflective output that preserves ambiguity.",
+          "implications": "IMDO could borrow the constraint architecture, while logging source fragments and transformations so Pattern Sense or Second Sight outputs remain auditable.",
+          "uncertainty": "The claimed value is artistic and introspective; the source offers no evidence of external predictive validity."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify whether Yemen aid corridors reopen before Taiz dialysis and flour stocks cross their stated two-week failure window.",
+    "Track the Brooklyn ULURP written record through October 16, especially affordability terms at 240 Nassau Street and 1584 Flatbush Avenue.",
+    "Prototype a logged, source-preserving version of the constrained-divination workflow and score it for novelty, calibration and hindsight bias."
+  ]
+}
