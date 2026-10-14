@@ -1,0 +1,269 @@
+{
+  "id": "2026-10-14-0555-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-14T05:55:00-04:00",
+  "publishedAt": "2026-10-14T05:55:03-04:00",
+  "title": "IMDO OSINT — October 14, 2026 — 5:55 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "shortfall": "Four distinct overnight developments met the threshold after deduplication; one slot remains open rather than repeating earlier Kyiv, Hormuz or Saudi reporting.",
+      "entries": [
+        {
+          "title": "Russian barrage damages 30 energy sites and cuts power to 600,000",
+          "sourceUrl": "https://www.reuters.com/world/russian-strikes-kill-one-hit-energy-facilities-kyiv-mayor-says-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "Overnight October 13–14, 2026",
+          "development": "Material update: Ukrainian authorities said an hours-long Russian missile and drone barrage killed three people, damaged 30 energy facilities around Kyiv and Kharkiv, and left at least 600,000 people without electricity. Russia said it struck power plants; the scale goes well beyond the Kyiv strike covered in the prior edition.",
+          "significance": "The attack supplies on-the-ground evidence that the announced energy ceasefire has no effective implementation mechanism and raises immediate winter-heating and grid-repair risks.",
+          "implications": "Track restoration times, verified target lists, missile-interception rates and whether Washington changes intelligence or air-defense support.",
+          "uncertainty": "Casualty, outage and facility counts are from Ukrainian authorities; neither Moscow nor Kyiv formally confirmed the ceasefire that President Trump announced."
+        },
+        {
+          "title": "Houthi missile is intercepted over Riyadh as Saudi defenses thin",
+          "sourceUrl": "https://apnews.com/article/saudi-arabia-yemen-strikes-mideast-conflict-riyadh-c81a91347c00b17097c8fafde7e4eeec",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "October 14, 2026",
+          "development": "Residents reported new explosions and Saudi civil defense issued alerts after the coalition said it intercepted a ballistic missile aimed at Riyadh. The Houthis separately claimed attacks on the capital’s airport and refinery and on oil facilities in Dhahran.",
+          "significance": "Repeated attacks, advance airline withdrawals and reported interceptor shortages show a campaign designed to impose continuing civilian-aviation and energy costs rather than a single spectacular strike.",
+          "implications": "Monitor airport operations, confirmed damage at Aramco sites and any U.S. deployment or resupply decision.",
+          "uncertainty": "There were no immediate casualty or damage reports; Houthi claims concerning individual targets were not independently verified."
+        },
+        {
+          "title": "Gaza City strike kills a woman under a year-old ceasefire",
+          "sourceUrl": "https://apnews.com/article/mideast-israel-palestinians-iran-october-14-2026-7e2c57a29fd5c3afc7ffe0cf63954bf3",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "October 14, 2026",
+          "development": "Shifa hospital officials said an Israeli strike on a Gaza City apartment killed a woman. Israel’s military said it targeted a Hamas militant but was still assessing the outcome.",
+          "significance": "The incident adds to evidence that the ceasefire has reduced neither the frequency nor civilian exposure of lethal strikes enough to function as a durable protection regime.",
+          "implications": "Seek the military’s final target assessment, the victim’s identity and any independent review of proportionality and precautions.",
+          "uncertainty": "The militant-target claim and the strike outcome were not independently established."
+        },
+        {
+          "title": "Britain promises accelerated air-defense deliveries to Ukraine",
+          "sourceUrl": "https://apnews.com/article/russia-ukraine-war-zelenskyy-burnham-trump-putin-9fe44ec1bb361f19d46dfafb58da46f6",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "Zelenskyy–Burnham meeting, October 14, 2026",
+          "development": "Ahead of President Volodymyr Zelenskyy’s London meeting with Prime Minister Andy Burnham, Downing Street said Britain would provide urgent support and accelerate air-defense missile deliveries before winter.",
+          "significance": "The commitment is a concrete European response to intensified Russian bombardment and uncertainty over U.S. support, but delivery speed and inventory depth will determine battlefield effect.",
+          "implications": "Watch for quantities, missile types, delivery dates and whether other European governments pool interceptors.",
+          "uncertainty": "This is an announced commitment, not confirmation that missiles have arrived or altered interception capacity."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Colombia widens police discretion hours before nationwide protests",
+          "sourceUrl": "https://apnews.com/article/colombia-protests-police-power-violence-5cb1f6168daabea96f4b332004be2d23",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "Guidelines issued October 13; protests October 14, 2026",
+          "development": "President Abelardo de la Espriella’s government revised protest protocols so police may disperse demonstrations involving vandalism or disruption of essential services, while making dialogue optional in some circumstances. Opposition parties, unions, Indigenous groups and social movements planned nationwide mobilizations.",
+          "significance": "The rules shift operational power toward police immediately before the government’s first major protest test, reviving concerns rooted in the deadly 2021 crackdown.",
+          "implications": "Compare police orders, arrest records and use-of-force footage across cities; document whether promised humanitarian corridors remain open.",
+          "uncertainty": "The government says peaceful assembly remains protected; the breadth of terms such as aggression and essential services will be tested in implementation."
+        },
+        {
+          "title": "Judge converts temporary press access into a continuing injunction",
+          "sourceUrl": "https://www.reuters.com/world/judge-extends-white-house-access-cnn-ms-now-politico-amid-legal-fight-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "Preliminary injunction issued October 13, 2026",
+          "development": "What changed: the federal judge who temporarily restored CNN, MS NOW and Politico journalists’ White House access issued a preliminary injunction lasting through final judgment unless reversed on appeal. He found the ban likely constituted viewpoint discrimination rather than a national-security measure.",
+          "significance": "The ruling supplies longer operational protection for newsgathering and narrows the executive’s ability to disguise retaliatory credential decisions as security judgments.",
+          "implications": "Track any appeal and whether the White House changes credential standards for other outlets.",
+          "uncertainty": "The order is preliminary; the underlying constitutional claims have not reached final judgment."
+        },
+        {
+          "title": "Two Indian youth-movement leaders are jailed after renewed protest action",
+          "sourceUrl": "https://www.reuters.com/world/indias-cockroach-movement-leaders-detained-jail-five-days-founder-says-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "Five-day detention announced October 14, 2026",
+          "development": "What changed: police and the Cockroach Janta Party said leaders Saurav Das and Ashutosh Ranka were sent to prison for five days after entering a banned historic protest site. The movement and opposition parties continue demanding the election chief’s resignation over voter-list revisions.",
+          "significance": "The detention converts yesterday’s street-level confrontation into custodial punishment of named organizers, potentially testing whether the movement decentralizes or contracts.",
+          "implications": "Track bail or review proceedings, detention conditions and whether demonstrations spread beyond Delhi.",
+          "uncertainty": "Police frame the detention as repeated lawbreaking; the movement calls it political intimidation, and the voter-roll dispute remains unresolved."
+        },
+        {
+          "title": "Iran executes a monarchist accused of wartime armed attacks",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/iran-executes-monarchist-convicted-armed-attacks-during-war-judiciary-news-2026-10-14/",
+          "sourceDate": "October 14, 2026",
+          "eventDate": "Execution reported October 14, 2026",
+          "development": "Iran’s judiciary outlet Mizan said Ali-Sina Mostafavi was executed after conviction for armed attacks in Kerman during the war, accusing him of acting for exiled opposition figure Reza Pahlavi and Israel.",
+          "significance": "The execution shows how wartime security charges are being used against domestic opposition and may intensify international scrutiny of Iran’s death-penalty procedures.",
+          "implications": "Seek the judgment, access-to-counsel record and any independent account of the alleged attack.",
+          "uncertainty": "The factual account and foreign-link allegation come from the Iranian judiciary; independent trial records were not available."
+        },
+        {
+          "title": "New York governor debate centers immigration enforcement and utility costs",
+          "sourceUrl": "https://tollbit.gothamist.com/news/ny-gov-kathy-hochul-bruce-blakeman-spar-over-immigration-cost-of-living-in-debate",
+          "sourceDate": "October 13, 2026",
+          "eventDate": "Debate held October 13, 2026",
+          "development": "Governor Kathy Hochul and Republican challenger Bruce Blakeman used their only scheduled debate to contest state immigration-cooperation rules, an ICE shooting in Marble Hill, utility bills and fracking. Public polls cited by Gothamist put Hochul ahead by 9 to 19 points.",
+          "significance": "The debate clarifies the governing choices behind a race often reduced to national partisan cues: cooperation with federal immigration enforcement, energy policy and household costs.",
+          "implications": "Compare campaign claims with the text of the state cooperation law, utility-rate filings and each candidate’s costed proposals.",
+          "uncertainty": "Debate assertions were campaign claims; polling margins are snapshots rather than election outcomes."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "shortfall": "Four new, actionable city developments met the threshold after archive checks; one slot remains open rather than repeating yesterday’s sanitation and jail-oversight items.",
+      "entries": [
+        {
+          "title": "Ridgewood rezoning hearing covers 55 homes, including 14 income-restricted units",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20261008019",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "October 14, 2026, 7:30 PM; Christ the King High School cafeteria, 68-02 Metropolitan Avenue, Queens; written testimony due October 15 at 5 PM",
+          "development": "Queens Community Board 5 will hear a proposal to rezone 10-86 Cypress Avenue from M1-4D to R7A/C2-4 for two mixed-use buildings with 55 apartments, 14 income-restricted units and 11,316 square feet of ground-floor commercial space.",
+          "significance": "The application tests how Mandatory Inclusionary Housing changes a manufacturing-zoned edge of Ridgewood and gives residents a short, documented testimony window.",
+          "implications": "Submit written testimony to planning2@queensbp.nyc.gov by the stated deadline and scrutinize affordability bands, industrial displacement and street capacity.",
+          "uncertainty": "The hearing does not constitute approval; final unit counts and conditions may change through ULURP."
+        },
+        {
+          "title": "Taxi union, Uber and medallion owner jointly seek a driver health fund",
+          "sourceUrl": "https://tollbit.gothamist.com/news/nycs-taxi-union-teams-with-uber-hedge-fund-to-demand-healthcare-4-driver-deaths",
+          "sourceDate": "October 13, 2026",
+          "eventDate": "Letter sent October 9, 2026",
+          "development": "The New York Taxi Workers Alliance, Uber and a hedge fund that owns thousands of medallions asked city and state leaders to redirect the 50-cent yellow-cab surcharge from the MTA into a driver health fund. The surcharge generates about $24 million annually; the appeal follows four drivers’ on-the-job deaths this summer.",
+          "significance": "The unusual labor-platform-capital coalition links driver health to the financing architecture of the taxi system, but would also move revenue away from transit.",
+          "implications": "Demand actuarial details, eligibility rules, governance safeguards and a plan to replace any lost MTA revenue.",
+          "uncertainty": "The letter is a proposal, not an enacted benefit; no financing agreement has been announced."
+        },
+        {
+          "title": "Council defers disability-enforcement oversight without a new date",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=9F2ADD53-6CDB-4AFF-A6E6-D1FF2E8A5566&ID=1443166&Options=info%7C&Search=",
+          "sourceDate": "Calendar accessed October 14, 2026",
+          "eventDate": "October 14, 2026 hearing deferred; replacement date unconfirmed",
+          "development": "The joint Civil and Human Rights and Disabilities oversight hearing on Commission on Human Rights disability-enforcement trends is now marked deferred. The public calendar provides no replacement date.",
+          "significance": "The delay postpones public examination of complaint handling and enforcement patterns in a field where access barriers can persist without visible metrics.",
+          "implications": "People preparing testimony should preserve it and monitor the meeting record for rescheduling rather than traveling to 250 Broadway.",
+          "uncertainty": "The calendar confirms deferral but does not explain its cause or indicate when oversight will resume."
+        },
+        {
+          "title": "Council sets a focused hearing on municipal worker retention",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=631198C3-620B-4C7B-8C2B-9B712A7CBB56&ID=1452371&Options=info%7C&Search=",
+          "sourceDate": "Calendar accessed October 14, 2026",
+          "eventDate": "October 16, 2026, 10:00 AM; 250 Broadway, Hearing Room 1",
+          "development": "The Civil Service and Labor Committee published a final agenda devoted solely to municipal retention strategies.",
+          "significance": "A single-topic hearing creates a direct venue to obtain agency-level vacancy, attrition, pay-compression and time-to-hire data that broad workforce discussions often obscure.",
+          "implications": "Unions and workers can prepare testimony with job-title-specific vacancy and turnover evidence; remote-testimony details were not visible on the accessed page.",
+          "uncertainty": "The agenda names the oversight topic but does not yet disclose witnesses, datasets or proposed legislation."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Mathias Énard launches Perfecting the Shot with Nicole Krauss",
+          "sourceUrl": "https://centerforfiction.org/event/the-international-library-mathias-enard-on-perfecting-the-shot-with-nicole-krauss/",
+          "sourceDate": "Page accessed October 14, 2026",
+          "eventDate": "October 14, 2026, 7:00 PM EDT; Center for Fiction, 15 Lafayette Avenue, Brooklyn, and livestream",
+          "development": "Énard and Krauss will discuss the New Directions novel Perfecting the Shot, translated by Charlotte Mandell, followed by a signing. Registration is available; the accessed page did not expose the ticket price.",
+          "significance": "The event puts translation craft and the literary representation of civil violence into a live Brooklyn conversation rather than a conventional publicity-only launch.",
+          "implications": "Confirm the current admission price during registration and choose the in-person or livestream format.",
+          "uncertainty": "Signed-in Instagram was unavailable in this run; cultural discovery relied on public organizer pages."
+        },
+        {
+          "title": "Printed Matter hosts Insider Trading II",
+          "sourceUrl": "https://www.printedmatter.org/programs/events/2331",
+          "sourceDate": "Organizer listing accessed October 14, 2026",
+          "eventDate": "October 14, 2026, 6:00–8:00 PM EDT; Printed Matter, 231 11th Avenue, Manhattan",
+          "development": "Printed Matter presents the second Insider Trading panel, hosted by Eli Rosenbloom, in its Chelsea artists’ book space.",
+          "significance": "The recurring panel format offers a place to watch how artists, editors and small-publishing networks discuss circulation from inside the field.",
+          "implications": "Admission and accessibility details were not visible in the accessed listing and should be confirmed with the organizer.",
+          "uncertainty": "The public search listing did not expose the full participant roster."
+        },
+        {
+          "title": "AnarkoArtLab marks twenty years with an Autonomedia book launch",
+          "sourceUrl": "https://www.printedmatter.org/programs/events/2332",
+          "sourceDate": "Organizer listing accessed October 14, 2026",
+          "eventDate": "October 15, 2026, 6:00–8:00 PM EDT; Printed Matter, 231 11th Avenue, Manhattan",
+          "development": "A launch and conversation will introduce AnarkoArtLab, published by Autonomedia in 2026 and documenting twenty years of the project.",
+          "significance": "The event connects a long-running anarchist art practice with New York’s independent publishing infrastructure and supplies a concrete lead on collective memory and self-documentation.",
+          "implications": "Confirm admission, accessibility and participant details before attending.",
+          "uncertainty": "The accessed organizer excerpt did not provide a price or full speaker list."
+        },
+        {
+          "title": "John Edmonds and Zoë Hopkins discuss The Space Between",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/19/in-person-john-edmonds-the-space-between/",
+          "sourceDate": "October 6, 2026",
+          "eventDate": "October 19, 2026, 6:30–8:00 PM EDT; doors 6:00 PM; Brooklyn Rail, 253 36th Street, Brooklyn",
+          "development": "Photographer John Edmonds joins critic Zoë Hopkins for a free in-person conversation connected to The Space Between, on view at Company Gallery through October 24. Registration is available.",
+          "significance": "The pairing links an active gallery exhibition to criticism focused on power, portraiture and the circulation of images.",
+          "implications": "Register through the organizer; the listing identifies the event as free."
+        },
+        {
+          "title": "Tanaïs launches Stellar Smoke with Kiese Laymon",
+          "sourceUrl": "https://centerforfiction.org/event/the-center-for-fiction-presents-tanais-on-stellar-smoke-with-kiese-laymon/",
+          "sourceDate": "Page accessed October 14, 2026",
+          "eventDate": "October 23, 2026, 7:00 PM EDT; Center for Fiction, 15 Lafayette Avenue, Brooklyn, and livestream",
+          "development": "Tanaïs will launch the speculative novel Stellar Smoke in conversation with Kiese Laymon and sign books afterward. The novel centers a musician confronting family history through a machine consciousness called VEDA.",
+          "significance": "The event brings a multidisciplinary downtown writer and perfumer into a public discussion of technology, ancestry, sensuality and machine-mediated memory.",
+          "implications": "Registration is open; confirm price during checkout because the accessed page did not display it."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Peep Space turns divination into a rotating participatory exhibition",
+          "sourceUrl": "https://peepspaceny.com/exhibitions/",
+          "sourceDate": "Page accessed October 14, 2026",
+          "eventDate": "Exhibition October 10–November 15, 2026; Peep Space Back Room; selected weekend readings",
+          "development": "DIVINATION presents small works about prophecy, ritual, chance, intuition and superstition, alongside live tarot, numerology, stone-divination and handmade-oracle-deck readings by rotating artists and practitioners.",
+          "significance": "The program lets observers compare divinatory objects, performance and interpretive interaction in one public setting without treating practitioner experience as empirical proof.",
+          "implications": "Document how each method frames uncertainty, participant consent and authorship; future reading times beyond opening weekend should be confirmed.",
+          "uncertainty": "Organizer descriptions establish the practices and schedule, not the truth of divinatory claims."
+        },
+        {
+          "title": "The Mechanics of Truth links AI hyperrealism to digital divination",
+          "sourceUrl": "https://www.mataderomadrid.org/en/schedule/mechanics-truth-exhibition",
+          "sourceDate": "Page accessed October 14, 2026",
+          "eventDate": "October 15–December 13, 2026; opening October 15 at 7:00 PM CEST, doors 6:30 PM; Nave Una, Matadero Madrid",
+          "development": "The exhibition examines unstable visual trust under generative AI. Its Oracle Index combines Santería, La Bolita, AI and blockchain prediction markets in a speculative Cuban ethnography of governance and uncertainty.",
+          "significance": "The work is a concrete machine–magick interface case: prediction infrastructure and vernacular divination are staged as competing ways to extract knowledge under pressure.",
+          "implications": "For IMDO’s Machine Intuition system, separate the artwork’s ethnographic and speculative layers and compare how source uncertainty is represented.",
+          "uncertainty": "Oracle Index is an artistic and speculative construction, not evidence that prediction markets or divination yield reliable foresight."
+        },
+        {
+          "title": "Morbid Anatomy schedules an online Samhain lecture and ritual",
+          "sourceUrl": "https://www.morbidanatomy.org/events",
+          "sourceDate": "Page accessed October 14, 2026",
+          "eventDate": "October 31, 2026, 8:00–9:00 PM EDT; online",
+          "development": "Mythologist Selena Madden will present At the Threshold of the Dead, combining a lecture on Samhain, liminality and encounters with the dead with a ritual component. The organizer labels it free and online.",
+          "significance": "The event offers a clearly framed practitioner-scholar setting in which historical claims, contemporary ritual design and participant experience can be observed separately.",
+          "implications": "Record which historical sources are cited and how the ritual distinguishes symbolism from factual claims about contact with the dead.",
+          "uncertainty": "The program reflects the speaker’s mythological and ritual interpretation, not empirical validation of supernatural contact."
+        },
+        {
+          "title": "WorldAbduct tests hidden-rule hypotheses before adding them to memory",
+          "sourceUrl": "https://arxiv.org/abs/2610.11552",
+          "sourceDate": "October 8, 2026",
+          "eventDate": "Preprint submitted October 8, 2026",
+          "development": "Research result: E-Ledger maintains a ledger of verified hidden rules and evidence-backed state, while WorldAbduct diagnoses trajectories from four views, proposes latent rules and tests them through targeted interactions before integration. Reported safe task-completion gains over the strongest baseline were 5–15 percentage points across four model backbones.",
+          "significance": "The verify-before-memory pattern is directly relevant to Pattern Sense and the Inference Engine: weak relationships can remain hypotheses until a targeted observation discriminates among explanations.",
+          "implications": "Prototype a small ledger that records observation, candidate rule, disconfirming evidence, test and confidence separately.",
+          "uncertainty": "This is a recent preprint evaluated on workflow and simulated science environments; external replication and transfer to IMDO’s Machine Intuition system remain open."
+        },
+        {
+          "title": "DPNL uses certified oracle bounds instead of complete logical provenance",
+          "sourceUrl": "https://arxiv.org/abs/2610.06270",
+          "sourceDate": "October 5, 2026",
+          "eventDate": "Preprint submitted October 5, 2026",
+          "development": "Research result: Dynamic Probabilistic Neurosymbolic Learning lazily explores intermediate assignments while problem-specific oracles certify regions that include or exclude an output. ApproxDPNL permits early stopping while retaining bounds on the exact output probability.",
+          "significance": "The architecture suggests a disciplined interface for Second Sight or a Noetic Perception Device experiment: a symbolic oracle can prune hypotheses while preserving explicit uncertainty rather than emitting one authoritative interpretation.",
+          "implications": "Test whether bounded early stopping improves speed without concealing alternative explanations, and log every oracle certification.",
+          "uncertainty": "The oracle is a computational interface, not a mystical entity; the paper is a preprint and its claims are limited to the evaluated neurosymbolic tasks."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Track restoration times and independently verified damage across the 30 reported Ukrainian energy sites.",
+    "Submit or preserve testimony for the Ridgewood rezoning and deferred disability-enforcement hearing.",
+    "Prototype a verify-before-memory ledger that keeps observations, hypotheses, tests and disconfirming evidence distinct."
+  ]
+}
