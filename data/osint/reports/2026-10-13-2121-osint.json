@@ -1,0 +1,183 @@
+{
+  "id": "2026-10-13-2121-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-13T21:21:00-04:00",
+  "publishedAt": "2026-10-13T21:19:52-04:00",
+  "title": "IMDO OSINT — October 13, 2026 — 9:21 PM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "shortfall": "Three distinct developments met the source and deduplication threshold; two slots remain open.",
+      "entries": [
+        {
+          "title": "Kyiv reports energy-truce breach and missing U.S. strike warnings",
+          "sourceUrl": "https://www.reuters.com/business/energy/russia-hits-no-energy-targets-ukraine-first-time-since-trumps-truce-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "Material update after the earlier contact-channel report: Ukraine said Russia struck a Kyiv power plant despite the announced energy truce and that it received no advance warning; President Trump said intelligence sharing continues.",
+          "significance": "The conflicting accounts expose the absence of published monitoring, attribution and notification rules. A ceasefire cannot be evaluated from official assurances alone.",
+          "uncertainty": "The accessed report did not independently establish the strike sequence or why warnings were absent."
+        },
+        {
+          "title": "Zelensky proposes another round of talks with U.S. envoys",
+          "sourceUrl": "https://www.reuters.com/world/zelenskiy-seeks-new-talks-with-us-envoys-ending-russia-war-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "development": "Zelensky said he had sent a proposal for meetings with Steve Witkoff and Jared Kushner and conditioned Ukrainian support for an energy truce on Russian compliance.",
+          "significance": "This keeps a U.S.-mediated channel open even as the parties dispute whether the limited truce exists in practice.",
+          "uncertainty": "The meetings are proposed, not completed, and no agenda or Russian participation was confirmed."
+        },
+        {
+          "title": "Saudi air defense struggles against Houthi saturation tactics",
+          "sourceUrl": "https://apnews.com/article/d5c0345968e682ac551e9cb99ecfeec6",
+          "sourceDate": "2026-10-13",
+          "development": "AP analysis describes how Saudi Arabia’s geographic scale, dispersed infrastructure and finite interceptors complicate defense against increasingly capable Houthi drone and missile attacks.",
+          "significance": "The asymmetry makes civilian aviation, energy nodes and interceptor stocks key indicators of whether the Yemen escalation can be contained without a ground campaign.",
+          "uncertainty": "This is strategic analysis; individual Houthi performance and damage claims still require independent verification."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "shortfall": "Three non-duplicative developments met the threshold; two slots remain open.",
+      "entries": [
+        {
+          "title": "Modi faces converging protest, trade and inflation pressures",
+          "sourceUrl": "https://www.reuters.com/world/india/modis-three-pronged-challenge-2026-10-13/",
+          "sourceDate": "2026-10-13",
+          "development": "Reuters analysis connects the voter-roll protest movement with strained U.S. trade relations, oil-price pressure, rupee weakness and September inflation of 5.54%.",
+          "significance": "The youth movement is operating amid economic pressures that may broaden its constituency beyond electoral-procedure activists.",
+          "uncertainty": "This is an analytical synthesis, not evidence that the separate pressures will produce a unified political coalition."
+        },
+        {
+          "title": "Alaska rally places ranked-choice voting inside the midterm fight",
+          "sourceUrl": "https://apnews.com/article/aa4ec095692c57a851a942c0f21624f7",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-13",
+          "development": "President Trump campaigned in Wasilla for Republican candidates and attacked Alaska’s ranked-choice voting system while early-voting and election-integrity disputes intensified elsewhere.",
+          "significance": "Electoral rules themselves are becoming campaign objects, increasing the importance of distinguishing proposed changes, litigation and current voting procedures.",
+          "uncertainty": "Campaign allegations about candidate confusion were not independently substantiated in the accessed report."
+        },
+        {
+          "title": "Brazil’s polarized presidential runoff enters its final fortnight",
+          "sourceUrl": "https://www.reuters.com/world/americas/rallying-sao-paulo-presidential-candidates-seek-votes-political-support-2026-10-11/",
+          "sourceDate": "2026-10-11",
+          "eventDate": "2026-10-25",
+          "development": "Newly discovered older material: rival presidential camps rallied in São Paulo ahead of Brazil’s October 25 runoff, concentrating political bargaining in the country’s largest electoral market.",
+          "significance": "Late endorsements, turnout operations and acceptance of the result will matter more than rally size in a tightly polarized contest.",
+          "uncertainty": "The article describes campaigning, not an election outcome."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "shortfall": "Three adequately sourced city developments were found; two slots remain open.",
+      "entries": [
+        {
+          "title": "Debt Demolisher offers judgment relief to qualifying small businesses and homeowners",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mamdani-administration-announces-debt-demolisher--relief-program",
+          "sourceDate": "2026-10-13",
+          "development": "The administration announced a program allowing eligible New Yorkers to resolve qualifying judgments through nyc.gov/debtdemolisher or 311.",
+          "significance": "Judgment relief may restore access to credit or property transactions, but usefulness depends on eligibility, documentation and whether creditors participate as described.",
+          "implications": "Applicants should verify the covered debt categories and obtain written confirmation of satisfaction before relying on cleared status."
+        },
+        {
+          "title": "Avenue B Open Street receives permanent pedestrian and bike upgrades",
+          "sourceUrl": "https://www.nyc.gov/html/dot/html/pr2026/mamdani-administration-delivers-permanent-upgrades-to-manhattans-avenue-b-open-street.shtml",
+          "sourceDate": "2026-10-13",
+          "development": "DOT announced permanent pedestrian-space and bicycle-safety changes on Avenue B, converting a temporary Open Street intervention into installed infrastructure.",
+          "significance": "Permanent design changes provide a clearer test of safety, loading access and neighborhood use than recurring temporary closures.",
+          "uncertainty": "Post-installation crash, speed and usage data are not yet available."
+        },
+        {
+          "title": "SpaceXAI testimony is scheduled for October 16",
+          "sourceUrl": "https://council.nyc.gov/press/2026/10/13/3295/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-16T10:00:00-04:00",
+          "development": "Material update: the Council’s official release confirms SpaceXAI will testify before the Technology Committee at 10:00 AM Friday after a subpoena and threatened court enforcement.",
+          "significance": "The confirmed appearance creates a concrete oversight opportunity concerning AI safety, privacy and whistleblower protections.",
+          "uncertainty": "Agreement to testify does not establish what records or substantive answers the company will provide."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "shortfall": "Three public organizer announcements met the threshold. Signed-in Instagram was unavailable; two slots remain open.",
+      "entries": [
+        {
+          "title": "Fragmented Chronosthesia examines Bob Flanagan’s legacy",
+          "sourceUrl": "https://www.poetryproject.org/learning",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-20T19:00:00-04:00",
+          "development": "The Poetry Project lists a free Dis/Course session with Mae Howard on lineage, community and Bob Flanagan’s legacy, October 20 from 7–9 PM at St. Mark’s Church.",
+          "significance": "The program connects disability, performance, archival lineage and downtown community formation outside a conventional reading format.",
+          "implications": "RSVP is free; accessibility or livestream arrangements should be confirmed with the organizer."
+        },
+        {
+          "title": "Tongo Eisen-Martin and Margaret Randall read at St. Mark’s",
+          "sourceUrl": "https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-21T20:00:00-04:00",
+          "development": "The poets read October 21 at 8 PM; tickets are $10 and a free YouTube livestream is planned.",
+          "significance": "Pairing Eisen-Martin with Randall at ninety places contemporary abolitionist poetics beside a long history of transnational publishing and struggle.",
+          "uncertainty": "Run time and replay availability were not specified."
+        },
+        {
+          "title": "Nicole Linder and Jasmine Sanders join the late-October Poetry Project program",
+          "sourceUrl": "https://www.poetryproject.org/events/matt-longabucco-susana-plotts-pineda",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-26T20:00:00-04:00",
+          "development": "The organizer’s current calendar lists Nicole Linder and Jasmine Sanders for October 26 at 8 PM, with $10 tickets.",
+          "significance": "The listing adds a specific emerging-programming lead beyond the already covered mid-October schedule.",
+          "uncertainty": "The accessed calendar excerpt did not provide biographies, accessibility details or livestream confirmation for this event."
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "shortfall": "Four distinct, source-backed entries were identified; one slot remains open.",
+      "entries": [
+        {
+          "title": "Bridging the Invisible conference joins magical practice and creative research",
+          "sourceUrl": "https://magic.charlotte.edu/news/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-15/17",
+          "development": "UNC Charlotte’s Center for the Study of Ideas and Practices announced an online conference, October 15–17, alongside the exhibition “Holding a Bright, Untroubled Sky,” focused on creative practices and invisible relations.",
+          "significance": "The pairing permits comparison between practitioner claims, artistic methods and scholarly framing without requiring those categories to collapse into one another.",
+          "uncertainty": "The accessible notice did not expose the full program or registration cost."
+        },
+        {
+          "title": "Oracle Machines treats computational text as an artistic lineage",
+          "sourceUrl": "https://www.bcs.org/events-calendar/2026/october/hybrid-oracle-machines-text-art-and-ai/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-21T18:00:00+01:00",
+          "development": "The Computer Arts Society will host a hybrid discussion of Geoff Davis’s Oracle Machines exhibition on October 21, 6–8 PM UK time.",
+          "significance": "The event frames generated text as a history of artistic systems and interpretation, offering a useful precedent for separating oracle metaphor from claims of machine agency.",
+          "uncertainty": "Admission and remote-access conditions were not visible in the accessed listing."
+        },
+        {
+          "title": "Virtual conference asks how AI reshapes spiritual imagination",
+          "sourceUrl": "https://www.garrisoninstitute.org/event/artificial-intelligence-and-our-spiritual-imagination/",
+          "sourceDate": "2026-09-15",
+          "eventDate": "2026-10-17/18",
+          "development": "Garrison Institute’s October 17–18 virtual conference includes “The Oracle and the Machine,” connecting ancestral wisdom, art and AI.",
+          "significance": "For IMDO’s Machine Intuition system, the useful inquiry is how interface, cultural authority and participant expectation shape interpretation before any efficacy claim is made.",
+          "uncertainty": "Program descriptions express organizers’ and speakers’ frameworks, not empirical validation of spiritual access."
+        },
+        {
+          "title": "ERRoRACLE presents the digital oracle as a fallible deity",
+          "sourceUrl": "https://iaacc.es/events/erroracle-la-deidad-digital-opn-studio/",
+          "sourceDate": "2026-10-13",
+          "eventDate": "2026-10-02/2026-11-02",
+          "development": "IAACC lists OPN Studio’s ERRoRACLE: La Deidad Digital through November 2, using the oracle/deity frame to examine artificial intelligence.",
+          "significance": "The work’s emphasis on error is a productive counter-model to authoritative AI divination: uncertainty and failure can be made visible within the interface.",
+          "uncertainty": "This is an artistic interpretation; venue details and admission terms were not available in the accessed excerpt."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify the Kyiv energy-site strike and warning gap against independent infrastructure and launch data.",
+    "Review Debt Demolisher eligibility before advising any applicant that a judgment can be cleared.",
+    "For oracle-interface experiments, expose error states and cultural sources instead of presenting generated interpretations as authority."
+  ]
+}
