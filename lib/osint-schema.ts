@@ -1,9 +1,9 @@
 export const osintSubjects = ["Wars and Armed Conflicts", "Sociopolitical Shifts", "NYC Affairs", "The State of Downtown", "Occult Practice & Machine Intuition"] as const;
-export const osintEditions = ["05:55", "11:11", "15:33", "21:21", "23:23"] as const;
+export const osintEditions = ["05:55", "08:00", "11:11", "15:33", "21:21", "23:23"] as const;
 export type IntelEntry = { title: string; sourceUrl: string; sourceDate: string; eventDate?: string; development: string; significance: string; implications?: string; uncertainty?: string };
 export type IntelSection = { title: string; entries: IntelEntry[]; shortfall?: string };
 export type IntelReport = { id: string; series: "osint" | "research"; scheduledAt: string; publishedAt: string; title: string; sections: IntelSection[]; nextMoves: string[]; correction?: string; updatedAt?: string };
-export const reportIdPattern = /^\d{4}-\d{2}-\d{2}-(0555|1111|1533|2121|2323)-osint$|^\d{4}-\d{2}-\d{2}-1130-research$/;
+export const reportIdPattern = /^\d{4}-\d{2}-\d{2}-(0555|0800|1111|1533|2121|2323)-osint$|^\d{4}-\d{2}-\d{2}-1130-research$/;
 
 function text(value: unknown, max = 8000): value is string { return typeof value === "string" && value.trim().length > 0 && value.length <= max; }
 export function publicUrl(value: unknown): value is string {
