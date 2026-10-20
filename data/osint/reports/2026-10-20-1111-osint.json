@@ -1,0 +1,104 @@
+{
+  "id": "2026-10-20-1111-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-20T11:11:00-04:00",
+  "publishedAt": "2026-10-20T15:58:13.000Z",
+  "title": "IMDO OSINT — October 20, 2026 — 11:11 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Shabwa training-camp attack death toll rises to 73",
+          "sourceUrl": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/death-toll-from-houthi-attack-on-yemen-training-camp-rises-to-73",
+          "sourceDate": "2026-10-20",
+          "eventDate": "2026-10-19",
+          "development": "Reuters reports that Shabwa's provincial media office raised the death toll from the Houthi attack on a government training camp to 73, with fourteen people still missing.",
+          "significance": "The revised count materially changes the casualty assessment of the attack.",
+          "uncertainty": "The count is attributed to provincial authorities and may change. The Houthi description of the camp as Saudi-run is disputed; it is not independently established here."
+        }
+      ],
+      "shortfall": "One material update verified in this bounded review. Other conflict claims from earlier summaries were not carried forward without a sufficient current source check."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Federal prosecutors charge 28 people in California voting sweep",
+          "sourceUrl": "https://apnews.com/article/60e3dd468f43e0e8a32e6bf69341f189",
+          "sourceDate": "2026-10-19",
+          "development": "AP reports federal charges against 28 lawful permanent residents over alleged voting, registration or related false statements. California officials dispute claims of widespread fraud.",
+          "significance": "The cases intensify a federal-state confrontation before the midterms.",
+          "uncertainty": "Charges are allegations, not convictions; individual cases do not establish systemic election fraud."
+        }
+      ],
+      "shortfall": "One distinct development retained after comparison with the latest fifteen archived editions. No additional claim was added merely to fill the section."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "CCRB lists October 20 public board meeting at Tweed Courthouse",
+          "sourceUrl": "https://www.nyc.gov/site/ccrb/about/news/board-meeting-schedule.page",
+          "sourceDate": "Undated official schedule; checked 2026-10-20",
+          "eventDate": "October 20, 2026, 4 PM Eastern; 52 Chambers Street; online via Webex",
+          "development": "The Civilian Complaint Review Board lists an October 20 meeting at Tweed Courthouse with online participation and an agenda link.",
+          "significance": "The meeting provides a public opportunity to raise police-community concerns and inspect agency reporting.",
+          "uncertainty": "This is the published schedule, not confirmation that the meeting occurred. Check the linked participation instructions before attending."
+        }
+      ],
+      "shortfall": "One current official civic item verified. Previously archived Council hearings were not repeated without a material agenda or scheduling update."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Red Seal launch pairs Rosa Kwon Easton with Eve Chung",
+          "sourceUrl": "https://powerhousearena.com/events/book-launch-at-columbus-circle-red-seal-by-rosa-kwon-easton-in-conversation-with/",
+          "sourceDate": "Undated organizer listing; checked 2026-10-20",
+          "eventDate": "October 20, 2026, 7–9 PM Eastern; POWERHOUSE at Columbus Circle, 10 Columbus Circle #304",
+          "development": "The organizer lists a conversation on Red Seal, a novel following a Korean family through war, migration and changing national identities.",
+          "significance": "The event connects contemporary fiction with displacement and intergenerational memory.",
+          "uncertainty": "The event is outside Downtown geographically. Ticket availability and price were not verified."
+        },
+        {
+          "title": "Butter Road launch examines the long aftermath of violence",
+          "sourceUrl": "https://powerhousearena.com/events/book-launch-butter-road-by-jaclyn-gilbert-in-conversation-with-adrian-shirk/",
+          "sourceDate": "Undated organizer listing; checked 2026-10-20",
+          "eventDate": "October 22, 2026, 7–9 PM Eastern; POWERHOUSE Arena, 28 Adams Street, Brooklyn",
+          "development": "Jaclyn Gilbert is scheduled to discuss Butter Road with Adrian Shirk. The novel follows an Amish community years after a school shooting.",
+          "significance": "The discussion offers a local literary setting for examining memory, community and the social effects of violence.",
+          "uncertainty": "Ticket availability and admission cost were not verified."
+        }
+      ],
+      "shortfall": "Two organizer-confirmed literary listings retained. This section includes the wider NYC literary circuit; no private social plans or unverified performance openings are included."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "MiroGraph forecasts consequential connections between research concepts",
+          "sourceUrl": "https://arxiv.org/abs/2610.25281",
+          "sourceDate": "2026-10-18",
+          "development": "The Bridging Concepts preprint constructs scientific concept graphs and uses agents to derive structural, semantic and temporal features for predicting high-impact concept pairs.",
+          "significance": "It offers a testable approach to ranking possible research relationships.",
+          "uncertainty": "Reported results concern the authors' conference-derived benchmarks; they do not establish reliable real-world prediction."
+        },
+        {
+          "title": "HybridResearcher trains small agents to bridge tables and external evidence",
+          "sourceUrl": "https://arxiv.org/abs/2610.24899",
+          "sourceDate": "2026-10-17",
+          "development": "The authors train a four-billion-parameter agent on tasks requiring both structured data and unstructured evidence, reporting gains on HybridDeepResearch and held-out search benchmarks.",
+          "significance": "The work provides a concrete research method for joining different evidence types while testing whether both are actually necessary.",
+          "uncertainty": "These are preprint benchmark claims, not independent verification of deployment reliability or general reasoning capability."
+        }
+      ],
+      "shortfall": "Two new preprints checked directly against arXiv and compared with the latest fifteen editions. No divinatory claim is presented as factual forecasting."
+    }
+  ],
+  "nextMoves": [
+    "Track authoritative revisions to Shabwa casualty and missing-person counts.",
+    "Review CCRB's meeting record when published.",
+    "Test concept-link and cross-source methods against held-out evidence before adopting their conclusions."
+  ]
+}
