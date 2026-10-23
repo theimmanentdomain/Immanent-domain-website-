@@ -1,0 +1,238 @@
+{
+  "id": "2026-10-23-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-23T08:00:00-04:00",
+  "publishedAt": "2026-10-23T12:04:25.326Z",
+  "title": "IMDO Master Brief — October 23, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Ukraine considers moving customs inspections inland",
+          "sourceUrl": "https://www.reuters.com/world/ukraine-seeks-move-customs-checks-inside-eu-avoid-russian-drones-ft-reports-2026-10-23/",
+          "sourceDate": "2026-10-23",
+          "development": "Kyiv is discussing moving truck inspections away from exposed crossings into Poland and Slovakia to reduce drone exposure on grain routes.",
+          "significance": "Logistics redesign could protect exports while strikes continue.",
+          "implications": "Track signed cross-border agreements.",
+          "uncertainty": "Proposal, not implemented."
+        },
+        {
+          "title": "Sudan drought adds new famine risk",
+          "sourceUrl": "https://www.reuters.com/world/new-famine-risk-haunts-war-torn-sudan-with-el-nio-driven-drought-2026-10-23/",
+          "sourceDate": "2026-10-23",
+          "development": "Weakest July–September rainfall in more than three decades compounds war and aid cuts; WFP projects 350,000 additional severe-hunger cases by year-end.",
+          "significance": "New quantified projections materially update earlier famine coverage.",
+          "implications": "Monitor Darfur and Kordofan humanitarian access.",
+          "uncertainty": "Projection, not observed count."
+        },
+        {
+          "title": "West Bank shooting leads to closure preparations",
+          "sourceUrl": "https://www.washingtonpost.com/world/2026/10/23/five-israelis-wounded-shooting-hebron-checkpoint-hamas-claims-responsibility/",
+          "sourceDate": "2026-10-23",
+          "development": "Five Israelis wounded near Hebron; two attackers killed by Israeli troops; Hamas claimed responsibility. Israel ordered closure preparations.",
+          "significance": "Potential restrictions on civilian mobility.",
+          "implications": "Monitor verified closure orders.",
+          "uncertainty": "Attacker affiliation is claimed."
+        },
+        {
+          "title": "US orders Saudi diplomatic departures",
+          "sourceUrl": "https://apnews.com/article/fa9a4806bff404a23a16a8c209afbd2b",
+          "sourceDate": "2026-10-22",
+          "development": "Nonessential US diplomats and families ordered to depart Saudi Arabia amid Houthi attacks on airports and oil facilities.",
+          "significance": "Civilian transport and diplomatic operations disrupted.",
+          "implications": "Track airport operations and civilian casualties.",
+          "uncertainty": "Attack attributions are partly belligerent claims."
+        }
+      ],
+      "shortfall": "Four new corroborated developments; no fifth warranted without repetition."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Indonesian students protest regional haze crisis",
+          "sourceUrl": "https://apnews.com/article/1a2f903c547411fea34dc0f510da804b",
+          "sourceDate": "2026-10-23",
+          "development": "Student protests demand emergency action on forest and peat fires; officials report over 333,000 acute respiratory illnesses since August.",
+          "significance": "Climate, health and governance pressures intersect.",
+          "implications": "Watch emergency orders and corporate accountability.",
+          "uncertainty": "Government illness counts."
+        },
+        {
+          "title": "France mobilizes 70,000 officers for demonstrations",
+          "sourceUrl": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+          "sourceDate": "2026-10-23",
+          "development": "French authorities announce a major police deployment for labor, student and Yellow Vest protests after restrictions and arrests.",
+          "significance": "A new state response to earlier protest mobilization.",
+          "implications": "Verify turnout and legal challenges.",
+          "uncertainty": "Planned deployment, not completed action."
+        },
+        {
+          "title": "Israel's election faces armed-observer challenge",
+          "sourceUrl": "https://apnews.com/article/6424dff433a4f99f00cac2328de0f7a4",
+          "sourceDate": "2026-10-23",
+          "development": "Arab parties petitioned Israel's Supreme Court to prohibit armed partisan election observers ahead of October 27 voting.",
+          "significance": "Voting access and security are contested.",
+          "implications": "Monitor court order.",
+          "uncertainty": "Allegations are not judicial findings."
+        }
+      ],
+      "shortfall": "Three distinct fresh political developments verified."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council approves COPA and expanded SCRIE/DRIE eligibility",
+          "sourceUrl": "https://council.nyc.gov/press/2026/10/22/3309/",
+          "sourceDate": "2026-10-22",
+          "development": "The Council passed a targeted nonprofit first-opportunity property purchase bill and approved raising SCRIE/DRIE income eligibility from $50,000 to $75,000.",
+          "significance": "Changes may affect eligible building transactions and rent protections.",
+          "implications": "Confirm enactment, covered buildings and agency instructions.",
+          "uncertainty": "Council passage does not itself prove implementation."
+        },
+        {
+          "title": "Council approves horse-carriage phaseout",
+          "sourceUrl": "https://council.nyc.gov/press/2026/10/22/3306/",
+          "sourceDate": "2026-10-22",
+          "development": "Council voted for a June 2028 carriage phaseout with a worker transition plan due April 2027.",
+          "significance": "Animal welfare and labor compensation remain contested.",
+          "implications": "Track mayoral action and compensation.",
+          "uncertainty": "Not yet confirmed signed."
+        },
+        {
+          "title": "DOB NOW announces Friday maintenance",
+          "sourceUrl": "https://a810-dobnow.nyc.gov/publish/Index.html",
+          "sourceDate": "Portal notice checked 2026-10-23",
+          "development": "Public DOB NOW portal warns of 5–11 PM Friday unavailability.",
+          "significance": "Property due diligence may be interrupted.",
+          "implications": "Run urgent permit searches before 5 PM.",
+          "uncertainty": "Restoration time unconfirmed.",
+          "eventDate": "October 23, 2026, 5–11 PM Eastern; online"
+        },
+        {
+          "title": "DSNY schedules vacant-lot fine rule hearing",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921011",
+          "sourceDate": "2026-09-28; older notice newly selected",
+          "development": "A public hearing on penalties for failure to maintain vacant lots is scheduled for October 30.",
+          "significance": "Potential compliance costs for vacant-property owners.",
+          "implications": "Review proposal and submit comments if relevant.",
+          "uncertainty": "Rule not yet adopted.",
+          "eventDate": "October 30, 2026, 10 AM Eastern; hearing format in notice"
+        }
+      ],
+      "shortfall": "Four discrete public-record developments."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Hisham Akira Bharoocha broadcasts at The Lot Radio",
+          "sourceUrl": "https://pioneerworks.org/programs/live-on-the-lot-radio-pioneer-works-invites-hisham-akira-bharoocha",
+          "sourceDate": "Organizer page checked 2026-10-23",
+          "development": "Pioneer Works presents an in-person and streamed experimental-music session.",
+          "significance": "Connects sound, art and DIY scenes.",
+          "implications": "Attend or stream; no performance slot advertised.",
+          "uncertainty": "Cost unconfirmed.",
+          "eventDate": "October 23, 2026, noon–1 PM Eastern; The Lot Radio, Greenpoint"
+        },
+        {
+          "title": "Trouble x Diamond Terrifier at Roulette",
+          "sourceUrl": "https://roulette.org/event/trouble-emanate-crenellate-sam-hillmer-laura-paris/",
+          "sourceDate": "Organizer page checked 2026-10-23",
+          "development": "Interactive multi-channel installation with Antenes, Luke Stewart, Patrick Higgins, Dome Theater and DJs.",
+          "significance": "Directly relevant to intermedia performance.",
+          "implications": "$15 advance, $20 door, $10 eligible concessions; free livestream.",
+          "uncertainty": "Remaining tickets unconfirmed.",
+          "eventDate": "October 23, 2026, 8 PM Eastern; doors 7 PM; 509 Atlantic Ave, Brooklyn"
+        },
+        {
+          "title": "Elements of Expression open mic",
+          "sourceUrl": "https://www.eventbrite.com/e/elements-of-expression-open-mic-poetry-tickets-2003266526106",
+          "sourceDate": "Organizer listing checked 2026-10-23",
+          "development": "Living Room Bedstuy hosts original poetry, spoken word and music; performers directed to Instagram DM.",
+          "significance": "Actual original-work performance opportunity.",
+          "implications": "Contact organizer to seek a slot.",
+          "uncertainty": "Cost and availability unconfirmed.",
+          "eventDate": "October 23, 2026, 7–10 PM Eastern; 188 Tompkins Ave, Brooklyn"
+        },
+        {
+          "title": "Arguments poetry launch",
+          "sourceUrl": "https://powerhousearena.com/events/book-launch-arguments-by-benjamin-gucciardi/",
+          "sourceDate": "Organizer listing checked 2026-10-23",
+          "development": "Benjamin Gucciardi discusses his collection with Pádraig Ó Tuama.",
+          "significance": "Small-press literary contacts.",
+          "implications": "Ticket link via organizer.",
+          "uncertainty": "Cost and availability unconfirmed.",
+          "eventDate": "October 23, 2026, 7–9 PM Eastern; 28 Adams St, Brooklyn"
+        },
+        {
+          "title": "Instrument Object conversation at Brooklyn Rail",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/27/josiah-mc-elheny-instrument-object/",
+          "sourceDate": "Organizer listing checked 2026-10-23",
+          "development": "Josiah McElheny, Robyn Farrell and Pamela Sneed discuss art and curatorial practice.",
+          "significance": "Art-poetry connections.",
+          "implications": "Free registration via organizer.",
+          "uncertainty": "Deadline unconfirmed.",
+          "eventDate": "October 27, 2026, 1 PM Eastern; online"
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Temporal knowledge graph evidence co-alignment",
+          "sourceUrl": "https://arxiv.org/abs/2610.28176",
+          "sourceDate": "2026-10-20",
+          "development": "TEPCA aligns retrieved paths and model adaptation to event time.",
+          "significance": "Supports temporally valid weak-relationship discovery.",
+          "implications": "Test time-constrained paths.",
+          "uncertainty": "Author-reported benchmarks."
+        },
+        {
+          "title": "Latent confounders in causal discovery",
+          "sourceUrl": "https://arxiv.org/abs/2610.28134",
+          "sourceDate": "2026-10-20",
+          "development": "LinADMG uses multi-domain identifiable representation learning to recover relations with hidden confounding.",
+          "significance": "Avoids false direct-cause claims.",
+          "implications": "Test synthetic hidden-cause cases.",
+          "uncertainty": "Requires linear and identifiability assumptions."
+        },
+        {
+          "title": "Before- versus after-answer confidence",
+          "sourceUrl": "https://arxiv.org/abs/2610.27702",
+          "sourceDate": "2026-10-20",
+          "development": "Study finds post-solve confidence generally better calibrated, but weak on local Marathi facts and hallucinations.",
+          "significance": "Local intelligence needs domain-specific calibration.",
+          "implications": "Measure per-domain accuracy.",
+          "uncertainty": "Limited models and benchmark scope."
+        },
+        {
+          "title": "Mechanistic uncertainty through causal robustness",
+          "sourceUrl": "https://arxiv.org/abs/2610.22636",
+          "sourceDate": "2026-10-15; newly selected October 23",
+          "development": "Study estimates uncertainty by sensitivity to internal interventions.",
+          "significance": "Adds a possible robustness check beyond stated confidence.",
+          "implications": "Treat as experimental secondary metric.",
+          "uncertainty": "Preprint, model dependent."
+        },
+        {
+          "title": "JAXbounce active-inference benchmark",
+          "sourceUrl": "https://arxiv.org/abs/2610.28203",
+          "sourceDate": "2026-10-20",
+          "development": "Benchmark tests active-inference agents under varying observation noise.",
+          "significance": "Potential Noetic Perception Device test design.",
+          "implications": "Use measurable noise regimes and outcomes.",
+          "uncertainty": "Continuous-control results do not validate divination."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify COPA and SCRIE/DRIE implementation.",
+    "Track Sudan food access and Ukraine border logistics.",
+    "Evaluate time-aware evidence and domain-specific confidence in Machine Intuition."
+  ]
+}
