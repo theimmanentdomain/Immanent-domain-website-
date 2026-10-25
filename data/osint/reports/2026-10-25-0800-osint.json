@@ -1,0 +1,256 @@
+{
+  "id": "2026-10-25-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-25T08:00:00-04:00",
+  "publishedAt": "2026-10-25T12:05:03.637Z",
+  "title": "IMDO Master Brief — October 25, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "West Bank operation expands: more than 2,200 displaced",
+          "sourceUrl": "https://apnews.com/article/74780315aced86b8b52379cc893b8dfa",
+          "sourceDate": "2026-10-25",
+          "development": "AP reports Israeli operations at more than 400 locations around Hebron following a deadly attack on soldiers; municipal officials say over 2,200 Palestinians have been displaced and crossings restricted.",
+          "significance": "This is a new, quantified civilian impact following previously reported closures.",
+          "implications": "Monitor access to hospitals, work and humanitarian supplies.",
+          "uncertainty": "Displacement figures are attributed to municipal officials; military arrests and affiliations are Israeli claims."
+        },
+        {
+          "title": "Riyadh airport resumes international flights amid new interceptions",
+          "sourceUrl": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885",
+          "sourceDate": "2026-10-25",
+          "development": "Saudi Arabia reopened terminals at King Khalid International Airport after Houthi attacks; Saudi officials reported intercepting another missile and drone.",
+          "significance": "A partial restoration of civilian aviation amid continuing escalation.",
+          "implications": "Check actual airline schedules and airport restrictions.",
+          "uncertainty": "Interception claims are attributed to Saudi officials."
+        },
+        {
+          "title": "Belgorod authorities report three deaths and 14 injuries",
+          "sourceUrl": "https://www.reuters.com/world/three-people-killed-14-injured-ukrainian-attacks-russias-belgorod-region-2026-10-25/",
+          "sourceDate": "2026-10-25",
+          "development": "Russian regional authorities said overnight Ukrainian drone attacks damaged apartment buildings and other civilian sites in Belgorod and nearby settlements.",
+          "significance": "Documents civilian harm on the Russian side of the border.",
+          "implications": "Monitor independent damage assessments.",
+          "uncertainty": "Casualty and damage figures are local-government reports."
+        },
+        {
+          "title": "Russia claims strike on cargo vessel approaching Chornomorsk",
+          "sourceUrl": "https://www.reuters.com/world/russia-says-it-hit-cargo-vessel-ukrainian-logistic-hubs-overnight-2026-10-25/",
+          "sourceDate": "2026-10-25",
+          "development": "Russia's Defence Ministry claimed it struck a cargo ship approaching Chornomorsk and logistics hubs in Kharkiv.",
+          "significance": "If verified, maritime and supply-chain risk would be material for Ukrainian exports.",
+          "implications": "Seek shipping records and independent imagery before treating damage as established.",
+          "uncertainty": "Reuters could not independently verify the claim."
+        },
+        {
+          "title": "Iran says Pakistan-mediated talks with Washington remain possible",
+          "sourceUrl": "https://apnews.com/article/45161652890bf4f3d570347b8aae6b22",
+          "sourceDate": "2026-10-25",
+          "development": "Iran's ambassador in Islamabad said Tehran remains willing to resume negotiations under a Pakistan-brokered interim arrangement and discussed a conditional Hormuz reopening.",
+          "significance": "Potential diplomatic channel during shipping and regional security disruption.",
+          "implications": "Monitor whether Washington confirms receipt and negotiates.",
+          "uncertainty": "Offer and interpretation are Iranian diplomatic claims; no new agreement verified."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Serbia votes in snap parliamentary election",
+          "sourceUrl": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+          "sourceDate": "2026-10-25",
+          "development": "Voters went to the polls as a student-backed coalition challenges the ruling SNS after nearly two years of anticorruption protests.",
+          "significance": "A test of institutional accountability, electoral integrity and political realignment.",
+          "implications": "Follow election commission counts and observer reports.",
+          "uncertainty": "No final result at the time of this edition.",
+          "eventDate": "2026-10-25; Serbia"
+        },
+        {
+          "title": "Brazil holds presidential runoff",
+          "sourceUrl": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/",
+          "sourceDate": "2026-10-25",
+          "development": "Lula da Silva and Flávio Bolsonaro face a close runoff shaped by inflation, crime, corruption and relations with the United States.",
+          "significance": "The result will affect regional alliances and economic policy.",
+          "implications": "Use official election returns rather than exit-poll speculation.",
+          "uncertainty": "No outcome established at publication.",
+          "eventDate": "2026-10-25; Brazil"
+        },
+        {
+          "title": "Portugal police dismantle housing protest camps",
+          "sourceUrl": "https://www.reuters.com/world/europe/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-2026-10-25/",
+          "sourceDate": "2026-10-25",
+          "development": "Police cleared camps in Lisbon and Porto and arrested 31 people after demonstrations against rents, evictions and housing shortages.",
+          "significance": "Housing affordability has become a civil-liberties and public-order confrontation.",
+          "implications": "Track court hearings and the proposed eviction-law changes.",
+          "uncertainty": "Police report seven minor injuries; organizers allege many more."
+        },
+        {
+          "title": "Paris museums and cultural venues close amid protest security measures",
+          "sourceUrl": "https://www.reuters.com/world/europe/mona-lisa-off-limits-paris-shuts-museums-over-protest-fears-2026-10-24/",
+          "sourceDate": "2026-10-24",
+          "development": "The Louvre and several other museums closed on Saturday during a security mobilization responding to social unrest.",
+          "significance": "Public-order restrictions are directly affecting cultural access and the arts economy.",
+          "implications": "Check reopening notices rather than assume continuing closures.",
+          "uncertainty": "Precautionary closures do not establish threats at each site."
+        },
+        {
+          "title": "US executive order seeks changes to mortgage and refinancing costs",
+          "sourceUrl": "https://www.reuters.com/world/us/trump-signs-executive-order-aimed-reducing-housing-costs-2026-10-22/",
+          "sourceDate": "2026-10-22; older development newly selected 2026-10-25",
+          "development": "The president directed agencies to pilot changes to mortgage insurance cancellation and expand refinancing and manufactured-housing measures.",
+          "significance": "Housing costs have become a central federal election-year policy question.",
+          "implications": "Separate announced directives from implemented consumer savings.",
+          "uncertainty": "Program effects and savings are not yet established."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "shortfall": "Three distinct public developments met the evidence and nonduplication threshold; previously covered Council votes and NYCHA policy were excluded.",
+      "entries": [
+        {
+          "title": "Austin Street becomes a car-free cultural corridor today",
+          "sourceUrl": "https://www.nyc.gov/html/dot/html/pedestrians/trickorstreets.shtml",
+          "sourceDate": "NYC DOT schedule checked 2026-10-25; program announced earlier",
+          "development": "NYC DOT lists Austin Street between 71st Avenue and 71st Road, Queens, for Trick-or-Streets, including performances and public-space activities.",
+          "significance": "A practical example of street-use policy and community cultural programming.",
+          "implications": "Check temporary traffic restrictions and organizer updates.",
+          "uncertainty": "Events are subject to delay or cancellation.",
+          "eventDate": "2026-10-25, 2–7 PM ET; Austin Street, Forest Hills, Queens; free"
+        },
+        {
+          "title": "East New York housing project opens 386 affordable homes",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mamdani--hochul--gotham-organization--christian-cultural-center-",
+          "sourceDate": "2026-10-15; older development newly selected 2026-10-25",
+          "development": "The city reports 386 permanently affordable apartments delivered at Innovative Urban Village and construction progress on another 453 homes; later phases are planned.",
+          "significance": "Large multi-phase development could expand affordable supply and community services.",
+          "implications": "Monitor actual leasing criteria and Housing Connect availability.",
+          "uncertainty": "Announced future units are not current vacancies."
+        },
+        {
+          "title": "City launches Medicaid and housing-benefit outreach team",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-launches-outreach-team-to-help-new-yorkers-keep-me",
+          "sourceDate": "2026-10-19; older development newly selected 2026-10-25",
+          "development": "The city established HART, funded with $3 million, to help residents navigate Medicaid and SNAP changes and access housing and bill assistance.",
+          "significance": "Up to 900,000 residents are estimated by the city to be at risk of coverage disruption in 2027.",
+          "implications": "Connect eligible clients to official enrollment counseling.",
+          "uncertainty": "The 900,000 figure is an exposure estimate, not an observed loss."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Lucinda's holds free Sunday songwriter open mic",
+          "sourceUrl": "https://www.lucindasnyc.com/tm-attraction/songwriters-open-mic/",
+          "sourceDate": "Organizer listing checked 2026-10-25",
+          "development": "The East Village venue advertises an in-the-round original-song open mic, free admission and in-person signup.",
+          "significance": "An immediate performance opportunity for independent musicians.",
+          "implications": "Arrive for signup and verify stage order.",
+          "uncertainty": "Listings disagree on noon event start versus approximately 1 PM signup.",
+          "eventDate": "2026-10-25; 12 PM listing / signup around 1 PM ET; 169 Avenue A, Manhattan; free"
+        },
+        {
+          "title": "Liz Phillips and Heidi Howard combine live painting with reactive sound",
+          "sourceUrl": "https://roulette.org/event/live-processing-paint-sound-liz-phillips-heidi-howard/",
+          "sourceDate": "Organizer page checked 2026-10-25",
+          "development": "Harvestworks and Roulette present live sensor-driven sound processing, painting, projection and a curatorial discussion.",
+          "significance": "Directly relevant to intermedia, machine–art interfaces and IMDO collaborations.",
+          "implications": "Advance $25, door $30, student/senior $20; free livestream.",
+          "uncertainty": "Ticket availability unconfirmed.",
+          "eventDate": "2026-10-28, 8 PM ET; Roulette, 509 Atlantic Avenue, Brooklyn"
+        },
+        {
+          "title": "EMA and Tabitha Nikolai premiere game-engine performance",
+          "sourceUrl": "https://roulette.org/event/erika-m-anderson-ema-tabitha-nikolai/",
+          "sourceDate": "Organizer page checked 2026-10-25",
+          "development": "Memory as a Rock Out of Reach combines game-world imagery, modular synthesis, guitar and narration.",
+          "significance": "Relevant to experimental digital performance and visual storytelling.",
+          "implications": "Advance $25, door $30, student/senior $20; free livestream.",
+          "uncertainty": "Remaining seats unconfirmed.",
+          "eventDate": "2026-10-30, 8 PM ET; Roulette, 509 Atlantic Avenue, Brooklyn"
+        },
+        {
+          "title": "Triple Canopy symposium investigates the value of live performance",
+          "sourceUrl": "https://roulette.org/event/triple-canopy-symposium-2026-day-1/",
+          "sourceDate": "Organizer page checked 2026-10-25",
+          "development": "The magazine convenes performance and critical discussion on liveness, ownership and commodification, with artists including Ralph Lemon and Taja Cheek.",
+          "significance": "Strong contact point for independent publishing, criticism and performance.",
+          "implications": "Free with RSVP; free livestream.",
+          "uncertainty": "RSVP capacity and cutoff unconfirmed.",
+          "eventDate": "2026-11-13, 8 PM ET; Roulette, 509 Atlantic Avenue, Brooklyn"
+        },
+        {
+          "title": "Poetry Project announces avant-garde and left symposium",
+          "sourceUrl": "https://www.poetryproject.org/events",
+          "sourceDate": "Organizer calendar checked 2026-10-25",
+          "development": "A three-evening program considers poetry, the avant-garde and the political left.",
+          "significance": "Relevant to IMDO publishing and experimental literature.",
+          "implications": "Tickets advertised at $10–$25; session details on organizer calendar.",
+          "uncertainty": "Individual eligibility and remaining capacity unconfirmed.",
+          "eventDate": "2026-11-02, 04 and 06; 7:30–9:30 PM ET; St. Mark's Church, 131 E 10th Street, Manhattan"
+        }
+      ]
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Causal Chain of Thought isolates the actual dependencies of explanations",
+          "sourceUrl": "https://arxiv.org/abs/2610.31639",
+          "sourceDate": "2026-10-22",
+          "development": "CausalCoT decomposes reasoning into a directed acyclic graph and limits each step to direct parent context; authors report improved faithfulness of intermediate reasoning.",
+          "significance": "A method for testing whether Inference Engine explanations genuinely determine outcomes.",
+          "implications": "Try intervening on one premise and measure downstream changes.",
+          "uncertainty": "Preprint; gains are author-reported."
+        },
+        {
+          "title": "Contestable Agents record human evidence review",
+          "sourceUrl": "https://arxiv.org/abs/2610.31553",
+          "sourceDate": "2026-10-22",
+          "development": "Proposes agent-generated cited arguments with explicit human acceptance, rejection or modification and retained provenance.",
+          "significance": "Direct design pattern for IMDO OSINT and AI-integrated brokerage.",
+          "implications": "Record who confirmed a fact and which evidence was reviewed.",
+          "uncertainty": "Illustrative use cases, not a field-validated universal system."
+        },
+        {
+          "title": "SPLICE tests whether learned knowledge survives alternate interpretations",
+          "sourceUrl": "https://arxiv.org/abs/2610.30790",
+          "sourceDate": "2026-10-22",
+          "development": "The framework perturbs analyses of the same experience and retains knowledge that yields consistent performance improvements.",
+          "significance": "Useful for testing whether Pattern Sense discoveries are stable or artifacts of one explanation.",
+          "implications": "Re-evaluate hypotheses across alternate framings.",
+          "uncertainty": "Author-reported benchmark gains; external replication pending."
+        },
+        {
+          "title": "Metacognitive scaffolds improve AI-assisted knowledge work",
+          "sourceUrl": "https://arxiv.org/abs/2610.30945",
+          "sourceDate": "2026-10-22",
+          "development": "A randomized study with 297 workers and 594 essays found that structured goal-setting and decomposition improved writing quality, despite higher reported effort.",
+          "significance": "Suggests a human-review workflow for research and editorial tasks.",
+          "implications": "Add explicit question, source, alternative explanation and verification checkpoints.",
+          "uncertainty": "Findings are from writing tasks; transfer to brokerage is untested."
+        },
+        {
+          "title": "Morbid Anatomy schedules free Gothic literature talk",
+          "sourceUrl": "https://www.morbidanatomy.org/events",
+          "sourceDate": "Organizer calendar checked 2026-10-25",
+          "development": "Dr Alessandra Pino will discuss food, power and desire in Gothic literature, including Frankenstein and Dracula.",
+          "significance": "Relevant to occult-adjacent publishing and literary programming rather than empirical machine intuition.",
+          "implications": "Online attendance through organizer's event page.",
+          "uncertainty": "Registration deadline and capacity unconfirmed.",
+          "eventDate": "2026-10-26, 7–8:30 PM ET; online; free"
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Monitor official Serbian and Brazilian election results and confirmed West Bank civilian access.",
+    "Track NYC housing program implementation separately from advertised inventory.",
+    "Evaluate causal explanations with intervention tests, provenance and human review."
+  ]
+}
