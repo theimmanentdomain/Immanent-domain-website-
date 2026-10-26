@@ -1,0 +1,271 @@
+{
+  "id": "2026-10-26-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-26T08:00:00-04:00",
+  "publishedAt": "2026-10-26T12:06:18.719Z",
+  "title": "IMDO Master Brief — October 26, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Oleshky humanitarian ceasefire scheduled for October 27",
+          "sourceUrl": "https://www.reuters.com/world/europe/russia-says-ukraine-has-repeatedly-struck-oleshky-with-artillery-drones-ahead-2026-10-26/",
+          "sourceDate": "2026-10-26",
+          "development": "Russia and Ukraine announced a localized ceasefire intended to allow aid deliveries and civilian evacuation in Russian-held Oleshky starting October 27. Moscow alleges repeated Ukrainian artillery and drone strikes ahead of implementation.",
+          "significance": "A limited humanitarian corridor is a measurable de-escalation test even as the wider war continues.",
+          "implications": "Verify corridor opening, access and civilian departures.",
+          "uncertainty": "Russian attack counts and obstruction claims are uncorroborated; Ukraine's response to the latest accusations was unavailable.",
+          "eventDate": "2026-10-27, Oleshky, Kherson region"
+        },
+        {
+          "title": "UK sanctions commanders from both Sudanese factions",
+          "sourceUrl": "https://www.reuters.com/world/uk/uk-sanctions-15-commanders-rival-sudan-factions-over-wartime-rape-2026-10-26/",
+          "sourceDate": "2026-10-26",
+          "development": "Britain sanctioned 15 commanders and militia officials associated with the RSF, SAF and allied groups over alleged sexual violence, torture and civilian abuses, and pledged £15 million more in aid.",
+          "significance": "New accountability measures and funding follow documentation of atrocities around al-Fashir.",
+          "implications": "Track sanctions implementation and delivery of survivor assistance.",
+          "uncertainty": "Responsibility allegations are UK government findings, not completed criminal adjudications."
+        },
+        {
+          "title": "UN commission reports Gaza violations despite ceasefire",
+          "sourceUrl": "https://apnews.com/article/israel-gaza-un-war-sexual-crimes-9547f83319b8c5be32ab3ab81534772a",
+          "sourceDate": "2026-10-26",
+          "development": "A UN-commissioned independent inquiry alleges genocidal acts and sexual violence continued after the October 2025 Gaza ceasefire and estimates Israeli-controlled territory expanded from 53% to at least 60%.",
+          "significance": "The inquiry supplies new territorial and legal-accountability findings about a nominal ceasefire.",
+          "implications": "Monitor original commission evidence and responses.",
+          "uncertainty": "Israel denies the allegations; AP could not independently corroborate several witness accounts."
+        },
+        {
+          "title": "Houthis claim strikes on Saudi oil pumping stations and airport",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/",
+          "sourceDate": "2026-10-26",
+          "development": "Houthi forces claimed attacks on Saudi Arabia's East-West crude pumping stations and Riyadh airport; the Saudi coalition separately reported interceptions and strikes against launchers in Yemen.",
+          "significance": "The claims, if verified, affect energy transit, aviation and regional diplomacy.",
+          "implications": "Watch Saudi damage confirmation and the planned Tehran diplomatic contacts.",
+          "uncertainty": "Saudi Arabia had not confirmed the claimed pumping-station attack at reporting time."
+        },
+        {
+          "title": "Voronezh drone attack reportedly kills civilians and disrupts rail",
+          "sourceUrl": "https://www.reuters.com/world/europe/drone-attack-russias-voronezh-region-kills-two-men-governor-says-2026-10-26/",
+          "sourceDate": "2026-10-26",
+          "development": "Russia's Voronezh governor reported two dead and 17 injured after drone attacks; a passenger train was damaged and rail traffic suspended.",
+          "significance": "Illustrates civilian and transport exposure beyond Ukraine's front line.",
+          "implications": "Seek independent casualty and transport restoration evidence.",
+          "uncertainty": "Figures and attribution come from Russian authorities; Reuters could not independently verify them."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Brazil certifies Lula victory; Bolsonaro disputes outcome",
+          "sourceUrl": "https://apnews.com/article/brazil-election-lula-bolsonaro-runoff-vote-president-e2c9fe8fc4aa3e3675b9a8ec15405d93",
+          "sourceDate": "2026-10-25; result confirmed October 26",
+          "development": "Brazil's electoral court declared Lula winner of the October 25 presidential runoff with 51.8% of votes; Flávio Bolsonaro rejected the result and sought annulment.",
+          "significance": "An election result replaces the prior day's forecasts, with a potential legitimacy dispute.",
+          "implications": "Track formal legal filings and transition.",
+          "uncertainty": "The election result is certified; Bolsonaro's procedural objections remain allegations.",
+          "eventDate": "2026-10-25 runoff; inauguration scheduled January 5, 2027"
+        },
+        {
+          "title": "Serbian student-backed list defeats Vučić's party",
+          "sourceUrl": "https://www.reuters.com/world/belgrade-rapture-serbian-students-topple-vucic-historic-election-2026-10-25/",
+          "sourceDate": "2026-10-25; newly verified result October 26",
+          "development": "Aleksandar Vučić conceded defeat to a student-backed list after nearly two years of anti-corruption organizing following the Novi Sad station collapse.",
+          "significance": "A protest movement has converted civic mobilization into parliamentary power.",
+          "implications": "Monitor certified seat allocation and government formation.",
+          "uncertainty": "Preliminary seat projections and transition arrangements may change.",
+          "eventDate": "2026-10-25 parliamentary election"
+        },
+        {
+          "title": "Bulgaria faces presidential runoff amid record-low participation",
+          "sourceUrl": "https://www.reuters.com/world/bulgaria-heads-presidential-runoff-after-close-vote-2026-10-26/",
+          "sourceDate": "2026-10-26",
+          "development": "With about 95% counted, incumbent Iliana Iotova led Andrey Gyurov 34.6% to 32%, with turnout near 22%; runoff scheduled November 1.",
+          "significance": "Low participation and disagreement over Russia and Ukraine may shape Bulgaria's diplomatic posture.",
+          "implications": "Track official results and turnout.",
+          "uncertainty": "Partial results, not final certification.",
+          "eventDate": "2026-11-01 runoff, Bulgaria"
+        },
+        {
+          "title": "England's senior doctors schedule two-day strike",
+          "sourceUrl": "https://www.reuters.com/business/world-at-work/senior-doctors-england-set-strike-over-pay-offer-november-2026-10-26/",
+          "sourceDate": "2026-10-26",
+          "development": "The British Medical Association announced planned November 25–26 action by senior doctors over pay and working conditions.",
+          "significance": "The labor dispute threatens winter healthcare capacity and tests wage bargaining under inflation.",
+          "implications": "Watch negotiations and emergency cover arrangements.",
+          "uncertainty": "Strike announced, not yet held.",
+          "eventDate": "2026-11-25 to 2026-11-26, England"
+        },
+        {
+          "title": "Netherlands proposes decade-long public-sector workforce reduction",
+          "sourceUrl": "https://www.reuters.com/business/world-at-work/netherlands-aims-cut-around-20-government-jobs-over-next-decade-2026-10-26/",
+          "sourceDate": "2026-10-26",
+          "development": "The Dutch government set an ambition to cut roughly 20% of government jobs over ten years, projecting €3.5 billion in savings.",
+          "significance": "A major governance and labor-policy proposal with uncertain service impacts.",
+          "implications": "Watch departmental plans and union responses.",
+          "uncertainty": "Implementation methods and achieved savings are unconfirmed."
+        }
+      ]
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council examines older-adult centers at NYCHA developments",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=9C0CC9C7-1662-490A-911B-2E02AF9A2F5D&ID=1439674&Options=info%7C&Search=",
+          "sourceDate": "Agenda reviewed 2026-10-26",
+          "development": "Public Housing and Aging committees will hold oversight on older-adult centers in NYCHA facilities and consider proposed financial-literacy-advisor legislation.",
+          "significance": "Directly relevant to NYCHA services and aging residents.",
+          "implications": "Observe testimony and track the proposal.",
+          "uncertainty": "Agenda published; hearing findings not yet known.",
+          "eventDate": "2026-10-27 10:00 AM ET; 250 Broadway, 8th Floor, Hearing Room 1; public"
+        },
+        {
+          "title": "Council considers HCV homeownership outreach and reporting",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=E8BF8509-AF3C-415A-998F-4C5A6D8344EA&ID=1452903&Options=info%7C&Search=",
+          "sourceDate": "Agenda reviewed 2026-10-26",
+          "development": "Housing and Finance committees will examine homeownership access, including proposed HCV homeownership education, participation reporting and HomeFirst assistance targets.",
+          "significance": "The agenda offers a concrete opportunity to scrutinize pathways from rental assistance to ownership.",
+          "implications": "Track testimony and bill status; no new eligibility should be assumed.",
+          "uncertainty": "Bills are proposals, not enacted policy.",
+          "eventDate": "2026-10-28 1:00 PM ET; 250 Broadway, 8th Floor, Hearing Room 2; public"
+        },
+        {
+          "title": "Bronx Community Board 4 budget-priority hearing",
+          "sourceUrl": "https://www.nyc.gov/site/bronxcb4/meetings/meetings.page",
+          "sourceDate": "Official schedule reviewed 2026-10-26",
+          "development": "Bronx CB4 will hear FY2028 capital and expense budget priorities and district needs; speaker requests are due October 26.",
+          "significance": "Residents can raise housing, infrastructure and public-service priorities before district recommendations are finalized.",
+          "implications": "Submit speaker form by today's deadline if participating.",
+          "uncertainty": "No final budget allocation follows automatically from testimony.",
+          "eventDate": "2026-10-27 6:00 PM ET; Bronx Museum, 1040 Grand Concourse; free public meeting; speaker registration due 2026-10-26"
+        },
+        {
+          "title": "Lower East Side community board meets on district priorities",
+          "sourceUrl": "https://www.nyc.gov/site/manhattancb3/index.page",
+          "sourceDate": "Official schedule reviewed 2026-10-26",
+          "development": "Manhattan CB3 schedules its full board meeting and FY2028 district-needs deliberations with a public-speaking window.",
+          "significance": "Provides a neighborhood-level route to influence land use and service priorities.",
+          "implications": "Review vote sheet and register to speak.",
+          "uncertainty": "Agenda outcomes not yet determined.",
+          "eventDate": "2026-10-27 6:30 PM ET; PS 20, 166 Essex Street; hybrid; free; online speaker signup by 3 PM ET October 27"
+        },
+        {
+          "title": "Council reviews youth legal-process notices",
+          "sourceUrl": "https://legistar.council.nyc.gov/MeetingDetail.aspx?GUID=E7A4F9C2-420F-4A28-8087-BA0A2CB84120&ID=1455614&Options=info%7C&Search=",
+          "sourceDate": "Agenda reviewed 2026-10-26",
+          "development": "Criminal Justice committee holds Department of Probation oversight and reviews a bill requiring clearer legal-process notices for young people accused of crimes.",
+          "significance": "A practical civil-liberties and public-service transparency proposal.",
+          "implications": "Track testimony and amendment language.",
+          "uncertainty": "No vote or implementation confirmed.",
+          "eventDate": "2026-10-26 10:00 AM ET; 250 Broadway, 8th Floor, Hearing Room 1; public"
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Nuyorican Bowery Slam returns for Monday performances",
+          "sourceUrl": "https://thelitlyapp.com/events/374eba2a-c73a-447b-8743-114056031848",
+          "sourceDate": "Recurring event listing reviewed 2026-10-26; base listing dated September 28",
+          "development": "The offsite Nuyorican poetry slam series lists an October 26 occurrence at Bowery Poetry Club, offering competitive live poetry.",
+          "significance": "Immediate opportunity to perform and connect with the independent spoken-word scene.",
+          "implications": "Confirm competitor signup rules before arrival.",
+          "uncertainty": "October 26 occurrence listed; exact performance-slot availability unconfirmed.",
+          "eventDate": "2026-10-26 6:30 PM ET; Bowery Poetry Club, 308 Bowery, Manhattan; listed $20"
+        },
+        {
+          "title": "Loisaida hosts October 28 all-forms open mic",
+          "sourceUrl": "https://loisaida.org/event/open-mic-wednesdays-at-loisaida-center-hosted-by-brian-acosta-arya-3-2-2/2026-10-28/",
+          "sourceDate": "Organizer listing reviewed 2026-10-26",
+          "development": "Nuyorican Poets Café's offsite program welcomes original poetry, songs, monologues, stories and comedy, with signup at the door; performances are recorded.",
+          "significance": "Direct accessible stage opportunity.",
+          "implications": "Arrive for doors and confirm performance length, listed inconsistently as three or four minutes.",
+          "uncertainty": "Tickets $10 plus online fees; remaining slots unconfirmed.",
+          "eventDate": "2026-10-28 doors 6 PM, performances 6:30–8 PM ET; Loisaida Center, 710 East 9th Street, Manhattan"
+        },
+        {
+          "title": "Red Room schedules WFMU Literary Guild",
+          "sourceUrl": "https://redroomnyc.com/events-1/",
+          "sourceDate": "Organizer calendar checked 2026-10-26",
+          "development": "The Red Room's October calendar lists WFMU Literary Guild on Thursday October 29.",
+          "significance": "Connects independent radio and literary programming in an intimate downtown venue.",
+          "implications": "Check lineup and ticket details with organizer.",
+          "uncertainty": "Admission, participants and reservation requirement unconfirmed.",
+          "eventDate": "2026-10-29 7:00 PM ET; Red Room at KGB Bar, 85 East 4th Street, Manhattan"
+        },
+        {
+          "title": "Poetry Project begins Weakness and Strength workshop",
+          "sourceUrl": "https://www.poetryproject.org/",
+          "sourceDate": "Organizer homepage checked 2026-10-26",
+          "development": "A five-session workshop with Benjamin Krusling is scheduled from October 28 through November 25.",
+          "significance": "A structured writing opportunity within New York's experimental poetry community.",
+          "implications": "Check remaining registration and format.",
+          "uncertainty": "Organizer lists $200; venue, eligibility and available places unconfirmed.",
+          "eventDate": "2026-10-28 to 2026-11-25, 7–9 PM ET; registration $200"
+        }
+      ],
+      "shortfall": "Four distinct public opportunities were confirmed. Authenticated Instagram was unavailable; other listings were duplicates or lacked adequate verification."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Causal knowledge graphs expose accuracy without evidence grounding",
+          "sourceUrl": "https://arxiv.org/abs/2608.15382",
+          "sourceDate": "2026-08-15; newly selected 2026-10-26",
+          "development": "A cardiovascular pilot compares ungrounded and causal-graph-assisted LLM answers, showing that high answer accuracy can coexist with weak evidential grounding.",
+          "significance": "Machine Intuition should score supported causal edges and unsupported claims separately from prediction accuracy.",
+          "implications": "Adapt the evaluation to non-medical evidence tasks.",
+          "uncertainty": "Preprint results are domain-specific and require replication."
+        },
+        {
+          "title": "BridgeMem models changes in pairwise relationships over time",
+          "sourceUrl": "https://arxiv.org/abs/2609.29268",
+          "sourceDate": "2026-09-24; newly selected 2026-10-26",
+          "development": "BridgeMem uses temporally prior pairwise events to adjust a knowledge-graph forecaster's candidate scores with uncertainty gating.",
+          "significance": "Pattern Sense can distinguish durable relationships from changing interactions.",
+          "implications": "Test on time-stamped verified relationship records.",
+          "uncertainty": "Benchmark improvements are author-reported."
+        },
+        {
+          "title": "GRAPHEVAL measures structural coherence of reasoning paths",
+          "sourceUrl": "https://arxiv.org/abs/2607.08017",
+          "sourceDate": "2026-07-09; newly selected 2026-10-26",
+          "development": "The authors propose graph-based uncertainty and reasoning-path selection to expose correct answers reached through unsupported or unstable chains.",
+          "significance": "Inference Engine needs evidence-path fidelity metrics, not only majority agreement.",
+          "implications": "Evaluate whether changing a premise changes dependent conclusions.",
+          "uncertainty": "Preprint methods have not been independently validated for IMDO."
+        },
+        {
+          "title": "Calibrated uncertainty from model-layer trajectories",
+          "sourceUrl": "https://arxiv.org/abs/2605.22864",
+          "sourceDate": "2026-05-19; revised 2026-07-22; newly selected 2026-10-26",
+          "development": "A sparse probe of language-model internal activation trajectories predicts uncertainty and selective abstention better than a baseline probability measure in the reported experiments.",
+          "significance": "Could inform confidence diagnostics for locally controlled models.",
+          "implications": "Treat as experimental complement to external evidence checks.",
+          "uncertainty": "Requires access to model internals; not usable unchanged with black-box APIs."
+        },
+        {
+          "title": "Rare-book open house displays occult and haunted collections",
+          "sourceUrl": "https://calendar.prattlibrary.org/event/rare-book-open-house-horror-and-haunted",
+          "sourceDate": "Organizer listing reviewed 2026-10-26; original announcement date unconfirmed",
+          "development": "Enoch Pratt Free Library plans a public rare-book display on witchcraft, occult literature, horror and Edgar Allan Poe materials.",
+          "significance": "An archival example for symbolic-system research and historical source criticism.",
+          "implications": "Consult collection descriptions before extrapolating practitioner claims.",
+          "uncertainty": "Free; no registration required; availability subject to library operations.",
+          "eventDate": "2026-10-30 11:00 AM–4:00 PM ET; Central Library, 400 Cathedral Street, Baltimore, Maryland"
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Monitor October 27 Oleshky humanitarian corridor and verification of civilian access.",
+    "Attend or review NYC public-housing and HCV-homeownership hearings October 27–28.",
+    "Evaluate Machine Intuition using provenance-scored causal edges and calibrated uncertainty."
+  ]
+}
