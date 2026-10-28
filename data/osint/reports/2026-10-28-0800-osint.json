@@ -1,0 +1,258 @@
+{
+  "id": "2026-10-28-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-10-28T08:00:00-04:00",
+  "publishedAt": "2026-10-28T12:03:00.575Z",
+  "title": "IMDO Master Brief — October 28, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Sudan: Nyala market drone strike and Khartoum blackout",
+          "sourceUrl": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693",
+          "sourceDate": "2026-10-27",
+          "development": "Emergency Lawyers alleged a Sudanese army drone strike killed more than 100 at a Nyala market; MSF independently reported 36 bodies received and 150 wounded treated. A separate substation strike disrupted Khartoum electricity and water.",
+          "significance": "Civilian markets and urban infrastructure are exposed to increasingly widespread drone warfare.",
+          "implications": "Monitor independent casualty accounting, hospital access and restoration of electricity.",
+          "uncertainty": "The 100-plus death figure and attribution to the army are rights-group allegations, not independently confirmed totals."
+        },
+        {
+          "title": "Russian satellite reconnaissance linked to attacks on Saudi infrastructure",
+          "sourceUrl": "https://apnews.com/article/russia-iran-satellite-intelligence-houthis-iraqi-militias-0989403fb38ccd9d7c9ad11a16e28d24",
+          "sourceDate": "2026-10-28",
+          "development": "An AP investigation reports a private geospatial firm's analysis of 40 Houthi and Iraqi militia attacks, finding Russian military satellite activity around targets; officials allege intelligence transfers via Iranian advisers.",
+          "significance": "If substantiated, space-based intelligence sharing is a major factor in regional strike accuracy and alliance involvement.",
+          "implications": "Track corroborating satellite analysis and documentary evidence of data transfer.",
+          "uncertainty": "Satellite co-location alone cannot establish actual intelligence transfer; Russia has not confirmed the allegations."
+        },
+        {
+          "title": "Houthis claim attack on Saudi refinery; oil prices rise",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/",
+          "sourceDate": "2026-10-28",
+          "development": "The Houthis claimed a missile hit on a 550,000-barrel-per-day Saudi refinery. Brent crude rose more than 1% amid supply concerns.",
+          "significance": "A verified disruption would intensify energy and shipping risks across the region.",
+          "implications": "Seek Saudi confirmation and refinery operating status before treating the damage as established.",
+          "uncertainty": "Saudi authorities had not immediately confirmed the attack."
+        },
+        {
+          "title": "UN-backed inquiry finds Russian energy strikes constituted war crimes",
+          "sourceUrl": "https://apnews.com/article/un-russia-ukraine-commission-report-war-crimes-27ee6394694bb30a7f1eab9addced768",
+          "sourceDate": "2026-10-27",
+          "development": "An independent UN-backed commission concluded attacks on Ukraine's energy grid intentionally targeted civilian infrastructure and also documented deceptive or coercive recruitment from 29 countries.",
+          "significance": "Findings strengthen the evidentiary record of civilian harm and reveal undercovered transnational recruitment practices.",
+          "implications": "Track the commission's underlying evidence and accountability proceedings.",
+          "uncertainty": "Commission findings are investigative conclusions, not court verdicts; Russia rejects the commission's mandate."
+        },
+        {
+          "title": "West Bank displacement passes 3,000 amid Hebron operation",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/palestinians-protest-against-military-demolitions-west-bank-israelis-vote-2026-10-27/",
+          "sourceDate": "2026-10-27",
+          "development": "Reuters reported UN figures of more than 3,000 displaced Palestinians during Israeli operations around Hebron, above the roughly 2,200 reported in the October 25 IMDO edition.",
+          "significance": "The increase is a meaningful new displacement estimate and sharpens concerns over movement restrictions and demolitions.",
+          "implications": "Monitor humanitarian access and independent counts.",
+          "uncertainty": "Displacement totals are attributed to the UN; Israeli forces say operations follow a deadly attack on soldiers."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Israeli election count points to coalition deadlock",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israel-election-what-happens-after-polls-close-2026-10-27/",
+          "sourceDate": "Updated 2026-10-28",
+          "development": "Vote counting suggests Netanyahu's allies may win the most seats, but neither his bloc nor Gadi Eisenkot's has a clear majority. Definitive count is expected later this week.",
+          "significance": "Coalition arithmetic, rather than a single party's plurality, will determine the next government.",
+          "implications": "Watch official results, party thresholds and presidential consultations.",
+          "uncertainty": "Projections are not certified results."
+        },
+        {
+          "title": "European youth protests connect schooling, housing and corruption",
+          "sourceUrl": "https://www.reuters.com/world/europe/nobody-heard-us-why-gen-z-are-leading-protests-across-europe-2026-10-28/",
+          "sourceDate": "2026-10-28",
+          "development": "Reuters documents linked but locally distinct youth protest movements in France, Italy, Belgium and Albania, following the student-backed election victory in Serbia.",
+          "significance": "The comparison identifies material pressures behind youth mobilization without assuming a single transnational organization.",
+          "implications": "Track announced demonstrations and concrete policy concessions.",
+          "uncertainty": "The regional pattern is journalistic analysis, not evidence of coordinated leadership."
+        },
+        {
+          "title": "Serbia's student-backed victors face government-formation test",
+          "sourceUrl": "https://www.reuters.com/world/banker-basketball-star-cardiologist-chemist-meet-serbias-potential-new-leaders-2026-10-28/",
+          "sourceDate": "2026-10-28",
+          "development": "Reuters profiles possible cabinet figures including lead candidate Ilija Srdanovic and former central bank governor Dejan Soskic as the winning student-backed coalition considers leadership.",
+          "significance": "What changed since October 26: attention has shifted from election victory to appointments, policy and institutional reform.",
+          "implications": "Watch prime-minister selection, anti-corruption program and coalition negotiations.",
+          "uncertainty": "Appointments remain prospective, not confirmed."
+        },
+        {
+          "title": "Indian court pauses expulsion of protest-linked actor",
+          "sourceUrl": "https://www.reuters.com/business/media-telecom/indian-court-allows-actor-imran-khan-stay-until-november-2-media-report-2026-10-27/",
+          "sourceDate": "2026-10-27",
+          "development": "Reuters, citing local media, reported a court allowed actor and US citizen Imran Khan to remain in India until at least November 2 amid an immigration dispute related to election-commission protests.",
+          "significance": "The case raises questions about immigration enforcement and protest participation.",
+          "implications": "Check the actual court order and subsequent hearing.",
+          "uncertainty": "The reported stay is based on local media accounts, not an independently inspected court order."
+        }
+      ],
+      "shortfall": "Four distinct, adequately sourced developments met the freshness standard; no fifth item was added solely to fill space."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "NYC expands Trick-or-Streets from 160 to over 180 events",
+          "sourceUrl": "https://www.nyc.gov/html/dot/html/pr2026/largest-ever-trick-or-streets-citywide.shtml",
+          "sourceDate": "2026-10-27",
+          "development": "DOT announced more than 180 car-free Halloween programs, an increase from the 160 previously announced, including a Canal Street/Division Plaza activation October 28.",
+          "significance": "Public-space programming offers a practical production model for neighborhood cultural organizers.",
+          "implications": "Explore DOT partnership requirements for future IMDO activations.",
+          "uncertainty": "Weather may change event operations.",
+          "eventDate": "2026-10-28, 3:00–7:00 PM EDT; Canal Street between Orchard and Essex, Manhattan; free."
+        },
+        {
+          "title": "Bronx CB5 hears FY2028 budget requests",
+          "sourceUrl": "https://mspwvw-dcscpfvp.nyc.gov/RequestDetail/20261021004",
+          "sourceDate": "Published 2026-10-26",
+          "development": "Community Board 5 invites residents and tenant associations to raise capital and expense priorities ahead of its general meeting.",
+          "significance": "Budget-priority hearings are early opportunities to identify housing, infrastructure and public-service needs.",
+          "implications": "In-person testimony logistics through the district office; written testimony deadline was October 26.",
+          "uncertainty": "Written-submission deadline has passed; on-site speaker eligibility requires confirmation.",
+          "eventDate": "2026-10-28 5:00 PM EDT; Davidson Community Center, 2038 Davidson Avenue, Bronx; cost unconfirmed."
+        },
+        {
+          "title": "Brooklyn CB7 considers zoning variance extensions",
+          "sourceUrl": "https://mspwvw-dcscpfvp.nyc.gov/RequestDetail/20261016004",
+          "sourceDate": "Published 2026-10-22",
+          "development": "Brooklyn Community Board 7's public hearing covers variance renewals at 206–208 and 209–211 20th Street and a certificate-of-occupancy extension.",
+          "significance": "Shows how local variance renewals affect neighborhood land use and development continuity.",
+          "implications": "Review BSA files before drawing conclusions about land-use impacts.",
+          "uncertainty": "Outcomes and speaking procedures unconfirmed.",
+          "eventDate": "2026-10-28 6:30 PM EDT; 4201 Fourth Avenue, 43rd Street entrance, Brooklyn; cost unconfirmed."
+        },
+        {
+          "title": "NYC Aging contract comments close at 2 PM",
+          "sourceUrl": "https://mspwvw-dcscpfvp.nyc.gov/RequestDetail/20261014035",
+          "sourceDate": "Published 2026-10-21",
+          "development": "City Record lists a proposed $768,750 discretionary-funded contract with Older Adults Technology Services, Inc., for services through June 2029.",
+          "significance": "A concrete civic oversight opportunity concerning older-adult digital access.",
+          "implications": "Public comments accepted at the address specified in the official notice.",
+          "uncertainty": "Proposed contract award, not a completed procurement.",
+          "eventDate": "2026-10-28, 2:00 PM EDT public-comment deadline; written submission; no fee listed."
+        },
+        {
+          "title": "HPD office lease renewal receives public hearing",
+          "sourceUrl": "https://mspwvw-dcscpfvp.nyc.gov/RequestDetail/20260929021",
+          "sourceDate": "Published 2026-10-16",
+          "development": "DCAS scheduled a public hearing on renewing HPD office space at 105 East 106th and 104 East 107th Streets for emergency repair services.",
+          "significance": "Administrative location and continuity of emergency housing services are relevant to city housing operations.",
+          "implications": "Monitor hearing record for lease conditions and service impacts.",
+          "uncertainty": "Notice is marked archived; hearing status should be checked before calling in.",
+          "eventDate": "2026-10-28 10:00 AM EDT; conference call, access code in official notice; no fee listed."
+        }
+      ]
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Brooklyn Rail discusses Medusa's Bestiary",
+          "sourceUrl": "https://brooklynrail.org/event/2026/10/28/lauren-levato-coyne-medusa-s-bestiary/",
+          "sourceDate": "Organizer listing accessed 2026-10-28; posting date unconfirmed",
+          "development": "Lauren Levato Coyne joins Chenoa Baker for a free online conversation on mythology, ecology and interdisciplinary art.",
+          "significance": "Relevant to independent art criticism, symbolic imagery and intermedia research.",
+          "implications": "Register through the organizer page.",
+          "uncertainty": "Registration capacity unconfirmed.",
+          "eventDate": "2026-10-28 1:00 PM EDT; Zoom; free; open registration, cutoff unconfirmed."
+        },
+        {
+          "title": "Greenlight launches Ikwo Ntekim's Where We Go at Night",
+          "sourceUrl": "https://greenlightbookstore.com/event/2026-10-28/book-launch-party-ikwo-ntekim-ibi-zoboi",
+          "sourceDate": "Organizer listing accessed 2026-10-28; posting date unconfirmed",
+          "development": "The author discusses her debut fantasy novel with Ibi Zoboi, followed by a themed masquerade and signing.",
+          "significance": "A direct contact point for Brooklyn independent bookselling and speculative-literature networks.",
+          "implications": "RSVP through the event page.",
+          "uncertainty": "Cost and remaining capacity unconfirmed.",
+          "eventDate": "2026-10-28 7:30–8:30 PM EDT; Greenlight Bookstore, 686 Fulton St, Brooklyn; RSVP."
+        },
+        {
+          "title": "Greenlight's translation group reads Angolan fiction",
+          "sourceUrl": "https://greenlightbookstore.com/event/2026-10-28/literature-translation-book-group",
+          "sourceDate": "Organizer listing accessed 2026-10-28; posting date unconfirmed",
+          "development": "Greenlight's literature-in-translation group discusses José Eduardo Agualusa's The Living and the Rest, translated by Daniel Hahn.",
+          "significance": "An accessible literary network focused on translation and independent presses.",
+          "implications": "RSVP through the organizer's event page.",
+          "uncertainty": "Cost and registration capacity unconfirmed.",
+          "eventDate": "2026-10-28 7:00–8:00 PM EDT; Black Forest Brooklyn, 733 Fulton St."
+        },
+        {
+          "title": "Carol Mitchell and Marsha Massiah discuss A Good Haunting",
+          "sourceUrl": "https://greenlightbookstore.com/event/2026-10-29/carol-mitchell-marsha-massiah",
+          "sourceDate": "Organizer listing accessed 2026-10-28; posting date unconfirmed",
+          "development": "Greenlight and Brooklyn Caribbean Lit Fest host a conversation on Carol Mitchell's speculative short-story collection with festival organizer Marsha Massiah.",
+          "significance": "Connects independent literary publishing, diasporic folklore and festival organization.",
+          "implications": "RSVP through the organizer page.",
+          "uncertainty": "Cost and remaining seats unconfirmed.",
+          "eventDate": "2026-10-29 7:30–8:30 PM EDT; Greenlight Bookstore, 686 Fulton St, Brooklyn."
+        }
+      ],
+      "shortfall": "Four individually verified, previously uncovered events were selected; Instagram discovery was unavailable and previously covered opportunities were excluded."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Evolve on Graph trains knowledge-graph reasoning without labeled QA",
+          "sourceUrl": "https://arxiv.org/abs/2610.35598",
+          "sourceDate": "2026-10-26",
+          "development": "Authors introduce graph self-play and symbolically verified topology synthesis to train multi-hop reasoning without human question-answer annotations; report gains on six benchmarks.",
+          "significance": "Potential method for testing Pattern Sense against verifiable graph queries.",
+          "implications": "Prototype small graph questions with ground-truth paths and explicit abstention.",
+          "uncertainty": "Preprint; performance gains are author-reported."
+        },
+        {
+          "title": "Formal explanations distinguish abductive and contrastive causes over event traces",
+          "sourceUrl": "https://arxiv.org/abs/2610.35169",
+          "sourceDate": "2026-10-26",
+          "development": "Researchers formalize sufficient and contrastive explanations for finite temporal traces using minimal unsatisfiable cores and correction sets.",
+          "significance": "Directly relevant to Inference Engine's ability to answer what observations support a conclusion and what changes would reverse it.",
+          "implications": "Use event logs to test minimal explanations and counterfactual changes.",
+          "uncertainty": "Formal-method experiments are not evidence of supernatural perception."
+        },
+        {
+          "title": "AskGLP1 constructs evidence-traceable knowledge graph from narratives",
+          "sourceUrl": "https://arxiv.org/abs/2610.34987",
+          "sourceDate": "2026-10-26",
+          "development": "Authors process large volumes of patient narratives into a structured graph of reported drug experiences and provide source-grounded question answering.",
+          "significance": "A practical example of extracting weak relationships from noisy first-person reports without confusing reports with clinical facts.",
+          "implications": "For Second Sight, preserve claim provenance and source type at every edge.",
+          "uncertainty": "Medical claims are observational self-reports; paper is a preprint."
+        },
+        {
+          "title": "Reflective Computing proposes user-controlled interpretive pacing",
+          "sourceUrl": "https://arxiv.org/abs/2610.35696",
+          "sourceDate": "2026-10-26",
+          "development": "An HCI analysis of 134 systems proposes reflection-oriented interaction dimensions including user control of tempo, interpretive openness and protected idleness.",
+          "significance": "Useful for The Interior and Noetic Perception Device interface design, where premature interpretation can crowd out user judgment.",
+          "implications": "Test optional pause, hypothesis review and user-authored interpretation steps.",
+          "uncertainty": "Conceptual framework and coding study; not an efficacy demonstration for divination."
+        },
+        {
+          "title": "Poetry as Ritual workshop approaches Samhain",
+          "sourceUrl": "https://www.collegeofpsychicstudies.co.uk/workshops/",
+          "sourceDate": "Organizer calendar accessed 2026-10-28; original posting date unconfirmed",
+          "development": "The College of Psychic Studies lists Sarah Fletcher's workshop on poetry as invocation, divination and altered-state practice.",
+          "significance": "A practitioner-led intersection of literary form and occult ritual relevant to IMDO performance research.",
+          "implications": "Study the advertised method as symbolic practice rather than verified paranormal mechanism.",
+          "uncertainty": "Venue is London; start time, registration cutoff and capacity unconfirmed.",
+          "eventDate": "2026-10-31; in person at College of Psychic Studies, London; £110 members / £130 nonmembers; open to all."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Verify Oleshky humanitarian access and independent casualty reporting from Sudan.",
+    "Monitor Israel's official count, Serbian cabinet formation and new NYC civic notices.",
+    "Apply graph-verifiable hypotheses, provenance and counterfactual testing to Machine Intuition."
+  ]
+}
