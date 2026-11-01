@@ -1,0 +1,221 @@
+{
+  "id": "2026-11-01-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-01T08:00:00-05:00",
+  "publishedAt": "2026-11-01T13:01:02.248Z",
+  "title": "IMDO OSINT — November 1, 2026 — 8:00 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Overnight Russian strikes cut electricity across four Ukrainian regions",
+          "sourceUrl": "https://www.reuters.com/world/europe/russian-strikes-cut-power-thousands-ukraine-drones-damage-russian-facility-2026-11-01/",
+          "sourceDate": "2026-11-01",
+          "development": "President Zelenskyy said Russian attacks on energy infrastructure left hundreds of thousands of households without electricity. Kyiv also claimed a strike on the Kamensky missile-related plant; a Russian governor acknowledged damage to an unidentified Nizhny Novgorod industrial site. Each side reported large numbers of drones intercepted.",
+          "significance": "New energy attacks and reciprocal industrial strikes continue outside the limited Oleshky humanitarian pause, with civilians facing electricity loss and air-defence shortages.",
+          "implications": "Monitor grid restoration, independent damage assessments, and whether the temporary Oleshky arrangement yields a wider humanitarian mechanism.",
+          "uncertainty": "Casualty, target and interception claims are attributed to the respective governments; the damaged Russian site was not independently identified."
+        },
+        {
+          "title": "Gaza medics report eight killed in two Israeli strikes",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-eight-people-gaza-medics-say-2026-11-01/",
+          "sourceDate": "2026-11-01",
+          "development": "Gaza medical personnel reported three killed in Gaza City, while the Hamas-run interior ministry said five police officers were killed in western Khan Younis. Israel said it struck militants in Khan Younis and did not immediately comment on the Gaza City strike.",
+          "significance": "Continuing fatalities illustrate the fragility of the year-old ceasefire and stalled reconstruction and withdrawal arrangements.",
+          "implications": "Watch independent casualty corroboration and negotiations on disarmament, withdrawal and aid.",
+          "uncertainty": "Identities and casualty totals are attributed to medical and local authorities; Israel's account differs on the Khan Younis target."
+        },
+        {
+          "title": "Iranian envoys continue Qatar-mediated talks in Doha",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/",
+          "sourceDate": "2026-11-01",
+          "development": "A source briefed on the discussions told Reuters Iranian negotiators were in Doha for a third day of talks with Qatari mediators. U.S. officials said no decision had been made on further strikes; Iranian officials warned of retaliation if attacked.",
+          "significance": "Diplomatic channels remain open amid a conflict affecting regional security and energy markets.",
+          "implications": "Track a written agreement, verifiable pause in attacks, shipping access and the status of U.S. commitments after November 3.",
+          "uncertainty": "The source is an official briefed on the talks; no negotiated agreement or ceasefire has been confirmed."
+        },
+        {
+          "title": "Oleshky evacuees reunite with relatives in Ukrainian-held territory",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family",
+          "sourceDate": "2026-11-01",
+          "development": "Journalists documented evacuees arriving in Ukrainian-held territory and reuniting with relatives after the localized humanitarian operation. This is a new observed outcome beyond the previous day's report that evacuees reached Belarus.",
+          "significance": "Direct civilian return provides a concrete measure of the six-day truce's humanitarian effect.",
+          "implications": "Monitor the number of people reunited, those remaining in Oleshky, and access after the local ceasefire expires.",
+          "uncertainty": "The full evacuation count and the voluntariness of every destination choice remain uncertain."
+        }
+      ],
+      "shortfall": "Four independently useful developments met the freshness and corroboration threshold; additional conflicts were not padded with recycled reporting."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Indian opposition holds major Delhi march over voter-roll deletions",
+          "sourceUrl": "https://www.reuters.com/world/india/indian-authorities-tighten-security-ahead-big-opposition-march-delhi-2026-11-01/",
+          "sourceDate": "2026-11-01",
+          "development": "Thousands joined a Delhi march demanding the chief election commissioner's resignation after large-scale voter-list revisions. Opposition parties allege politically discriminatory deletions; the Election Commission says it removed duplicates and ineligible entries and allows re-enrolment.",
+          "significance": "The dispute concerns electoral access, institutional trust and the legitimacy of administrative voter-roll changes.",
+          "implications": "Monitor judicial review, restoration procedures and independently audited error rates.",
+          "uncertainty": "Allegations of partisan intent are contested and not established by the protest."
+        },
+        {
+          "title": "Bangladesh creates garment wage board amid industrial protests",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests",
+          "sourceDate": "2026-11-01",
+          "development": "The government formed a wage board to review garment workers' minimum pay as protests continued around Dhaka and other industrial centers. Police used crowd-control measures during some demonstrations.",
+          "significance": "Wage-setting negotiations affect millions of workers and an export sector central to Bangladesh's economy.",
+          "implications": "Watch the board's membership, timetable, proposed minimum and union responses.",
+          "uncertainty": "The board has been formed; no final wage increase has been enacted."
+        },
+        {
+          "title": "Lisbon housing encampment cleared after renewed mass rally",
+          "sourceUrl": "https://www.reuters.com/world/europe/thousands-return-lisbon-square-press-government-scrap-rental-bill-2026-10-31/",
+          "sourceDate": "2026-10-31; article reports events early 2026-11-01",
+          "development": "Police cleared more than 50 tents in Lisbon's Rossio Square after demonstrators protested a rental bill that would ease evictions and end some rent caps. Police also removed a smaller Porto camp. The prime minister said he was open to amendments but not withdrawing the bill.",
+          "significance": "This is a new enforcement episode after previously reported Portuguese housing demonstrations and investigations into police conduct.",
+          "implications": "Watch legislative amendments, police accountability and whether the encampments re-form.",
+          "uncertainty": "Activists and government disagree on the bill's effects; final parliamentary action is pending."
+        },
+        {
+          "title": "Italy's nationwide strike brings tens of thousands into streets",
+          "sourceUrl": "https://www.reuters.com/world/mass-protests-sweep-italy-during-nationwide-strike-2026-10-30/",
+          "sourceDate": "2026-10-30; updated 2026-10-31",
+          "development": "Workers and students demonstrated in more than 40 Italian cities over pay, public services, living costs and military spending during a 24-hour strike. Most demonstrations were peaceful; police used water cannon at some sites.",
+          "significance": "The action connects household economic pressure with opposition to military budgets and shows organized labor's mobilizing capacity.",
+          "implications": "Monitor strike participation, transport disruption and any government response.",
+          "uncertainty": "Attendance estimates are broad and actual sector-by-sector stoppages were not comprehensively verified."
+        }
+      ],
+      "shortfall": "Four distinct developments were selected; other election and protest stories had no verified new turn beyond previous editions."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Final early-voting day before November 3 general election",
+          "sourceUrl": "https://www.vote.nyc/election/general-election-early-voting-day-9",
+          "sourceDate": "Official election schedule; checked 2026-11-01",
+          "development": "The NYC Board of Elections confirms Sunday November 1 is the last early-voting day, with sites open 9:00 a.m.–5:00 p.m. EST. Election Day is Tuesday November 3, 6:00 a.m.–9:00 p.m. EST.",
+          "significance": "Residents have a time-sensitive opportunity to vote before the weekday election; early-voting locations may differ from Election Day locations.",
+          "implications": "Check the official assigned poll site rather than assuming a nearby election location.",
+          "uncertainty": "This is a newly imminent deadline, not a newly enacted voting rule.",
+          "eventDate": "2026-11-01 09:00–17:00 EST; polling sites vary; no admission cost."
+        },
+        {
+          "title": "NYC Marathon closes roads across all five boroughs today",
+          "sourceUrl": "https://prod.nyrr.org/tcsnycmarathon/the-course",
+          "sourceDate": "Organizer guidance checked 2026-11-01",
+          "development": "The November 1 marathon uses a five-borough course, with early street closures and restrictions on unsanctioned bicycles and vehicles. NYRR lists professional wheelchair starts at 8:00 a.m. and professional women's open start at 8:35 a.m. EST.",
+          "significance": "Street access, buses, delivery routes and cross-borough travel will be disrupted during a major citywide event.",
+          "implications": "Use subway travel for urgent trips, verify current MTA diversions and avoid scheduling showings along the race route.",
+          "uncertainty": "Street reopening times vary and depend on operations.",
+          "eventDate": "2026-11-01; five boroughs; public viewing generally free; spectator logistics on official NYRR site."
+        }
+      ],
+      "shortfall": "No newly verified city housing, land-use or public-service policy change warranted repeating prior announcements. Today's two items are immediate civic deadlines and disruptions."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Morbid Anatomy hosts Day of the Dead library gathering today",
+          "sourceUrl": "https://www.morbidanatomy.org/events/2026/2/1/drop-in-tarot-salon-visit-the-morbid-anatomy-library-in-brooklyn-new-york-4kzpb-sbtss-9cyr7-wlt3y-ffmkc-b8k7a",
+          "sourceDate": "Organizer listing checked 2026-11-01; posting date not stated",
+          "development": "Morbid Anatomy offers drop-in Day of the Dead activities, storytelling, crafting and Mini Museum tours at its Industry City research library, 254 36th Street, Building 2, room C251, Brooklyn.",
+          "significance": "A practical gathering point for independent publishers, occult-archive researchers and intermedia artists.",
+          "implications": "Visit the library and identify relevant archival and publishing collaborators.",
+          "uncertainty": "General library admission is free; any special-event fee is not separately specified. No application deadline advertised.",
+          "eventDate": "2026-11-01 12:00–17:00 EST; Brooklyn; open drop-in."
+        },
+        {
+          "title": "Brooklyn Poets opens November Yawp workshop and open mic",
+          "sourceUrl": "https://events.brooklynpoets.org/events/brooklynpoets/2073358",
+          "sourceDate": "Organizer listing checked 2026-11-01; posting date not stated",
+          "development": "The November 13 Yawp at 144 Montague Street features Jaz Sufi's writing workshop and an open mic. Sign-up begins at 6:00 p.m.; readers get one poem of at most three minutes. Advance tickets can reserve a limited number of reading slots.",
+          "significance": "A verified route to perform rather than merely attend an industry gathering.",
+          "implications": "Reserve an open-mic slot if available; otherwise register and arrive for first-come sign-up.",
+          "uncertainty": "Ticket price was not confirmed from the available listing; online sales for in-person admission end 5:00 p.m. on event day.",
+          "eventDate": "2026-11-13 18:30–21:00 EST; Brooklyn Heights; public ticketing, limited slots."
+        },
+        {
+          "title": "Poetry Project pairs Christeene and Geo Wyex",
+          "sourceUrl": "https://www.poetryproject.org/events/christeene-geo-wyex",
+          "sourceDate": "Organizer calendar checked 2026-11-01; posting date not stated",
+          "development": "The Poetry Project announces a November 9 event with Christeene and Geo Wyex combining experimental language, music and performance at St. Mark's Church, 131 E. 10th Street, Manhattan. General admission is $10 and livestream is free.",
+          "significance": "The program connects queer performance, sonic experimentation and independent literary organizing.",
+          "implications": "Useful for observing performance format and meeting organizers; no open stage is advertised.",
+          "uncertainty": "No submission deadline or performer application is listed.",
+          "eventDate": "2026-11-09 20:00 EST; St. Mark's Church; $10 or free livestream."
+        },
+        {
+          "title": "Friendly Criticism workshop examines literary networks",
+          "sourceUrl": "https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton",
+          "sourceDate": "Organizer calendar checked 2026-11-01; posting date not stated",
+          "development": "Rainer Diana Hamilton leads a five-session workshop from November 3 through December 1, 7:00–9:00 p.m. EST, at the Poetry Project, examining peer criticism and reviews from literary archives. Registration is listed at $200.",
+          "significance": "Useful for IMDO editorial practice and relationships between poets, critics and small publications.",
+          "implications": "Consider only if the cost and weekly schedule fit current priorities.",
+          "uncertainty": "Capacity and registration cutoff not confirmed.",
+          "eventDate": "2026-11-03 to 2026-12-01; Tuesdays 19:00–21:00 EST; St. Mark's Church, Manhattan; $200."
+        }
+      ],
+      "shortfall": "Four distinct, publicly verified opportunities are available. The November 2–6 Poetry Project symposium was covered previously and is not reissued as new intelligence."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Oracle stages tarot-and-mentalism theater in Manhattan",
+          "sourceUrl": "https://oracleshownyc.com/",
+          "sourceDate": "Organizer page checked 2026-11-01; posting date not stated",
+          "development": "The Oracle mentalism and tarot performance is scheduled for November 18 at 7:00 p.m. EST at the Reverie Room, 163 W. 72nd Street, second floor. Tickets are listed at $45; ages 14 and older. Organizer claims include mindreading and telepathy as theatrical premises.",
+          "significance": "A current practitioner example of how ritual language, prediction and audience participation are packaged as intimate theater.",
+          "implications": "Study staging, audience choice and interpretive framing for Second Sight; distinguish performer claims from independently demonstrated capabilities.",
+          "uncertainty": "Claims of paranormal perception are promotional and unverified; tickets are nonrefundable and venue is not currently wheelchair accessible.",
+          "eventDate": "2026-11-18 19:00 EST; doors 18:30; 163 W 72nd St, Manhattan; $45."
+        },
+        {
+          "title": "TCC-RAG retrieves temporally coherent causal evidence paths",
+          "sourceUrl": "https://arxiv.org/abs/2610.38366",
+          "sourceDate": "2026-10-28; newly selected 2026-11-01",
+          "development": "Researchers propose temporal causal-chain retrieval for knowledge-graph question answering, reporting improvements of 10.72% and 8.40% on two benchmarks and a larger gain on a multi-step temporal subset.",
+          "significance": "Pattern Sense needs to distinguish chronology, correlation and plausible causal pathways rather than retrieve semantically similar snippets.",
+          "implications": "Prototype a date-stamped evidence graph and test whether inferred links respect event order.",
+          "uncertainty": "Author-reported benchmark results; causal-cue graph edges are not proof of real-world causality."
+        },
+        {
+          "title": "Proof-Carrying Messages proposes independent evidence for agent claims",
+          "sourceUrl": "https://arxiv.org/abs/2610.39109",
+          "sourceDate": "2026-10-29; newly selected 2026-11-01",
+          "development": "The paper proposes signed evidence from append-only logs so receiving agents can classify claims as proven, unproven or failed. Authors report ten false acceptances among 712 fabricated claims in their benchmark, all involving stale evidence.",
+          "significance": "Inference Engine must not treat another agent's assertion of completion or source verification as evidence.",
+          "implications": "Require source receipts and independent readback before labeling a report or action verified.",
+          "uncertainty": "Protocol security proofs and benchmark claims are author-reported and do not establish universal deployment safety."
+        },
+        {
+          "title": "VeriCUA tests completion through active evidence gathering",
+          "sourceUrl": "https://arxiv.org/abs/2610.40578",
+          "sourceDate": "2026-10-29; newly selected 2026-11-01",
+          "development": "Researchers propose a verifier that explores application state with GUI and code checks rather than relying solely on an agent's narrative. Reported tests improve agreement with reference labels and rejection of false completion claims.",
+          "significance": "The Interior should preserve a difference between intended actions, attempted actions and independently observed results.",
+          "implications": "For publication, check repository write, file readback, deployment and public-page rendering as separate conditions.",
+          "uncertainty": "Research results are reported by the authors; the method still depends on the available observation channels."
+        },
+        {
+          "title": "Possibility-based inference models conflicting uncertainty without false precision",
+          "sourceUrl": "https://arxiv.org/abs/2610.39821",
+          "sourceDate": "2026-10-29; newly selected 2026-11-01",
+          "development": "The paper proposes possibility-based contrastive grades as an alternative uncertainty representation influenced by fuzzy-set theory and Bayesian statistics.",
+          "significance": "Second Sight can present mutually compatible or contradictory hypotheses without automatically assigning unsupported precise probabilities.",
+          "implications": "Separate symbolic interpretation from evidence-based probabilities and preserve unranked possibilities when data are insufficient.",
+          "uncertainty": "A methodological proposal, not demonstrated paranormal inference or validated operational calibration."
+        }
+      ]
+    }
+  ],
+  "nextMoves": [
+    "Watch whether the Oleshky humanitarian corridor produces sustained civilian access while Ukraine's grid remains under attack.",
+    "Track November 3 election access and Lisbon housing legislation without assuming outcomes.",
+    "For Machine Intuition, test temporal evidence chains and independent completion receipts before promoting hypotheses to verified findings."
+  ]
+}
