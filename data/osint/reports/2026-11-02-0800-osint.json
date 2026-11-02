@@ -1,0 +1,236 @@
+{
+  "id": "2026-11-02-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-02T08:00:00-05:00",
+  "publishedAt": "2026-11-02T12:59:28.344Z",
+  "title": "IMDO Master Brief — November 2, 2026 — Public Intelligence",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Oleshky ceasefire ends; Ukraine alleges Russian reinforcement",
+          "sourceUrl": "https://www.reuters.com/world/europe/ukraine-says-russia-used-oleshky-ceasefire-reinforce-positions-2026-11-02/",
+          "sourceDate": "2026-11-02",
+          "development": "The six-day localized humanitarian truce expired November 1 at 21:00 GMT. Ukraine's General Staff alleges Russian troop rotation, fortification and ammunition deliveries during the pause; Moscow says regrouping is standard and assumes Ukraine also regrouped. The US first lady reports nearly 800 evacuations.",
+          "significance": "The humanitarian evacuation produced real movement, but accusations of military exploitation complicate renewal and post-truce civilian protection.",
+          "implications": "Track independent corroboration of military movements, aid access, and any monthly humanitarian-delivery agreement.",
+          "uncertainty": "Claims about military repositioning are attributed to belligerents; nearly 800 evacuations is an attributed US official figure.",
+          "eventDate": "Truce October 27–November 1, 2026"
+        },
+        {
+          "title": "Ukrainian refinery strikes reported resumed after US pressure",
+          "sourceUrl": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+          "sourceDate": "2026-11-01; updated 2026-11-02",
+          "development": "Russian media reported fires at the Kstovo and Samara-region oil refineries following drone attacks; satellite imagery showed smoke at the Novokuybyshevsk refinery. Ukrainian officials denied agreeing to a 30-day pause, contrary to an earlier report of US pressure.",
+          "significance": "Continued energy-infrastructure strikes bear on oil supply, diplomacy and the reciprocal campaign against civilian energy systems.",
+          "implications": "Distinguish independently visible damage from attribution and claimed agreements.",
+          "uncertainty": "The extent of refinery damage and exact diplomatic commitments remain disputed."
+        },
+        {
+          "title": "Fresh Gaza strikes reported despite year-old ceasefire",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-11-02/",
+          "sourceDate": "2026-11-02",
+          "development": "Gaza medical personnel reported at least three Palestinians killed in Khan Younis and Al-Mussadar. Israel acknowledged strikes it said targeted militants; the parties dispute ceasefire compliance.",
+          "significance": "Continued deaths and unresolved disarmament/withdrawal terms obstruct reconstruction and civilian recovery.",
+          "implications": "Track independently corroborated casualty updates and humanitarian access.",
+          "uncertainty": "Casualties and target identities remain attributed to local medical and military sources."
+        }
+      ],
+      "shortfall": "Only three distinct, sufficiently sourced conflict developments met the freshness and non-duplication threshold before this edition."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Bangladesh garment factories reopen amid renewed wage clashes",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/bangladesh-garment-factories-reopen-wage-protests-keep-industry-edge-2026-11-02/",
+          "sourceDate": "2026-11-02",
+          "development": "Factories reopened after mass shutdowns, but garment workers continued demonstrations over minimum wages; police used tear gas amid confrontations. This follows the November 1 announcement of a wage-review board.",
+          "significance": "The new development is reopening without resolution: supply-chain operations and labor negotiations remain unstable.",
+          "implications": "Monitor wage-board terms, factory operation and verified worker participation.",
+          "uncertainty": "Police and protest accounts of clashes require attribution."
+        },
+        {
+          "title": "Bulgaria elects first woman president",
+          "sourceUrl": "https://www.reuters.com/world/europe/bulgarias-iotova-wins-presidential-runoff-near-final-results-show-2026-11-02/",
+          "sourceDate": "2026-11-02",
+          "development": "Official results show Iliana Iotova winning the November 1 runoff with 57.6%, ahead of Andrey Gyurov on 39.5%.",
+          "significance": "The outcome strengthens Prime Minister Rumen Radev's political position, although the presidency is largely ceremonial.",
+          "implications": "Watch formal certification and appointments rather than projecting policy changes.",
+          "uncertainty": "The reported vote shares reflect official results; future policy effects are analytical inference.",
+          "eventDate": "Runoff November 1, 2026"
+        },
+        {
+          "title": "US judge rejects federal attempt to condition Alaska certification",
+          "sourceUrl": "https://www.reuters.com/world/us-judge-throws-out-trump-election-lawsuit-alaska-2026-11-01/",
+          "sourceDate": "2026-11-01",
+          "development": "A federal judge dismissed a Justice Department lawsuit seeking to restrict certification of an Alaska Senate result based on potential name confusion between two candidates named Sullivan; the court cited standing and ballot-secrecy concerns. DOJ intends to appeal.",
+          "significance": "The ruling limits one attempted federal intervention in state election administration immediately before November 3 voting.",
+          "implications": "Monitor appellate filings and state election administration.",
+          "uncertainty": "The underlying allegations of intentional voter deception are contested; the ruling is not an election outcome."
+        },
+        {
+          "title": "New Zealand election tests household affordability divide",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/new-zealands-two-speed-economy-poses-election-dilemma-ruling-national-party-2026-11-01/",
+          "sourceDate": "2026-11-01 UTC; November 2 local",
+          "development": "Reuters reports uneven household economic conditions ahead of the November 7 general election, with cost of living a central voter concern.",
+          "significance": "Distributional economic pressure is shaping electoral competition, but voter preferences do not establish an outcome.",
+          "implications": "Track official campaign commitments and results.",
+          "uncertainty": "Political effects remain uncertain.",
+          "eventDate": "Election November 7, 2026"
+        }
+      ],
+      "shortfall": "One election item is contextual analysis rather than a newly enacted measure."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "HPD hears rules for new City Housing Assistance Program",
+          "sourceUrl": "https://www.nyc.gov/assets/hpd/downloads/pdfs/about/proposed-rules-housing-assistance-program.pdf",
+          "sourceDate": "Proposed-rule notice published 2026-10-01; hearing 2026-11-02",
+          "development": "HPD holds a virtual 10:00–11:00 a.m. EST hearing on CHAP, created under Local Law 126 of 2026. Proposed allocations reserve half of annual funding for qualifying rent-stabilized tenants facing eviction and half for specified shelter populations, including DSS-shelter residents ineligible for CityFHEPS. Rules cover referrals, waiting lists, rent contributions, owner contracts, inspections and appeals.",
+          "significance": "This could create a separate placement and eviction-prevention channel, but the rules are not yet adopted.",
+          "implications": "Written comments due November 2; join via HPD Webex link in official PDF. Brokerages should examine owner/HAP and referral rules.",
+          "uncertainty": "Proposed program; no voucher availability, eligibility determination or implementation date established.",
+          "eventDate": "November 2, 2026, 10:00–11:00 a.m. EST; virtual; free public hearing and comments"
+        },
+        {
+          "title": "2026–27 HEAP heating benefit opens today",
+          "sourceUrl": "https://access.nyc.gov/programs/home-energy-assistance-program-heap/",
+          "sourceDate": "Official ACCESS NYC guidance checked 2026-11-02",
+          "development": "Regular Home Energy Assistance Program applications open November 2 and close April 16, 2027, subject to available funds. Eligible households can apply through ACCESS HRA.",
+          "significance": "Winter utility costs and potential shutoffs affect tenant stability and the affordability of voucher placements.",
+          "implications": "Share with eligible tenants and assess who pays heating costs under each lease.",
+          "uncertainty": "Eligibility and award amounts vary; emergency-benefit applications are not yet open.",
+          "eventDate": "Applications November 2, 2026–April 16, 2027"
+        },
+        {
+          "title": "NYC Unity Grant offers ten $20,000 awards",
+          "sourceUrl": "https://www.nyc.gov/site/equity/news/expanded-2026-2027-nyc-unity-grant-program.page",
+          "sourceDate": "2026-10-26; newly reviewed 2026-11-02",
+          "development": "The city opened applications for ten $20,000 community-organization grants for LGBTQIA+ New Yorkers in education/employment, housing/economic stability and health/wellbeing. A virtual applicant session is advertised for November 2; applications close November 16.",
+          "significance": "Creates a specific opportunity for eligible nonprofits or fiscally sponsored organizations working on housing and social services.",
+          "implications": "Review eligibility and attend the applicant session if relevant; application is not open to an unsupported individual project.",
+          "uncertainty": "Applicant-session time not confirmed on source page; grant recipients must meet organizational and population criteria.",
+          "eventDate": "Information session November 2, 2026; deadline November 16, 2026"
+        },
+        {
+          "title": "Last day to request NYC mail ballot in person",
+          "sourceUrl": "https://www.nyc.gov/site/civicengagement/our-programs/poll-site-language-access.page",
+          "sourceDate": "Official 2026 election guidance; checked 2026-11-02",
+          "development": "Today is the final day to request a mail ballot in person at a borough Board of Elections office; Election Day is November 3. Language assistance includes Russian and Yiddish at selected sites.",
+          "significance": "A narrow remaining access route matters for voters who missed earlier online/mail request deadlines.",
+          "implications": "Check borough office hours and polling location; voting information should come from the Board of Elections.",
+          "uncertainty": "Services vary by location.",
+          "eventDate": "November 2, 2026; Election Day November 3"
+        }
+      ],
+      "shortfall": "Four newly actionable developments met the threshold."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Nuyorican Bowery Slam offers same-day performance slots",
+          "sourceUrl": "https://www.bowerypoetry.com/slam",
+          "sourceDate": "Organizer recurring program, checked 2026-11-02",
+          "development": "Weekly Monday open slam at Bowery Poetry Club, 308 Bowery. Line begins 6:00 p.m., doors and first-come performer signup 6:30, slam 7:00–9:00 p.m. EST. $20 admission. Each poet has three minutes for one original poem per round; winner receives $20 and a Final Friday invitation.",
+          "significance": "Immediate, verified opportunity to perform and connect with the independent poetry circuit.",
+          "implications": "Arrive before doors for the performer list; no props or musical accompaniment.",
+          "uncertainty": "Specific November 2 lineup and remaining places unconfirmed.",
+          "eventDate": "November 2, 2026, 6:00–9:00 p.m. EST; 308 Bowery; $20"
+        },
+        {
+          "title": "Bowery Poetry Club combines chamber music, poetry and projected film",
+          "sourceUrl": "https://www.bowerypoetry.com/",
+          "sourceDate": "Organizer program checked 2026-11-02",
+          "development": "H. Paul Moon's BOWERY MUSIC + POETRY + FILM returns on election night with a Bowery-to-Brooklyn theme. A public event listing specifies 7:30–9:30 p.m. EST at 308 Bowery, $20 admission, doors 6:30.",
+          "significance": "Relevant to intermedia production, projected film and performance networking.",
+          "implications": "Confirm current ticket inventory before travel.",
+          "uncertainty": "Specific times and price come from an independent listing, while the organizer confirms the series.",
+          "eventDate": "November 3, 2026, 7:30–9:30 p.m. EST; 308 Bowery; $20"
+        },
+        {
+          "title": "Poetry Society's Make Room brings small-press poets together",
+          "sourceUrl": "https://poetrysociety.org/events/psa-reading-series-gonzales-okeke-rahm%C3%A9",
+          "sourceDate": "Organizer listing checked 2026-11-02; posting date not stated",
+          "development": "The Poetry Society of America advertises a November 6, 7:00 p.m. EST reading at 119 Smith Street, Brooklyn, with Gia Gonzales, Kyle Okeke and Rachelle Rahmé; admission free with RSVP. Contributors connect Belladonna, Wendy's Subway, Nightboat and other independent presses.",
+          "significance": "Strong editorial and small-press networking opportunity.",
+          "implications": "RSVP through the organizer; this is a programmed reading, not an open mic.",
+          "uncertainty": "The organizer's general calendar currently differs on one participant name; verify lineup before attending.",
+          "eventDate": "November 6, 2026, 7:00 p.m. EST; 119 Smith St, Brooklyn; free RSVP"
+        },
+        {
+          "title": "Poets House hosts Lithuanian translation-focused reading",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "NYC Poetry Calendar checked 2026-11-02; organizer publication date unconfirmed",
+          "development": "A November 3 event, Voices From the World: Marius Burokas on Lithuanian Poetry, is listed at Poets House from 7:00–9:00 p.m. EST with free-to-$10 sliding-scale admission.",
+          "significance": "Useful for translators, independent editors and cross-language publishing contacts.",
+          "implications": "Confirm event directly with Poets House before attending.",
+          "uncertainty": "Organizer-specific event page not independently located; third-party calendar details are provisional.",
+          "eventDate": "November 3, 2026, 7:00–9:00 p.m. EST; Poets House, 10 River Terrace, Manhattan; free–$10"
+        }
+      ],
+      "shortfall": "Four verified or qualified listings were selected; no further novel submission call was independently confirmed."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Morbid Anatomy schedules free drop-in tarot salon",
+          "sourceUrl": "https://www.morbidanatomy.org/events",
+          "sourceDate": "Organizer calendar checked 2026-11-02; original posting date not stated",
+          "development": "The Morbid Anatomy Library advertises a November 8 informal tarot salon during noon–5:00 p.m. EST visiting hours at 254 36th Street, Industry City, Brooklyn. Participants may bring decks or use display decks; no prior expertise required. Free.",
+          "significance": "Practitioner exchange and a real-world setting for observing how interpretations are shared and negotiated.",
+          "implications": "Compare how readers frame uncertainty, provenance and symbolic meaning; do not treat divinatory claims as empirical verification.",
+          "uncertainty": "Exact start of the salon within library hours may vary by the specific event page.",
+          "eventDate": "November 8, 2026, noon–5:00 p.m. EST; Brooklyn; free"
+        },
+        {
+          "title": "Ontology-based checkers can wrongly flag correct AI answers",
+          "sourceUrl": "https://arxiv.org/abs/2610.37809",
+          "sourceDate": "2026-10-27; older paper newly selected 2026-11-02",
+          "development": "Orzechowski and colleagues compare curated, generated and data-derived ontologies as knowledge-graph agent checkers; on real answers, checker flags were only marginally more precise than random.",
+          "significance": "Formal-looking schemas do not automatically produce trustworthy verification.",
+          "implications": "Inference Engine should measure false-positive rates and audit the verifier itself.",
+          "uncertainty": "Preprint under review; reported outcomes depend on studied graphs and agents."
+        },
+        {
+          "title": "Evolve on Graph trains graph reasoning without labeled questions",
+          "sourceUrl": "https://arxiv.org/abs/2610.35598",
+          "sourceDate": "2026-10-26; older paper newly selected 2026-11-02",
+          "development": "Researchers use graph self-play, symbolically verified query structures and adaptive curricula to train multi-hop knowledge-graph reasoning without human QA labels, reporting gains across six benchmarks.",
+          "significance": "A useful method for testing Pattern Sense on existing verified graph structure before deploying on messy real-world evidence.",
+          "implications": "Generate synthetic graph questions with known answers; keep synthetic proof separate from claims about the world.",
+          "uncertainty": "Author-reported preprint benchmark results."
+        },
+        {
+          "title": "Ontology-guided pipeline builds traceable climate-science knowledge graph",
+          "sourceUrl": "https://arxiv.org/abs/2610.32725",
+          "sourceDate": "2026-10-23; older paper newly selected 2026-11-02",
+          "development": "A multi-agent pipeline extracts source-backed triples from 2,000 climate-science papers and builds a graph with 133,990 nodes and 755,308 relations, reporting human agreement checks and 98.96% correctness among validated publication triples.",
+          "significance": "Demonstrates a practical evidence-to-graph workflow with explicit text spans and entity linking.",
+          "implications": "Prototype source-span-backed edges, versioned provenance and human audit samples in Machine Intuition.",
+          "uncertainty": "Validation figures are reported by the authors; domain transfer is unproven."
+        },
+        {
+          "title": "Selective verification uses abstention as a signal for extra evidence",
+          "sourceUrl": "https://arxiv.org/abs/2608.10725",
+          "sourceDate": "2026-08-11; older research newly selected 2026-11-02",
+          "development": "A medical reasoning study adds ontology-grounded checks only when models abstain, reporting higher benchmark accuracy than forced answers.",
+          "significance": "Shows a possible alternative to expensive universal verification and unwarranted confidence.",
+          "implications": "Second Sight should support an explicit unresolved state and trigger targeted checks before Inference Engine commits.",
+          "uncertainty": "Medical benchmarks do not establish reliability in intelligence or occult applications."
+        }
+      ],
+      "shortfall": "Research items are newly selected older papers, not newly published November 2 studies."
+    }
+  ],
+  "nextMoves": [
+    "Monitor adoption of HPD CHAP rules after today's public hearing; do not present proposed eligibility as an active voucher.",
+    "Track post-truce access in Oleshky and verify competing claims of military repositioning.",
+    "Test source-backed graph edges, verifier false positives and selective abstention in Machine Intuition."
+  ]
+}
