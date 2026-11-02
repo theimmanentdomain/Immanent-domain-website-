@@ -35,9 +35,26 @@
           "significance": "Continued deaths and unresolved disarmament/withdrawal terms obstruct reconstruction and civilian recovery.",
           "implications": "Track independently corroborated casualty updates and humanitarian access.",
           "uncertainty": "Casualties and target identities remain attributed to local medical and military sources."
+        },
+        {
+          "title": "Iranian envoys leave Doha; draft US-Iran proposal circulates",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official-2026-11-02/",
+          "sourceDate": "2026-11-02",
+          "development": "Iranian negotiators left Qatar on Sunday after mediated discussions; an official says a draft proposal is circulating and further meetings are possible. Tehran says its seven-step plan links reopening the Strait of Hormuz to ending the US naval blockade and other conditions.",
+          "significance": "A concrete diplomatic document is circulating, but its terms and US acceptance remain unverified; the strait is central to energy shipping and regional escalation.",
+          "implications": "Watch for an agreed sequencing of blockade relief, shipping access and ceasefire commitments.",
+          "uncertainty": "Departure is not evidence of a breakdown, according to the official; neither side has announced a deal."
+        },
+        {
+          "title": "Uganda begins phased troop withdrawal from Somalia",
+          "sourceUrl": "https://www.reuters.com/world/africa/uganda-says-it-has-started-withdrawing-troops-somalia-2026-11-02/",
+          "sourceDate": "2026-11-02",
+          "development": "Uganda announced that the first phase of its troop withdrawal from Somalia is underway after nearly two decades supporting African Union security operations against al-Shabaab. Associated Press reports the first contingent has returned and further withdrawals are planned.",
+          "significance": "The change may reshape Somali security capacity and African Union burden-sharing while insurgent attacks continue.",
+          "implications": "Track actual troop numbers, handover arrangements and civilian protection in former deployment areas.",
+          "uncertainty": "The schedule, number of troops and operational effects remain incompletely documented."
         }
-      ],
-      "shortfall": "Only three distinct, sufficiently sourced conflict developments met the freshness and non-duplication threshold before this edition."
+      ]
     },
     {
       "title": "Sociopolitical Shifts",
@@ -232,5 +249,7 @@
     "Monitor adoption of HPD CHAP rules after today's public hearing; do not present proposed eligibility as an active voucher.",
     "Track post-truce access in Oleshky and verify competing claims of military repositioning.",
     "Test source-backed graph edges, verifier false positives and selective abstention in Machine Intuition."
-  ]
+  ],
+  "correction": "Updated the initial November 2 edition to include two newly corroborated conflict developments: circulation of an Iran-US proposal after Doha talks and Uganda's first phase of troop withdrawal from Somalia. Original publication timestamp preserved.",
+  "updatedAt": "2026-11-02T13:00:23.287Z"
 }
