@@ -1,0 +1,174 @@
+{
+  "id": "2026-11-03-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-03T08:00:00-05:00",
+  "publishedAt": "2026-11-03T08:00:00-05:00",
+  "title": "IMDO Master Brief — November 3, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Russian energy strikes disable Ukrainian power stations",
+          "sourceUrl": "https://www.reuters.com/business/energy/russian-strikes-knock-out-power-swathes-ukraine-kyiv-hits-russian-refinery-2026-11-03/",
+          "sourceDate": "2026-11-03",
+          "development": "Reuters reports a multi-wave Russian missile and drone attack damaged power and rail infrastructure; DTEK said three of five thermal plants were knocked offline.",
+          "significance": "Winter energy and civilian transport resilience face a severe new shock.",
+          "implications": "Monitor restoration and verified damage; Ukrainian-reported weapon counts are attributed.",
+          "uncertainty": "Precise military target and interception claims are contested."
+        },
+        {
+          "title": "Ukrainian drones reportedly hit major Yaroslavl refinery",
+          "sourceUrl": "https://www.reuters.com/business/energy/oil-refinery-russias-yaroslavl-damaged-ukrainian-drone-attack-governor-says-2026-11-03/",
+          "sourceDate": "2026-11-03",
+          "development": "The regional Russian governor reported fire, refinery damage and two injured employees at YANOS after a drone attack.",
+          "significance": "Continued cross-border refinery strikes challenge suggestions of a sustained energy-target pause.",
+          "implications": "Watch independently confirmed throughput impact.",
+          "uncertainty": "Russian interception totals and circulating footage are not independently verified."
+        },
+        {
+          "title": "Russian attacks constrict Ukrainian steel and grain exports",
+          "sourceUrl": "https://apnews.com/article/5e4d70d0e3421d678db58133f95bd2e9",
+          "sourceDate": "2026-11-03",
+          "development": "AP documents shutdown of a major steel facility, steep reductions in Black Sea port traffic and rising costs for grain exporters.",
+          "significance": "Economic damage threatens fiscal revenues, reconstruction and civilian livelihoods.",
+          "implications": "Track alternative export routes and fiscal support.",
+          "uncertainty": "Some underlying industrial attacks occurred in prior months; this is a new economic-impact synthesis."
+        }
+      ],
+      "shortfall": "No other sufficiently corroborated new battlefield or humanitarian development selected without recycling prior editions."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "US voters decide congressional control amid affordability concerns",
+          "sourceUrl": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/",
+          "sourceDate": "2026-11-03",
+          "development": "Americans vote in midterm elections for Congress and other offices; neither chamber's result is established.",
+          "significance": "Congressional control determines legislative and oversight capacity.",
+          "implications": "Monitor certified returns rather than early projections.",
+          "uncertainty": "Pre-election forecasts are not outcomes.",
+          "eventDate": "2026-11-03"
+        },
+        {
+          "title": "Federal judge restricts disputed voter-list pressure",
+          "sourceUrl": "https://www.reuters.com/world/judge-blocks-trump-administration-pressuring-states-over-noncitizen-voting-2026-11-03/",
+          "sourceDate": "2026-11-03",
+          "development": "A federal judge temporarily barred federal agencies from urging states to segregate ballots based on disputed suspected-noncitizen lists.",
+          "significance": "The ruling addresses election administration, federalism and potential disenfranchisement.",
+          "implications": "Track appeals and scope of injunction.",
+          "uncertainty": "The underlying voter eligibility allegations remain contested."
+        },
+        {
+          "title": "Cost of living dominates US voter priorities",
+          "sourceUrl": "https://www.reuters.com/world/us/nine-things-us-voters-minds-ahead-midterm-elections-according-reutersipsos-poll-2026-11-03/",
+          "sourceDate": "2026-11-03",
+          "development": "A Reuters/Ipsos survey found 48% of registered voters named cost of living their leading concern.",
+          "significance": "Affordability pressures shape political competition beyond partisan messaging.",
+          "implications": "Distinguish opinion surveys from actual voting behavior.",
+          "uncertainty": "Survey estimates carry sampling error."
+        }
+      ],
+      "shortfall": "Additional consequential verified changes were not established in the research window."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "New York City election polls open 6 a.m. to 9 p.m.",
+          "sourceUrl": "https://www.vote.nyc/all-important-dates",
+          "sourceDate": "2026-11-03",
+          "development": "NYC Board of Elections confirms general-election polling hours and directs voters to assigned sites.",
+          "significance": "Voting logistics are immediately actionable.",
+          "implications": "Verify assigned polling place; do not assume early-voting site is the same.",
+          "uncertainty": "No outcome is available at the morning publication time.",
+          "eventDate": "2026-11-03 06:00–21:00 EST"
+        },
+        {
+          "title": "CHAP proposed rules move past November 2 hearing",
+          "sourceUrl": "https://www.nyc.gov/site/hpd/about/rules.page",
+          "sourceDate": "2026-11-03 (review of existing notice)",
+          "development": "HPD lists proposed City Housing Assistance Program rules and a November 2 hearing.",
+          "significance": "A potential new city rental subsidy would change housing placements if adopted.",
+          "implications": "Monitor rule adoption and program start; do not treat proposed vouchers as active.",
+          "uncertainty": "No final rule or issuance date confirmed."
+        }
+      ],
+      "shortfall": "No additional independently verified new city development selected."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Election-night intermedia performance at Bowery Poetry Club",
+          "sourceUrl": "https://bookevents.nyc/events/bowery-music-poetry-film-bowery-poetry-club-nov-3-2026",
+          "sourceDate": "2026-11-03 (event listing)",
+          "development": "H. Paul Moon presents chamber music, poetry and projected film at 308 Bowery; listed admission $20, doors 6:30 p.m., show 7:30–9:30 p.m. EST.",
+          "significance": "Directly relevant to IMDO's film, poetry and intermedia network.",
+          "implications": "Attend or contact organizers for future participation; this is not an advertised open mic.",
+          "uncertainty": "Listing independently confirms details, but ticket availability was not checked.",
+          "eventDate": "2026-11-03 19:30–21:30 EST"
+        },
+        {
+          "title": "Poetry Project criticism workshop begins",
+          "sourceUrl": "https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton",
+          "sourceDate": "2026-11-03 (scheduled event; previously reported)",
+          "development": "Five-session workshop begins at St Mark's Church, 7–9 p.m. EST; published series price $200.",
+          "significance": "Relevant to small-press editing and criticism.",
+          "implications": "Check remaining registration capacity.",
+          "uncertainty": "Repeated solely because first session occurs today; no new announcement verified.",
+          "eventDate": "2026-11-03 19:00–21:00 EST"
+        }
+      ],
+      "shortfall": "No new independently verified open calls, small-press releases or public Instagram leads; signed-in Edge unavailable."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Counterfactual fairness with uncertain causal graphs",
+          "sourceUrl": "https://arxiv.org/abs/2601.03203",
+          "sourceDate": "2026-01-06; older research newly reviewed 2026-11-03",
+          "development": "Authors propose auditing fairness across a distribution of plausible causal graphs rather than assuming one correct graph.",
+          "significance": "Inference Engine can propagate graph-structure uncertainty into conclusions.",
+          "implications": "Prototype multiple plausible edge orientations with confidence bounds.",
+          "uncertainty": "Research findings do not establish real-world intelligence accuracy."
+        },
+        {
+          "title": "Abductive reasoning effort compared across humans and models",
+          "sourceUrl": "https://arxiv.org/abs/2609.01867",
+          "sourceDate": "2026-09-01; older research newly reviewed 2026-11-03",
+          "development": "Study compares human response times and model reasoning effort on abductive problems, reporting partial alignment and similar error patterns.",
+          "significance": "Second Sight can evaluate search effort and alternative-path exploration.",
+          "implications": "Measure whether longer reasoning improves verified answers rather than apparent depth.",
+          "uncertainty": "Model-behavior results are not evidence of paranormal cognition."
+        },
+        {
+          "title": "Causal graph rewriting formalizes local changes",
+          "sourceUrl": "https://arxiv.org/abs/2609.25188",
+          "sourceDate": "2026-09-21; older research newly reviewed 2026-11-03",
+          "development": "Authors formalize asynchronous local graph rewriting and preservation of locality through valid transformations.",
+          "significance": "Pattern Sense could track evolving relationships without rebuilding every graph.",
+          "implications": "Keep provenance and change history for each edited edge.",
+          "uncertainty": "Mathematical framework, not validated investigative software."
+        },
+        {
+          "title": "Thought-level uncertainty minimization for reasoning",
+          "sourceUrl": "https://arxiv.org/abs/2603.07159",
+          "sourceDate": "2026-03-07; older research newly reviewed 2026-11-03",
+          "development": "Authors test inference-time selection of reasoning continuations using internal self-certainty on benchmark tasks.",
+          "significance": "The Interior can compare internal certainty with externally calibrated correctness.",
+          "implications": "Avoid conflating model self-certainty with evidence-backed probability.",
+          "uncertainty": "Benchmarks are limited; external verification remains necessary."
+        }
+      ],
+      "shortfall": "No verified new esoteric publication or practitioner development beyond previously covered items; research is older material explicitly dated."
+    }
+  ],
+  "nextMoves": [
+    "Verify election logistics and monitor certified results.",
+    "Monitor CHAP rule adoption before describing it as an active voucher.",
+    "Prototype uncertainty-aware causal graph revision with explicit source provenance."
+  ]
+}
