@@ -1,0 +1,148 @@
+{
+  "id": "2026-11-05-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-05T08:00:00-05:00",
+  "publishedAt": "2026-11-05T12:59:06.654Z",
+  "title": "IMDO Master Brief — November 5, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Aid-site deaths rise to 42",
+          "sourceUrl": "https://apnews.com/article/0b975a30f862731346e7e1d098a8d538",
+          "sourceDate": "2026-11-05",
+          "development": "AP reports 42 bodies recovered after the Komyshuvakha shelter strike, with searches continuing.",
+          "significance": "Material casualty update to November 4 report.",
+          "uncertainty": "Attributed to Ukrainian responders; Russia disputes the target's civilian character."
+        },
+        {
+          "title": "Russian envoy visits Washington",
+          "sourceUrl": "https://www.reuters.com/world/asia-pacific/russias-dmitriev-washington-first-us-contact-since-trumps-midterm-setback-2026-11-05/",
+          "sourceDate": "2026-11-05",
+          "development": "Kirill Dmitriev visits ahead of planned November 10 Abu Dhabi talks; humanitarian issues include detainees and Ukrainian children.",
+          "significance": "Direct diplomatic contact may shape negotiations.",
+          "uncertainty": "No agreement announced."
+        },
+        {
+          "title": "Drone fire at Russian Ozon warehouse",
+          "sourceUrl": "https://www.reuters.com/world/ukrainian-drone-strike-sets-fire-hub-e-retailer-ozon-southern-russia-2026-11-04/",
+          "sourceDate": "2026-11-04",
+          "development": "A drone attack ignited an Adygeysk logistics hub, according to the company and local officials.",
+          "significance": "Commercial supply chains face increasing disruption.",
+          "uncertainty": "Initial impact reports attributed to company and officials."
+        }
+      ],
+      "shortfall": "No other sufficiently verified new frontline or humanitarian development."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Political megadonor spending yields few wins",
+          "sourceUrl": "https://www.reuters.com/world/us/musk-has-little-show-his-record-spending-republican-campaigns-us-midterms-2026-11-05/",
+          "sourceDate": "2026-11-05",
+          "development": "Reuters reviews poor electoral outcomes among candidates supported by Elon Musk's record spending.",
+          "significance": "Raises questions about the efficacy of concentrated campaign funding.",
+          "uncertainty": "Outcomes do not establish spending's causal effect."
+        },
+        {
+          "title": "Mapped analysis details Democratic electoral gains",
+          "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide",
+          "sourceDate": "2026-11-04",
+          "development": "Updated maps detail shifts across House, Senate and governor races.",
+          "significance": "Adds geographic evidence to previously reported chamber-control projections.",
+          "uncertainty": "Projected results await certification."
+        }
+      ],
+      "shortfall": "No other distinct fresh labor or governance development verified."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Street-safety ballot measure wins preliminary majority",
+          "sourceUrl": "https://nyc.streetsblog.org/2026/11/04/new-york-city-voters-give-mamdani-a-green-light-to-transform-city-streets",
+          "sourceDate": "2026-11-04",
+          "development": "Preliminary counts show roughly 66% support for faster street redesign procedures.",
+          "significance": "Adds vote breakdown and practical scope to yesterday's general charter result.",
+          "uncertainty": "Implementation rules pending."
+        },
+        {
+          "title": "Carriage workers contest phaseout",
+          "sourceUrl": "https://nypost.com/2026/11/04/us-news/nyc-carriage-horse-drivers-beg-mamdani-to-save-their-jobs-after-controversial-ban-i-thought-you-stood-with-us/",
+          "sourceDate": "2026-11-04",
+          "development": "Drivers told a City Hall hearing that the carriage phaseout threatens livelihoods and investments.",
+          "significance": "Labor-transition questions remain unresolved.",
+          "uncertainty": "Final enactment and compensation uncertain."
+        },
+        {
+          "title": "Marathon weekend subway use sets Sunday record",
+          "sourceUrl": "https://nypost.com/2026/11/03/us-news/mta-saw-record-high-subway-ridership-over-halloween-marathon-weekend-in-nyc/",
+          "sourceDate": "2026-11-03",
+          "development": "MTA reported 3.14 million Sunday rides, amid passenger crowding complaints.",
+          "significance": "Demand recovery highlights capacity concerns.",
+          "uncertainty": "Agency figures and anecdotal complaints."
+        }
+      ],
+      "shortfall": "No additional November 5 city notice independently verified."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "LAB MIC welcomes performers tonight",
+          "sourceUrl": "https://www.simplebrewingcompany.org/events/event/openmic/",
+          "sourceDate": "2026-11-05",
+          "development": "Walk-in variety open mic offers 5–7 minute slots.",
+          "significance": "Accessible performance outlet.",
+          "eventDate": "Nov 5, 6:30–9:30 p.m. EST; Simple Brewing Company, 424 W 54th St, Manhattan; suggested $3 donation or purchase; no reservation; no stated deadline.",
+          "uncertainty": "Slots subject to availability."
+        },
+        {
+          "title": "Nuyorican offsite open mic November 11",
+          "sourceUrl": "https://loisaida.org/event/open-mic-wednesdays-at-loisaida-center-hosted-by-brian-acosta-arya-3-2-2/2026-11-11/",
+          "sourceDate": "2026-11-05 organizer listing",
+          "development": "Original poetry, songs, monologues and comedy accepted for three-minute performances.",
+          "significance": "Provides an opportunity to perform and obtain recorded footage.",
+          "eventDate": "Nov 11, doors 6 p.m., mic 6:30–8 p.m. EST; Loisaida Center, 710 E 9th St; $10 at door or plus fee online; signup at door; no stated deadline.",
+          "uncertainty": "Recording and livestream consent applies; slot availability unconfirmed."
+        }
+      ],
+      "shortfall": "Signed-in Instagram inaccessible; no additional verified open calls."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Uncertainty in knowledge graph representation",
+          "sourceUrl": "https://arxiv.org/abs/2610.06974",
+          "sourceDate": "2026-10-03; discovered 2026-11-05",
+          "development": "Thesis separates knowledge, training and prediction uncertainty, evaluating conformal methods.",
+          "significance": "Pattern Sense should maintain separate uncertainty dimensions."
+        },
+        {
+          "title": "SemEval abductive event reasoning",
+          "sourceUrl": "https://arxiv.org/abs/2603.21720",
+          "sourceDate": "2026-03-23; discovered 2026-11-05",
+          "development": "Benchmark asks models to identify direct causes from distributed evidence and distractors.",
+          "significance": "Inference Engine can test causal explanations against known answers."
+        },
+        {
+          "title": "CausalARC controlled-world reasoning",
+          "sourceUrl": "https://arxiv.org/abs/2509.03636",
+          "sourceDate": "2025-09-03; discovered 2026-11-05",
+          "development": "Benchmark generates observational and counterfactual reasoning tasks from explicit causal models.",
+          "significance": "Second Sight can test sensitivity to evidence changes.",
+          "uncertainty": "Older research, not a new release."
+        }
+      ],
+      "shortfall": "No newly verified occult practitioner announcement."
+    }
+  ],
+  "nextMoves": [
+    "Monitor casualty verification and November 10 diplomacy.",
+    "Track charter implementation and housing voucher rules.",
+    "Test uncertainty decomposition in Machine Intuition."
+  ]
+}
