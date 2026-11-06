@@ -1,0 +1,167 @@
+{
+  "id": "2026-11-06-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-06T08:00:00-05:00",
+  "publishedAt": "2026-11-06T08:00:00-05:00",
+  "title": "IMDO Master Brief — November 6, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Komyshuvakha aid-site death toll reaches 53",
+          "sourceUrl": "https://www.reuters.com/world/europe/death-toll-russian-bombing-ukrainian-aid-point-rises-53-governor-says-2026-11-06/",
+          "sourceDate": "2026-11-06",
+          "development": "Acting regional governor reports 53 deaths and fifth day of rescue operations after Monday's strike.",
+          "significance": "Material increase from November 5 report of 42 deaths.",
+          "uncertainty": "Death toll attributed to Ukrainian officials; Russia disputes civilian characterization."
+        },
+        {
+          "title": "New Russian energy strikes cause outages in seven regions",
+          "sourceUrl": "https://www.reuters.com/business/energy/russian-strikes-cause-new-outages-7-ukrainian-regions-kyiv-area-worst-hit-2026-11-06/",
+          "sourceDate": "2026-11-06",
+          "development": "Ukraine's deputy energy minister reports new power outages across seven regions, worst in Kyiv oblast.",
+          "significance": "Continued attacks increase winter civilian infrastructure risk.",
+          "uncertainty": "Regional extent reported by Ukrainian energy authorities."
+        },
+        {
+          "title": "Ukraine seeks written postwar security guarantees",
+          "sourceUrl": "https://apnews.com/article/713268db3dac59bff6ad6c831c72cdb6",
+          "sourceDate": "2026-11-06",
+          "development": "Zelenskyy seeks explicit allied commitments after Brussels talks on reconstruction, 2027 funding and security ahead of Abu Dhabi diplomacy.",
+          "significance": "Security guarantees and air defense remain central to negotiations.",
+          "uncertainty": "No enforceable guarantees or peace agreement announced."
+        },
+        {
+          "title": "Iran transmits nuclear proposal through Qatar",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/",
+          "sourceDate": "2026-11-05; newly assessed 2026-11-06",
+          "development": "Iranian official says a nuclear proposal was delivered to Washington via Qatar; Tehran demands sanctions relief and other conditions before talks.",
+          "significance": "Specific nuclear proposal is a new diplomatic step beyond earlier circulating draft.",
+          "uncertainty": "Terms are attributed to Iranian official; US response and agreement absent."
+        }
+      ],
+      "shortfall": "No independently corroborated new Sudan, Gaza or Yemen territorial or humanitarian update met the threshold."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "France's nationwide strike mobilizes hundreds of thousands",
+          "sourceUrl": "https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/",
+          "sourceDate": "2026-11-05",
+          "development": "Public-sector strike and demonstrations over wages, costs and services disrupted schools and transport; police report arrests.",
+          "significance": "Labor action pressures government ahead of presidential contest.",
+          "uncertainty": "Interior ministry estimated 575,000; CGT claimed 1.6 million; crowd totals contested."
+        },
+        {
+          "title": "Tanzanian opposition leader acquitted of treason but jailed",
+          "sourceUrl": "https://www.reuters.com/world/africa/tanzanian-court-clears-opposition-leader-lissu-treason-2026-11-06/",
+          "sourceDate": "2026-11-06",
+          "development": "Court acquitted Tundu Lissu of treason but convicted him of incitement and imposed four-year sentence.",
+          "significance": "Civil liberties and opposition participation remain contested.",
+          "uncertainty": "Defense says it will appeal; government rejects crackdown allegations."
+        },
+        {
+          "title": "Autonomous-weapons treaty negotiations face resistance",
+          "sourceUrl": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+          "sourceDate": "2026-11-06",
+          "development": "Ahead of November 16–20 Geneva meeting, states disagree over launching binding negotiations on weapons that select and attack targets.",
+          "significance": "Human control, accountability and military AI governance are at issue.",
+          "uncertainty": "Proposed mandate has not been adopted.",
+          "eventDate": "2026-11-16 to 2026-11-20; Geneva, Switzerland; public attendance details unconfirmed."
+        }
+      ],
+      "shortfall": "No other distinct verified November 6 election or governance outcome warranted a repeat of midterm coverage."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Sunset Park house fire kills six; inspection history under scrutiny",
+          "sourceUrl": "https://apnews.com/article/bb3c0c9753d0e64ec994cc892f32170e",
+          "sourceDate": "2026-11-05; reviewed 2026-11-06",
+          "development": "Six people died and nine were injured in a Brooklyn row-house fire; past illegal-conversion complaints had not led to completed interior inspections.",
+          "significance": "Housing-code enforcement and emergency access require scrutiny.",
+          "uncertainty": "Fire cause undetermined; presence of battery does not establish causation."
+        },
+        {
+          "title": "COPA advances community purchase rights for distressed buildings",
+          "sourceUrl": "https://council.nyc.gov/sandy-nurse/2026/10/22/city-council-passes-the-community-opportunity-to-purchase-act-copa-giving-community-groups-a-new-tool-to-stabilize-and-preserve-affordable-housing/",
+          "sourceDate": "2026-10-22; contextual review 2026-11-06",
+          "development": "City Council passed COPA for qualifying distressed or regulated multifamily properties; mayoral action remains the next procedural step.",
+          "significance": "Potential new acquisition channel for community land trusts, not a current rental vacancy.",
+          "uncertainty": "Older policy context, not a newly enacted November 6 change."
+        }
+      ],
+      "shortfall": "No further fresh, independently confirmed city notice or housing program change found."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "November 21 NYPL–NWU open mic accepts seven-minute readings",
+          "sourceUrl": "https://www.meetup.com/nwunypl/events/nglgktyjcpbcc/",
+          "sourceDate": "Organizer listing reviewed 2026-11-06",
+          "development": "Joint National Writers Union and NYPL open mic welcomes readings in first-come order.",
+          "significance": "Concrete low-cost performance opportunity; recordings prohibited.",
+          "uncertainty": "Cost and RSVP requirement unconfirmed.",
+          "eventDate": "2026-11-21, 2–4 p.m. EST; Ottendorfer Library, 135 Second Avenue, Manhattan; price unconfirmed; no stated application deadline."
+        },
+        {
+          "title": "Nuyorican open mic at Loisaida on November 11",
+          "sourceUrl": "https://donyc.com/events/2026/11/11/open-mic-hosted-by-brian-acosta-arya-a-nuyorican-poets-cafe-offsite-event-at-loisaida-center-tickets",
+          "sourceDate": "Listing reviewed 2026-11-06",
+          "development": "Offsite open mic accepts three-minute original poetry, stories, songs and monologues; performances recorded.",
+          "significance": "Near-term performance and potential reel footage; reminder only, already covered November 5.",
+          "uncertainty": "Performer slots first-come; organizer and listing differ on end time.",
+          "eventDate": "2026-11-11, doors 6 p.m., open mic starts 6:30 p.m. EST; Loisaida Center, 710 E 9th St; $10 at door or plus fee online; registration on site."
+        }
+      ],
+      "shortfall": "Signed-in Instagram inaccessible; no other fresh verified small-press or independent performance call found."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Causal Humility proposes contestable causal cards",
+          "sourceUrl": "https://arxiv.org/abs/2610.25709",
+          "sourceDate": "2026-10-19; newly selected 2026-11-06",
+          "development": "Authors propose documenting assumptions, omissions and competing causal structures rather than asserting a single definitive explanation.",
+          "significance": "Inference Engine should preserve alternative causal accounts and proportional evidentiary authority.",
+          "uncertainty": "Conceptual framework with worked example, not established operational validation."
+        },
+        {
+          "title": "Verify Claims, Not Scores audits agent evidence",
+          "sourceUrl": "https://arxiv.org/abs/2610.01348",
+          "sourceDate": "2026-10-01; newly selected 2026-11-06",
+          "development": "Study records supported, unsupported, unresolved and unevaluated claims with specific evidence and limits.",
+          "significance": "The Interior should record verification states independently of aggregate success metrics.",
+          "uncertainty": "Empirical demonstration limited to synthetic portfolio agent."
+        },
+        {
+          "title": "Causal Bayesian Optimization reviews intervention selection",
+          "sourceUrl": "https://arxiv.org/abs/2609.24112",
+          "sourceDate": "2026-09-21; newly selected 2026-11-06",
+          "development": "Survey compares causal intervention-selection methods and tests graph misspecification and omitted variables.",
+          "significance": "Pattern Sense and Inference Engine can prioritize low-cost experiments that discriminate hypotheses.",
+          "uncertainty": "Older survey; no method dominates uniformly."
+        },
+        {
+          "title": "Proof-of-Agentness explores identifying legitimate web agents",
+          "sourceUrl": "https://arxiv.org/abs/2610.35288",
+          "sourceDate": "2026-10-26; newly selected 2026-11-06",
+          "development": "Researchers explore challenge-response and passive signals to distinguish agentic clients from simpler bots.",
+          "significance": "Relevant to transparent provenance of automated intelligence collection and verification.",
+          "uncertainty": "Experimental detection rates do not guarantee reliable deployment."
+        }
+      ],
+      "shortfall": "No newly corroborated occult practitioner or machine–magick release; no paranormal efficacy claim is implied."
+    }
+  ],
+  "nextMoves": [
+    "Monitor Komyshuvakha casualty verification, Ukraine energy access and Iran mediation.",
+    "Track NYC housing-code inspection failures and municipal voucher rule adoption.",
+    "Prototype evidence-state and causal-assumption cards for Machine Intuition."
+  ]
+}
