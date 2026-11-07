@@ -1,0 +1,184 @@
+{
+  "id": "2026-11-07-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-07T08:00:00-05:00",
+  "publishedAt": "2026-11-07T08:03:31-05:00",
+  "title": "IMDO Master Brief — November 7, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Russian missiles damage Kyiv's Northern Bridge and nuclear-power connections",
+          "sourceUrl": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07/",
+          "sourceDate": "2026-11-07",
+          "development": "Overnight missiles and drones damaged Kyiv's Northern Bridge and electrical transmission systems serving two nuclear plants; power, heat and water were disrupted.",
+          "significance": "Critical transport and civilian energy networks face renewed pressure before winter and peace talks.",
+          "uncertainty": "Missile counts and target claims are attributed to Ukrainian and Russian officials."
+        },
+        {
+          "title": "Komyshuvakha recovery raises reported deaths to 55",
+          "sourceUrl": "https://apnews.com/article/b042adf1f95848f5d233da866a72e312",
+          "sourceDate": "2026-11-07",
+          "development": "AP reports nine more bodies recovered at the bombed former school and aid site, with the death toll now reported at 55.",
+          "significance": "Material update to November 6's 53-death report; humanitarian casualties remain severe.",
+          "uncertainty": "Casualty count from local authorities; the parties dispute the target's character."
+        },
+        {
+          "title": "Russia names senior negotiating delegation for Abu Dhabi",
+          "sourceUrl": "https://www.reuters.com/world/europe/russian-aide-military-intelligence-chief-attend-talks-with-us-ukraine-kremlin-2026-11-07/",
+          "sourceDate": "2026-11-07",
+          "development": "The Kremlin says Medinsky, Ryabkov and senior military/intelligence officials will attend US-mediated talks.",
+          "significance": "Delegation composition signals the breadth of security and territorial questions under discussion.",
+          "uncertainty": "No ceasefire or agreement has been reached.",
+          "eventDate": "2026-11-10 to 2026-11-11, Abu Dhabi"
+        },
+        {
+          "title": "Gaza rains flood tens of thousands of displacement tents",
+          "sourceUrl": "https://www.reuters.com/business/environment/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-2026-11-07/",
+          "sourceDate": "2026-11-07",
+          "development": "Gaza civil defence reports flooding of at least 70,000 tents, with fuel, shelter material and equipment shortages hampering response.",
+          "significance": "A new humanitarian emergency exposes unresolved reconstruction and access constraints under the ceasefire.",
+          "uncertainty": "Tent counts are reported by Gaza emergency officials; Israeli authorities contest restrictions and describe additional equipment arrivals."
+        },
+        {
+          "title": "Sudan agencies warn shelter pipeline is running empty",
+          "sourceUrl": "https://www.reuters.com/world/africa/millions-displaced-sudanese-risk-losing-shelter-funds-run-low-un-warns-2026-11-06/",
+          "sourceDate": "2026-11-06",
+          "development": "UNHCR and IOM say 15.4 million people need shelter assistance but funding permits prioritizing roughly a tenth; IOM warehouses are depleted.",
+          "significance": "Undercovered supply-chain failure may leave displaced civilians without essential shelter.",
+          "uncertainty": "Agency needs estimates are operational assessments."
+        }
+      ]
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Preliminary midterm turnout approaches historical highs",
+          "sourceUrl": "https://www.washingtonpost.com/politics/2026/11/07/historic-voter-turnout-powered-democrats-blue-wave/",
+          "sourceDate": "2026-11-07",
+          "development": "Preliminary Election Lab figures put eligible-voter turnout at approximately 49%, up from 2022.",
+          "significance": "New turnout evidence helps explain electoral shifts without assuming a permanent partisan realignment.",
+          "uncertainty": "Preliminary estimates, not certified final turnout."
+        },
+        {
+          "title": "White House names Stephen Miller chief of staff",
+          "sourceUrl": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "sourceDate": "2026-11-06",
+          "development": "President Trump announced Stephen Miller will become chief of staff on Monday, with Susie Wiles moving to political work.",
+          "significance": "Personnel change signals continuity of the administration's immigration priorities despite congressional losses.",
+          "uncertainty": "Effects on policy and enforcement remain prospective."
+        },
+        {
+          "title": "State abortion ballot outcomes diverge",
+          "sourceUrl": "https://www.lemonde.fr/en/international/article/2026/11/07/midterms-2026-abortion-rights-upheld-in-several-states-except-idaho_6773890_4.html",
+          "sourceDate": "2026-11-07",
+          "development": "Virginia and Nevada approved abortion-rights protections, Missouri rejected a ban, while Idaho rejected a measure easing restrictions.",
+          "significance": "Direct votes reveal significant variation in state-level reproductive rights.",
+          "uncertainty": "Implementation and legal challenges may follow."
+        }
+      ],
+      "shortfall": "No additional independently confirmed new labor-organizing or governance developments passed the freshness threshold."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council schedules lithium-battery fire oversight hearing",
+          "sourceUrl": "https://nypost.com/2026/11/06/us-news/city-council-calls-emergency-hearing-as-nyc-sees-68-uptick-in-lithium-battery-fires/",
+          "sourceDate": "2026-11-06",
+          "development": "Council Speaker Menin called a November 20 hearing after the city reported 406 lithium-ion battery fires this year, versus 241 in the comparable prior period.",
+          "significance": "New public oversight date following fatal residential fires; battery presence at the Sunset Park scene does not establish cause.",
+          "uncertainty": "FDNY investigation of the Sunset Park fire remains open.",
+          "eventDate": "2026-11-20; hearing time and location not confirmed"
+        },
+        {
+          "title": "Queens 7-line platform repairs extend into 2027",
+          "sourceUrl": "https://nypost.com/2026/11/01/us-news/nyc-7-line-subway-repairs-extended-5-months-as-price-tag-soars-to-254m/",
+          "sourceDate": "2026-11-01; first selected 2026-11-07",
+          "development": "Additional deteriorated steel was found at 52nd and 69th Street platforms; the project is now expected to finish in March 2027.",
+          "significance": "Practical disruption for Queens commuters and a capital-project oversight issue.",
+          "uncertainty": "Updated work schedules may change."
+        }
+      ],
+      "shortfall": "No newly confirmed November 7 CityFHEPS, NYCHA, land-use or municipal rule change was found."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Segue Reading Series presents Mei-mei Berssenbrugge and Jay Gao",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "Organizer calendar checked 2026-11-07",
+          "development": "The Segue series lists readings by Mei-mei Berssenbrugge and Jay Gao at Artists Space, 5 p.m., with $5 admission supporting readers.",
+          "significance": "High-value independent poetry gathering and direct scene contact.",
+          "uncertainty": "Specific ticket availability and application rules unconfirmed.",
+          "eventDate": "2026-11-07 17:00 EST; Artists Space, NYC; $5"
+        },
+        {
+          "title": "Poets House remembers Stephen Dobyns",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "Organizer calendar checked 2026-11-07",
+          "development": "Poets House lists a memorial program from 2 to 4 p.m. with free admission.",
+          "significance": "Literary community event; no open reading opportunity is advertised.",
+          "uncertainty": "Registration and exact address should be checked with the organizer.",
+          "eventDate": "2026-11-07 14:00–16:00 EST; Poets House, NYC; free"
+        },
+        {
+          "title": "Monday poetry and performance listings",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "Organizer calendar checked 2026-11-07",
+          "development": "The calendar lists KGB Monday Night Poetry at 7 p.m. free, and Christeene with Geo Wyex at Poetry Project at 8 p.m., $10.",
+          "significance": "Two distinct networking/performance audiences on November 9.",
+          "uncertainty": "Artist participation and ticket availability unconfirmed.",
+          "eventDate": "2026-11-09 19:00 and 20:00 EST; NYC"
+        }
+      ],
+      "shortfall": "Instagram account could not be accessed from the automation environment; no additional independently confirmed submission or casting opportunity was found."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Sudanese responders document responsible AI limits under conflict",
+          "sourceUrl": "https://arxiv.org/abs/2611.07874",
+          "sourceDate": "2026-11-05",
+          "development": "Researchers surveyed 89 community humanitarian responders and interviewed 15 about GenAI's usefulness, verification limits, and exposure risks.",
+          "significance": "Direct design evidence for The Interior's provenance and abstention rules; field research, not paranormal evidence.",
+          "uncertainty": "Exploratory sample and contextual limits."
+        },
+        {
+          "title": "Calibration-aware cascades compare model confidence across systems",
+          "sourceUrl": "https://arxiv.org/abs/2609.11446",
+          "sourceDate": "2026-09-10; newly reviewed 2026-11-07",
+          "development": "Researchers propose independent confidence calibration for routing between heterogeneous models and report improved efficiency on benchmarks.",
+          "significance": "Inference Engine could use calibrated risk thresholds to determine when a second model or human review is warranted.",
+          "uncertainty": "Benchmarks do not establish reliability in IMDO's operational domain."
+        },
+        {
+          "title": "Causal calibration for knowledge-graph retrieval",
+          "sourceUrl": "https://arxiv.org/abs/2601.09241",
+          "sourceDate": "2026-01-13; revised 2026-02-04; newly reviewed 2026-11-07",
+          "development": "Ca2KG tests counterfactual changes to retrieved graph evidence and re-scores answers across interventions.",
+          "significance": "Pattern Sense and Second Sight can test whether conclusions depend on brittle retrieved subgraphs.",
+          "uncertainty": "Reported evaluation is dataset-specific."
+        },
+        {
+          "title": "Claim-level calibration for long-form generation",
+          "sourceUrl": "https://arxiv.org/abs/2604.12046",
+          "sourceDate": "2026-04-13; newly reviewed 2026-11-07",
+          "development": "CURE attaches confidence to individual claims and uses selective prediction to avoid unsupported assertions.",
+          "significance": "An intelligence brief should calibrate each factual assertion rather than a whole article.",
+          "uncertainty": "Research results require independent replication and domain testing."
+        }
+      ],
+      "shortfall": "No newly verified occult-practitioner publication or computational ritual project warranted a separate entry."
+    }
+  ],
+  "nextMoves": [
+    "Track Ukrainian infrastructure and humanitarian developments ahead of November 10–11 talks.",
+    "Monitor November 20 NYC battery-fire oversight and verified housing-rule updates.",
+    "Test claim-level evidence calibration and abstention in Machine Intuition."
+  ]
+}
