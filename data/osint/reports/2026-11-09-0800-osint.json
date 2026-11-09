@@ -1,0 +1,129 @@
+{
+  "id": "2026-11-09-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-09T08:00:00-05:00",
+  "publishedAt": "2026-11-09T13:02:05.392Z",
+  "title": "IMDO Master Brief — November 9, 2026 — Public Intelligence",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Odesa deaths and Russian refinery fire in reciprocal strikes",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight",
+          "sourceDate": "2026-11-09",
+          "development": "Reuters reporting carried by Al Jazeera describes three deaths in an overnight Russian attack on Odesa, while a Russian refinery was set ablaze by drones.",
+          "significance": "Civilian harm and refinery disruption continue ahead of diplomacy.",
+          "implications": "Monitor verified casualties and energy effects.",
+          "uncertainty": "Casualty and strike details attributed to regional authorities."
+        },
+        {
+          "title": "European states to join Abu Dhabi Ukraine negotiations",
+          "sourceUrl": "https://www.reuters.com/world/europe/europeans-will-join-ukraine-talks-abu-dhabi-french-foreign-minister-says-2026-11-08/",
+          "sourceDate": "2026-11-08",
+          "development": "French foreign minister said France and other Europeans would participate in November 10–11 Ukraine talks in Abu Dhabi.",
+          "significance": "European participation changes the diplomatic composition previously described as US–Ukraine–Russia talks.",
+          "implications": "Watch for delegates and concrete security commitments.",
+          "uncertainty": "Participants and agenda not fully confirmed.",
+          "eventDate": "2026-11-10 to 2026-11-11"
+        }
+      ],
+      "shortfall": "Fresh corroborated developments in other conflicts were insufficient for additional distinct entries."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "EU report documents foreign amplification of French riots",
+          "sourceUrl": "https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/",
+          "sourceDate": "2026-11-09",
+          "development": "Reuters describes an internal EU assessment that a Russian-linked influence network exploited French protests through impersonation and false narratives; another French assessment examined other politically aligned accounts.",
+          "significance": "Separates manipulation of narratives from claims of having caused unrest.",
+          "implications": "Preserve provenance and avoid treating engagement metrics as proof of operational control.",
+          "uncertainty": "Reuters could not independently verify the underlying assessments; the EU found no evidence foreign actors instigated the protests."
+        },
+        {
+          "title": "G7 ministers meet after US midterm results",
+          "sourceUrl": "https://www.reuters.com/world/americas/g7-allies-assess-impact-trumps-midterm-setback-paris-talks-2026-11-09/",
+          "sourceDate": "2026-11-09",
+          "development": "G7 foreign ministers convened in Paris with attention to implications of the US midterm election for foreign policy.",
+          "significance": "Allied coordination on Ukraine and other crises may be affected by US domestic politics.",
+          "implications": "Track official joint statements rather than forecasts.",
+          "uncertainty": "Future policy changes are uncertain.",
+          "eventDate": "2026-11-09"
+        }
+      ],
+      "shortfall": "No further distinct, adequately sourced labor or governance development cleared the freshness threshold."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "34th Street busway faces construction delay",
+          "sourceUrl": "https://nyc.streetsblog.org/2026/11/09/mamdani-34th-street-delay",
+          "sourceDate": "2026-11-09",
+          "development": "Streetsblog reports that visible work on the promised 34th Street busway has not begun as the annual road-striping season nears its end.",
+          "significance": "A concrete implementation gap affects bus riders and street redesign accountability.",
+          "implications": "Seek DOT milestones and revised installation timetable.",
+          "uncertainty": "Construction schedule and feasibility of year-end completion remain uncertain."
+        },
+        {
+          "title": "Affordable-housing preservation financing draws renewed scrutiny",
+          "sourceUrl": "https://www.housingwire.com/articles/nyc-affordable-housing-preservation/",
+          "sourceDate": "2026-11-09",
+          "development": "An industry analysis discusses financially distressed subsidized units and the relative costs of preservation versus new development.",
+          "significance": "Preservation capital and ownership structure affect long-term affordable supply.",
+          "implications": "Track original ANHD data and preservation deals.",
+          "uncertainty": "This is industry commentary, not a new municipal policy or independently validated estimate."
+        }
+      ],
+      "shortfall": "No other novel NYC agency action was confirmed."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Christeene and Geo Wyex at Poetry Project",
+          "sourceUrl": "https://www.poetryproject.org/events/christeene-geo-wyex",
+          "sourceDate": "Event listing current 2026-11-09",
+          "development": "The Poetry Project presents an interdisciplinary music-language performance at St. Mark's Church, 8 PM Eastern; $10 ticket; free livestream announced.",
+          "significance": "Relevant to experimental poetry, performance, and cross-medium practice.",
+          "implications": "Attend or view the livestream; no open performance slot advertised.",
+          "uncertainty": "Ticket availability unconfirmed.",
+          "eventDate": "2026-11-09 20:00 EST; St. Mark's Church, Manhattan; $10"
+        },
+        {
+          "title": "Poetry Project announces free Dis/Course event",
+          "sourceUrl": "https://www.poetryproject.org/",
+          "sourceDate": "Event listing current 2026-11-09",
+          "development": "The Poetry Project lists a free RSVP event with Nick Sturm for November 13, 7–9 PM Eastern.",
+          "significance": "Potential literary-network and editorial research opportunity.",
+          "implications": "Check RSVP availability and event details.",
+          "uncertainty": "Capacity and registration deadline unconfirmed.",
+          "eventDate": "2026-11-13 19:00–21:00 EST; St. Mark's Church; free RSVP"
+        }
+      ],
+      "shortfall": "Signed-in Instagram was unavailable; no independently confirmed additional open calls."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Claim-level calibration research for language models",
+          "sourceUrl": "https://arxiv.org/abs/2604.12046",
+          "sourceDate": "2026-04-13 (older research, reviewed 2026-11-09)",
+          "development": "CURE research evaluates confidence at individual-claim granularity rather than assigning one confidence to an entire generated answer.",
+          "significance": "Relevant to evidence tracking in Inference Engine.",
+          "implications": "Use per-claim confidence and provenance in prototype.",
+          "uncertainty": "Previously covered in November 7 report; included here only as methodological reference, not a new development."
+        }
+      ],
+      "shortfall": "No newly verified 3–5 distinct research publications or occult-practitioner announcements were found; the single older reference is background, not a freshness claim."
+    }
+  ],
+  "nextMoves": [
+    "Track Abu Dhabi delegation and any verifiable ceasefire terms.",
+    "Check DOT 34th Street busway milestones.",
+    "Separate evidence provenance from causal inference in Machine Intuition."
+  ]
+}
