@@ -1,0 +1,128 @@
+{
+  "id": "2026-11-10-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-10T08:00:00-05:00",
+  "publishedAt": "2026-11-10T08:03:28-05:00",
+  "title": "IMDO OSINT — November 10, 2026 — 8:00 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Trilateral Ukraine peace negotiations open in Abu Dhabi",
+          "sourceUrl": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+          "sourceDate": "2026-11-10",
+          "development": "US-mediated Russian and Ukrainian delegations opened two-day talks; territory, ceasefire sequencing and security guarantees remain disputed.",
+          "significance": "The first three-way meeting since February may define future diplomatic parameters.",
+          "implications": "Watch for signed agreements rather than statements of optimism.",
+          "uncertainty": "Positions on concessions remain attributed to negotiators.",
+          "eventDate": "2026-11-10–11"
+        },
+        {
+          "title": "Russian strikes hit five major Ukrainian substations",
+          "sourceUrl": "https://www.reuters.com/world/russia-pounds-ukraines-power-grid-talks-open-abu-dhabi-2026-11-10/",
+          "sourceDate": "2026-11-10",
+          "development": "Ukrainian officials reported strikes across ten regions, five substations damaged and widespread outages; two people reportedly died in Vinnytsia.",
+          "significance": "Energy attacks compound winter civilian exposure while negotiations begin.",
+          "uncertainty": "Casualty and damage figures are attributed to Ukrainian authorities."
+        },
+        {
+          "title": "Saudi coalition reports missile and drone interceptions",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+          "sourceDate": "2026-11-10",
+          "development": "Saudi coalition authorities reported intercepting missiles aimed at Riyadh and southern Saudi Arabia and a drone over the Eastern Province; Houthi-run media reported Saudi strikes in Sanaa.",
+          "significance": "Escalation threatens civilian safety and energy infrastructure around the Red Sea.",
+          "implications": "Track independently verified strikes and shipping disruptions.",
+          "uncertainty": "Both parties' claims remain attributed; reported strikes were not independently verified."
+        }
+      ],
+      "shortfall": "Only three distinct, sufficiently supported developments met today's novelty threshold."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Spanish unions approach November 11 general strike",
+          "sourceUrl": "https://www.reuters.com/business/world-at-work/spanish-unions-call-general-strike-november-11-weeks-before-snap-election-2026-10-07/",
+          "sourceDate": "2026-10-07",
+          "development": "Spain's UGT and CCOO announced a November 11 strike over housing affordability ahead of November 29 elections.",
+          "significance": "Housing costs have become an organizing issue across organized labor and electoral politics.",
+          "implications": "Confirm whether the strike proceeds and what services are affected.",
+          "uncertainty": "This is an older announcement resurfaced for the approaching date; current participation not reconfirmed.",
+          "eventDate": "2026-11-11"
+        },
+        {
+          "title": "NYC last-mile delivery labor proposal faces coalition strain",
+          "sourceUrl": "https://nypost.com/2026/11/09/business/nyc-councilman-pulls-support-from-mamdani-backed-amazon-delivery-bill-due-to-potential-job-loss/",
+          "sourceDate": "2026-11-09",
+          "development": "A Queens council member withdrew support for the Delivery Protection Act, citing employment and business risks; unions favor direct employment protections.",
+          "significance": "The dispute illustrates tension between contractor protections, logistics costs and job security.",
+          "implications": "Track the bill's text, legal review and committee schedule.",
+          "uncertainty": "Employer job-loss projections and union benefits arguments are contested."
+        }
+      ],
+      "shortfall": "Other electoral and labor developments found today largely duplicated recent editions or lacked fresh corroboration."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "NYC announces $25 million expanded Code Blue winter response",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-mobilizes-citywide-winter-response--expands-code-b",
+          "sourceDate": "2026-11-09",
+          "development": "City Hall announced additional street outreach, warming sites, medical vans and snow-and-ice preparations, including more than 300 canvassers.",
+          "significance": "Cold-weather shelter capacity and public-housing heating reliability affect residents and unsheltered New Yorkers.",
+          "implications": "Track implementation, 311 heating complaints and real deployment figures.",
+          "uncertainty": "Announced resources are plans; results are not yet independently measured."
+        }
+      ],
+      "shortfall": "Overlapping civic item consolidated under Sociopolitical Shifts; other distinct items not verified."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Brooklyn Poetry Slam writing workshop at BRIC",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "2026-11-10 (calendar viewed)",
+          "development": "Write On/Write Now is listed November 10 from 6:30–8:00 p.m. EST at BRIC House, Brooklyn, for $25.",
+          "significance": "A practical writing/performance-development opportunity.",
+          "implications": "Confirm registration and remaining capacity directly with organizer.",
+          "uncertainty": "Organizer-specific ticket URL and eligibility unconfirmed.",
+          "eventDate": "2026-11-10 18:30–20:00 EST"
+        },
+        {
+          "title": "DADA Tuesday literary salons listed",
+          "sourceUrl": "https://dothisnyc.com/things-to-do-in-nyc-this-week/",
+          "sourceDate": "2026-11-10",
+          "development": "A weekly event guide lists DADA's Tuesday literary open mics in Ridgewood, Queens.",
+          "significance": "Potential direct participation in independent literary community.",
+          "implications": "Verify tonight's actual host, start time, cost and signup before traveling.",
+          "uncertainty": "Secondary listing; time and cost unconfirmed.",
+          "eventDate": "2026-11-10, time unconfirmed"
+        }
+      ],
+      "shortfall": "Signed-in Instagram unavailable; further independently verified new submission calls were not found."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Joint end-to-end accuracy and calibration method",
+          "sourceUrl": "https://arxiv.org/abs/2610.13693",
+          "sourceDate": "2026-10-09",
+          "development": "Researchers propose jointly training neural classifiers and calibrators using a bilevel formulation rather than separate post-hoc calibration.",
+          "significance": "Provides an experimental reference for confidence scoring in Inference Engine.",
+          "implications": "Compare predicted probabilities with held-out outcomes before displaying confidence.",
+          "uncertainty": "Older preprint newly selected today; results are authors' claims, not an IMDO implementation."
+        }
+      ],
+      "shortfall": "Only one additional distinct, source-verified research paper met the novelty check; no new independently confirmed occult practitioner announcement was found."
+    }
+  ],
+  "nextMoves": [
+    "Monitor Abu Dhabi talks for an actual signed ceasefire or security arrangement.",
+    "Track implementation of NYC Code Blue expansion.",
+    "Verify open cultural opportunities and research sources before operational use."
+  ]
+}
