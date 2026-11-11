@@ -1,5 +1,5 @@
 import { pageMetadata } from "@/lib/seo";
-import { publishedEditorial } from "@/lib/published-editorial";
+import { getPublishedEditorial } from "@/lib/published-editorial";
 import crawl from "@/data/discovery/common-crawl.json";
 import DiscoveryConsole from "./DiscoveryConsole";
 import "./discovery.css";
@@ -10,8 +10,8 @@ export const metadata = pageMetadata(
   "/discovery",
 );
 
-export default function Discovery() {
-  const { heading, intro, pages, topics } = publishedEditorial.discovery;
+export default async function Discovery() {
+  const { heading, intro, pages, topics } = (await getPublishedEditorial()).discovery;
   return (
     <main className="discovery">
       <header className="discovery-hero">

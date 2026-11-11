@@ -4,10 +4,6 @@ Visitors can open /discovery/ from the main navigation. Filtered draws use the p
 
 ## Enable owner access on Vercel
 
-In the IMDO Vercel project's Production environment, add these server-side variables and redeploy:
+The private imdo-studio-content Vercel Blob store is connected to the project and supplies BLOB_READ_WRITE_TOKEN. In the project's Production environment, set IMDO_EDITOR_SECRET as a sensitive variable and redeploy. Use a password manager to generate and save a unique 32–128 character password without spaces. Enter it on /studio/.
 
-- IMDO_EDITOR_SECRET. Use your phone’s password manager to generate and save a unique 32–128 character password without spaces. Enter that password on /studio/.
-- IMDO_EDITOR_GITHUB_TOKEN. Use a fine-grained GitHub token limited to the site repository with Contents read/write. This is optional if the existing OSINT_GITHUB_TOKEN already has that access.
-- IMDO_EDITOR_GITHUB_BRANCH. Optional override for the existing OSINT_GITHUB_BRANCH, or main if neither is set. Use the branch Vercel deploys to production.
-
-Open /studio/ to edit homepage copy, About copy, the Discovery introduction, and the filtered page and topic lists. Publish changes commits the public content file to GitHub. Check live status compares the committed content against the current Vercel deployment. GitHub keeps past versions of the file. Rotating the Studio secret expires all existing Studio sessions.
+Open /studio/ to edit homepage copy, About copy, the Discovery introduction, and the filtered page and topic lists. Publish changes saves to the private store and invalidates the public pages' caches. The bundled content in data/site-content.json is the initial version until the first save. Rotating the Studio password expires all existing Studio sessions.

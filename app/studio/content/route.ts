@@ -1,15 +1,17 @@
+import { revalidatePath, revalidateTag } from "next/cache";
+import { editorialCacheTag } from "@/lib/published-editorial";
 import { maxEditorialBytes, validateEditorialContent } from "@/lib/editorial-content";
 import { isStudioOwner, readStudioJson, sameOrigin, studioConfig, studioResponse } from "@/lib/studio-auth";
-import { loadStudioContent, revisionPattern, saveStudioContent, StudioConflict } from "@/lib/studio-store";
+import { loadStudioContent, saveStudioContent, StudioConflict } from "@/lib/studio-store";
 
 export async function GET() {
   const config = studioConfig();
   if (!config) return studioResponse({ error: "Studio setup is incomplete." }, 503);
   if (!await isStudioOwner(config.secret)) return studioResponse({ error: "Sign in to Studio." }, 401);
   try {
-    return studioResponse(await loadStudioContent(config));
+    return studioResponse(await loadStudioContent());
   } catch {
-    return studioResponse({ error: "Could not load the current site content from GitHub. Try again." }, 502);
+    return studioResponse({ error: "Could not load the current site content. Try again." }, 502);
   }
 }
 
@@ -23,7 +25,7 @@ export async function PUT(request: Request) {
   let content;
   try {
     const data = await readStudioJson(request, maxEditorialBytes) as { revision?: unknown; content?: unknown } | null;
-    if (typeof data?.revision !== "string" || !revisionPattern.test(data.revision)) {
+    if (typeof data?.revision !== "string" || !data.revision || data.revision.length > 160) {
       throw new Error("Reload the current site content before publishing.");
     }
     revision = data.revision;
@@ -33,7 +35,12 @@ export async function PUT(request: Request) {
   }
 
   try {
-    return studioResponse(await saveStudioContent(config, revision, content));
+    const saved = await saveStudioContent(revision, content);
+    revalidateTag(editorialCacheTag, { expire: 0 });
+    revalidatePath("/");
+    revalidatePath("/about");
+    revalidatePath("/discovery");
+    return studioResponse(saved);
   } catch (error) {
     if (error instanceof StudioConflict) {
       return studioResponse({ error: "The site content changed. Keep a copy of your edits and reload the latest version before publishing." }, 409);

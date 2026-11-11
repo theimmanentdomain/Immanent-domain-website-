@@ -1,17 +1,15 @@
 import "server-only";
 import { createHash, createHmac, timingSafeEqual } from "node:crypto";
 import { cookies } from "next/headers";
+import { studioStorageReady } from "@/lib/studio-store";
 
 export const sessionName = "imdo_studio";
 const sessionLifetime = 8 * 60 * 60;
 
 export function studioConfig() {
   const secret = process.env.IMDO_EDITOR_SECRET;
-  const githubToken = process.env.IMDO_EDITOR_GITHUB_TOKEN || process.env.OSINT_GITHUB_TOKEN;
-  const branch = process.env.IMDO_EDITOR_GITHUB_BRANCH || process.env.OSINT_GITHUB_BRANCH || "main";
-  if (!secret || secret.length < 32 || secret.length > 128 || /\s/.test(secret) || !githubToken) return null;
-  if (process.env.VERCEL_ENV && process.env.VERCEL_ENV !== "production") return null;
-  return { secret, githubToken, branch };
+  if (!secret || secret.length < 32 || secret.length > 128 || /\s/.test(secret) || !studioStorageReady()) return null;
+  return { secret };
 }
 
 function hash(value: string) {
