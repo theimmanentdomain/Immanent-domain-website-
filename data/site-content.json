@@ -1,0 +1,71 @@
+{
+  "home": {
+    "kicker": "Independent arts agency · New York",
+    "headline": "THE\nIMMANENT\nDOMAIN",
+    "lead": "Artists, ideas, and the work of bringing them into the world.",
+    "intro": "Founded by Edward Pankov, IMDO brings artists, writers, performers, and producers together around publications, live events, and collaborative projects.",
+    "contactKicker": "Proposals / Collaborations / Correspondence",
+    "contactHeading": "ENGAGE THE DOMAIN."
+  },
+  "about": {
+    "standfirst": "An independent arts agency in New York, founded by Edward Pankov.",
+    "intro": "IMDO brings artists, writers, performers, and producers together to make work and put it into circulation. Its forms include publications, performances, events, and collaborations shaped around the people involved.\n\nThe agency represents the capacity of a group. Edward is its founder and a working participant; the people who join a project bring their own practices, ideas, and judgment.",
+    "work": "We develop projects, assemble collaborators, produce events, and publish writing and art. Blame It On Downtown is our current publication. Our events calendar follows performances, readings, exhibitions, and gatherings across the city.",
+    "participation": "Proposals, submissions, and introductions are welcome. A working role carries responsibility: a clear contribution, an agreed scope, and a commitment to finish. Participation develops through the work and how we treat one another."
+  },
+  "discovery": {
+    "heading": "Outside the feed.",
+    "intro": "Draw a page from the web or pick up a question you never thought to ask.",
+    "pages": [
+      {"title":"Radio Garden","category":"Sound","note":"Spin the globe and listen to a local radio station.","url":"https://radio.garden/"},
+      {"title":"NYPL Digital Collections","category":"Cartography","note":"Browse photographs, maps, menus, and other objects from New York Public Library collections.","url":"https://digitalcollections.nypl.org/"},
+      {"title":"The Public Domain Review","category":"Art & archives","note":"An illustrated archive of forgotten books, images, films, and recordings.","url":"https://publicdomainreview.org/collections/"},
+      {"title":"David Rumsey Map Collection","category":"Cartography","note":"Survey maps, elaborate atlases, and impossible geographies.","url":"https://www.davidrumsey.com/"},
+      {"title":"UbuWeb Sound","category":"Sound","note":"Sound poetry, tape experiments, and other records of the avant-garde.","url":"https://www.ubu.com/sound/"},
+      {"title":"Global Jukebox","category":"Sound","note":"Explore recordings of musical traditions across the world.","url":"https://theglobaljukebox.org/"},
+      {"title":"WindowSwap","category":"Everyday life","note":"Look out a window recorded by a stranger somewhere else.","url":"https://www.window-swap.com/"},
+      {"title":"Smithsonian Open Access","category":"Art & archives","note":"Download images and 3D models from the Smithsonian collections.","url":"https://www.si.edu/openaccess"},
+      {"title":"Prelinger Archives","category":"Film","note":"Educational, industrial, and amateur films preserved on the Internet Archive.","url":"https://archive.org/details/prelinger"},
+      {"title":"Forgotten NY","category":"Cities","note":"A field guide to overlooked signs, streets, and remnants of New York.","url":"https://forgotten-ny.com/"},
+      {"title":"Tenement Museum: Explore","category":"Cities","note":"Follow New York histories through the apartments people lived in.","url":"https://www.tenement.org/explore/"},
+      {"title":"Biodiversity Heritage Library at the Internet Archive","category":"Natural history","note":"Original illustrated books and field literature on the living world.","url":"https://archive.org/details/biodiversity"},
+      {"title":"Atlas of Living Australia","category":"Natural history","note":"Species records assembled from museums, researchers, and citizen observers.","url":"https://www.ala.org.au/"},
+      {"title":"Endangered Languages Project","category":"Language","note":"Documentation and resources for languages under threat.","url":"https://www.endangeredlanguages.com/"},
+      {"title":"Ocean Biodiversity Information System","category":"Natural history","note":"Map records of whales and other marine species across oceans.","url":"https://obis.org/"},
+      {"title":"Internet Arcade","category":"Computing","note":"Play preserved arcade games in a browser.","url":"https://archive.org/details/internetarcade"},
+      {"title":"The Programming Languages Zoo","category":"Computing","note":"Small implementations of programming languages with radically different ideas.","url":"https://plzoo.andrej.com/"},
+      {"title":"Our World in Data","category":"Public data","note":"Read the charts and source data behind long-run global changes.","url":"https://ourworldindata.org/"},
+      {"title":"The National Security Archive","category":"History","note":"Declassified primary documents gathered at George Washington University.","url":"https://nsarchive.gwu.edu/"},
+      {"title":"Digital Library of the Caribbean","category":"History","note":"Newspapers, maps, and books preserved across Caribbean institutions.","url":"https://dloc.com/"},
+      {"title":"The Old Net","category":"Computing","note":"Browse archived pages through a gateway modeled on the early web.","url":"https://theoldnet.com/"},
+      {"title":"Marginalia Search","category":"Independent web","note":"Explore an index built around smaller corners of the web.","url":"https://marginalia-search.com/"},
+      {"title":"The Great 78 Project","category":"Sound","note":"Listen to shellac records transferred at different stylus sizes.","url":"https://archive.org/details/georgeblood"}
+    ],
+    "topics": [
+      {"title":"Why did some cities bury their rivers?","category":"Cities","query":"urban buried rivers daylighting case studies Cheonggyecheon Fleet"},
+      {"title":"Who owns the negative of a photograph?","category":"Art & archives","query":"photographic negative ownership copyright archives photographer physical object"},
+      {"title":"How did sailors carry time at sea?","category":"History of science","query":"marine chronometers longitude John Harrison observatory history"},
+      {"title":"How do pigeons find their way home?","category":"Natural history","query":"homing pigeon navigation olfactory map magnetic field experiments"},
+      {"title":"What gets lost when a language loses its last fluent speaker?","category":"Language","query":"language documentation last fluent speaker revitalization case study"},
+      {"title":"Why do some piano notes sound in tune together?","category":"Sound","query":"equal temperament just intonation beating piano acoustics"},
+      {"title":"When did public clocks start agreeing?","category":"Infrastructure","query":"public clocks synchronization telegraph standard railway time history"},
+      {"title":"How did printing change which dialects survived?","category":"Language","query":"printing press dialect standardization vernacular print history"},
+      {"title":"What happens to buildings that lose their insurers?","category":"Housing","query":"property insurance nonrenewal climate risk affordable housing public policy"},
+      {"title":"How do community land trusts keep homes affordable?","category":"Housing","query":"community land trust ground lease resale formula affordability evidence"},
+      {"title":"How do cities decide whose noise counts?","category":"Public policy","query":"urban noise ordinances sound enforcement music environmental justice"},
+      {"title":"How do archives preserve a website that keeps changing?","category":"Computing","query":"web archives dynamic websites WARC preservation scholarly"},
+      {"title":"What could medieval manuscript margins tell us about their readers?","category":"Art & archives","query":"medieval manuscript marginalia readers annotations British Library"},
+      {"title":"Where did emergency broadcast signals come from?","category":"Infrastructure","query":"history emergency broadcast system CONELRAD signal archive"},
+      {"title":"What kinds of plants colonize an abandoned railway?","category":"Natural history","query":"railway corridors spontaneous vegetation succession urban ecology"},
+      {"title":"Why were so many films made for factory workers?","category":"Film","query":"industrial films labor training sponsored cinema Prelinger history"},
+      {"title":"How did cities make street numbers legible to strangers?","category":"Cities","query":"history of house numbering street addressing Paris New York cartography"},
+      {"title":"What do we know about the first public weather forecasts?","category":"History of science","query":"first public weather forecasts FitzRoy telegraph storm warnings archive"},
+      {"title":"When do writers choose a pen name?","category":"Publishing","query":"pseudonyms literary publishing history author attribution censorship"},
+      {"title":"How do researchers measure bias in search rankings?","category":"Computing","query":"search engine ranking bias audit methods randomized controlled studies"},
+      {"title":"How can a museum preserve a performance?","category":"Art & archives","query":"performance art documentation scores reperformance museum conservation"},
+      {"title":"What did redlining maps actually record?","category":"Housing","query":"HOLC map area descriptions Mapping Inequality primary sources limitations"},
+      {"title":"How is historical film color reconstructed?","category":"Film","query":"early film color tinting toning restoration film archive"},
+      {"title":"Who decides what goes on a nautical chart?","category":"Cartography","query":"hydrographic survey chart standards generalization international hydrographic organization"}
+    ]
+  }
+}
