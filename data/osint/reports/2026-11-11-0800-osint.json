@@ -1,0 +1,87 @@
+{
+  "id": "2026-11-11-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-11T08:00:00-05:00",
+  "publishedAt": "2026-11-11T08:00:00-05:00",
+  "title": "IMDO OSINT — November 11, 2026 — 8:00 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Second day of Abu Dhabi Ukraine negotiations",
+          "sourceUrl": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+          "sourceDate": "2026-11-11",
+          "development": "US-mediated Russian-Ukrainian talks entered a second day. Kyiv and Washington described the first day positively, without announcing a breakthrough; Russian and Ukrainian attacks continued.",
+          "significance": "Territory and security guarantees remain the central unresolved issues.",
+          "uncertainty": "Belligerent accounts of strikes and negotiating positions are attributed; no ceasefire verified."
+        }
+      ],
+      "shortfall": "Only one sufficiently distinct, independently reported pre-edition conflict development was confirmed; other conflict areas lacked newly verified material."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Spain begins nationwide housing-cost strike",
+          "sourceUrl": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+          "sourceDate": "2026-11-11",
+          "eventDate": "November 11, 2026",
+          "development": "Workers began Spain's first general strike in fourteen years, focused on housing affordability.",
+          "significance": "Housing costs have become a central labor-mobilization issue ahead of elections.",
+          "uncertainty": "Participation and disruption figures are preliminary."
+        }
+      ],
+      "shortfall": "Additional election and labor claims were not independently corroborated before the edition cutoff."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Mayor signs Community Opportunity to Purchase Act",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-signs-landmark-copa-legislation--giving-community-",
+          "sourceDate": "2026-11-10",
+          "eventDate": "Signed November 10, 2026",
+          "development": "Mayor Mamdani signed COPA, granting qualified nonprofits and community groups an initial 145-day offer opportunity for eligible multifamily buildings and a subsequent one-year right of first refusal.",
+          "significance": "This changes acquisition procedures for certain distressed and affordable buildings; implementation details will matter for housing investors and community organizations.",
+          "uncertainty": "Effective date, property eligibility and operational rules require case-specific review."
+        }
+      ],
+      "shortfall": "No other distinct city policy action was confirmed for this edition."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poetry Project announces Sophia Dahlin and Harron Walker reading",
+          "sourceUrl": "https://www.poetryproject.org/",
+          "sourceDate": "Organizer schedule checked November 11, 2026",
+          "eventDate": "November 16, 2026, 8:00 PM EST; St. Mark's Church, 131 E 10th St, New York; $10; ticket availability unconfirmed.",
+          "development": "The Poetry Project lists a November 16 reading by Sophia Dahlin and Harron Walker.",
+          "significance": "An upcoming independent literary gathering suitable for cultural reporting and networking.",
+          "uncertainty": "Organizer listing establishes schedule and price, not remaining ticket inventory."
+        }
+      ],
+      "shortfall": "Read-only Instagram access was unavailable; additional public calls for submissions were not verified."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Temporal causal-chain guided knowledge graph retrieval",
+          "sourceUrl": "https://arxiv.org/abs/2610.38366",
+          "sourceDate": "2026-10-28 (older paper newly reviewed November 11)",
+          "development": "TCC-RAG proposes query-specific temporal causal chains and evidence filtering for knowledge-graph question answering; authors report benchmark improvements.",
+          "significance": "A potential Inference Engine design reference for separating time order and causal claims.",
+          "uncertainty": "Preprint results are author-reported and not independently replicated for IMDO."
+        }
+      ],
+      "shortfall": "Fewer than three sufficiently novel, verified research papers and no independently verified new esoteric practitioner development were identified."
+    }
+  ],
+  "nextMoves": [
+    "Track Abu Dhabi negotiating outcomes and independent strike verification.",
+    "Review COPA implementation and eligible property categories.",
+    "Test temporal causal retrieval against evidence removal and conflicting timestamps."
+  ]
+}
