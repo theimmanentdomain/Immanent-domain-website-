@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { pageMetadata } from "@/lib/seo";
-import { publishedEditorial } from "@/lib/published-editorial";
+import { getPublishedEditorial } from "@/lib/published-editorial";
 
 export const metadata = pageMetadata("About | The Immanent Domain", "The Immanent Domain (IMDO) is an independent arts agency founded by Edward Pankov in New York.", "/about");
 
@@ -8,8 +8,8 @@ function paragraphs(text: string) {
   return text.split(/\n\s*\n/).map((paragraph, index) => <p key={index}>{paragraph}</p>);
 }
 
-export default function About() {
-  const { standfirst, intro, work, participation } = publishedEditorial.about;
+export default async function About() {
+  const { standfirst, intro, work, participation } = (await getPublishedEditorial()).about;
   return (
     <main className="editorial-page">
       <header>

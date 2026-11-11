@@ -6,7 +6,7 @@ import {
   type DiscoveryPage, type DiscoveryTopic, type EditorialContent,
 } from "@/lib/editorial-content";
 
-type Snapshot = { content: EditorialContent; revision: string; live: boolean };
+type Snapshot = { content: EditorialContent; revision: string };
 type Section = "home" | "about" | "discovery" | "pages" | "topics";
 type Field = { label: string; max: number; multiline?: boolean };
 
@@ -144,18 +144,6 @@ export default function StudioForm({ initiallySignedIn }: { initiallySignedIn: b
     });
   }
 
-  function checkLive() {
-    void run(async () => {
-      const snapshot = await request<Snapshot>("/studio/content/");
-      if (saved?.revision !== snapshot.revision) {
-        setStatus("A newer version was saved. Reload it to see those changes.");
-      } else {
-        setSaved(snapshot);
-        setStatus(snapshot.live ? "This version is live." : "The saved version is still awaiting deployment.");
-      }
-    });
-  }
-
   function publish(event: FormEvent) {
     event.preventDefault();
     if (!draft || !saved) return;
@@ -164,7 +152,7 @@ export default function StudioForm({ initiallySignedIn }: { initiallySignedIn: b
       const snapshot = await request<Snapshot>("/studio/content/", "PUT", { content, revision: saved.revision });
       setSaved(snapshot);
       setDraft(snapshot.content);
-      setStatus(snapshot.live ? "This version is live." : "Saved. Vercel will publish this version after the deployment builds.");
+      setStatus("Changes published.");
     });
   }
 
@@ -181,7 +169,7 @@ export default function StudioForm({ initiallySignedIn }: { initiallySignedIn: b
   return (
     <>
       <div className="studio-toolbar">
-        <p>{saved ? saved.live ? "Saved version is live." : "Saved version is awaiting deployment." : "Loading site content…"}</p>
+        <p>{saved ? "Editing published content" : "Loading site content…"}</p>
         <button className="studio-button" type="button" disabled={busy} onClick={signOut}>Sign out</button>
       </div>
       {draft && saved && (
@@ -201,7 +189,6 @@ export default function StudioForm({ initiallySignedIn }: { initiallySignedIn: b
           </fieldset>
           <div className="studio-actions">
             <button className="studio-button studio-primary" type="submit" disabled={busy || !dirty}>Publish changes</button>
-            <button className="studio-button" type="button" disabled={busy} onClick={checkLive}>Check live status</button>
             <button className="studio-button" type="button" disabled={busy} onClick={reload}>{dirty ? "Discard edits and reload" : "Reload saved version"}</button>
             {error && <p role="alert" className="studio-error">{error}</p>}
             {status && <p role="status">{status}</p>}

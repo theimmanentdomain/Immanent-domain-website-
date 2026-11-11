@@ -1,70 +1,50 @@
 import "server-only";
-import { createHash } from "node:crypto";
+import { BlobPreconditionFailedError, get, put } from "@vercel/blob";
+import seed from "@/data/site-content.json";
 import { type EditorialContent, validateEditorialContent } from "@/lib/editorial-content";
-import { publishedEditorial } from "@/lib/published-editorial";
 
-const endpoint = "https://api.github.com/repos/theimmanentdomain/Immanent-domain-website-/contents/data/site-content.json";
-type StoreConfig = { githubToken: string; branch: string };
-type StoreResponse = { content: EditorialContent; revision: string; live: boolean };
+const pathname = "studio/published.json";
+const seedRevision = "seed";
+export const seedEditorial = validateEditorialContent(seed);
 
-export const revisionPattern = /^[a-f0-9]{40}$/;
 export class StudioConflict extends Error {}
 
-function digest(content: EditorialContent) {
-  return createHash("sha256").update(JSON.stringify(content)).digest("hex");
+export function studioStorageReady() {
+  const environment = process.env.VERCEL_ENV;
+  return Boolean(process.env.BLOB_READ_WRITE_TOKEN && (!environment || environment === "production"));
 }
 
-const deployedDigest = digest(publishedEditorial);
-
-function response(content: EditorialContent, revision: string): StoreResponse {
-  return { content, revision, live: digest(content) === deployedDigest };
+export async function loadStudioContent(): Promise<{ content: EditorialContent; revision: string }> {
+  const blob = await get(pathname, { access: "private", useCache: false, abortSignal: AbortSignal.timeout(8000) });
+  if (!blob) return { content: seedEditorial, revision: seedRevision };
+  if (blob.statusCode !== 200 || !blob.blob.etag) throw new Error("Studio storage did not return the published content.");
+  const content = validateEditorialContent(await new Response(blob.stream).json());
+  return { content, revision: blob.blob.etag };
 }
 
-function githubHeaders(config: StoreConfig) {
-  return {
-    Accept: "application/vnd.github+json",
-    Authorization: `Bearer ${config.githubToken}`,
-    "Content-Type": "application/json",
-    "User-Agent": "IMDO Studio",
-    "X-GitHub-Api-Version": "2022-11-28",
-  };
-}
-
-export async function loadStudioContent(config: StoreConfig): Promise<StoreResponse> {
-  const query = new URLSearchParams({ ref: config.branch });
-  const result = await fetch(`${endpoint}?${query}`, {
-    headers: githubHeaders(config), cache: "no-store", signal: AbortSignal.timeout(8000),
-  });
-  if (!result.ok) throw new Error("GitHub did not return the current site content.");
-  const file = await result.json();
-  if (!revisionPattern.test(file.sha) || file.encoding !== "base64" || typeof file.content !== "string") {
-    throw new Error("GitHub returned an unexpected file format.");
-  }
-  const content = validateEditorialContent(JSON.parse(Buffer.from(file.content, "base64").toString("utf8")));
-  return response(content, file.sha);
-}
-
-export async function saveStudioContent(config: StoreConfig, revision: string, content: EditorialContent): Promise<StoreResponse> {
-  const current = await loadStudioContent(config);
-  if (digest(content) === digest(current.content)) return current;
+export async function saveStudioContent(revision: string, content: EditorialContent) {
+  const serialized = JSON.stringify(content);
+  const current = await loadStudioContent();
+  if (serialized === JSON.stringify(current.content)) return current;
   if (revision !== current.revision) throw new StudioConflict();
 
-  const result = await fetch(endpoint, {
-    method: "PUT",
-    headers: githubHeaders(config),
-    body: JSON.stringify({
-      branch: config.branch,
-      sha: revision,
-      message: "Publish IMDO Studio content",
-      content: Buffer.from(JSON.stringify(content, null, 2) + "\n").toString("base64"),
-    }),
-    signal: AbortSignal.timeout(15000),
-  });
-  if (result.status === 409 || result.status === 422) throw new StudioConflict();
-  if (!result.ok) throw new Error("GitHub rejected the site update.");
+  try {
+    await put(pathname, serialized, {
+      access: "private",
+      contentType: "application/json",
+      allowOverwrite: revision !== seedRevision,
+      ifMatch: revision === seedRevision ? undefined : revision,
+      abortSignal: AbortSignal.timeout(12000),
+    });
+  } catch (error) {
+    if (error instanceof BlobPreconditionFailedError) throw new StudioConflict();
+    const latest = await loadStudioContent();
+    if (serialized === JSON.stringify(latest.content)) return latest;
+    if (latest.revision !== revision) throw new StudioConflict();
+    throw error;
+  }
 
-  return loadStudioContent(config).then((saved) => {
-    if (digest(saved.content) !== digest(content)) throw new StudioConflict();
-    return saved;
-  });
+  const saved = await loadStudioContent();
+  if (JSON.stringify(saved.content) !== serialized) throw new StudioConflict();
+  return saved;
 }

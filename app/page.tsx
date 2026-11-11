@@ -1,12 +1,12 @@
 import Link from "next/link";
 import AgencyPanels from "@/components/AgencyPanels";
 import { pageMetadata } from "@/lib/seo";
-import { publishedEditorial } from "@/lib/published-editorial";
+import { getPublishedEditorial } from "@/lib/published-editorial";
 
 export const metadata = pageMetadata("The Immanent Domain | New York Arts Agency", "The Immanent Domain (IMDO) is an independent arts agency founded by Edward Pankov. Explore events, projects, and Blame It On Downtown.", "/");
 
-export default function Home() {
-  const home = publishedEditorial.home;
+export default async function Home() {
+  const home = (await getPublishedEditorial()).home;
   return (
     <main className="agency-home hybrid-home">
       <section className="agency-hero hybrid-hero">
