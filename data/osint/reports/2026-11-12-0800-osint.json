@@ -1,0 +1,132 @@
+{
+  "id": "2026-11-12-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-12T08:00:00-05:00",
+  "publishedAt": "2026-11-12T08:00:22-05:00",
+  "title": "IMDO OSINT — November 12, 2026 — 8:00 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "US envoys meet Putin after Abu Dhabi prisoner-exchange agreement",
+          "sourceUrl": "https://www.reuters.com/world/europe/us-envoys-arrive-moscow-latest-round-ukrainian-peace-talks-with-putin-2026-11-12/",
+          "sourceDate": "2026-11-12",
+          "development": "Witkoff and Kushner traveled to Moscow for talks with Putin following Abu Dhabi negotiations that produced agreement on a prisoner exchange, but no comprehensive ceasefire.",
+          "significance": "Direct Kremlin engagement tests whether prisoner exchange can lead to substantive negotiations.",
+          "uncertainty": "Territorial and security demands remain unresolved."
+        },
+        {
+          "title": "Strike at Gaza's Nasser Hospital kills six, medics say",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-strike-southern-gaza-hospital-kills-four-gaza-civil-defence-says-2026-11-11/",
+          "sourceDate": "2026-11-12",
+          "development": "A strike on a building at Nasser Hospital in Khan Younis killed six according to medical officials; Israel said it targeted Hamas members.",
+          "significance": "The strike raises urgent questions about protection of healthcare facilities and ceasefire compliance.",
+          "uncertainty": "Casualty details are attributed to medics and targeting rationale to Israel."
+        }
+      ],
+      "shortfall": "Fewer than five distinct developments met verification and freshness criteria; no padding or previously covered source URLs."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Spanish housing strike draws millions and police clashes",
+          "sourceUrl": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+          "sourceDate": "2026-11-11",
+          "development": "The November 11 general strike developed into a nationwide action with millions participating according to unions and arrests after clashes; transport and industrial operations were disrupted.",
+          "significance": "Housing affordability has become a central labor and electoral issue ahead of November 29 elections.",
+          "uncertainty": "Turnout estimates and police actions are disputed."
+        },
+        {
+          "title": "New York state business groups contest individualized-pricing restrictions",
+          "sourceUrl": "https://www.timesunion.com/capitol/article/business-groups-lobby-hochul-change-surveillance-22525229.php",
+          "sourceDate": "2026-11-12",
+          "development": "Business groups are lobbying Governor Hochul to amend a state bill restricting personalized prices based on consumer data; advocates say the practice enables discrimination.",
+          "significance": "A pending decision could change how digital commerce uses personal information.",
+          "uncertainty": "The bill is not yet law."
+        }
+      ],
+      "shortfall": "Fewer than five distinct developments met verification and freshness criteria; no padding or previously covered source URLs."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council schedules surveillance-pricing ban vote",
+          "sourceUrl": "https://www.amny.com/news/nyc-council-stop-companies-using-data-set-prices/",
+          "sourceDate": "2026-11-12",
+          "development": "The Consumer and Worker Protection Committee is scheduled to vote at 11 a.m. on legislation restricting individualized algorithmic pricing; a full Council vote is expected later today.",
+          "significance": "Would regulate use of personal information in retail pricing.",
+          "uncertainty": "No vote outcome was verified at report time."
+        },
+        {
+          "title": "Proposed Williamsburg business improvement district faces approvals",
+          "sourceUrl": "https://bushwickdaily.com/business/williamsburg-property-owners-weigh-paying-extra-on-top-of-taxes-for-cleaner-streets-from-bedford-ave-to-the-waterfront/",
+          "sourceDate": "2026-11-11",
+          "development": "Property owners are considering a BID spanning Bedford Avenue toward the waterfront, with additional assessments for street services.",
+          "significance": "Could affect commercial-property operating costs and local public-space governance.",
+          "uncertainty": "Property-owner, Council and mayoral approvals remain outstanding."
+        }
+      ],
+      "shortfall": "Fewer than five distinct developments met verification and freshness criteria; no padding or previously covered source URLs."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poets House hosts Camonghne Felix craft talk",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "2026-11-12",
+          "development": "A craft talk titled Let The Poets Govern is listed for November 12, 7–9 p.m. at Poets House, with sliding-scale admission from free to $10.",
+          "significance": "A direct literary discussion opportunity.",
+          "uncertainty": "Registration and capacity unconfirmed."
+        },
+        {
+          "title": "Poetry Project hosts Nick Sturm Dis/Course",
+          "sourceUrl": "https://www.poetryproject.org/",
+          "sourceDate": "2026-11-12",
+          "development": "The Poetry Project lists a free RSVP event with Nick Sturm on November 13, 7–9 p.m., at St. Mark's Church.",
+          "significance": "Independent poetry criticism and community contact.",
+          "uncertainty": "RSVP availability unconfirmed."
+        },
+        {
+          "title": "Segue Reading Series presents Krusling and Chang",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "2026-11-12",
+          "development": "The November 14 5 p.m. Artists Space reading features Benjamin Krusling and Chang Yuchen; admission listed at $5.",
+          "significance": "Experimental literary scene access.",
+          "uncertainty": "Ticket capacity unconfirmed."
+        }
+      ],
+      "shortfall": "Fewer than five distinct developments met verification and freshness criteria; no padding or previously covered source URLs."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Graph uncertainty changes counterfactual fairness conclusions",
+          "sourceUrl": "https://arxiv.org/abs/2601.03203",
+          "sourceDate": "2026-01-06",
+          "development": "Counterfactual Fairness with Graph Uncertainty proposes evaluating multiple plausible causal graphs rather than treating one graph as certain.",
+          "significance": "An applicable design pattern for Pattern Sense and Inference Engine, allowing alternative causal structures to remain visible.",
+          "uncertainty": "Older paper discovered today; experimental findings do not validate IMDO methods."
+        },
+        {
+          "title": "Thought-level uncertainty minimization in model reasoning",
+          "sourceUrl": "https://arxiv.org/abs/2603.07159",
+          "sourceDate": "2026-03-07",
+          "development": "Researchers investigate selecting reasoning continuations using internal self-certainty, reporting improved benchmark performance under limited sampling.",
+          "significance": "Provides a comparison baseline for uncertainty-aware inference.",
+          "uncertainty": "Older research; internal confidence is not external evidence."
+        }
+      ],
+      "shortfall": "Fewer than five distinct developments met verification and freshness criteria; no padding or previously covered source URLs."
+    }
+  ],
+  "nextMoves": [
+    "Track Moscow negotiations and implementation of the announced prisoner exchange.",
+    "Check NYC surveillance-pricing vote outcome before updating legal status.",
+    "Verify event registration and publication status."
+  ]
+}
