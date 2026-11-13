@@ -1,0 +1,128 @@
+{
+  "id": "2026-11-13-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-13T08:00:00-05:00",
+  "publishedAt": "2026-11-13T08:00:06-05:00",
+  "title": "IMDO OSINT — November 13, 2026 — 8:00 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Iran reports LNG tanker mine explosion in Strait of Hormuz",
+          "sourceUrl": "https://www.reuters.com/world/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-hormuz-2026-11-13/",
+          "sourceDate": "2026-11-13",
+          "development": "Iran's Revolutionary Guards navy said an LNG tanker struck a mine and exploded on November 13; vessel identity and casualties were not immediately provided.",
+          "significance": "Continued attacks in the Strait of Hormuz threaten shipping and energy trade despite expectations of de-escalation.",
+          "uncertainty": "Iranian account not independently confirmed."
+        },
+        {
+          "title": "WHO warns respiratory infections are rising in flooded Gaza shelters",
+          "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/respiratory-illnesses-rise-gaza-with-worst-come-winter-floods-arrive-who-says-2026-11-13/",
+          "sourceDate": "2026-11-13",
+          "development": "WHO reported acute respiratory infections 33,000 cases above the comparable prior-year period, amid overcrowding and flooding; diagnostic laboratory supplies remain restricted.",
+          "significance": "Adds a newly quantified health dimension to previously reported Gaza winter flooding.",
+          "uncertainty": "WHO surveillance figures; access constraints complicate complete counts."
+        },
+        {
+          "title": "EU envoys agree proposed sanctions listings on Russian finance and shadow fleet",
+          "sourceUrl": "https://www.reuters.com/business/finance/eu-envoys-agree-new-russia-sanctions-listings-banks-shadow-fleet-misinformation-2026-11-11/",
+          "sourceDate": "2026-11-11",
+          "development": "EU ambassadors agreed proposed listings of 145 individuals and entities linked to Russia's finance system, shadow fleet and misinformation; ministers are expected to adopt them November 16.",
+          "significance": "A substantive arms-finance and sanctions development beyond the ongoing ceasefire talks.",
+          "uncertainty": "Not legally effective until adopted and published."
+        }
+      ],
+      "shortfall": "Only three independently sourced developments not already covered in recent reports were selected."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Spain's Sánchez struggles to mobilize disillusioned left before snap election",
+          "sourceUrl": "https://www.reuters.com/world/election-nears-spains-sanchez-struggles-rally-disillusioned-left-2026-11-13/",
+          "sourceDate": "2026-11-13",
+          "development": "Reuters reports challenges for the governing left in the run-up to Spain's November 29 snap election, following the nationwide housing strike.",
+          "significance": "Tests whether housing-driven labor mobilization translates into electoral realignment.",
+          "uncertainty": "Election outcomes remain unknown.",
+          "eventDate": "2026-11-29"
+        },
+        {
+          "title": "NYC lawmakers demand school search without mandatory AI summaries",
+          "sourceUrl": "https://politicsny.com/2026/11/13/googles-ai-push-could-put-nyc-students-search-access-at-risk-council-leaders-warn/",
+          "sourceDate": "2026-11-13",
+          "development": "City Council leaders asked Google on November 12 whether schools can retain search access without AI-generated features; response requested by November 19.",
+          "significance": "Raises governance and student autonomy questions about mandatory AI features in education.",
+          "uncertainty": "Google's response and actual product options remain unconfirmed.",
+          "eventDate": "2026-11-19"
+        }
+      ],
+      "shortfall": "No other distinct, adequately verified new political or labor developments were selected."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council bill seeks plan for vacant rent-stabilized apartments",
+          "sourceUrl": "https://www.6sqft.com/new-bill-would-require-city-to-develop-plan-for-vacant-rent-stabilized-units/",
+          "sourceDate": "2026-11-12",
+          "development": "Council Member Farah Louis introduced a bill directing HPD to study and plan for vacant rent-stabilized apartments; reporting cites roughly 57,000 empty units in 2025.",
+          "significance": "Relevant to rental supply, preservation and owner incentives, but does not immediately create leasable inventory.",
+          "uncertainty": "The unit count is a reported estimate; legislation is proposed, not enacted."
+        },
+        {
+          "title": "Council surveillance-pricing proposal awaiting verified outcome",
+          "sourceUrl": "https://www.amny.com/news/nyc-council-stop-companies-using-data-set-prices/",
+          "sourceDate": "2026-11-12",
+          "development": "Previously scheduled November 12 vote on algorithmic pricing requires outcome confirmation.",
+          "significance": "Consumer protection and municipal digital governance.",
+          "uncertainty": "No policy outcome established."
+        }
+      ],
+      "shortfall": "Limited independently confirmed new municipal actions; the AI education issue overlaps the sociopolitical section by design."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poetry Project explores sixty years of little-magazine publishing with Nick Sturm",
+          "sourceUrl": "https://www.poetryproject.org/events/published-at-the-poetry-project-dis-course-with-nick-sturm",
+          "sourceDate": "2026-11-13",
+          "development": "Dis/Course at St. Mark's Church, 131 East 10th Street, on November 13 from 7 to 9 p.m. EST; free with RSVP; examines mimeographed magazines, newsletters and alternative publishing networks.",
+          "significance": "Direct research opportunity for IMDO magazine and small-press organizing.",
+          "uncertainty": "RSVP capacity not independently checked.",
+          "eventDate": "2026-11-13 19:00 EST"
+        },
+        {
+          "title": "Poetry Project announces November 20 interdisciplinary performance",
+          "sourceUrl": "https://www.poetryproject.org/events/",
+          "sourceDate": "2026-11-13",
+          "development": "Crackhead Barney and Ann Liv Young are listed for November 20 at 8 p.m. EST, St. Mark's Church, 131 East 10th Street; general admission $10.",
+          "significance": "Relevant to experimental downtown performance and potential editorial coverage.",
+          "uncertainty": "Ticket availability not confirmed.",
+          "eventDate": "2026-11-20 20:00 EST"
+        }
+      ],
+      "shortfall": "The signed-in Instagram session was inaccessible; no independently confirmed new open auditions or submissions were found."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Abductive logical hypotheses from knowledge graphs",
+          "sourceUrl": "https://arxiv.org/abs/2312.15643",
+          "sourceDate": "2023-12-25",
+          "development": "Bai and colleagues study generating complex logical hypotheses explaining observations in knowledge graphs, and report improvements using reinforcement learning from graph-derived consistency.",
+          "significance": "Offers a directly relevant experimental baseline for Pattern Sense and Inference Engine to generate and test explanations.",
+          "uncertainty": "Older research discovered today; author-reported benchmarks do not establish real-world reliability."
+        }
+      ],
+      "shortfall": "Only one distinct research paper with a verified source and sufficient methodological relevance was identified without recycling recent editions. No new verified occult-practitioner or computational-divination announcement."
+    }
+  ],
+  "nextMoves": [
+    "Monitor Strait of Hormuz maritime incidents and WHO Gaza health reporting.",
+    "Track NYC vacant-unit legislation and November 19 school AI response.",
+    "Develop source-sensitive abductive inference demo; verify upcoming Poetry Project opportunities."
+  ]
+}
