@@ -1,0 +1,150 @@
+{
+  "id": "2026-11-14-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-14T08:00:00-05:00",
+  "publishedAt": "2026-11-14T08:12:00-05:00",
+  "title": "IMDO Master Brief — November 14, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Zelenskyy describes US Donbas-for-NATO suggestion",
+          "sourceUrl": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/",
+          "sourceDate": "2026-11-14",
+          "development": "Zelenskyy says US negotiators floated exchanging Ukrainian territorial concessions in Donbas for NATO membership.",
+          "significance": "A specific potential negotiating trade-off emerges beyond the previous reports of talks; no agreement is confirmed.",
+          "uncertainty": "This is Zelenskyy's characterization of a proposal, not an agreed US or NATO position."
+        },
+        {
+          "title": "US president reportedly considers withholding new Iran strikes",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/trump-tells-advisers-he-may-hold-off-iran-attacks-barring-new-provocations-2026-11-14/",
+          "sourceDate": "2026-11-14",
+          "development": "Reuters reports, citing sources, that Trump told advisers he may hold off further attacks on Iran absent new provocations.",
+          "significance": "A possible de-escalatory signal follows the recently reported Strait of Hormuz maritime incident.",
+          "uncertainty": "Private deliberations attributed to unnamed sources; no binding cessation order verified."
+        },
+        {
+          "title": "Germany seeks predictability from US-Russia talks",
+          "sourceUrl": "https://www.reuters.com/world/china/germanys-merz-asks-trump-no-surprises-putin-talks-2026-11-13/",
+          "sourceDate": "2026-11-13",
+          "development": "German Chancellor Merz urged Trump to avoid surprises in negotiations with Putin.",
+          "significance": "European allies are seeking influence over the security framework being negotiated.",
+          "uncertainty": "Diplomatic request does not establish a change in negotiating positions."
+        }
+      ],
+      "shortfall": "Fewer than five distinct verified conflict developments; no new sufficiently corroborated Sudan or Gaza item was selected."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Reuters examines grievances driving French unrest",
+          "sourceUrl": "https://www.reuters.com/world/europe/riots-france-how-anti-government-protests-spiralled-out-control-2026-11-14/",
+          "sourceDate": "2026-11-14",
+          "development": "Reuters examines cost-of-living protest escalation, rioting and police tactics in France.",
+          "significance": "Adds on-the-ground context to the previously reported foreign disinformation amplification; protest origins and foreign narrative manipulation are distinct.",
+          "uncertainty": "Causal interpretation of policing and unrest remains contested."
+        },
+        {
+          "title": "ASEAN summit tests regional cohesion amid energy crisis",
+          "sourceUrl": "https://www.reuters.com/business/energy/asean-unity-faces-test-energy-crisis-regional-conflicts-loom-over-summit-2026-11-13/",
+          "sourceDate": "2026-11-13",
+          "development": "Reuters reports energy disruptions and regional conflicts are straining ASEAN unity ahead of its summit.",
+          "significance": "Regional economic stress and security disputes may shape diplomatic alignment.",
+          "uncertainty": "Potential summit outcomes remain forecasts, not decisions."
+        }
+      ],
+      "shortfall": "Only two sufficiently distinct verified sociopolitical developments were selected."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Mayor's office lists new street-safety announcement",
+          "sourceUrl": "https://www.nyc.gov/mayors-office",
+          "sourceDate": "2026-11-13",
+          "development": "The NYC Mayor's Office lists a November 13 press conference on street safety.",
+          "significance": "Signals a potentially consequential transportation policy announcement requiring retrieval of the full statement.",
+          "uncertainty": "Specific measures and implementation dates were not independently established from the index."
+        },
+        {
+          "title": "City releases November financial plan",
+          "sourceUrl": "https://www.nyc.gov/mayors-office",
+          "sourceDate": "2026-11-12",
+          "development": "The Mayor's Office lists the November financial plan and says it reduces the budget gap while protecting services.",
+          "significance": "A new official fiscal update is relevant to public-service and housing program capacity.",
+          "uncertainty": "Detailed allocations were not verified in this edition."
+        },
+        {
+          "title": "NYC publishes latest overdose mortality update",
+          "sourceUrl": "https://www.nyc.gov/mayors-office",
+          "sourceDate": "2026-11-12",
+          "development": "The Mayor's Office says overdose deaths are at the lowest level since 2019, 58% below their 2022 peak.",
+          "significance": "An important public-health indicator for outreach and service planning.",
+          "uncertainty": "Underlying surveillance tables and methodology were not independently inspected."
+        }
+      ],
+      "shortfall": "Three verified official announcements; no additional distinct municipal measure confirmed."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poetry Project announces upcoming readings and workshops",
+          "sourceUrl": "https://www.poetryproject.org/",
+          "sourceDate": "2026-11-14 (calendar inspected)",
+          "development": "The Poetry Project lists Sophia Dahlin and Harron Walker on November 16 at 8 p.m. and Amy Ching-Yan Lam and Jacqueline Waters November 18 at 8 p.m.; tickets $10 each at St. Mark's Church, 131 East 10th Street.",
+          "significance": "Useful literary network and independent poetry programming.",
+          "eventDate": "November 16 and 18, 2026, 8:00 p.m. EST; St. Mark's Church; $10; ticket capacity unconfirmed",
+          "uncertainty": "These dates were mentioned in earlier editions; retained as approaching logistics, not new announcements."
+        },
+        {
+          "title": "NYC weekend guide lists independent screenings and theater",
+          "sourceUrl": "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend",
+          "sourceDate": "2026-11-11",
+          "development": "Time Out's November 13–15 guide includes a 35mm screening of When Harry Met Sally and theater programming.",
+          "significance": "Useful discovery index for screenings and performance; organizer details should be independently checked.",
+          "eventDate": "November 13–15, 2026; specific screening venue, times, costs unconfirmed",
+          "uncertainty": "Secondary listing; no tickets or opportunities independently verified."
+        }
+      ],
+      "shortfall": "No new independently verified open mic slots, literary calls or audition opportunities; signed-in Instagram inaccessible."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "CausalSAGE refines partially identified causal graphs",
+          "sourceUrl": "https://arxiv.org/abs/2603.01052",
+          "sourceDate": "2026-03-01",
+          "development": "Researchers propose a method for refining partial ancestral graphs into candidate directed acyclic graphs using state-level representations and structural priors.",
+          "significance": "Pattern Sense could compare candidate causal orientations instead of treating uncertain arrows as facts.",
+          "uncertainty": "Research preprint and authors' benchmark results; older paper newly reviewed."
+        },
+        {
+          "title": "CausalGuard calibrates causal effects across graph uncertainty",
+          "sourceUrl": "https://arxiv.org/abs/2605.21928",
+          "sourceDate": "2026-05-21",
+          "development": "Researchers propose structure-weighted conformal inference using candidate causal graphs and calibration.",
+          "significance": "Inference Engine could attach uncertainty intervals to conclusions dependent on uncertain causal structure.",
+          "uncertainty": "Preprint; coverage guarantees apply under stated statistical assumptions."
+        },
+        {
+          "title": "Test-time Calibration Learning adapts confidence on new tasks",
+          "sourceUrl": "https://arxiv.org/abs/2610.02695",
+          "sourceDate": "2026-10-02",
+          "development": "Researchers propose label-free test-time adaptation of reasoning accuracy and expressed confidence and report improvements on benchmarks.",
+          "significance": "Second Sight could distinguish model self-confidence from independent verification and monitor calibration drift.",
+          "uncertainty": "Authors' reported results, not externally reproduced in IMDO."
+        }
+      ],
+      "shortfall": "Three distinct research papers selected; no verified fresh occult practitioner or machine-magick announcement."
+    }
+  ],
+  "nextMoves": [
+    "Track Ukraine talks and distinguish attributed negotiating proposals from agreements.",
+    "Verify NYC street-safety announcement and November financial plan details.",
+    "Evaluate graph uncertainty and test-time calibration in an evidence-provenance prototype."
+  ]
+}
