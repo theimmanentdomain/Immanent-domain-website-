@@ -1,0 +1,90 @@
+{
+  "id": "2026-11-15-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-15T08:00:00-05:00",
+  "publishedAt": "2026-11-15T08:08:00-05:00",
+  "title": "IMDO Master Brief — November 15, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Israeli and Hamas sources confirm Rafah brigade commander killed",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-senior-commander-hamas-military-wing-2026-11-14/",
+          "sourceDate": "2026-11-14",
+          "development": "Israeli military and Hamas confirmed that Samir Abu Younis, a Hamas Rafah brigade commander, was killed in an Israeli strike in southern Gaza on November 14.",
+          "significance": "The killing is a consequential leadership loss amid a ceasefire that has not stopped lethal strikes.",
+          "uncertainty": "Other casualties and operational implications remain incompletely verified."
+        },
+        {
+          "title": "Ukraine reports casualties from Zaporizhzhia and Odesa strikes",
+          "sourceUrl": "https://www.reuters.com/world/russian-strikes-kill-one-zaporizhzhia-two-odesa-2026-11-13/",
+          "sourceDate": "2026-11-13",
+          "development": "Regional officials reported three deaths and more than 55 injuries from Russian strikes on November 13, including damage to a residential building.",
+          "significance": "The attacks document continued civilian harm during renewed diplomatic engagement.",
+          "uncertainty": "Reuters could not independently verify casualty totals."
+        },
+        {
+          "title": "Ukraine IMF loan review could unlock $1.67 billion",
+          "sourceUrl": "https://www.reuters.com/business/imf-launches-ukraine-loan-review-that-could-unlock-167-billion-2026-11-09/",
+          "sourceDate": "2026-11-09",
+          "development": "The IMF began reviews of Ukraine's lending programme that could release about $1.67 billion, amid a projected large 2027 funding gap.",
+          "significance": "Fiscal resilience and external financing remain important components of Ukraine's war endurance.",
+          "uncertainty": "This November 9 report was newly selected today; funding is conditional, not approved."
+        }
+      ],
+      "shortfall": "No further independently verified and materially new Sudan or Iran development met the novelty threshold."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [],
+      "shortfall": "Fresh searches yielded no independently verified November 15 election, labor, civil liberties or governance development sufficiently distinct from the previous fifteen editions. Previously covered Spanish strike, French unrest and US political shifts are not recycled."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [],
+      "shortfall": "No fresh, specific official notice or credible local development was independently confirmed beyond topics already covered. The previously reported COPA enactment and November financial plan remain monitoring subjects, not new items."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poetry Project announces Poetry Meets Performance workshop",
+          "sourceUrl": "https://www.poetryproject.org/learning",
+          "sourceDate": "2026-11-15 (page checked; posting date unconfirmed)",
+          "development": "A five-session Poetry Meets Performance workshop with Maya Martinez is listed for November 23–December 21, 7–9 p.m. New York time; tuition $200.",
+          "significance": "Directly relevant to poetry-performance development and collaboration.",
+          "uncertainty": "Registration availability, exact room, and application deadline are not confirmed."
+        },
+        {
+          "title": "Poetry Project November 16 and 18 readings remain scheduled",
+          "sourceUrl": "https://www.poetryproject.org/events",
+          "sourceDate": "2026-11-15 (page checked; posting date unconfirmed)",
+          "development": "Official organizer calendar lists Sophia Dahlin and Harron Walker on November 16 and Amy Ching-Yan Lam and Jacqueline Waters on November 18, both 8 p.m. at St. Mark's Church; general admission $10.",
+          "significance": "Confirmed upcoming cultural engagements, included as logistics updates rather than newly discovered events.",
+          "uncertainty": "Remaining ticket inventory not confirmed."
+        }
+      ],
+      "shortfall": "No newly verified open performance slot, magazine call, or new independent venue opportunity. Signed-in Instagram was inaccessible."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Uncertain causal networks formalize ambiguous edges",
+          "sourceUrl": "https://arxiv.org/abs/2208.04627",
+          "sourceDate": "2022-08-09 (older paper newly reviewed 2026-11-15)",
+          "development": "Research examines identifying causal effects when graph edges are probabilistic and shows a related optimization problem is NP-complete.",
+          "significance": "Provides an explicit computational constraint for Pattern Sense and Inference Engine: uncertain links cannot be treated as established causal pathways.",
+          "uncertainty": "Research results do not validate occult or paranormal claims."
+        }
+      ],
+      "shortfall": "Only one distinct older paper met source verification and deduplication requirements today; no credible new occult practitioner announcement or three to five fresh papers could be established."
+    }
+  ],
+  "nextMoves": [
+    "Track ceasefire violations and Ukraine fiscal support without equating attributed claims with independently verified facts.",
+    "Confirm Poetry Project workshop eligibility and available seats.",
+    "Test uncertainty propagation in evidence graphs against withdrawn or contradictory sources."
+  ]
+}
