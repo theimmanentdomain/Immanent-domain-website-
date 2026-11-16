@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-16-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-16T08:00:00-05:00",
+  "publishedAt": "2026-11-16T08:54:44-05:00",
+  "title": "IMDO Master Brief — November 16, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Ukraine launches record-scale drone attack according to Russian ministry",
+          "sourceUrl": "https://www.reuters.com/world/europe/ukraine-launches-biggest-drone-attack-russia-since-war-began-defence-ministry-2026-11-16/",
+          "sourceDate": "2026-11-16",
+          "development": "Russian ministry said 1,336 drones were intercepted across 16 regions; strikes affected industrial sites and the Crimea bridge.",
+          "significance": "Demonstrates expansion of the energy and infrastructure war despite negotiations.",
+          "uncertainty": "Drone counts are Russian government figures; independent verification incomplete."
+        },
+        {
+          "title": "Nuclear regulators warn Ukrainian energy strikes increase accident risk",
+          "sourceUrl": "https://www.reuters.com/business/energy/risk-nuclear-accident-ukraine-increasing-this-winter-atomic-safety-regulators-say-2026-11-16/",
+          "sourceDate": "2026-11-16",
+          "development": "European nuclear regulators warned grid damage could interrupt cooling power to nuclear plants.",
+          "significance": "Winter power infrastructure is also a nuclear safety concern."
+        },
+        {
+          "title": "EU ministers caution against premature European security talks with Moscow",
+          "sourceUrl": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/16/holding-talks-with-russia-on-europe-s-security-now-would-be-premature-eu-ministers-say",
+          "sourceDate": "2026-11-16",
+          "development": "EU ministers argued wider European security talks with Russia would be premature.",
+          "significance": "Shows disagreement over diplomatic sequencing after US-mediated Ukraine talks."
+        },
+        {
+          "title": "EU imposes sanctions on Russian retail executive",
+          "sourceUrl": "https://www.reuters.com/world/eu-adds-russian-online-retailer-wildberries-ceo-russia-sanctions-list-2026-11-16/",
+          "sourceDate": "2026-11-16",
+          "development": "EU listed Wildberries CEO Tatyana Kim, citing dual-use goods and military supply concerns.",
+          "significance": "Marks implementation of a new sanctions listing; allegations disputed by the company.",
+          "uncertainty": "Company denies the allegations."
+        }
+      ],
+      "shortfall": "Four distinct corroborated developments met the novelty threshold; no new Sudan or Gaza report independently verified for this run."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Cape Verde president wins provisional re-election",
+          "sourceUrl": "https://www.reuters.com/video/watch/idRW863716112026RP1?chan=politics&location=channel-item",
+          "sourceDate": "2026-11-16",
+          "development": "Provisional results show President José Maria Neves winning a second term.",
+          "significance": "Youth employment featured in the campaign.",
+          "uncertainty": "Final certified results not yet established."
+        },
+        {
+          "title": "US Republican presidential succession field begins taking shape",
+          "sourceUrl": "https://www.reuters.com/video/watch/idRW829413112026RP1/",
+          "sourceDate": "2026-11-16",
+          "development": "Reuters reports potential 2028 candidates are preparing after midterm losses.",
+          "significance": "Signals party realignment discussions, not settled nominations."
+        },
+        {
+          "title": "Chicago debt investigation documents fiscal pressure on public services",
+          "sourceUrl": "https://www.propublica.org/article/chicago-debt-burden-public-health-safety",
+          "sourceDate": "2026-11-16",
+          "development": "ProPublica investigates Chicago's approximately $55 billion debt burden and budget constraints.",
+          "significance": "Debt service can crowd out municipal services and shape local governance."
+        }
+      ],
+      "shortfall": "No additional independently verified new labor or civil-liberties development passed deduplication."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "DOB hearing on residential natural-gas detectors",
+          "sourceUrl": "https://citylimits.org/nyc-housing-calendar-nov-9-16-2/",
+          "sourceDate": "2026-11-09",
+          "development": "City Limits lists a Department of Buildings proposed-rule hearing for November 16 at 11 a.m.",
+          "significance": "Landlord compliance and resident safety may be affected.",
+          "uncertainty": "Hearing logistics and rule text should be checked directly with DOB."
+        },
+        {
+          "title": "City Planning Commission review session scheduled",
+          "sourceUrl": "https://citylimits.org/nyc-housing-calendar-nov-9-16-2/",
+          "sourceDate": "2026-11-09",
+          "development": "A City Planning Commission public review session is listed for November 16 at 1 p.m.",
+          "significance": "Opportunity to monitor land-use pipeline.",
+          "uncertainty": "Agenda not established in source."
+        },
+        {
+          "title": "New report highlights rising car ownership costs and transit funding debate",
+          "sourceUrl": "https://empire.streetsblog.org/increase-in-car-costs-make-the-case-for-transit-funding-report",
+          "sourceDate": "2026-11-16",
+          "development": "Streetsblog covers a transit advocacy analysis comparing car costs and transit affordability.",
+          "significance": "Provides an economic argument in state transit funding negotiations.",
+          "uncertainty": "Advocacy report estimates require methodological scrutiny."
+        },
+        {
+          "title": "Housing lotteries close November 16",
+          "sourceUrl": "https://citylimits.org/nyc-housing-calendar-nov-9-16-2/",
+          "sourceDate": "2026-11-09",
+          "development": "City Limits lists four Housing Connect lotteries closing November 16, including 292 East 51st Street, 1529 Brooklyn Avenue, 315 East 29th Street, and Artifact No. 1861 Phase II.",
+          "significance": "Time-sensitive affordable-housing application opportunities.",
+          "uncertainty": "Income eligibility varies; application details must be checked in Housing Connect."
+        }
+      ],
+      "shortfall": "Four distinct actionable local developments were confirmed; no additional policy implementation verified."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poetry Project schedules Dahlin and Walker reading",
+          "sourceUrl": "https://www.poetryproject.org/events",
+          "sourceDate": "2026-11-15",
+          "development": "Previously announced Sophia Dahlin and Harron Walker reading is scheduled November 16 at 8 p.m. at St. Mark's Church.",
+          "significance": "Immediate cultural networking opportunity, not a new announcement.",
+          "uncertainty": "Ticket capacity not confirmed; previously covered and included only as same-day reminder."
+        }
+      ],
+      "shortfall": "No newly verified open performance, literary submission, or independent scene announcement; Instagram session unavailable."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Causals releases an open causal knowledge graph",
+          "sourceUrl": "https://arxiv.org/abs/2611.16267",
+          "sourceDate": "2026-11-12",
+          "development": "Researchers describe an open graph built from news with 369,184 nodes and 1,272,418 edges, distinguishing observations, structure, and attributed causal claims.",
+          "significance": "Strong architectural reference for Pattern Sense and Inference Engine; preserve claim attribution and evidence provenance."
+        },
+        {
+          "title": "RL-ARC distinguishes reasoning and answer confidence",
+          "sourceUrl": "https://arxiv.org/abs/2610.11352",
+          "sourceDate": "2026-10-08",
+          "development": "Authors propose calibration-aware training using both reasoning confidence and answer confidence.",
+          "significance": "Potential benchmark for uncertainty handling in Second Sight; older paper newly reviewed.",
+          "uncertainty": "Authors' experimental results, not independently replicated here."
+        },
+        {
+          "title": "Double-Calibration tracks uncertainty in retrieved evidence and reasoning",
+          "sourceUrl": "https://arxiv.org/abs/2601.11956",
+          "sourceDate": "2026-01-17",
+          "development": "Researchers propose a proxy model calibrating knowledge-graph evidence before language-model reasoning.",
+          "significance": "Supports separating evidence confidence from hypothesis confidence in The Interior; older study newly selected."
+        }
+      ],
+      "shortfall": "Three relevant distinct papers selected; no independently verified new esoteric-practitioner or computational divination announcement."
+    }
+  ],
+  "nextMoves": [
+    "Track Ukraine infrastructure and nuclear safety escalation",
+    "Monitor NYC housing-rule hearing and lottery deadlines",
+    "Prototype evidence-provenance graph using Causals"
+  ]
+}
