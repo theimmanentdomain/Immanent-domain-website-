@@ -1,0 +1,184 @@
+{
+  "id": "2026-11-17-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-17T08:00:00-05:00",
+  "publishedAt": "2026-11-17T08:00:00-05:00",
+  "title": "IMDO Master Brief — November 17, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "UN says drones account for most verified Sudan civilian deaths in early 2026",
+          "sourceUrl": "https://www.reuters.com/world/africa/drones-account-nearly-three-quarters-sudan-war-deaths-this-year-un-says-2026-11-17/",
+          "sourceDate": "2026-11-17",
+          "development": "UN human rights office reports 2,230 verified civilian deaths in the first half of 2026, more than 1,630 attributed to drone attacks.",
+          "significance": "Documents a shift in civilian exposure and attacks on essential infrastructure.",
+          "implications": "Track civilian protection, water and power infrastructure, and accountability.",
+          "uncertainty": "UN says the actual toll is likely higher."
+        },
+        {
+          "title": "Crimea bridge damage and Kyiv transport strikes intensify infrastructure war",
+          "sourceUrl": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/",
+          "sourceDate": "2026-11-17",
+          "development": "Ukraine says a road arch and span of the Kerch bridge collapsed after a second day of attacks; Russia struck Kyiv bridges and metro facilities.",
+          "significance": "Strategic transport disruption now affects both sides amid talks without territorial agreement.",
+          "implications": "Monitor Sea of Azov logistics and Ukrainian civilian access to transport and electricity.",
+          "uncertainty": "Bridge damage and drone interception figures include belligerent statements requiring independent confirmation."
+        },
+        {
+          "title": "Bahrain intercepts reported Iranian drone attack on US-linked radar",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/bahrain-says-it-intercepts-iranian-air-attacks-irgc-says-it-targets-us-radar-2026-11-17/",
+          "sourceDate": "2026-11-17",
+          "development": "Iran's Revolutionary Guards claimed a drone attack against a US radar installation at Sheikh Isa Air Base; Bahrain and the US reported interception.",
+          "significance": "A new Gulf confrontation tests reported US intentions to avoid further escalation.",
+          "implications": "Watch retaliatory decisions and regional aviation and shipping security.",
+          "uncertainty": "Iranian claims about the target and rationale are attributed, not independently verified."
+        }
+      ],
+      "shortfall": "Three distinct verified or clearly attributed new developments; other conflict theaters lacked sufficiently corroborated fresh material."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Serbian student-led parliamentary majority takes office",
+          "sourceUrl": "https://www.reuters.com/world/serbias-student-list-deputies-take-seats-parliament-after-landmark-election-win-2026-11-17/",
+          "sourceDate": "2026-11-17",
+          "development": "Student List lawmakers took their seats following October 25 election results reported as 140 of 250 seats, ending 14 years of SNS government.",
+          "significance": "An unusual student-organized coalition transitions from protest politics into formal governing institutions.",
+          "implications": "Monitor coalition cohesion and legislative priorities."
+        },
+        {
+          "title": "Czech protesters contest public-media funding overhaul",
+          "sourceUrl": "https://www.reuters.com/business/media-telecom/tens-thousands-czechs-rally-against-government-media-funding-plan-2026-11-15/",
+          "sourceDate": "2026-11-15",
+          "development": "Large Prague demonstrations opposed a plan to replace public-broadcasting fees with state-budget funding.",
+          "significance": "Raises institutional-independence concerns as budgetary control may increase political leverage.",
+          "implications": "Track legislative text and broadcaster governance safeguards.",
+          "uncertainty": "Crowd estimates vary; the proposed change is not yet implemented."
+        },
+        {
+          "title": "Autonomous-weapons treaty negotiations face opposition",
+          "sourceUrl": "https://www.dawn.com/news/2045096/us-russia-to-oppose-talks-on-limiting-autonomous-weapons",
+          "sourceDate": "2026-11-17",
+          "development": "Diplomats and rights groups expect US and Russian opposition to opening binding autonomous-weapons negotiations at a UN convention meeting.",
+          "significance": "AI-enabled military targeting raises urgent questions of accountability and human control.",
+          "implications": "Watch formal decisions at the Geneva meeting.",
+          "uncertainty": "Reported negotiating positions are not final conference outcomes."
+        }
+      ],
+      "shortfall": "Three distinct developments met verification and deduplication; no further labor update established."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "Council schedules homeownership oversight hearing",
+          "sourceUrl": "https://citylimits.org/nyc-housing-calendar-nov-16-23/",
+          "sourceDate": "2026-11-17",
+          "development": "Finance and Housing and Buildings committees scheduled a joint oversight hearing on increasing NYC homeownership opportunities for November 17 at 11 a.m. EST.",
+          "significance": "Potential signal on affordability and homeowner preservation policy.",
+          "implications": "Review hearing testimony and any proposed legislation.",
+          "uncertainty": "Hearing outcome not yet established.",
+          "eventDate": "2026-11-17 11:00 EST; venue/access in linked calendar."
+        },
+        {
+          "title": "NYCHA board meets November 18",
+          "sourceUrl": "https://www.nyc.gov/site/nycha/about/board-meetings.page",
+          "sourceDate": "2026-11-17",
+          "development": "NYCHA confirms its November 18 board meeting at 10 a.m. at 90 Church Street, fifth floor, with livestream and preregistered public comment.",
+          "significance": "Direct public oversight channel for capital, operations, and resident issues.",
+          "implications": "Review meeting calendar and any HCV-relevant agenda items.",
+          "uncertainty": "Agenda items not independently reviewed.",
+          "eventDate": "2026-11-18 10:00 EST; 90 Church Street, Manhattan; free public meeting."
+        },
+        {
+          "title": "Landmarks and street-address rules hearings scheduled",
+          "sourceUrl": "https://citylimits.org/nyc-housing-calendar-nov-16-23/",
+          "sourceDate": "2026-11-17",
+          "development": "Landmarks Preservation Commission scheduled a 9 a.m. meeting and city planning a 10 a.m. hearing on address assignment and verification rules.",
+          "significance": "Could affect property administration and preservation procedures.",
+          "implications": "Review proposed rule texts before advising owners.",
+          "uncertainty": "Specific rule language and outcomes unconfirmed.",
+          "eventDate": "2026-11-17 09:00 and 10:00 EST; access via linked calendar."
+        }
+      ],
+      "shortfall": "Three timely civic proceedings selected; no additional confirmed new transit or voucher policy enacted."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poets House presents multilingual Mary Low book launch",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "2026-11-17",
+          "development": "A reading in English, Spanish and French for In Search of Mary Low is listed at Poets House.",
+          "significance": "Relevant to international literary networks and independent poetry publishing.",
+          "implications": "Attend for literary discovery and potential editorial connections.",
+          "uncertainty": "Listings differ on start time (6 versus 7 p.m.); confirm directly with venue. Free admission listed.",
+          "eventDate": "2026-11-17 evening EST; Poets House, 10 River Terrace, Manhattan; free."
+        },
+        {
+          "title": "Nuyorican offsite open mic offers November 18 performance slots",
+          "sourceUrl": "https://loisaida.org/event/open-mic-wednesdays-at-loisaida-center-hosted-by-brian-acosta-arya-3-2-2/2026-11-18/",
+          "sourceDate": "2026-11-17",
+          "development": "Nuyorican Poets Cafe hosts a Wednesday open mic at Loisaida Center; signup at the entrance and original poetry, stories, monologues, comedy and songs are eligible.",
+          "significance": "Concrete accessible performance opportunity.",
+          "implications": "Arrive at doors to secure a first-come slot; performance is recorded and streamed.",
+          "uncertainty": "Organizer page contains inconsistent three- and four-minute limits; confirm on arrival.",
+          "eventDate": "2026-11-18 doors 18:00, performances 18:30-20:00 EST; 710 East 9th Street, Manhattan; $10 door, no cash."
+        },
+        {
+          "title": "Inwood Art Works schedules spoken-word salon with limited open mic",
+          "sourceUrl": "https://happening-nyc.com/event/words-in-the-wood-a-poetry-storytelling-amp-spoken-word-salon-7a09416a1f51277e7f08466a185420797f0e",
+          "sourceDate": "2026-11-17",
+          "development": "Words in the Wood features curated readings followed by first-come audience open-mic slots of three to four minutes.",
+          "significance": "Low-cost performance and networking option outside the usual downtown geography.",
+          "implications": "Doors open at 1:30 p.m.; open mic begins 3 p.m.",
+          "uncertainty": "Capacity and remaining slots unconfirmed.",
+          "eventDate": "2026-11-22 14:00 EST; 112 Seaman Avenue, Manhattan; pay what you will, $10 suggested."
+        }
+      ],
+      "shortfall": "Three verified cultural opportunities; signed-in Instagram unavailable."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "AbductionBench unifies tests of explanatory reasoning",
+          "sourceUrl": "https://arxiv.org/abs/2611.10705",
+          "sourceDate": "2026-11-07",
+          "development": "Researchers propose a taxonomy of abductive tasks and evaluate eight language models across 27 datasets in ten domains.",
+          "significance": "Tests hypothesis generation, selection and revision rather than treating explanation quality as a single skill.",
+          "implications": "Benchmark Pattern Sense and Inference Engine on changing evidence and competing explanations.",
+          "uncertainty": "Preprint research; results depend on dataset design."
+        },
+        {
+          "title": "Mechanistic uncertainty measured through causal robustness",
+          "sourceUrl": "https://arxiv.org/abs/2610.22636",
+          "sourceDate": "2026-10-15",
+          "development": "Researchers test whether the size of internal interventions needed to change an answer predicts reliability across three open models and five QA datasets.",
+          "significance": "Provides a distinct uncertainty signal beyond verbal confidence.",
+          "implications": "Consider robustness testing in Second Sight; do not equate stability with truth.",
+          "uncertainty": "Preprint and model-dependent findings."
+        },
+        {
+          "title": "Graph of States structures abductive reasoning and backtracking",
+          "sourceUrl": "https://arxiv.org/abs/2603.21250",
+          "sourceDate": "2026-03-22",
+          "development": "Researchers use explicit belief states, a causal graph and controlled transitions to reduce fabricated evidence and context drift in abductive tasks.",
+          "significance": "Suggests a concrete architecture for competing-hypothesis workflows.",
+          "implications": "Prototype The Interior as a stateful evidence ledger and the Noetic Perception Device as a graph display.",
+          "uncertainty": "Preprint; reported benchmark gains require independent replication."
+        }
+      ],
+      "shortfall": "Three distinct research works selected; no new independently verified esoteric-practitioner announcement."
+    }
+  ],
+  "nextMoves": [
+    "Track NYCHA November 18 meeting and verify any HCV administrative changes.",
+    "Check the November 17 homeownership hearing outcome.",
+    "Test abductive reasoning with evidence revision and calibrated uncertainty."
+  ]
+}
