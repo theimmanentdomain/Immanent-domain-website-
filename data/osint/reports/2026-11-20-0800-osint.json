@@ -1,0 +1,96 @@
+{
+  "id": "2026-11-20-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-20T08:00:00-05:00",
+  "publishedAt": "2026-11-20T12:58:07.808Z",
+  "title": "IMDO Master Brief — November 20, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Russian overnight barrage kills civilians and disrupts Ukrainian power and transport",
+          "sourceUrl": "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/",
+          "sourceDate": "2026-11-20",
+          "eventDate": "2026-11-20 overnight, Ukraine",
+          "development": "Russian strikes hit Kyiv bridges and other infrastructure; Ukrainian officials reported at least eight deaths, including six in Kyiv, with regional power and water disruptions. Ukraine's air force reported hundreds of drones and numerous missiles.",
+          "significance": "The attack expands civilian harm and infrastructure disruption following attacks on the Crimea bridge.",
+          "uncertainty": "Casualty and interception figures are attributed to Ukrainian officials; Russian target claims are separate and not independently confirmed."
+        },
+        {
+          "title": "Russia rejects NATO-like security guarantees for Ukraine",
+          "sourceUrl": "https://www.reuters.com/world/russia-pushes-back-against-us-idea-nato-style-security-guarantees-for-ukraine-2026-11-20/",
+          "sourceDate": "2026-11-20",
+          "development": "Russian Deputy Foreign Minister Sergei Ryabkov rejected proposals resembling NATO membership for Ukraine while discussions about possible European envoys visiting Moscow continue.",
+          "significance": "The rejection identifies a concrete unresolved obstacle to a negotiated security settlement.",
+          "uncertainty": "Negotiating positions are attributed to officials; no agreement or ceasefire was established."
+        },
+        {
+          "title": "UNICEF warns Ukrainian child deaths approaching early-war levels",
+          "sourceUrl": "https://www.reuters.com/world/ukraine-child-death-toll-climbs-near-2022-levels-unicef-says-2026-11-20/",
+          "sourceDate": "2026-11-20",
+          "development": "UNICEF warned that child deaths in Ukraine are climbing toward levels seen in 2022.",
+          "significance": "Civilian harm continues despite diplomatic engagement.",
+          "uncertainty": "The exact reported figures and methodology require inspection of the underlying UNICEF release."
+        }
+      ],
+      "shortfall": "No additional distinct and independently corroborated Sudan, Gaza, or other conflict developments selected."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Italy general strike mobilizes workers and students over wages and public spending",
+          "sourceUrl": "https://www.reuters.com/world/thousands-protest-across-italy-strike-over-wages-public-spending-2026-11-20/",
+          "sourceDate": "2026-11-20",
+          "eventDate": "2026-11-20, Italy",
+          "development": "CGIL organized a national strike and protests involving workers and students against wages, living costs and the proposed 2027 budget.",
+          "significance": "The mobilization joins labor and student grievances around public services and purchasing power.",
+          "uncertainty": "Participation totals and ultimate legislative effects are not yet established."
+        }
+      ],
+      "shortfall": "No further independently verified new electoral or civil-liberties development selected."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "NYC releases new plan to close Rikers Island by 2032",
+          "sourceUrl": "https://gothamist.com/news/mamdani-lays-out-plan-to-close-rikers-by-2032-after-years-of-delays",
+          "sourceDate": "2026-11-20",
+          "eventDate": "Plan announced November 20, 2026",
+          "development": "Mayor Mamdani's administration released a plan to transfer remaining detainees to borough-based jails and hospital units by 2032, beyond the existing statutory 2027 deadline.",
+          "significance": "The plan affects jail construction, land reuse, public expenditure, treatment and reentry services.",
+          "implications": "Monitor City Council action needed to amend the existing deadline and follow funding for community services.",
+          "uncertainty": "The 2032 schedule is a proposal, not a completed closure or enacted extension."
+        }
+      ],
+      "shortfall": "No new verified NYC voucher policy or transit service change established; voucher operations remain private and excluded."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [],
+      "shortfall": "No newly announced, independently verified cultural opportunity distinct from recent editions was established. Previously listed November 20 and 22 events are not republished as fresh discoveries; signed-in Instagram was unavailable."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Knowing When to Intervene: Causal Evaluation of AI Agents",
+          "sourceUrl": "https://arxiv.org/abs/2611.09792",
+          "sourceDate": "2026-11-06 (older paper newly reviewed 2026-11-20)",
+          "development": "Researchers propose estimating the causal effects of auditing and verification interventions within evolving AI-agent trajectories using randomized intervention data.",
+          "significance": "Provides a testable method for deciding when additional evidence verification changes an inference outcome.",
+          "implications": "Inference Engine could evaluate the expected benefit of source checks instead of verifying every inference indiscriminately.",
+          "uncertainty": "Reported results apply to evaluated benchmarks; transfer to IMDO systems is an architectural inference."
+        }
+      ],
+      "shortfall": "Only one distinct substantiated research contribution selected. No verified new occult publication or practitioner development."
+    }
+  ],
+  "nextMoves": [
+    "Track Kyiv civilian and infrastructure damage and the status of diplomatic security guarantees.",
+    "Monitor City Council response to the Rikers closure timetable.",
+    "Test whether selective source verification improves causal inference accuracy."
+  ]
+}
