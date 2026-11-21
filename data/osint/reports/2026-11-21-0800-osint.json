@@ -1,0 +1,110 @@
+{
+  "id": "2026-11-21-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-21T08:00:00-05:00",
+  "publishedAt": "2026-11-21T12:59:49.390Z",
+  "title": "IMDO Master Brief — November 21, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Denmark seeks tighter EU restrictions on Russian travel after alleged foiled plot",
+          "sourceUrl": "https://www.reuters.com/world/europe/denmark-pushes-eu-tighten-curbs-russians-after-foiled-plot-message-member-states-2026-11-21/",
+          "sourceDate": "2026-11-21",
+          "development": "Reuters reports Denmark is urging EU states to tighten Russian travel restrictions after Danish authorities described a foiled plot. The plot details and alleged connections require attribution.",
+          "significance": "European security responses to suspected cross-border operations may affect visa and diplomatic policy.",
+          "uncertainty": "Investigation allegations are not judicial findings."
+        },
+        {
+          "title": "Russia and Ukraine report fresh strikes on energy infrastructure and ships",
+          "sourceUrl": "https://www.trtworld.com/article/921ddd08eb0c",
+          "sourceDate": "2026-11-21",
+          "development": "Russia's defense ministry claimed strikes on Ukrainian energy facilities and a cargo vessel near Odesa. Reports also describe Ukrainian attacks on Russian targets.",
+          "significance": "Continued infrastructure and maritime strikes expose civilian power supply and Black Sea commerce to disruption.",
+          "uncertainty": "Belligerent claims and damage assessments were not independently verified."
+        }
+      ],
+      "shortfall": "Only two distinct timely developments were sufficiently sourced before publication; no fresh independently corroborated Sudan or Gaza change established."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Spain proposes extending bank tax to finance housing measures",
+          "sourceUrl": "https://www.reuters.com/business/finance/spain-extend-banking-tax-fund-housing-policies-pm-says-2026-11-21/",
+          "sourceDate": "2026-11-21",
+          "development": "Prime Minister Pedro Sánchez said Spain would extend a banking tax to fund housing policies ahead of its election.",
+          "significance": "This is a new fiscal-policy proposal connecting housing affordability and political competition.",
+          "uncertainty": "Proposal is not an enacted extension; financing and legislative details require review."
+        },
+        {
+          "title": "UN autonomous weapons talks end without binding ban",
+          "sourceUrl": "https://www.nacionale.com/en/articles/are-killer-robots-being-banned-un-talks-autonomous-weapons-rules-2028-geneva-ccw",
+          "sourceDate": "2026-11-21",
+          "development": "A report on the Geneva Convention on Certain Conventional Weapons meeting says states agreed to continue drafting rules toward 2028, without a binding prohibition now.",
+          "significance": "The outcome illustrates persistent disagreement over enforceable human control of lethal autonomous systems.",
+          "uncertainty": "Secondary reporting; final official conference decision text was not inspected."
+        }
+      ],
+      "shortfall": "Additional fresh electoral or labor developments did not pass source and novelty checks."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "McGuinness Boulevard protected bicycle redesign completed",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/11/a-new-era-for-greenpoint--mayor-mamdani-completes-mcguinness-bou",
+          "sourceDate": "2026-11-13",
+          "development": "City Hall announced parking-protected bicycle lanes along McGuinness Boulevard from Meeker Avenue to the Pulaski Bridge, with shorter crossings and traffic calming.",
+          "significance": "The completed project changes the Greenpoint street network and reflects a long-running local organizing campaign.",
+          "eventDate": "Completion announced November 13, 2026",
+          "implications": "Watch real-world safety and travel outcomes rather than assuming benefits are already measured."
+        },
+        {
+          "title": "M42 and B62 cited in annual bus reliability awards",
+          "sourceUrl": "https://abc7ny.com/post/annual-pokey-awards-name-m42-slowest-b62-least-reliable/20055619/",
+          "sourceDate": "2026-11-19",
+          "development": "The Straphangers Campaign named the M42 the city's slowest bus, averaging 4.78 mph, and cited the B62 for unreliable service.",
+          "significance": "This provides a specific rider-facing indicator of persistent bus priority and reliability problems.",
+          "uncertainty": "Advocacy analysis, not an MTA service-change announcement."
+        }
+      ],
+      "shortfall": "No new verified voucher payment-standard change, land-use approval or public-service notice was selected."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Poetry Project opens November 23 Poetry Meets Performance workshop",
+          "sourceUrl": "https://www.poetryproject.org/",
+          "sourceDate": "2026-11-21 (organizer page checked; program previously announced)",
+          "development": "The Poetry Project lists a five-session Maya Martinez workshop from November 23 to December 21, 7–9 p.m. New York time, priced at $200, at St. Mark's Church, 131 East 10th Street.",
+          "significance": "An opportunity to develop interdisciplinary poetry-performance technique and meet working writers.",
+          "eventDate": "November 23–December 21, 2026, 7–9 p.m. EST; $200; registration availability and eligibility unconfirmed.",
+          "uncertainty": "Previously covered November 15; retained only as a near-term deadline, not a new announcement."
+        }
+      ],
+      "shortfall": "Signed-in Instagram was inaccessible; no additional novel independently verified cultural opportunity was established."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Ollama announces local Inkling 2 Mini model",
+          "sourceUrl": "https://ollama.com/library/inkling-2-mini",
+          "sourceDate": "2026-11-21 (vendor announcement)",
+          "development": "Ollama says Inkling 2 Mini can run locally on devices with at least 32 GB unified memory.",
+          "significance": "A possible local model for provenance-aware symbolic research and private experimentation.",
+          "uncertainty": "Vendor capability and hardware claims, not independently benchmarked; this is not a research paper."
+        }
+      ],
+      "shortfall": "No three to five distinct new research papers or verified esoteric-practitioner developments could be established without repeating the archive."
+    }
+  ],
+  "nextMoves": [
+    "Monitor Ukraine infrastructure and shipping strikes with independent corroboration.",
+    "Review New York housing agency notices for actual payment or administrative changes.",
+    "Verify live OSINT archive rendering and the dated edition."
+  ]
+}
