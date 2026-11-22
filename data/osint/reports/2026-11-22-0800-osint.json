@@ -1,0 +1,119 @@
+{
+  "id": "2026-11-22-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-22T08:00:00-05:00",
+  "publishedAt": "2026-11-22T13:04:17.644Z",
+  "title": "IMDO OSINT — November 22, 2026 — 8:00 AM New York",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Sudanese army advances in Kordofan amid continuing humanitarian catastrophe",
+          "sourceUrl": "https://www.ft.com/content/90cec5dc-f699-4966-886d-6277cc289ed0",
+          "sourceDate": "2026-11-22",
+          "development": "Financial Times reports Sudanese army gains in Kordofan, reopening supply routes after the El Obeid siege and advancing toward RSF positions. It reports defections and renewed Blue Nile fighting.",
+          "significance": "Potentially significant territorial and logistical shift in a war with mass displacement and acute hunger.",
+          "uncertainty": "Territorial and defection accounts depend on reporting and conflict-party sources; ceasefire progress remains limited."
+        }
+      ],
+      "shortfall": "Only one sufficiently distinct new conflict development was verified in this edition; prior Ukraine and Gaza developments were already covered."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "European election cycle raises risks of institutional deadlock",
+          "sourceUrl": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+          "sourceDate": "2026-11-22",
+          "development": "Analysis reviews elections scheduled through 2027 and the possible rise of eurosceptic blocking coalitions.",
+          "significance": "Possible implications for EU budgets, enlargement and Ukraine support.",
+          "uncertainty": "This is forward-looking political analysis, not a prediction or confirmed electoral outcome."
+        }
+      ],
+      "shortfall": "Additional independently verified fresh labor and governance developments were not established."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "NYCHA seeks partners to rehabilitate 91 homes for resident purchase",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani--nycha-move-to-put-91-homes-in-the-hands-of-public",
+          "sourceDate": "2026-11-19",
+          "development": "NYCHA issued a request for expressions of interest for rehabilitation and resident homeownership involving 91 properties in Queens, Brooklyn and the Bronx under HUD Section 32. Applications open November 19 through February 18, 2027; virtual pre-submission conference December 8.",
+          "significance": "Creates a concrete development and resident-support partnership opportunity distinct from HCV rental placements.",
+          "eventDate": "Pre-submission conference December 8, 2026; applications due February 18, 2027",
+          "uncertainty": "Partner selection and individual resident purchases are not complete."
+        },
+        {
+          "title": "Regional rental construction pipeline projected to expand",
+          "sourceUrl": "https://nypost.com/2026/11/18/real-estate/nyc-area-to-add-nearly-39000-apartments-in-2026-led-by-brooklyn/",
+          "sourceDate": "2026-11-18",
+          "development": "Reporting on industry projections estimates nearly 39,000 new apartments in the New York metro area during 2026, including more than 13,000 in Brooklyn.",
+          "significance": "New supply may influence owner outreach and leasing competition, but does not itself establish voucher eligibility.",
+          "uncertainty": "Forecast covers selected large developments and is not a verified count of completed, available units."
+        }
+      ],
+      "shortfall": "No additional fresh enacted transit or city land-use decision was verified."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Antiphony Journal reading at Topos Too",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "2026-11-22 listing",
+          "development": "Poetry Calendar lists an Antiphony Journal reading with Chariot Wish, Drew Zeiba, Arthur Katrina and Aristilde Kirby at Topos Too in Ridgewood at 7:30 p.m.",
+          "significance": "Direct exposure to a small-magazine literary network.",
+          "eventDate": "November 22, 2026, 7:30 p.m. EST; Topos Too, Ridgewood, New York; free per listing",
+          "uncertainty": "Exact address and remaining capacity not confirmed."
+        },
+        {
+          "title": "Nuyorican open mic returns to Loisaida Center November 25",
+          "sourceUrl": "https://loisaida.org/event/open-mic-wednesdays-at-loisaida-center-hosted-by-brian-acosta-arya-3-2-2/2026-11-25/",
+          "sourceDate": "2026-11 event listing",
+          "development": "Organizer lists doors at 6 p.m. and open mic from 6:30 p.m. at 710 East 9th Street, with first-come performance signups and $10 admission.",
+          "significance": "Concrete stage access for original poetry, prose and songs.",
+          "eventDate": "November 25, 2026; doors 6 p.m. EST; Loisaida Center, 710 East 9th Street, New York; $10",
+          "uncertainty": "Organizer page contains inconsistent three- versus four-minute limits; confirm on arrival."
+        }
+      ],
+      "shortfall": "Instagram access unavailable; no independently verified new auditions or open submission deadlines."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Uncertainty in Representation Learning on Knowledge Graphs",
+          "sourceUrl": "https://arxiv.org/abs/2610.06974",
+          "sourceDate": "2026-10-03 (older research newly selected)",
+          "development": "Research thesis distinguishes knowledge, training and predictive uncertainty in knowledge-graph embeddings, using aggregation and conformal methods.",
+          "significance": "Supports separately tracking evidence uncertainty and model variability in Pattern Sense.",
+          "uncertainty": "Research results do not validate any IMDO prototype."
+        },
+        {
+          "title": "NoisyCausal tests causal reasoning with structured noise",
+          "sourceUrl": "https://arxiv.org/abs/2605.04313",
+          "sourceDate": "2026-05-05 (older research newly selected)",
+          "development": "Researchers construct causal graph scenarios with confounding, distractors and incomplete observations and report advantages from explicit graph-guided reasoning.",
+          "significance": "Useful test suite for Inference Engine and hypothesis verification.",
+          "uncertainty": "Performance is reported on selected benchmarks."
+        },
+        {
+          "title": "Causal-Audit makes causal reasoning paths explicit",
+          "sourceUrl": "https://arxiv.org/abs/2607.15281",
+          "sourceDate": "2026-04-22 (older research newly selected)",
+          "development": "Authors propose target-aware graph construction and aggregation of multiple causal paths for auditable intervention reasoning.",
+          "significance": "Suggests inspectable evidence paths for Second Sight and The Interior.",
+          "uncertainty": "No independent validation of application to symbolic or divinatory systems."
+        }
+      ],
+      "shortfall": "No independently verified fresh esoteric practitioner or machine–magick announcement; research selections are older and explicitly dated."
+    }
+  ],
+  "nextMoves": [
+    "Monitor Sudan territorial developments with independent corroboration.",
+    "Track NYCHA Section 32 RFEI partner eligibility and deadlines.",
+    "Test causal graph reasoning under noisy evidence."
+  ]
+}
