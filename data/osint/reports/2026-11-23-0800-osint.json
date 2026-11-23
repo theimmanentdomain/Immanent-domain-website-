@@ -1,0 +1,138 @@
+{
+  "id": "2026-11-23-0800-osint",
+  "series": "osint",
+  "scheduledAt": "2026-11-23T08:00:00-05:00",
+  "publishedAt": "2026-11-23T08:00:11-05:00",
+  "title": "IMDO Master Brief — November 23, 2026",
+  "sections": [
+    {
+      "title": "Wars and Armed Conflicts",
+      "entries": [
+        {
+          "title": "Ukraine claims naval-drone strike on Russian corvette in Libya",
+          "sourceUrl": "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-sank-russian-corvette-near-libyas-coast-hit-cargo-ship-2026-11-23/",
+          "sourceDate": "2026-11-23",
+          "eventDate": "2026-11-22",
+          "development": "Ukraine says seven sea drones struck the Russian corvette Merkury at Benghazi and also targeted a helicopter and cargo vessel. Libyan authorities reported serious damage but not confirmed sinking.",
+          "significance": "The war's maritime operations now extend into the Mediterranean, creating new risks for regional security and commercial shipping.",
+          "uncertainty": "Sinking and destruction claims are attributed to Ukrainian officials; Russian confirmation absent and Libyan accounts differ."
+        },
+        {
+          "title": "UNRWA reports employee killed near Gaza water well",
+          "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-strike-kills-worker-with-un-palestinian-agency-gaza-agency-says-2026-11-23/",
+          "sourceDate": "2026-11-23",
+          "development": "UNRWA and local health officials say an Israeli strike killed an agency worker near a water well in Jabalia and wounded three others. Israel said it was reviewing the report.",
+          "significance": "Water infrastructure and humanitarian personnel remain exposed despite the existing ceasefire.",
+          "uncertainty": "The circumstances and intended target have not been independently established."
+        }
+      ],
+      "shortfall": "Two distinct, adequately sourced new conflict developments selected; other fronts did not clear novelty and verification thresholds."
+    },
+    {
+      "title": "Sociopolitical Shifts",
+      "entries": [
+        {
+          "title": "Israeli lawmakers revisit judicial-overhaul provisions",
+          "sourceUrl": "https://apnews.com/article/c2cb6de3515f887a5786c1147e918489",
+          "sourceDate": "2026-11-23",
+          "development": "Associated Press reports lawmakers began reviewing legislation to reverse part of the Netanyahu government's judicial overhaul amid unresolved coalition negotiations.",
+          "significance": "The proposals could change judicial independence and institutional checks if enacted.",
+          "uncertainty": "Legislative text, vote schedule and prospects of passage were not independently inspected."
+        }
+      ],
+      "shortfall": "No additional distinct verified new elections, protest or labor developments selected without recycling previous editions."
+    },
+    {
+      "title": "NYC Affairs",
+      "entries": [
+        {
+          "title": "HPD hearing on Bergen Green affordable housing disposition",
+          "sourceUrl": "https://a856-cityrecord.nyc.gov/RequestDetail/20261014002",
+          "sourceDate": "2026-10-20",
+          "eventDate": "2026-11-23 10:00 EST; telephone conference",
+          "development": "HPD proposes sale of Brooklyn city-owned property for nominal consideration for approximately 111 rental apartments plus a superintendent unit, with potential formerly homeless set-aside up to 30% subject to underwriting.",
+          "significance": "A specific public disposition and prospective affordable-housing pipeline, not immediately rentable voucher inventory.",
+          "implications": "Follow the disposition decision and eventual leasing administrator.",
+          "uncertainty": "Proposal, not completed construction or approved unit availability."
+        },
+        {
+          "title": "HPD proposes City Housing Assistance Program rules",
+          "sourceUrl": "https://www.nyc.gov/site/hpd/about/rules.page",
+          "sourceDate": "2026-10-01 (proposed rule; hearing November 2)",
+          "development": "HPD's proposed CHAP rules implement Local Law 126 of 2026 and would substantially align administration with the Housing Access Voucher Pilot administrative plan.",
+          "significance": "A separate prospective rental-assistance pathway could affect future subsidy placements and owner workflows.",
+          "uncertainty": "Rule adoption and operational launch were not verified; no new effective payment standard claimed."
+        },
+        {
+          "title": "NYC street fair moratorium comment deadline",
+          "sourceUrl": "https://nycinfocus.com/2026/11/22/civic-week-ahead-nov-23-29-2026/",
+          "sourceDate": "2026-11-22",
+          "eventDate": "2026-11-23 13:00 EST written comments deadline",
+          "development": "Public civic calendar lists deadline for comments on proposed street fair moratorium extension.",
+          "significance": "Regulation affects independent markets, street culture, vendors and neighborhood organizers.",
+          "uncertainty": "Consult underlying agency notice before submission."
+        }
+      ],
+      "shortfall": "Three concrete civic items selected; no additional verified new transit changes."
+    },
+    {
+      "title": "The State of Downtown",
+      "entries": [
+        {
+          "title": "Nuyorican Bowery Slam tonight",
+          "sourceUrl": "https://thelitlyapp.com/events/ebdeca29-378f-4bf2-b7df-812604984fa5",
+          "sourceDate": "2026-11-23 listing accessed",
+          "eventDate": "2026-11-23 18:30 EST; Bowery Poetry Club, 308 Bowery, New York; $20 advertised",
+          "development": "Nuyorican's weekly slam runs at Bowery Poetry Club during the café renovation, hosted by JRose and Luna Rosa.",
+          "significance": "Accessible recurring poetry-performance and literary-networking opportunity.",
+          "uncertainty": "One poetry calendar labels event free, while event ticket listing says $20; confirm admission and performer signup before attending."
+        },
+        {
+          "title": "Writing Club with Zoe Imani Sharpe at MoMA",
+          "sourceUrl": "https://www.poetrycalendar.org/events",
+          "sourceDate": "2026-11-23 calendar listing accessed",
+          "eventDate": "2026-11-23 19:00 EST; MoMA, New York; free per listing",
+          "development": "Poetry Calendar lists a writing club with Zoe Imani Sharpe at MoMA.",
+          "significance": "Potential independent writing and editorial network contact.",
+          "uncertainty": "Exact room, capacity, registration and eligibility not independently confirmed."
+        }
+      ],
+      "shortfall": "Only two current distinct opportunities verified to public listings; Instagram account access unavailable."
+    },
+    {
+      "title": "Occult Practice & Machine Intuition",
+      "entries": [
+        {
+          "title": "Abductive World Modeling via Causal Representation Learning",
+          "sourceUrl": "https://arxiv.org/abs/2609.36985",
+          "sourceDate": "2026-09-29; newly selected 2026-11-23",
+          "development": "Research preprint proposes hierarchical representations of entities, dynamics and relations, inferring latent causes from predicted futures; reports improvements on selected benchmarks.",
+          "significance": "Provides a structured candidate architecture for Pattern Sense and abductive hypothesis generation.",
+          "uncertainty": "Preprint benchmark claims; not independent replication or evidence of paranormal efficacy."
+        },
+        {
+          "title": "Structured Abductive-Deductive-Inductive Reasoning via Algebraic Invariants",
+          "sourceUrl": "https://arxiv.org/abs/2604.15727",
+          "sourceDate": "2026-04-17; newly selected 2026-11-23",
+          "development": "Authors propose a symbolic reasoning scaffold with explicit constraints on inference chains and property-based testing.",
+          "significance": "Offers a formal test for preventing weak premises from yielding overconfident Inference Engine conclusions.",
+          "uncertainty": "Formal software tests do not establish real-world predictive accuracy."
+        },
+        {
+          "title": "Inferring Causal Relations between Two Sequences of Events",
+          "sourceUrl": "https://arxiv.org/abs/2609.39406",
+          "sourceDate": "2026-09-30; newly selected 2026-11-23",
+          "development": "Researchers evaluate language-model inference of causal links from short event sequences, including synthetic and real datasets.",
+          "significance": "Relevant to weak relationship discovery and time-ordered evidence within The Interior.",
+          "uncertainty": "Limited observational data cannot alone establish causation; performance is dataset-dependent."
+        }
+      ],
+      "shortfall": "Three distinct older research preprints selected today; no new independently verified occult-practitioner announcement."
+    }
+  ],
+  "nextMoves": [
+    "Track Libya naval-strike corroboration and Gaza humanitarian access.",
+    "Monitor CHAP rule adoption and Bergen Green disposition; do not treat proposals as available units.",
+    "Verify tonight's poetry-event admission and test evidence-calibrated abductive reasoning."
+  ]
+}
